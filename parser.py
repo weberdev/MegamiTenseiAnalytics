@@ -1,4 +1,3 @@
-import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
 Path("raw_pages").mkdir(exist_ok=True)
@@ -44,28 +43,33 @@ def normalizeRace(race):
 
 
     return race.strip()
-import re
-
 
 def parseCompendium():
+    import re
 
     def parsePersona1Table():
-        headings = soup.find_all("h3")
-
-        headings = soup.find_all("h3")
+        if "Demons" in file.stem:
+            headings = soup.find_all("h3")
+        else:
+            headings = soup.find_all(["h2", "h3"])
 
         for category in headings:
-            table = category.find_next_sibling("table")
+            # IMPORTANT: only accept a table that is the next structural sibling.
+            nextElement = category.find_next_sibling(["h2", "h3", "table"])
 
-            if table is None:
+            if nextElement is None or nextElement.name != "table":
                 continue
+
+            table = nextElement
 
             raceSpan = category.find("span", class_="mw-headline")
 
             if raceSpan is None:
                 continue
 
-            race = normalizeRace(raceSpan.get_text(" ", strip=True))
+            race = normalizeRace(
+                raceSpan.get_text(" ", strip=True)
+            )
 
             for row in table.find_all("tr"):
                 cells = row.find_all("td")
@@ -73,24 +77,32 @@ def parseCompendium():
                 if not cells:
                     continue
 
-                # In Persona 1, rowspans make column indexes unreliable.
-                # The first cell is still the demon name.
-                givenName = cells[0].get_text(strip=True)
+                nameLink = row.find("a")
+
+                if nameLink is None:
+                    continue
+
+                givenName = nameLink.get_text(" ", strip=True)
 
                 if not givenName:
                     continue
 
-                # Find the level by its contents instead of its position.
-                # Handles both "58" and things like "31/38/41/48".
+                # Clean markers such as *
+                while givenName and not givenName[-1].isalnum():
+                    givenName = givenName[:-1].rstrip()
+
                 level = None
 
-                for cell in cells[1:]:
-                    text = cell.get_text(strip=True)
+                for cell in cells:
+                    text = cell.get_text(" ", strip=True)
 
-                    parts = text.split("/")
+                    match = re.fullmatch(
+                        r"\s*(\d+(?:\s*/\s*\d+)*)\s*[°*]?\s*",
+                        text
+                    )
 
-                    if parts and all(part.isdigit() for part in parts):
-                        level = text
+                    if match:
+                        level = match.group(1).replace(" ", "")
                         break
 
                 if level is None:

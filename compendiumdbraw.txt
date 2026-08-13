@@ -242,12 +242,12 @@ Zombie Officer | Undead Order | 25 | Devil Summoner  Raidou Kuzunoha vs. The Sou
 Zombie Guard | Undead Order | 30 | Devil Summoner  Raidou Kuzunoha vs. The Soulless Army
 Vishnu | Deity | 84 | Devil Summoner  Soul Hackers
 Baal | Deity | 73 | Devil Summoner  Soul Hackers
-Odin* | Deity | 66 | Devil Summoner  Soul Hackers
+Odin* † | Deity | 66 | Devil Summoner  Soul Hackers
 Odin | Deity | 65 | Devil Summoner  Soul Hackers
 Osiris | Deity | 59 | Devil Summoner  Soul Hackers
 Lugh | Deity | 51 | Devil Summoner  Soul Hackers
 Mahamayuri | Deity | 44 | Devil Summoner  Soul Hackers
-Izanami* | Megami | 83 | Devil Summoner  Soul Hackers
+Izanami* † | Megami | 83 | Devil Summoner  Soul Hackers
 Anat | Megami | 71 | Devil Summoner  Soul Hackers
 Norn | Megami | 63 | Devil Summoner  Soul Hackers
 Lakshmi | Megami | 58 | Devil Summoner  Soul Hackers
@@ -261,7 +261,7 @@ Futotama | Enigma | 23 | Devil Summoner  Soul Hackers
 Billiken | Enigma | 15 | Devil Summoner  Soul Hackers
 Alilat | Entity | 82 | Devil Summoner  Soul Hackers
 Hachiman | Entity | 76 | Devil Summoner  Soul Hackers
-Albion | Entity | 70 | Devil Summoner  Soul Hackers
+Albion † | Entity | 70 | Devil Summoner  Soul Hackers
 Ometeotl | Entity | 61 | Devil Summoner  Soul Hackers
 Black Maria | Entity | 55 | Devil Summoner  Soul Hackers
 Dionysus | Zealot | 74 | Devil Summoner  Soul Hackers
@@ -271,7 +271,7 @@ Ogun | Zealot | 37 | Devil Summoner  Soul Hackers
 Shiva | Fury | 85 | Devil Summoner  Soul Hackers
 Susano-o | Fury | 72 | Devil Summoner  Soul Hackers
 Zaou Gongen | Fury | 64 | Devil Summoner  Soul Hackers
-Yama | Fury | 60 | Devil Summoner  Soul Hackers
+Yama † | Fury | 60 | Devil Summoner  Soul Hackers
 Kartikeya | Fury | 59 | Devil Summoner  Soul Hackers
 Seiten Taisei | Fury | 49 | Devil Summoner  Soul Hackers
 Tonatiuh | Fury | 38 | Devil Summoner  Soul Hackers
@@ -280,10 +280,10 @@ Kali | Lady | 75 | Devil Summoner  Soul Hackers
 Cybele | Lady | 61 | Devil Summoner  Soul Hackers
 Diana | Lady | 52 | Devil Summoner  Soul Hackers
 Hariti | Lady | 45 | Devil Summoner  Soul Hackers
-Kushinada | Lady | 41 | Devil Summoner  Soul Hackers
+Kushinada † | Lady | 41 | Devil Summoner  Soul Hackers
 Dzelarhons | Lady | 36 | Devil Summoner  Soul Hackers
 Pele | Lady | 29 | Devil Summoner  Soul Hackers
-Thor* | Kishin | 72 | Devil Summoner  Soul Hackers
+Thor* † | Kishin | 72 | Devil Summoner  Soul Hackers
 Marici | Kishin | 71 | Devil Summoner  Soul Hackers
 Bishamonten | Kishin | 66 | Devil Summoner  Soul Hackers
 Thor | Kishin | 58 | Devil Summoner  Soul Hackers
@@ -292,7 +292,7 @@ Zhong Kui | Kishin | 47 | Devil Summoner  Soul Hackers
 Tyr | Kishin | 41 | Devil Summoner  Soul Hackers
 Kotoshironushi | Kishin | 33 | Devil Summoner  Soul Hackers
 Hitokotonushi | Kishin | 24 | Devil Summoner  Soul Hackers
-Mada | Vile | 77 | Devil Summoner  Soul Hackers
+Mada † | Vile | 77 | Devil Summoner  Soul Hackers
 Pales | Vile | 74 | Devil Summoner  Soul Hackers
 Saturnus | Vile | 65 | Devil Summoner  Soul Hackers
 Tezcatlipoca | Vile | 58 | Devil Summoner  Soul Hackers
@@ -302,8 +302,8 @@ Mishaguji | Vile | 35 | Devil Summoner  Soul Hackers
 Mot | Reaper | 72 | Devil Summoner  Soul Hackers
 Cernunnos | Reaper | 63 | Devil Summoner  Soul Hackers
 Guedhe | Reaper | 54 | Devil Summoner  Soul Hackers
-DB Busters | Reaper | 49 | Devil Summoner  Soul Hackers
-Chernobog* | Reaper | 48 | Devil Summoner  Soul Hackers
+DB Busters † | Reaper | 49 | Devil Summoner  Soul Hackers
+Chernobog* † | Reaper | 48 | Devil Summoner  Soul Hackers
 Chernobog | Reaper | 47 | Devil Summoner  Soul Hackers
 Persephone | Reaper | 38 | Devil Summoner  Soul Hackers
 Heimdall | Genma | 66 | Devil Summoner  Soul Hackers
@@ -323,24 +323,24 @@ Maruts | Yoma | 25 | Devil Summoner  Soul Hackers
 Apsaras | Yoma | 16 | Devil Summoner  Soul Hackers
 Vodyanik | Yoma | 9 | Devil Summoner  Soul Hackers
 Oberon | Fairy | 58 | Devil Summoner  Soul Hackers
-Titania* | Fairy | 53 | Devil Summoner  Soul Hackers
+Titania* † | Fairy | 53 | Devil Summoner  Soul Hackers
 Titania | Fairy | 52 | Devil Summoner  Soul Hackers
 Troll | Fairy | 47 | Devil Summoner  Soul Hackers
-Setanta | Fairy | 43 | Devil Summoner  Soul Hackers
+Setanta † | Fairy | 43 | Devil Summoner  Soul Hackers
 Vivian | Fairy | 40 | Devil Summoner  Soul Hackers
 Leprechaun | Fairy | 33 | Devil Summoner  Soul Hackers
 Silky | Fairy | 24 | Devil Summoner  Soul Hackers
 Pyro Jack | Fairy | 20 | Devil Summoner  Soul Hackers
 Jack Frost | Fairy | 15 | Devil Summoner  Soul Hackers
-Goblin | Fairy | 10 | Devil Summoner  Soul Hackers
+Goblin † | Fairy | 10 | Devil Summoner  Soul Hackers
 Penanggal | Fairy | 7 | Devil Summoner  Soul Hackers
-Pixie* | Fairy | 3 | Devil Summoner  Soul Hackers
+Pixie* † | Fairy | 3 | Devil Summoner  Soul Hackers
 Pixie | Fairy | 2 | Devil Summoner  Soul Hackers
 Nyx | Night | 56 | Devil Summoner  Soul Hackers
-Kaiwan | Night | 50 | Devil Summoner  Soul Hackers
+Kaiwan † | Night | 50 | Devil Summoner  Soul Hackers
 Succubus | Night | 49 | Devil Summoner  Soul Hackers
 Incubus | Night | 42 | Devil Summoner  Soul Hackers
-Black Frost | Night | 34 | Devil Summoner  Soul Hackers
+Black Frost † | Night | 34 | Devil Summoner  Soul Hackers
 Wild Hunt | Night | 33 | Devil Summoner  Soul Hackers
 Sand Man | Night | 21 | Devil Summoner  Soul Hackers
 Kikimora | Night | 14 | Devil Summoner  Soul Hackers
@@ -349,11 +349,11 @@ Mitra | Tyrant | 80 | Devil Summoner  Soul Hackers
 Nergal | Tyrant | 73 | Devil Summoner  Soul Hackers
 Surt | Tyrant | 65 | Devil Summoner  Soul Hackers
 Loki | Tyrant | 59 | Devil Summoner  Soul Hackers
-Loki* | Tyrant | 54 | Devil Summoner  Soul Hackers
+Loki* † | Tyrant | 54 | Devil Summoner  Soul Hackers
 Tzitzimitl | Tyrant | 53 | Devil Summoner  Soul Hackers
 Balor | Tyrant | 48 | Devil Summoner  Soul Hackers
-Moloch | Tyrant | 37 | Devil Summoner  Soul Hackers
-Lucifrost | Herald | 81 | Devil Summoner  Soul Hackers
+Moloch † | Tyrant | 37 | Devil Summoner  Soul Hackers
+Lucifrost † | Herald | 81 | Devil Summoner  Soul Hackers
 Metatron | Herald | 80 | Devil Summoner  Soul Hackers
 Sraosha | Herald | 73 | Devil Summoner  Soul Hackers
 Sandalphon | Herald | 62 | Devil Summoner  Soul Hackers
@@ -361,7 +361,7 @@ Armaiti | Herald | 55 | Devil Summoner  Soul Hackers
 Azrael | Herald | 48 | Devil Summoner  Soul Hackers
 Israfel | Herald | 42 | Devil Summoner  Soul Hackers
 Melchizedek | Herald | 35 | Devil Summoner  Soul Hackers
-Cherub* | Divine | 65 | Devil Summoner  Soul Hackers
+Cherub* † | Divine | 65 | Devil Summoner  Soul Hackers
 Cherub | Divine | 64 | Devil Summoner  Soul Hackers
 Throne | Divine | 57 | Devil Summoner  Soul Hackers
 Dominion | Divine | 51 | Devil Summoner  Soul Hackers
@@ -375,7 +375,7 @@ Paimon | Fallen | 52 | Devil Summoner  Soul Hackers
 Botis | Fallen | 46 | Devil Summoner  Soul Hackers
 Halphas | Fallen | 40 | Devil Summoner  Soul Hackers
 Bifrons | Fallen | 34 | Devil Summoner  Soul Hackers
-Forneus | Fallen | 30 | Devil Summoner  Soul Hackers
+Forneus † | Fallen | 30 | Devil Summoner  Soul Hackers
 Nisroc | Fallen | 24 | Devil Summoner  Soul Hackers
 Shax | Fallen | 17 | Devil Summoner  Soul Hackers
 Seere | Fallen | 10 | Devil Summoner  Soul Hackers
@@ -413,7 +413,7 @@ Hresvelgr | Raptor | 64 | Devil Summoner  Soul Hackers
 Anzu | Raptor | 51 | Devil Summoner  Soul Hackers
 Camazotz | Raptor | 36 | Devil Summoner  Soul Hackers
 Gurr | Raptor | 25 | Devil Summoner  Soul Hackers
-Moh Shuuvu* | Raptor | 16 | Devil Summoner  Soul Hackers
+Moh Shuuvu* † | Raptor | 16 | Devil Summoner  Soul Hackers
 Moh Shuuvu | Raptor | 15 | Devil Summoner  Soul Hackers
 Onmoraki | Raptor | 8 | Devil Summoner  Soul Hackers
 Barong | Avatar | 64 | Devil Summoner  Soul Hackers
@@ -428,13 +428,13 @@ Airavata | Holy | 29 | Devil Summoner  Soul Hackers
 Buraq | Holy | 22 | Devil Summoner  Soul Hackers
 Shiisaa | Holy | 15 | Devil Summoner  Soul Hackers
 Heqet | Holy | 9 | Devil Summoner  Soul Hackers
-Cerberus* | Beast | 61 | Devil Summoner  Soul Hackers
+Cerberus* † | Beast | 61 | Devil Summoner  Soul Hackers
 Cerberus | Beast | 60 | Devil Summoner  Soul Hackers
 Ammut | Beast | 53 | Devil Summoner  Soul Hackers
 Orthrus | Beast | 45 | Devil Summoner  Soul Hackers
 Kaso | Beast | 37 | Devil Summoner  Soul Hackers
-Dormarth | Beast | 32 | Devil Summoner  Soul Hackers
-Nekomata* | Beast | 29 | Devil Summoner  Soul Hackers
+Dormarth † | Beast | 32 | Devil Summoner  Soul Hackers
+Nekomata* † | Beast | 29 | Devil Summoner  Soul Hackers
 Nekomata | Beast | 28 | Devil Summoner  Soul Hackers
 Katakirauwa | Beast | 22 | Devil Summoner  Soul Hackers
 Cunhur | Beast | 15 | Devil Summoner  Soul Hackers
@@ -442,7 +442,7 @@ Gally Trot | Beast | 6 | Devil Summoner  Soul Hackers
 Hare of Inaba | UMA | 50 | Devil Summoner  Soul Hackers
 Chupacabra | UMA | 35 | Devil Summoner  Soul Hackers
 Kuda | UMA | 20 | Devil Summoner  Soul Hackers
-Oliver Zero* | UMA | 6 | Devil Summoner  Soul Hackers
+Oliver Zero* † | UMA | 6 | Devil Summoner  Soul Hackers
 Oliver | UMA | 5 | Devil Summoner  Soul Hackers
 Fenrir | Wilder | 61 | Devil Summoner  Soul Hackers
 Catoblepas | Wilder | 52 | Devil Summoner  Soul Hackers
@@ -459,11 +459,11 @@ Duergar | Jirae | 38 | Devil Summoner  Soul Hackers
 Tenong Cut | Jirae | 25 | Devil Summoner  Soul Hackers
 Puts | Jirae | 18 | Devil Summoner  Soul Hackers
 Koropokkuru | Jirae | 13 | Devil Summoner  Soul Hackers
-Knocker* | Jirae | 4 | Devil Summoner  Soul Hackers
+Knocker* † | Jirae | 4 | Devil Summoner  Soul Hackers
 Knocker | Jirae | 3 | Devil Summoner  Soul Hackers
-Yaksa* | Brute | 56 | Devil Summoner  Soul Hackers
+Yaksa* † | Brute | 56 | Devil Summoner  Soul Hackers
 Yaksa | Brute | 55 | Devil Summoner  Soul Hackers
-Shiki-Ouji | Brute | 51 | Devil Summoner  Soul Hackers
+Shiki-Ouji † | Brute | 51 | Devil Summoner  Soul Hackers
 Berserker | Brute | 49 | Devil Summoner  Soul Hackers
 Nyalmot | Brute | 41 | Devil Summoner  Soul Hackers
 Ikusa | Brute | 35 | Devil Summoner  Soul Hackers
@@ -488,7 +488,7 @@ Ippon-Datara | Jaki | 13 | Devil Summoner  Soul Hackers
 Gremlin | Jaki | 5 | Devil Summoner  Soul Hackers
 Salamander | Element | 28 | Devil Summoner  Soul Hackers
 Undine | Element | 24 | Devil Summoner  Soul Hackers
-Sylph* | Element | 21 | Devil Summoner  Soul Hackers
+Sylph* † | Element | 21 | Devil Summoner  Soul Hackers
 Sylph | Element | 20 | Devil Summoner  Soul Hackers
 Gnome | Element | 16 | Devil Summoner  Soul Hackers
 Saki Mitama | Mitama | 35 | Devil Summoner  Soul Hackers
@@ -529,7 +529,7 @@ Shan Xiao | Wood | 20 | Devil Summoner  Soul Hackers
 Jubokko | Wood | 10 | Devil Summoner  Soul Hackers
 Shadow | Foul | 53 | Devil Summoner  Soul Hackers
 Urban Terror | Foul | 31 | Devil Summoner  Soul Hackers
-Douman | Foul | 26 | Devil Summoner  Soul Hackers
+Douman † | Foul | 26 | Devil Summoner  Soul Hackers
 Mad Gasser | Foul | 25 | Devil Summoner  Soul Hackers
 Night Stalker | Foul | 13 | Devil Summoner  Soul Hackers
 Slime | Foul | 1 | Devil Summoner  Soul Hackers

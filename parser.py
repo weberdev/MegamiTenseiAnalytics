@@ -202,6 +202,9 @@ def parseCompendium():
                     race = normalizeRace(race)
                     if not race.isascii():
                         continue
+                    if gameName == "Devil Summoner  Soul Hackers":
+                        if cells[nameIndex].find(["i", "em"]) is not None:
+                            givenName = givenName + " †"
                     demon = Demon_Instance(
                         givenName,
                         race,
@@ -293,7 +296,9 @@ def parseCompendium():
                             race = normalizeRace(race)
                             if not race.isascii():
                                 continue
-
+                            if gameName == "Devil Summoner  Soul Hackers":
+                                if cells[nameIndex].find(["i", "em"]) is not None:
+                                    givenName = givenName + " †"
                             demon = Demon_Instance(
                                 givenName,
                                 race,

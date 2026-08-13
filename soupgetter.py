@@ -40,45 +40,63 @@ def scrape():
         filename = p.replace(":", "_") + ".html"
         Path("raw_pages", filename).write_text(html, encoding="utf-8")
 #scrape()
+def parseCompendium():
+    for file in Path("raw_pages").glob("*.html"):
+        html = file.read_text(encoding="utf-8")
+        soup = BeautifulSoup(html, "html.parser")
+        gameName = file.stem
+        gameName = gameName.replace("_", " ")
+        gameName = gameName.removeprefix("List of ")
+        gameName = gameName.removesuffix(" Demons")
+        gameName = gameName.removesuffix(" Personas")
+        headings = soup.find_all("h2")
 
-for file in Path("raw_pages").glob("*.html"):
-    html = file.read_text(encoding="utf-8")
-    soup = BeautifulSoup(html, "html.parser")
-    gameName = file.stem
-    gameName = gameName.replace("_", " ")
-    gameName = gameName.removeprefix("List of ")
-    gameName = gameName.removesuffix(" Demons")
-    gameName = gameName.removesuffix(" Personas")
-    print(file.name)
-    headings = soup.find_all("h2")
+        for category in headings:
+            table = category.find_next_sibling("table")
 
-    for category in headings:
-        table = category.find_next_sibling("table")
+            if table is None:
+                continue
+            headers = [th.get_text(strip=True) for th in table.find_all("th")]
 
-        if table is None:
-            continue
-
-        race = category.get_text(strip=True)
-        race = race[:-2]
-
-        rows = table.find_all("tr")
-
-        for row in table.find_all("tr"):
-            cells = row.find_all("td")
-
-            if len(cells) < 2:
+            if "Level" not in headers:
+                continue
+            if "Demon" in headers:
+                nameIndex = headers.index("Demon")
+            elif "Persona" in headers:
+                nameIndex = headers.index("Persona")
+            elif "Name" in headers:
+                nameIndex = headers.index("Name")
+            else:
                 continue
 
-            givenName = cells[0].get_text(strip=True)
-            lastChar = givenName[-1]
-            if lastChar == "*":
-                givenName = givenName[:-1]
+            levelIndex = headers.index("Level")
 
-            level = cells[1].get_text(strip=True)
 
-            demon = Demon_Instance(givenName, race, level, gameName)
-            print(demon)
-            Compendium.append(demon)
+
+            race = category.get_text(strip=True)
+            race = race[:-2]
+
+            rows = table.find_all("tr")
+
+            for row in table.find_all("tr"):
+                cells = row.find_all("td")
+
+                if len(cells) <= max(nameIndex, levelIndex):
+                    continue
+
+                givenName = cells[nameIndex].get_text(strip=True)
+                level = cells[levelIndex].get_text(strip=True)
+                lastChar= givenName[:1]
+                if lastChar == "*":
+                    givenName = givenName[:-1]
+
+                level = cells[1].get_text(strip=True)
+
+                demon = Demon_Instance(givenName, race, level, gameName)
+                print(demon)
+                Compendium.append(demon)
+parseCompendium()
+
 #BEHOLD, MY DEMONS
 #for demon in Compendium:
  #   print(demon)

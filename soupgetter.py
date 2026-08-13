@@ -87,6 +87,8 @@ def parseCompendium():
                 givenName = cells[nameIndex].get_text(strip=True)
                 level = cells[levelIndex].get_text(strip=True)
                 lastChar= givenName[:1]
+                # I need to adjust this, different pages had different icons.
+                # I also need to determine if rereleases get folded into the same game. Leaning no.
                 if lastChar == "*":
                     givenName = givenName[:-1]
 
@@ -95,9 +97,11 @@ def parseCompendium():
                 demon = Demon_Instance(givenName, race, level, gameName)
                 Compendium.append(demon)
 parseCompendium()
-with open("compendiumdbraw.txt", "w", encoding="utf-8") as file:
-    for demon in Compendium:
-        file.write(f"{demon}\n")
+def writeOutput():
+    with open("compendiumdbraw.txt", "w", encoding="utf-8") as file:
+        for demon in Compendium:
+            file.write(f"{demon}\n")
 #BEHOLD, MY DEMONS
+#writeOutput()
 #for demon in Compendium:
  #   print(demon)

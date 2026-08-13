@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
 Path("raw_pages").mkdir(exist_ok=True)
+import re
 
 class Demon_Instance:
     def __init__(self, givenName, race, level, game):
@@ -40,68 +41,260 @@ def scrape():
         filename = p.replace(":", "_") + ".html"
         Path("raw_pages", filename).write_text(html, encoding="utf-8")
 #scrape()
+
+def normalizeRace(race):
+    if " (" in race:
+        #print("removing clarification")
+        race = race.split(" (", 1)[0]
+
+    if " / " in race:
+        #print("removing extraneous alignment data")
+        race = race.split(" / ", 1)[0]
+
+    return race.strip()
+import re
+
+
 def parseCompendium():
-    for file in Path("raw_pages").glob("*.html"):
-        html = file.read_text(encoding="utf-8")
-        soup = BeautifulSoup(html, "html.parser")
-        gameName = file.stem
-        gameName = gameName.replace("_", " ")
-        gameName = gameName.removeprefix("List of ")
-        gameName = gameName.removesuffix(" Demons")
-        gameName = gameName.removesuffix(" Personas")
-        headings = soup.find_all("h2")
+
+    def parsePersona1Table():
+        headings = soup.find_all(["h2", "h3", "h4"])
 
         for category in headings:
             table = category.find_next_sibling("table")
 
             if table is None:
                 continue
-            headers = [th.get_text(strip=True) for th in table.find_all("th")]
+
+            # Only consider tables that actually contain demon data
+            headers = [
+                th.get_text(" ", strip=True)
+                for th in table.find_all("th")
+            ]
 
             if "Level" not in headers:
                 continue
-            if "Demon" in headers:
-                nameIndex = headers.index("Demon")
-            elif "Persona" in headers:
-                nameIndex = headers.index("Persona")
-            elif "Name" in headers:
-                nameIndex = headers.index("Name")
-            else:
-                continue
 
-            levelIndex = headers.index("Level")
-
-
-
-            race = category.get_text(strip=True)
-            race = race[:-2]
-
-            rows = table.find_all("tr")
+            race = category.get_text(" ", strip=True)
+            race = normalizeRace(race)
 
             for row in table.find_all("tr"):
                 cells = row.find_all("td")
 
-                if len(cells) <= max(nameIndex, levelIndex):
+                if not cells:
                     continue
 
-                givenName = cells[nameIndex].get_text(strip=True)
-                level = cells[levelIndex].get_text(strip=True)
-                lastChar= givenName[:1]
-                # I need to adjust this, different pages had different icons.
-                # I also need to determine if rereleases get folded into the same game. Leaning no.
-                if lastChar == "*":
-                    givenName = givenName[:-1]
+                # In Persona 1, rowspans make column indexes unreliable.
+                # The first cell is still the demon name.
+                givenName = cells[0].get_text(strip=True)
 
-                level = cells[1].get_text(strip=True)
+                if not givenName:
+                    continue
 
-                demon = Demon_Instance(givenName, race, level, gameName)
+                # Find the level by its contents instead of its position.
+                # Handles both "58" and things like "31/38/41/48".
+                level = None
+
+                for cell in cells[1:]:
+                    text = cell.get_text(strip=True)
+
+                    parts = text.split("/")
+
+                    if parts and all(part.isdigit() for part in parts):
+                        level = text
+                        break
+
+                if level is None:
+                    continue
+
+                demon = Demon_Instance(
+                    givenName,
+                    race,
+                    level,
+                    gameName
+                )
+
                 Compendium.append(demon)
+
+    for file in Path("raw_pages").glob("*.html"):
+        html = file.read_text(encoding="utf-8")
+        soup = BeautifulSoup(html, "html.parser")
+
+        gameName = file.stem
+        gameName = gameName.replace("_", " ")
+        gameName = gameName.removeprefix("List of ")
+        gameName = gameName.removesuffix(" Demons")
+        gameName = gameName.removesuffix(" Personas")
+
+        if gameName == "Megami Ibunroku Persona":
+            parsePersona1Table()
+            continue
+
+        # your existing generic parser continues here
+        headings = soup.find_all(["h2", "h3", "h4"])
+
+
+        for category in headings:
+
+            # Look at the next meaningful structural element.
+            nextElement = category.find_next_sibling(["h3", "table", "h2"])
+
+            if nextElement is None:
+                continue
+
+            if nextElement.name == "table":
+                race = category.find("span", class_="mw-headline")
+
+                if race is None:
+                    continue
+
+                race = race.get_text(strip=True)
+                table = nextElement
+
+                headers = [th.get_text(strip=True) for th in table.find_all("th")]
+
+                if "Level" not in headers:
+                    continue
+
+                if "Demon" in headers:
+                    nameIndex = headers.index("Demon")
+                elif "Persona" in headers:
+                    nameIndex = headers.index("Persona")
+                elif "Name" in headers:
+                    nameIndex = headers.index("Name")
+                elif "Boss" in headers:
+                    nameIndex = headers.index("Boss")
+                else:
+                    continue
+
+                levelIndex = headers.index("Level")
+
+                for row in table.find_all("tr"):
+                    cells = row.find_all(["td", "th"])
+
+                    # Avoid header rows and malformed rows
+                    if len(cells) <= max(nameIndex, levelIndex):
+                        continue
+
+                    givenName = cells[nameIndex].get_text(strip=True)
+                    level = cells[levelIndex].get_text(strip=True)
+
+                    if givenName == "":
+                        continue
+
+                    if givenName[-1].isalnum()== False:
+                        givenName = givenName[:-1]
+                    if level.isnumeric()== False:
+                        level = level[:-1]
+
+                    # Skip header-like rows accidentally picked up by find_all(["td","th"])
+                    if givenName in ["Demon", "Persona", "Name", "Boss"]:
+                        continue
+
+                    race = normalizeRace(race)
+
+                    demon = Demon_Instance(
+                        givenName,
+                        race,
+                        level,
+                        gameName
+                    )
+
+                    Compendium.append(demon)
+
+            elif nextElement.name == "h3":
+
+                element = category.find_next_sibling()
+
+                while element is not None and element.name != "h2":
+
+                    if element.name == "h3":
+                        raceSpan = element.find("span", class_="mw-headline")
+
+                        if raceSpan is None:
+                            element = element.find_next_sibling()
+                            continue
+
+                        raceLink = raceSpan.find("a")
+
+                        if raceLink is not None:
+                            race = raceLink.get("title")
+                        else:
+                            race = raceSpan.get_text(strip=True)
+
+                        if race == "Element (race)":
+                            race = "Element"
+
+
+                        table = element.find_next_sibling("table")
+
+                        if table is None:
+                            element = element.find_next_sibling()
+                            continue
+
+                        headers = [
+                            th.get_text(strip=True)
+                            for th in table.find_all("th")
+                        ]
+
+                        if "Level" not in headers:
+                            element = element.find_next_sibling()
+                            continue
+
+                        if "Demon" in headers:
+                            nameIndex = headers.index("Demon")
+                        elif "Persona" in headers:
+                            nameIndex = headers.index("Persona")
+                        elif "Name" in headers:
+                            nameIndex = headers.index("Name")
+                        elif "Boss" in headers:
+                            nameIndex = headers.index("Boss")
+                        else:
+                            element = element.find_next_sibling()
+                            continue
+
+                        levelIndex = headers.index("Level")
+
+                        for row in table.find_all("tr"):
+                            cells = row.find_all(["td", "th"])
+
+                            if len(cells) <= max(nameIndex, levelIndex):
+                                continue
+
+                            givenName = cells[nameIndex].get_text(strip=True)
+                            level = cells[levelIndex].get_text(strip=True)
+
+                            if givenName == "":
+                                continue
+
+
+
+                            if givenName in ["Demon", "Persona", "Name", "Boss"]:
+                                continue
+                            while givenName[-1].isalnum() == False:
+                                givenName = givenName[:-1]
+                            while race[-1].isalnum() == False:
+                                race = race[:-1]
+
+                            if level.isnumeric() == False:
+                                level = level[:-1]
+                            race = normalizeRace(race)
+                            demon = Demon_Instance(
+                                givenName,
+                                race,
+                                level,
+                                gameName
+                            )
+
+                            Compendium.append(demon)
+
+                    element = element.find_next_sibling()
 parseCompendium()
 def writeOutput():
     with open("compendiumdbraw.txt", "w", encoding="utf-8") as file:
         for demon in Compendium:
             file.write(f"{demon}\n")
 #BEHOLD, MY DEMONS
-#writeOutput()
+writeOutput()
 #for demon in Compendium:
  #   print(demon)

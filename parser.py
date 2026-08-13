@@ -183,8 +183,7 @@ def parseCompendium():
                     if givenName == "":
                         continue
 
-                    if givenName[-1].isalnum()== False:
-                        givenName = givenName[:-1]
+
                     if level.isnumeric()== False:
                         level = level[:-1]
 
@@ -281,6 +280,7 @@ def parseCompendium():
                             race = normalizeRace(race)
                             if not race.isascii():
                                 continue
+                            
                             demon = Demon_Instance(
                                 givenName,
                                 race,

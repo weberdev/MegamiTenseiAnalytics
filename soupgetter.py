@@ -50,6 +50,23 @@ def normalizeRace(race):
     if " / " in race:
         #print("removing extraneous alignment data")
         race = race.split(" / ", 1)[0]
+    if " Arcana" in race:
+        race = race.split(" Arcana", 1)[0]
+    if ".0" in race:
+        race = race.split(".0", 1)[1]
+    if "Suit of " in race:
+        race = race.split("Suit of ", 1)[1]
+    if race== "Coins":
+        race = "Coin"
+    if race == "Swords":
+        race = "Sword"
+    if race == "Cups":
+        race = "Cup"
+    if race == "Wands":
+        race = "Wand"
+    if race == "Seraph/Herald":
+        race = "Herald"
+
 
     return race.strip()
 import re
@@ -58,7 +75,9 @@ import re
 def parseCompendium():
 
     def parsePersona1Table():
-        headings = soup.find_all(["h2", "h3", "h4"])
+        headings = soup.find_all("h3")
+
+        headings = soup.find_all("h3")
 
         for category in headings:
             table = category.find_next_sibling("table")
@@ -66,17 +85,12 @@ def parseCompendium():
             if table is None:
                 continue
 
-            # Only consider tables that actually contain demon data
-            headers = [
-                th.get_text(" ", strip=True)
-                for th in table.find_all("th")
-            ]
+            raceSpan = category.find("span", class_="mw-headline")
 
-            if "Level" not in headers:
+            if raceSpan is None:
                 continue
 
-            race = category.get_text(" ", strip=True)
-            race = normalizeRace(race)
+            race = normalizeRace(raceSpan.get_text(" ", strip=True))
 
             for row in table.find_all("tr"):
                 cells = row.find_all("td")
@@ -192,7 +206,8 @@ def parseCompendium():
                         continue
 
                     race = normalizeRace(race)
-
+                    if not race.isascii():
+                        continue
                     demon = Demon_Instance(
                         givenName,
                         race,
@@ -279,6 +294,8 @@ def parseCompendium():
                             if level.isnumeric() == False:
                                 level = level[:-1]
                             race = normalizeRace(race)
+                            if not race.isascii():
+                                continue
                             demon = Demon_Instance(
                                 givenName,
                                 race,

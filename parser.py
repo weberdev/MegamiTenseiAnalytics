@@ -120,6 +120,7 @@ def parseCompendium():
     for file in Path("raw_pages").glob("*.html"):
         html = file.read_text(encoding="utf-8")
         soup = BeautifulSoup(html, "html.parser")
+        parsedTables = set()
 
         gameName = file.stem
         gameName = gameName.replace("_", " ")
@@ -144,14 +145,21 @@ def parseCompendium():
                 continue
 
             if nextElement.name == "table":
+
                 race = category.find("span", class_="mw-headline")
+
 
                 if race is None:
                     continue
 
                 race = race.get_text(strip=True)
                 table = nextElement
+                tableID = id(table)
 
+                if tableID in parsedTables:
+                    continue
+
+                parsedTables.add(tableID)
                 headers = [th.get_text(strip=True) for th in table.find_all("th")]
 
                 if "Level" not in headers:
@@ -232,7 +240,12 @@ def parseCompendium():
                         if table is None:
                             element = element.find_next_sibling()
                             continue
+                        tableID = id(table)
 
+                        if tableID in parsedTables:
+                            continue
+
+                        parsedTables.add(tableID)
                         headers = [
                             th.get_text(strip=True)
                             for th in table.find_all("th")
@@ -280,7 +293,7 @@ def parseCompendium():
                             race = normalizeRace(race)
                             if not race.isascii():
                                 continue
-                            
+
                             demon = Demon_Instance(
                                 givenName,
                                 race,

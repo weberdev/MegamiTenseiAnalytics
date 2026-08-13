@@ -39,39 +39,46 @@ def scrape():
 
         filename = p.replace(":", "_") + ".html"
         Path("raw_pages", filename).write_text(html, encoding="utf-8")
-scrape()
+#scrape()
 
-soup = BeautifulSoup(html, "html.parser")
+for file in Path("raw_pages").glob("*.html"):
+    html = file.read_text(encoding="utf-8")
+    soup = BeautifulSoup(html, "html.parser")
+    gameName = file.stem
+    gameName = gameName.replace("_", " ")
+    gameName = gameName.removeprefix("List of ")
+    gameName = gameName.removesuffix(" Demons")
+    gameName = gameName.removesuffix(" Personas")
+    print(file.name)
+    headings = soup.find_all("h2")
 
-headings = soup.find_all("h2")
+    for category in headings:
+        table = category.find_next_sibling("table")
 
-for category in headings:
-    table = category.find_next_sibling("table")
-
-    if table is None:
-        continue
-
-    race = category.get_text(strip=True)
-    race = race[:-2]
-
-    rows = table.find_all("tr")
-
-    for row in table.find_all("tr"):
-        cells = row.find_all("td")
-
-        if len(cells) < 2:
+        if table is None:
             continue
 
-        givenName = cells[0].get_text(strip=True)
-        lastChar = givenName[-1]
-        if lastChar == "*":
-            givenName = givenName[:-1]
+        race = category.get_text(strip=True)
+        race = race[:-2]
 
-        level = cells[1].get_text(strip=True)
+        rows = table.find_all("tr")
 
-        demon = Demon_Instance(givenName, race, level, "Devil Survivor Overclocked")
-        print(demon)
-        Compendium.append(demon)
+        for row in table.find_all("tr"):
+            cells = row.find_all("td")
+
+            if len(cells) < 2:
+                continue
+
+            givenName = cells[0].get_text(strip=True)
+            lastChar = givenName[-1]
+            if lastChar == "*":
+                givenName = givenName[:-1]
+
+            level = cells[1].get_text(strip=True)
+
+            demon = Demon_Instance(givenName, race, level, gameName)
+            print(demon)
+            Compendium.append(demon)
 #BEHOLD, MY DEMONS
 #for demon in Compendium:
  #   print(demon)

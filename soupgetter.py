@@ -93,10 +93,11 @@ def parseCompendium():
                 level = cells[1].get_text(strip=True)
 
                 demon = Demon_Instance(givenName, race, level, gameName)
-                print(demon)
                 Compendium.append(demon)
 parseCompendium()
-
+with open("compendiumdbraw.txt", "w", encoding="utf-8") as file:
+    for demon in Compendium:
+        file.write(f"{demon}\n")
 #BEHOLD, MY DEMONS
 #for demon in Compendium:
  #   print(demon)

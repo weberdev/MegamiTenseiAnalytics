@@ -3301,6 +3301,441 @@ Azathoth | Councillor |  | Persona 5 Royal
 Decarabia | Councillor | 32 | Persona 5 Royal
 Dionysus | Councillor | 71 | Persona 5 Royal
 Izanagi-no-Okami | World | 80 | Persona 5 Royal
+Slime | Fool | 1 | Persona Q2
+Bifrons | Fool | 12 | Persona Q2
+Mothman | Fool | 20 | Persona Q2
+Izanagi Picaro↓ | Fool | 23 | Persona Q2
+Ose | Fool | 31 | Persona Q2
+Orpheus Picaro↓ | Fool | 35 | Persona Q2
+Black Frost° | Fool | 37 | Persona Q2
+Bai Suzhen | Fool | 40 | Persona Q2
+Decarabia | Fool | 52 | Persona Q2
+Shiki-Ouji | Fool | 63 | Persona Q2
+Ardha | Fool | 74 | Persona Q2
+Agathion | Magician | 3 | Persona Q2
+Orobas | Magician | 9 | Persona Q2
+Jack Frost | Magician | 16 | Persona Q2
+Hua Po | Magician | 25 | Persona Q2
+Pyro Jack | Magician | 32 | Persona Q2
+Dis | Magician | 39 | Persona Q2
+Rangda | Magician | 45 | Persona Q2
+Jinn | Magician | 53 | Persona Q2
+Surt | Magician | 62 | Persona Q2
+Mada | Magician | 69 | Persona Q2
+Kudlak | Magician | 72 | Persona Q2
+Sarasvati | Priestess | 6 | Persona Q2
+Moh Shuvuu | Priestess | 16 | Persona Q2
+Ganga | Priestess | 28 | Persona Q2
+Parvati | Priestess | 36 | Persona Q2
+Dzelarhons° | Priestess | 41 | Persona Q2
+Gabriel | Priestess | 47 | Persona Q2
+Hariti | Priestess | 54 | Persona Q2
+Tzitzimitl | Priestess | 62 | Persona Q2
+Scathach | Priestess | 72 | Persona Q2
+Black Maria | Priestess | 83 | Persona Q2
+Ame no Uzume | Empress | 6 | Persona Q2
+Yaksini | Empress | 14 | Persona Q2
+Titania | Empress | 22 | Persona Q2
+Mayahuel° | Empress | 29 | Persona Q2
+Kikuri-Hime | Empress | 33 | Persona Q2
+Skadi | Empress | 42 | Persona Q2
+Lakshmi | Empress | 49 | Persona Q2
+Mother Harlot | Empress | 57 | Persona Q2
+Xi Wangmu | Empress | 67 | Persona Q2
+Kali | Empress | 75 | Persona Q2
+Alilat | Empress | 82 | Persona Q2
+Anzu | Emperor | 4 | Persona Q2
+Oberon | Emperor | 10 | Persona Q2
+Power | Emperor | 18 | Persona Q2
+Okuninushi | Emperor | 25 | Persona Q2
+King Frost | Emperor | 34 | Persona Q2
+Thoth | Emperor | 44 | Persona Q2
+Ganesha | Emperor | 51 | Persona Q2
+Barong | Emperor | 58 | Persona Q2
+Baal | Emperor | 65 | Persona Q2
+Odin | Emperor | 71 | Persona Q2
+Huang Di° | Emperor | 89 | Persona Q2
+Halphas | Hierophant | 5 | Persona Q2
+Shiisaa | Hierophant | 13 | Persona Q2
+Koppa Tengu | Hierophant | 21 | Persona Q2
+Unicorn | Hierophant | 28 | Persona Q2
+Dantalion | Hierophant | 36 | Persona Q2
+Cherub | Hierophant | 43 | Persona Q2
+Mishaguji | Hierophant | 52 | Persona Q2
+Daisoujou | Hierophant | 60 | Persona Q2
+Kohryu | Hierophant | 68 | Persona Q2
+Kresnik° | Hierophant | 72 | Persona Q2
+Baal Zebul | Hierophant | 76 | Persona Q2
+Pixie | Lovers | 1 | Persona Q2
+Heqet | Lovers | 7 | Persona Q2
+High Pixie | Lovers | 15 | Persona Q2
+Queen Mab | Lovers | 23 | Persona Q2
+Narcissus | Lovers | 30 | Persona Q2
+Vivian | Lovers | 34 | Persona Q2
+Leanan Sidhe | Lovers | 38 | Persona Q2
+Cybele | Lovers | 48 | Persona Q2
+Raphael | Lovers | 56 | Persona Q2
+Lorelei | Lovers | 66 | Persona Q2
+Ishtar | Lovers | 74 | Persona Q2
+Nata Taishi | Chariot | 6 | Persona Q2
+Chimera | Chariot | 12 | Persona Q2
+Eligor | Chariot | 19 | Persona Q2
+Mezuki | Chariot | 27 | Persona Q2
+Oumitsunu | Chariot | 35 | Persona Q2
+Triglav | Chariot | 43 | Persona Q2
+Kartikeya | Chariot | 52 | Persona Q2
+Kingu | Chariot | 59 | Persona Q2
+Pale Rider | Chariot | 63 | Persona Q2
+Thor | Chariot | 66 | Persona Q2
+Atavaka | Chariot | 73 | Persona Q2
+Futsunushi | Chariot | 85 | Persona Q2
+Angel | Justice | 8 | Persona Q2
+Archangel | Justice | 14 | Persona Q2
+Principality | Justice | 20 | Persona Q2
+Setanta | Justice | 27 | Persona Q2
+Virtue | Justice | 33 | Persona Q2
+Dominion | Justice | 39 | Persona Q2
+Uriel | Justice | 48 | Persona Q2
+Throne | Justice | 55 | Persona Q2
+Jeanne D'Arc° | Justice | 60 | Persona Q2
+Melchizedek | Justice | 65 | Persona Q2
+Metatron | Justice | 80 | Persona Q2
+Seraph° | Justice | 85 | Persona Q2
+Azumi | Hermit | 3 | Persona Q2
+Ippon-Datara | Hermit | 11 | Persona Q2
+Nue | Hermit | 19 | Persona Q2
+Caladrius | Hermit | 26 | Persona Q2
+Hitokoto-Nushi | Hermit | 34 | Persona Q2
+Kurama Tengu | Hermit | 42 | Persona Q2
+Nidhoggr | Hermit | 49 | Persona Q2
+Nebiros | Hermit | 55 | Persona Q2
+Arahabaki | Hermit | 64 | Persona Q2
+Ongyo-Ki | Hermit | 73 | Persona Q2
+Mandrake | Fortune | 2 | Persona Q2
+Kelpie | Fortune | 11 | Persona Q2
+Ariadne↓ | Fortune | 15 | Persona Q2
+Yuki Jyorou | Fortune | 18 | Persona Q2
+Fortuna | Fortune | 26 | Persona Q2
+Ariadne Picaro↓ | Fortune | 30 | Persona Q2
+Clotho | Fortune | 32 | Persona Q2
+Pabilsag | Fortune | 40 | Persona Q2
+Lachesis | Fortune | 46 | Persona Q2
+Atropos | Fortune | 54 | Persona Q2
+Norn° | Fortune | 58 | Persona Q2
+Ananta | Fortune | 61 | Persona Q2
+Ouroboros | Fortune | 71 | Persona Q2
+Asterius↓ | Fortune | 80 | Persona Q2
+Asterius Picaro↓ | Fortune | 88 | Persona Q2
+Mokoi | Strength | 3 | Persona Q2
+Valkyrie | Strength | 9 | Persona Q2
+Oni | Strength | 17 | Persona Q2
+Tsuchigumo | Strength | 24 | Persona Q2
+Gozuki | Strength | 31 | Persona Q2
+Rakshasa | Strength | 37 | Persona Q2
+Hanuman | Strength | 45 | Persona Q2
+Ouyamatsumi | Strength | 53 | Persona Q2
+Ara Mitama | Strength | 61 | Persona Q2
+Siegfried | Strength | 70 | Persona Q2
+Zaou-Gongen | Strength | 84 | Persona Q2
+Onmoraki | Hanged Man | 5 | Persona Q2
+Berith | Hanged Man | 13 | Persona Q2
+Yomotsu-Ikusa | Hanged Man | 22 | Persona Q2
+Gorgon | Hanged Man | 29 | Persona Q2
+Orthrus | Hanged Man | 37 | Persona Q2
+Yatsufusa | Hanged Man | 45 | Persona Q2
+Hell Biker | Hanged Man | 53 | Persona Q2
+Moloch | Hanged Man | 60 | Persona Q2
+Vasuki | Hanged Man | 69 | Persona Q2
+Attis | Hanged Man | 80 | Persona Q2
+Empusa | Death | 4 | Persona Q2
+Yatagarasu | Death | 13 | Persona Q2
+Matador | Death | 21 | Persona Q2
+Red Rider | Death | 28 | Persona Q2
+White Rider | Death | 33 | Persona Q2
+Thanatos↓ | Death | 36 | Persona Q2
+Flauros | Death | 40 | Persona Q2
+Thanatos Picaro↓ | Death | 48 | Persona Q2
+Mot | Death | 49 | Persona Q2
+Alice° | Death | 52 | Persona Q2
+Bugs | Death | 58 | Persona Q2
+Balor | Death | 68 | Persona Q2
+Mahakala | Death | 77 | Persona Q2
+Apsaras | Temperance | 4 | Persona Q2
+Silky | Temperance | 10 | Persona Q2
+Bicorn | Temperance | 17 | Persona Q2
+Mithra | Temperance | 24 | Persona Q2
+Genbu | Temperance | 32 | Persona Q2
+Seiryu | Temperance | 41 | Persona Q2
+Suzaku | Temperance | 48 | Persona Q2
+Byakko | Temperance | 56 | Persona Q2
+Mithras | Temperance | 64 | Persona Q2
+Vishnu | Temperance | 72 | Persona Q2
+Sandman | Devil | 2 | Persona Q2
+Alp | Devil | 8 | Persona Q2
+Incubus | Devil | 15 | Persona Q2
+Legion | Devil | 22 | Persona Q2
+Succubus | Devil | 29 | Persona Q2
+Pazuzu | Devil | 36 | Persona Q2
+Belphegor | Devil | 44 | Persona Q2
+Belial | Devil | 51 | Persona Q2
+Baphomet | Devil | 59 | Persona Q2
+Vouivre° | Devil | 62 | Persona Q2
+Lilith | Devil | 67 | Persona Q2
+Astaroth | Devil | 74 | Persona Q2
+Beelzebub° | Devil | 86 | Persona Q2
+Ukobach | Tower | 5 | Persona Q2
+Raijuu | Tower | 12 | Persona Q2
+Ammut | Tower | 20 | Persona Q2
+Nigi Mitama | Tower | 23 | Persona Q2
+Magatsu-Izanagi↓ | Tower | 25 | Persona Q2
+Ares | Tower | 30 | Persona Q2
+Cu Chulainn | Tower | 39 | Persona Q2
+Magatsu-Izanagi Picaro↓ | Tower | 40 | Persona Q2
+Abaddon | Tower | 47 | Persona Q2
+Longinus | Tower | 55 | Persona Q2
+Mara | Tower | 60 | Persona Q2
+Masakado | Tower | 69 | Persona Q2
+Yoshitsune | Tower | 78 | Persona Q2
+Shiva° | Tower | 83 | Persona Q2
+Chi You | Tower | 86 | Persona Q2
+Koropokurr | Star | 2 | Persona Q2
+Xiezhai | Star | 11 | Persona Q2
+Gemori° | Star | 16 | Persona Q2
+Neko Shogun | Star | 19 | Persona Q2
+Kaiwan | Star | 27 | Persona Q2
+Sleipnir | Star | 34 | Persona Q2
+Kusi Mitama | Star | 41 | Persona Q2
+Garuda | Star | 50 | Persona Q2
+Sraosha | Star | 58 | Persona Q2
+Suparna | Star | 67 | Persona Q2
+Helel | Star | 72 | Persona Q2
+Sudama | Moon | 7 | Persona Q2
+Andras | Moon | 14 | Persona Q2
+Kaguya↓ | Moon | 16 | Persona Q2
+Nozuchi | Moon | 21 | Persona Q2
+Hare of Inaba° | Moon | 25 | Persona Q2
+Kaguya Picaro↓ | Moon | 50 | Persona Q2
+Orochi | Moon | 30 | Persona Q2
+Alraune | Moon | 38 | Persona Q2
+Fenrir° | Moon | 43 | Persona Q2
+Girimehkala | Moon | 46 | Persona Q2
+Saki Mitama | Moon | 55 | Persona Q2
+Chernobog | Moon | 63 | Persona Q2
+Seth | Moon | 70 | Persona Q2
+Tsukuyomi↓ | Moon | 72 | Persona Q2
+Tsukuyomi Picaro↓ | Moon | 76 | Persona Q2
+Sandalphon | Moon | 77 | Persona Q2
+Cu Sith | Sun | 10 | Persona Q2
+Phoenix | Sun | 18 | Persona Q2
+Pele | Sun | 26 | Persona Q2
+Basilisk | Sun | 31 | Persona Q2
+Narasimha | Sun | 38 | Persona Q2
+Lugh | Sun | 46 | Persona Q2
+Hathor° | Sun | 48 | Persona Q2
+Tam Lin | Sun | 54 | Persona Q2
+Jatayu | Sun | 62 | Persona Q2
+Hachiman | Sun | 79 | Persona Q2
+Asura | Sun | 87 | Persona Q2
+Turdak | Judgement | 29 | Persona Q2
+Berserker | Judgement | 35 | Persona Q2
+Anubis | Judgement | 42 | Persona Q2
+Black Rider | Judgement | 50 | Persona Q2
+Ophanim | Judgement | 57 | Persona Q2
+Messiah Picaro↓ | Judgement | 60 | Persona Q2
+Trumpeter | Judgement | 64 | Persona Q2
+Michael° | Judgement | 68 | Persona Q2
+Satan | Judgement | 81 | Persona Q2
+Lucifer° | Judgement | 88 | Persona Q2
+Slime | Fool | 1 | Persona Q
+Legion | Fool | 21 | Persona Q
+Orpheus Telos↓ | Fool | 26 | Persona Q
+Ose | Fool | 31 | Persona Q
+Black Frost* | Fool | 47 | Persona Q
+Decarabia | Fool | 52 | Persona Q
+Shiki-Ouji | Fool | 61 | Persona Q
+Loki | Fool | 72 | Persona Q
+Agathion | Magician | 3 | Persona Q
+Orobas | Magician | 8 | Persona Q
+Jack Frost | Magician | 16 | Persona Q
+Hua Po | Magician | 25 | Persona Q
+Pyro Jack | Magician | 32 | Persona Q
+Dis | Magician | 39 | Persona Q
+Rangda | Magician | 45 | Persona Q
+Jinn | Magician | 53 | Persona Q
+Surt | Magician | 62 | Persona Q
+Mada | Magician | 69 | Persona Q
+Ame no Uzume | 02Priestess | 6 | Persona Q
+High Pixie | 02Priestess | 15 | Persona Q
+Ganga | 02Priestess | 28 | Persona Q
+Parvati | 02Priestess | 37 | Persona Q
+Hariti | 02Priestess | 56 | Persona Q
+Tzitzimitl | 02Priestess | 64 | Persona Q
+Scathach | 02Priestess | 76 | Persona Q
+Yaksini | Empress | 11 | Persona Q
+Titania | Empress | 19 | Persona Q
+Gorgon | Empress | 30 | Persona Q
+Gabriel | Empress | 42 | Persona Q
+Skadi | Empress | 50 | Persona Q
+Mother Harlot | Empress | 55 | Persona Q
+Lakshmi | Empress | 65 | Persona Q
+Alilat | Empress | 75 | Persona Q
+Oberon | Emperor | 9 | Persona Q
+Setanta | Emperor | 18 | Persona Q
+King Frost | Emperor | 25 | Persona Q
+Oukuninushi | Emperor | 34 | Persona Q
+Thoth | Emperor | 41 | Persona Q
+Pabilsag | Emperor | 46 | Persona Q
+Kingu | Emperor | 60 | Persona Q
+Barong | Emperor | 65 | Persona Q
+Odin | Emperor | 72 | Persona Q
+Anzu | Hierophant | 3 | Persona Q
+Shiisaa | Hierophant | 18 | Persona Q
+Unicorn | Hierophant | 28 | Persona Q
+Gozuki | Hierophant | 33 | Persona Q
+Flauros | Hierophant | 41 | Persona Q
+Mishaguji | Hierophant | 52 | Persona Q
+Daisoujou | Hierophant | 60 | Persona Q
+Hachiman | Hierophant | 68 | Persona Q
+Kohryu | Hierophant | 73 | Persona Q
+Pixie | Lovers | 2 | Persona Q
+Alp | Lovers | 9 | Persona Q
+Moh Shuvuu | Lovers | 17 | Persona Q
+Queen Mab | Lovers | 24 | Persona Q
+Leanan Sidhe | Lovers | 35 | Persona Q
+Raphael | Lovers | 48 | Persona Q
+Cybele | Lovers | 58 | Persona Q
+Ishtar | Lovers | 68 | Persona Q
+Nata Taishi | Chariot | 7 | Persona Q
+Chimera | Chariot | 10 | Persona Q
+Eligor | Chariot | 17 | Persona Q
+Ares | Chariot | 23 | Persona Q
+Mezuki | Chariot | 30 | Persona Q
+Oumitsunu | Chariot | 38 | Persona Q
+Triglav | Chariot | 44 | Persona Q
+Thor | Chariot | 60 | Persona Q
+Atavaka | Chariot | 66 | Persona Q
+Futsunushi | Chariot | 79 | Persona Q
+Angel | Justice | 8 | Persona Q
+Archangel | Justice | 14 | Persona Q
+Power | Justice | 20 | Persona Q
+Virtue | Justice | 29 | Persona Q
+Dominion | Justice | 35 | Persona Q
+Throne | Justice | 43 | Persona Q
+Uriel | Justice | 52 | Persona Q
+Ophanim | Justice | 58 | Persona Q
+Melchizedek | Justice | 64 | Persona Q
+Azumi | Hermit | 3 | Persona Q
+Ippon-Datara | Hermit | 13 | Persona Q
+Nue | Hermit | 20 | Persona Q
+Mothman | Hermit | 25 | Persona Q
+Hitokotonusi | Hermit | 34 | Persona Q
+Kurama Tengu | Hermit | 40 | Persona Q
+Niddhoggr | Hermit | 49 | Persona Q
+Nebiros | Hermit | 55 | Persona Q
+Arahabaki | Hermit | 62 | Persona Q
+Ongyo-Ki | Hermit | 71 | Persona Q
+Empusa | Fortune | 5 | Persona Q
+Fortuna | Fortune | 26 | Persona Q
+Clotho | Fortune | 33 | Persona Q
+Lachesis | Fortune | 47 | Persona Q
+Ananta | Fortune | 54 | Persona Q
+Atropos | Fortune | 59 | Persona Q
+Norn* | Fortune | 66 | Persona Q
+Sandman | Strength | 3 | Persona Q
+Valkyrie | Strength | 8 | Persona Q
+Oni | Strength | 17 | Persona Q
+Tsuchigumo | Strength | 26 | Persona Q
+Rakshasa | Strength | 34 | Persona Q
+Hanuman | Strength | 41 | Persona Q
+Ouyamatsumi* | Strength | 53 | Persona Q
+Siegfried | Strength | 58 | Persona Q
+Kali | Strength | 63 | Persona Q
+Zaou-Gongen | Strength | 80 | Persona Q
+Koropokkur | Hanged Man | 2 | Persona Q
+Berith | Hanged Man | 15 | Persona Q
+Ikusa | Hanged Man | 22 | Persona Q
+Orthrus | Hanged Man | 36 | Persona Q
+Yatsufusa | Hanged Man | 45 | Persona Q
+Hell Biker | Hanged Man | 51 | Persona Q
+Vasuki | Hanged Man | 63 | Persona Q
+Attis | Hanged Man | 74 | Persona Q
+Mokoi | Death | 6 | Persona Q
+Matador | Death | 22 | Persona Q
+Turdak* | Death | 27 | Persona Q
+White Rider | Death | 33 | Persona Q
+Samael | Death | 38 | Persona Q
+Mot | Death | 47 | Persona Q
+Alice* | Death | 58 | Persona Q
+Pale Rider* | Death | 63 | Persona Q
+Thanatos↓$ | Death | 70 | Persona Q
+Mahakala | Death | 78 | Persona Q
+Apsaras | Temperance | 3 | Persona Q
+Xiezhai | Temperance | 12 | Persona Q
+Mithra | Temperance | 27 | Persona Q
+Genbu | Temperance | 35 | Persona Q
+Seiryuu | Temperance | 40 | Persona Q
+Suzaku | Temperance | 48 | Persona Q
+Byakko | Temperance | 61 | Persona Q
+Vishnu | Temperance | 72 | Persona Q
+Ukobach | Devil | 4 | Persona Q
+Incubus | Devil | 13 | Persona Q
+Succubus | Devil | 29 | Persona Q
+Pazuzu | Devil | 34 | Persona Q
+Basilisk* | Devil | 39 | Persona Q
+Lilith | Devil | 44 | Persona Q
+Belial | Devil | 51 | Persona Q
+Belphegor | Devil | 63 | Persona Q
+Astaroth | Devil | 73 | Persona Q
+Beelzebub* | Devil | 84 | Persona Q
+Raijuu | Tower | 12 | Persona Q
+Cu Chulainn | Tower | 41 | Persona Q
+Abaddon | Tower | 47 | Persona Q
+Mara | Tower | 56 | Persona Q
+Seiten Taisei | Tower | 61 | Persona Q
+Masakado | Tower | 67 | Persona Q
+Yoshitsune | Tower | 76 | Persona Q
+Shiva* | Tower | 82 | Persona Q
+Chi You | Tower | 87 | Persona Q
+Magatsu-Izanagi↓$ | Tower | 92 | Persona Q
+Sarasvati | Star | 7 | Persona Q
+Yatagarasu | Star | 12 | Persona Q
+Neko Shogun | Star | 23 | Persona Q
+Kaiwan | Star | 32 | Persona Q
+Kikuri-Hime | Star | 37 | Persona Q
+Garuda | Star | 47 | Persona Q
+Kartikeya | Star | 52 | Persona Q
+Sraosha | Star | 57 | Persona Q
+Helel | Star | 70 | Persona Q
+Onmoraki | Moon | 4 | Persona Q
+Andras | Moon | 11 | Persona Q
+Kaguya↓ | Moon | 16 | Persona Q
+Nozuchi | Moon | 21 | Persona Q
+Orochi | Moon | 26 | Persona Q
+Alraune | Moon | 39 | Persona Q
+Girimehkala | Moon | 45 | Persona Q
+Chernobog | Moon | 59 | Persona Q
+Seth | Moon | 70 | Persona Q
+Baal Zebul | Moon | 75 | Persona Q
+Sandalphon | Moon | 80 | Persona Q
+Cu Sith | Sun | 10 | Persona Q
+Phoenix | Sun | 18 | Persona Q
+Narasimha | Sun | 31 | Persona Q
+Ganesha | Sun | 42 | Persona Q
+Tam Lin | Sun | 49 | Persona Q
+Jatayu | Sun | 57 | Persona Q
+Suparna | Sun | 65 | Persona Q
+Asura | Sun | 86 | Persona Q
+Red Rider | Judgement | 29 | Persona Q
+Anubis | Judgement | 38 | Persona Q
+Black Rider | Judgement | 52 | Persona Q
+Trumpeter | Judgement | 64 | Persona Q
+Michael* | Judgement | 71 | Persona Q
+Satan | Judgement | 77 | Persona Q
+Metatron | Judgement | 82 | Persona Q
+Warrior Zeus* | Judgement | 87 | Persona Q
+Ardha* | Judgement | 89 | Persona Q
+Zeus* | Judgement | 91 | Persona Q
+Lucifer | Judgement | 93 | Persona Q
 Michael | Herald | 40 | Ronde
 Gabriel | Herald | 33 | Ronde
 Raphael | Herald | 28 | Ronde
@@ -4190,6 +4625,330 @@ Jaws | Vaccine | 10 | Shin Megami Tensei II
 Andromeda | Virus | 20 | Shin Megami Tensei II
 Spider | Virus | 8 | Shin Megami Tensei II
 Moebius | Virus | 3 | Shin Megami Tensei II
+Vishnu | Demon God Race | 97 | Shin Megami Tensei IMAGINE
+Baal | Demon God Race | 85 | Shin Megami Tensei IMAGINE
+Horus | Demon God Race | 80 | Shin Megami Tensei IMAGINE
+Thor | Demon God Race | 76 | Shin Megami Tensei IMAGINE
+Mithra | Demon God Race | 74 | Shin Megami Tensei IMAGINE
+Atavaka | Demon God Race | 72 | Shin Megami Tensei IMAGINE
+Odin | Demon God Race | 70 | Shin Megami Tensei IMAGINE
+Indra | Demon God Race | 67 | Shin Megami Tensei IMAGINE
+Thoth | Demon God Race | 42 | Shin Megami Tensei IMAGINE
+Anat | Goddess Race | 84 | Shin Megami Tensei IMAGINE
+Lakshmi | Goddess Race | 81 | Shin Megami Tensei IMAGINE
+Pallas Athena | Goddess Race | 76 | Shin Megami Tensei IMAGINE
+Norn | Goddess Race | 72 | Shin Megami Tensei IMAGINE
+Scathach | Goddess Race | 68 | Shin Megami Tensei IMAGINE
+Sati | Goddess Race | 55 | Shin Megami Tensei IMAGINE
+Fortuna | Goddess Race | 46 | Shin Megami Tensei IMAGINE
+Freya | Goddess Race | 38 | Shin Megami Tensei IMAGINE
+Sarasvati | Goddess Race | 30 | Shin Megami Tensei IMAGINE
+Ame-no-Uzume | Goddess Race | 24 | Shin Megami Tensei IMAGINE
+Hathor | Goddess Race | 18 | Shin Megami Tensei IMAGINE
+Amaterasu♀ | Heavenly God Race | 94 | Shin Megami Tensei IMAGINE
+Amaterasu♂ | Heavenly God Race | 84 | Shin Megami Tensei IMAGINE
+Tsukuyomi | Heavenly God Race | 80 | Shin Megami Tensei IMAGINE
+Take-Mikazuchi | Heavenly God Race | 71 | Shin Megami Tensei IMAGINE
+Hinokagutsuchi | Heavenly God Race | 65 | Shin Megami Tensei IMAGINE
+Tajikarao | Heavenly God Race | 34 | Shin Megami Tensei IMAGINE
+Omoikane | Heavenly God Race | 31 | Shin Megami Tensei IMAGINE
+Black Maria | Entity Race | 89 | Shin Megami Tensei IMAGINE
+Alilat | Entity Race | 75 | Shin Megami Tensei IMAGINE
+Albion | Entity Race | 65 | Shin Megami Tensei IMAGINE
+Tharmas | Entity Race | 38 | Shin Megami Tensei IMAGINE
+Urizen | Entity Race | 36 | Shin Megami Tensei IMAGINE
+Urthona | Entity Race | 34 | Shin Megami Tensei IMAGINE
+Luvah | Entity Race | 32 | Shin Megami Tensei IMAGINE
+Seth | Vile Race | 96 | Shin Megami Tensei IMAGINE
+Samael | Vile Race | 89 | Shin Megami Tensei IMAGINE
+Nyarlathotep | Vile Race | 86 | Shin Megami Tensei IMAGINE
+Mada | Vile Race | 83 | Shin Megami Tensei IMAGINE
+Pazuzu | Vile Race | 82 | Shin Megami Tensei IMAGINE
+Mishaguji-sama | Vile Race | 67 | Shin Megami Tensei IMAGINE
+Tao Tie | Vile Race | 65 | Shin Megami Tensei IMAGINE
+Baphomet | Vile Race | 30 | Shin Megami Tensei IMAGINE
+Ganesha | Yoma Race | 58 | Shin Megami Tensei IMAGINE
+Purski | Yoma Race | 56 | Shin Megami Tensei IMAGINE
+Jinn | Yoma Race | 44 | Shin Megami Tensei IMAGINE
+Ifrit | Yoma Race | 42 | Shin Megami Tensei IMAGINE
+Onkot | Yoma Race | 37 | Shin Megami Tensei IMAGINE
+Kinnari | Yoma Race | 28 | Shin Megami Tensei IMAGINE
+Dis | Yoma Race | 23 | Shin Megami Tensei IMAGINE
+Isora | Yoma Race | 14 | Shin Megami Tensei IMAGINE
+Apsaras | Yoma Race | 8 | Shin Megami Tensei IMAGINE
+Flauros Hallel | Divine Race | 75 | Shin Megami Tensei IMAGINE
+Ose Hallel | Divine Race | 73 | Shin Megami Tensei IMAGINE
+Throne | Divine Race | 71 | Shin Megami Tensei IMAGINE
+Dominion | Divine Race | 64 | Shin Megami Tensei IMAGINE
+Virtue | Divine Race | 51 | Shin Megami Tensei IMAGINE
+Power | Divine Race | 36 | Shin Megami Tensei IMAGINE
+Principality | Divine Race | 25 | Shin Megami Tensei IMAGINE
+Archangel | Divine Race | 17 | Shin Megami Tensei IMAGINE
+Angel | Divine Race | 11 | Shin Megami Tensei IMAGINE
+Metatron | Seraph Race | 97 | Shin Megami Tensei IMAGINE
+Seraph | Seraph Race | 96 | Shin Megami Tensei IMAGINE
+Michael | Seraph Race | 96 | Shin Megami Tensei IMAGINE
+Gabriel | Seraph Race | 94 | Shin Megami Tensei IMAGINE
+Raphael | Seraph Race | 93 | Shin Megami Tensei IMAGINE
+Uriel | Seraph Race | 80 | Shin Megami Tensei IMAGINE
+Garuda | Avian Race | 65 | Shin Megami Tensei IMAGINE
+Yatagarasu | Avian Race | 52 | Shin Megami Tensei IMAGINE
+Suzaku | Avian Race | 49 | Shin Megami Tensei IMAGINE
+Suparna | Avian Race | 42 | Shin Megami Tensei IMAGINE
+Phoenix | Avian Race | 36 | Shin Megami Tensei IMAGINE
+Jatayu | Avian Race | 28 | Shin Megami Tensei IMAGINE
+Feng Huang | Avian Race | 20 | Shin Megami Tensei IMAGINE
+Morrigan | Wild Bird Race | 62 | Shin Megami Tensei IMAGINE
+Badb Catha | Wild Bird Race | 54 | Shin Megami Tensei IMAGINE
+Aello | Wild Bird Race | 36 | Shin Megami Tensei IMAGINE
+Kelaino | Wild Bird Race | 30 | Shin Megami Tensei IMAGINE
+Ocypete | Wild Bird Race | 25 | Shin Megami Tensei IMAGINE
+Macha | Wild Bird Race | 12 | Shin Megami Tensei IMAGINE
+Harpy | Wild Bird Race | 7 | Shin Megami Tensei IMAGINE
+Gurr | Raptor Race | 83 | Shin Megami Tensei IMAGINE
+Hraesvelgr | Raptor Race | 78 | Shin Megami Tensei IMAGINE
+Anzu | Raptor Race | 70 | Shin Megami Tensei IMAGINE
+Camazotz | Raptor Race | 69 | Shin Megami Tensei IMAGINE
+Furiae | Raptor Race | 45 | Shin Megami Tensei IMAGINE
+Zhen | Raptor Race | 41 | Shin Megami Tensei IMAGINE
+Moh Shuvuu | Raptor Race | 28 | Shin Megami Tensei IMAGINE
+Onmoraki | Raptor Race | 1 | Shin Megami Tensei IMAGINE
+Gogmagog | Earth Spirit Race | 64 | Shin Megami Tensei IMAGINE
+Titan | Earth Spirit Race | 62 | Shin Megami Tensei IMAGINE
+Ubelluris | Earth Spirit Race | 41 | Shin Megami Tensei IMAGINE
+Sarutahiko | Earth Spirit Race | 35 | Shin Megami Tensei IMAGINE
+Dwarf | Earth Spirit Race | 30 | Shin Megami Tensei IMAGINE
+Bucca-Boo | Earth Spirit Race | 24 | Shin Megami Tensei IMAGINE
+Sudama | Earth Spirit Race | 17 | Shin Megami Tensei IMAGINE
+Knocker | Earth Spirit Race | 11 | Shin Megami Tensei IMAGINE
+Hua Po | Earth Spirit Race | 5 | Shin Megami Tensei IMAGINE
+Kodama | Earth Spirit Race | 3 | Shin Megami Tensei IMAGINE
+Hecatoncheires | Evil Demon Race | 82 | Shin Megami Tensei IMAGINE
+Girimekhala | Evil Demon Race | 70 | Shin Megami Tensei IMAGINE
+Cyclops | Evil Demon Race | 46 | Shin Megami Tensei IMAGINE
+Rakshasa | Evil Demon Race | 41 | Shin Megami Tensei IMAGINE
+Edimmu | Evil Demon Race | 41 | Shin Megami Tensei IMAGINE
+Ogre | Evil Demon Race | 25 | Shin Megami Tensei IMAGINE
+Hokuto Seikun | Reaper Race | 93 | Shin Megami Tensei IMAGINE
+Mot | Reaper Race | 85 | Shin Megami Tensei IMAGINE
+Guedhe | Reaper Race | 69 | Shin Megami Tensei IMAGINE
+Chernobog | Reaper Race | 62 | Shin Megami Tensei IMAGINE
+Hel | Reaper Race | 46 | Shin Megami Tensei IMAGINE
+Hanuman | Demigod Race | 71 | Shin Megami Tensei IMAGINE
+Kresnik | Demigod Race | 67 | Shin Megami Tensei IMAGINE
+Hayagriva | Demigod Race | 57 | Shin Megami Tensei IMAGINE
+Kurama Tengu | Demigod Race | 48 | Shin Megami Tensei IMAGINE
+Frost Ace | Demigod Race | 46 | Shin Megami Tensei IMAGINE
+Cu Chulainn | Demigod Race | 44 | Shin Megami Tensei IMAGINE
+Valkyrie | Demigod Race | 36 | Shin Megami Tensei IMAGINE
+Setanta | Demigod Race | 28 | Shin Megami Tensei IMAGINE
+Lilith | Nocturne Race | 92 | Shin Megami Tensei IMAGINE
+Nyx | Nocturne Race | 72 | Shin Megami Tensei IMAGINE
+Queen Mab | Nocturne Race | 57 | Shin Megami Tensei IMAGINE
+Loa | Nocturne Race | 52 | Shin Megami Tensei IMAGINE
+Kaiwan | Nocturne Race | 47 | Shin Megami Tensei IMAGINE
+Black Frost | Nocturne Race | 42 | Shin Megami Tensei IMAGINE
+Succubus | Nocturne Race | 37 | Shin Megami Tensei IMAGINE
+Incubus | Nocturne Race | 31 | Shin Megami Tensei IMAGINE
+Formorian | Nocturne Race | 27 | Shin Megami Tensei IMAGINE
+Lilim | Nocturne Race | 20 | Shin Megami Tensei IMAGINE
+Empusa | Nocturne Race | 14 | Shin Megami Tensei IMAGINE
+Alp | Nocturne Race | 8 | Shin Megami Tensei IMAGINE
+Titania | Fairy Race | 57 | Shin Megami Tensei IMAGINE
+Oberon | Fairy Race | 52 | Shin Megami Tensei IMAGINE
+Vivian | Fairy Race | 47 | Shin Megami Tensei IMAGINE
+Tam Lin | Fairy Race | 42 | Shin Megami Tensei IMAGINE
+Troll | Fairy Race | 38 | Shin Megami Tensei IMAGINE
+Elf | Fairy Race | 31 | Shin Megami Tensei IMAGINE
+Kelpie | Fairy Race | 25 | Shin Megami Tensei IMAGINE
+Gandharva | Fairy Race | 23 | Shin Megami Tensei IMAGINE
+Pyro Jack | Fairy Race | 20 | Shin Megami Tensei IMAGINE
+High Pixie | Fairy Race | 15 | Shin Megami Tensei IMAGINE
+Jack Frost | Fairy Race | 11 | Shin Megami Tensei IMAGINE
+Pixie | Fairy Race | 2 | Shin Megami Tensei IMAGINE
+Baby Goldfish(Gold) | Fairy Race | 1 | Shin Megami Tensei IMAGINE
+Baby Goldfish(White) | Fairy Race | 1 | Shin Megami Tensei IMAGINE
+Baby Goldfish(Black) | Fairy Race | 1 | Shin Megami Tensei IMAGINE
+Baby Goldfish(Red) | Fairy Race | 1 | Shin Megami Tensei IMAGINE
+Yurlungur | Dragon King Race | 81 | Shin Megami Tensei IMAGINE
+Yamata no Orochi | Dragon King Race | 75 | Shin Megami Tensei IMAGINE
+Vritra | Dragon King Race | 56 | Shin Megami Tensei IMAGINE
+Vouivre | Dragon King Race | 48 | Shin Megami Tensei IMAGINE
+Raja Naga | Dragon King Race | 40 | Shin Megami Tensei IMAGINE
+Mizuchi | Dragon King Race | 31 | Shin Megami Tensei IMAGINE
+Naga | Dragon King Race | 24 | Shin Megami Tensei IMAGINE
+Nozuchi | Dragon King Race | 14 | Shin Megami Tensei IMAGINE
+Barong | Godly Beast Race | 85 | Shin Megami Tensei IMAGINE
+Anubis | Godly Beast Race | 74 | Shin Megami Tensei IMAGINE
+Genbu | Godly Beast Race | 71 | Shin Megami Tensei IMAGINE
+Sphinx | Godly Beast Race | 66 | Shin Megami Tensei IMAGINE
+Narasimha | Godly Beast Race | 61 | Shin Megami Tensei IMAGINE
+Nandi | Godly Beast Race | 44 | Shin Megami Tensei IMAGINE
+Kaichi | Godly Beast Race | 31 | Shin Megami Tensei IMAGINE
+Makami | Godly Beast Race | 22 | Shin Megami Tensei IMAGINE
+Byakko | Holy Beast Race | 69 | Shin Megami Tensei IMAGINE
+Sleipnir | Holy Beast Race | 62 | Shin Megami Tensei IMAGINE
+Chimera | Holy Beast Race | 55 | Shin Megami Tensei IMAGINE
+Kirin | Holy Beast Race | 41 | Shin Megami Tensei IMAGINE
+Senri | Holy Beast Race | 36 | Shin Megami Tensei IMAGINE
+Pa Bil Sag | Holy Beast Race | 31 | Shin Megami Tensei IMAGINE
+Bai Ze | Holy Beast Race | 27 | Shin Megami Tensei IMAGINE
+Apis | Holy Beast Race | 24 | Shin Megami Tensei IMAGINE
+Unicorn | Holy Beast Race | 21 | Shin Megami Tensei IMAGINE
+Shiisa | Holy Beast Race | 13 | Shin Megami Tensei IMAGINE
+Gryphon | Beast Race | 74 | Shin Megami Tensei IMAGINE
+Cerberus | Beast Race | 49 | Shin Megami Tensei IMAGINE
+Dawon | Beast Race | 42 | Shin Megami Tensei IMAGINE
+Tan-Ki | Beast Race | 37 | Shin Megami Tensei IMAGINE
+Orthrus | Beast Race | 31 | Shin Megami Tensei IMAGINE
+Nekomata | Beast Race | 26 | Shin Megami Tensei IMAGINE
+Inugami | Beast Race | 18 | Shin Megami Tensei IMAGINE
+Cu Sith | Beast Race | 13 | Shin Megami Tensei IMAGINE
+Cait Sith | Beast Race | 7 | Shin Megami Tensei IMAGINE
+Taowu | Wilder Race | 64 | Shin Megami Tensei IMAGINE
+Fenrir | Wilder Race | 57 | Shin Megami Tensei IMAGINE
+Catoblepas | Wilder Race | 50 | Shin Megami Tensei IMAGINE
+Mothman | Wilder Race | 40 | Shin Megami Tensei IMAGINE
+Nue | Wilder Race | 37 | Shin Megami Tensei IMAGINE
+Raiju | Wilder Race | 31 | Shin Megami Tensei IMAGINE
+Gyuki | Wilder Race | 25 | Shin Megami Tensei IMAGINE
+Bicorn | Wilder Race | 17 | Shin Megami Tensei IMAGINE
+Garm | Wilder Race | 9 | Shin Megami Tensei IMAGINE
+Mother Harlot | Fiend Race | 93 | Shin Megami Tensei IMAGINE
+Trumpeter | Fiend Race | 91 | Shin Megami Tensei IMAGINE
+Masakado | Fiend Race | 90 | Shin Megami Tensei IMAGINE
+Yoshitsune | Fiend Race | 87 | Shin Megami Tensei IMAGINE
+Tokisada | Fiend Race | 83 | Shin Megami Tensei IMAGINE
+Jeanne D'Arc | Fiend Race | 75 | Shin Megami Tensei IMAGINE
+Pale Rider | Fiend Race | 74 | Shin Megami Tensei IMAGINE
+Black Rider | Fiend Race | 65 | Shin Megami Tensei IMAGINE
+Red Rider | Fiend Race | 58 | Shin Megami Tensei IMAGINE
+Daisoujou | Fiend Race | 55 | Shin Megami Tensei IMAGINE
+White Rider | Fiend Race | 52 | Shin Megami Tensei IMAGINE
+Hell Biker | Fiend Race | 46 | Shin Megami Tensei IMAGINE
+David | Fiend Race | 37 | Shin Megami Tensei IMAGINE
+Alice | Fiend Race | 35 | Shin Megami Tensei IMAGINE
+Matador | Fiend Race | 30 | Shin Megami Tensei IMAGINE
+Flaemis | Element Race | 20 | Shin Megami Tensei IMAGINE
+Aquans | Element Race | 15 | Shin Megami Tensei IMAGINE
+Aeros | Element Race | 11 | Shin Megami Tensei IMAGINE
+Erthys | Element Race | 7 | Shin Megami Tensei IMAGINE
+Saki Mitama | Mitama Race | 25 | Shin Megami Tensei IMAGINE
+Kusi Mitama | Mitama Race | 22 | Shin Megami Tensei IMAGINE
+Nigi Mitama | Mitama Race | 19 | Shin Megami Tensei IMAGINE
+Ara Mitama | Mitama Race | 15 | Shin Megami Tensei IMAGINE
+Ishtar | Earth Mother Race | 96 | Shin Megami Tensei IMAGINE
+Isis | Earth Mother Race | 94 | Shin Megami Tensei IMAGINE
+Diana | Earth Mother Race | 82 | Shin Megami Tensei IMAGINE
+Skadi | Earth Mother Race | 74 | Shin Megami Tensei IMAGINE
+Kali | Earth Mother Race | 68 | Shin Megami Tensei IMAGINE
+Parvati | Earth Mother Race | 64 | Shin Megami Tensei IMAGINE
+Artemis | Earth Mother Race | 30 | Shin Megami Tensei IMAGINE
+Kushinada-Hime | Earth Mother Race | 26 | Shin Megami Tensei IMAGINE
+Kikuri-Hime | Earth Mother Race | 18 | Shin Megami Tensei IMAGINE
+Bishamonten | Guardian Race | 72 | Shin Megami Tensei IMAGINE
+Jikokuten | Guardian Race | 52 | Shin Megami Tensei IMAGINE
+Koumokuten | Guardian Race | 45 | Shin Megami Tensei IMAGINE
+Zouchouten | Guardian Race | 38 | Shin Megami Tensei IMAGINE
+Arahabaki | Nation Ruler Race | 83 | Shin Megami Tensei IMAGINE
+Take-Minakata | Nation Ruler Race | 63 | Shin Megami Tensei IMAGINE
+Okuninushi | Nation Ruler Race | 59 | Shin Megami Tensei IMAGINE
+Ouyamatsumi | Nation Ruler Race | 50 | Shin Megami Tensei IMAGINE
+Onamuchi | Nation Ruler Race | 42 | Shin Megami Tensei IMAGINE
+Shiva | Destroyer Race | 97 | Shin Megami Tensei IMAGINE
+Seiten Taisei | Destroyer Race | 93 | Shin Megami Tensei IMAGINE
+Susano-o | Destroyer Race | 88 | Shin Megami Tensei IMAGINE
+Kartikeya | Destroyer Race | 83 | Shin Megami Tensei IMAGINE
+Indrajit | Destroyer Race | 67 | Shin Megami Tensei IMAGINE
+Dionysus | Destroyer Race | 58 | Shin Megami Tensei IMAGINE
+Ares | Destroyer Race | 56 | Shin Megami Tensei IMAGINE
+Azazel | Fallen Angel Race | 92 | Shin Megami Tensei IMAGINE
+Abraxas | Fallen Angel Race | 82 | Shin Megami Tensei IMAGINE
+Gomory | Fallen Angel Race | 79 | Shin Megami Tensei IMAGINE
+Flauros | Fallen Angel Race | 75 | Shin Megami Tensei IMAGINE
+Ose | Fallen Angel Race | 73 | Shin Megami Tensei IMAGINE
+Orobas | Fallen Angel Race | 65 | Shin Megami Tensei IMAGINE
+Berith | Fallen Angel Race | 58 | Shin Megami Tensei IMAGINE
+Decarabia | Fallen Angel Race | 50 | Shin Megami Tensei IMAGINE
+Eligor | Fallen Angel Race | 43 | Shin Megami Tensei IMAGINE
+Forneus | Fallen Angel Race | 29 | Shin Megami Tensei IMAGINE
+Andras | Fallen Angel Race | 15 | Shin Megami Tensei IMAGINE
+Ananta | Dragon Race | 93 | Shin Megami Tensei IMAGINE
+Seiryu | Dragon Race | 77 | Shin Megami Tensei IMAGINE
+Quetzalcoatl | Dragon Race | 55 | Shin Megami Tensei IMAGINE
+Ganga | Dragon Race | 39 | Shin Megami Tensei IMAGINE
+Coatlicue | Dragon Race | 33 | Shin Megami Tensei IMAGINE
+Vasuki | Evil Dragon Race | 81 | Shin Megami Tensei IMAGINE
+Fafnir | Evil Dragon Race | 72 | Shin Megami Tensei IMAGINE
+Kingu | Evil Dragon Race | 64 | Shin Megami Tensei IMAGINE
+Nidhoggr | Evil Dragon Race | 57 | Shin Megami Tensei IMAGINE
+Typhon | Evil Dragon Race | 51 | Shin Megami Tensei IMAGINE
+Basilisk | Evil Dragon Race | 43 | Shin Megami Tensei IMAGINE
+Bai Suzhen | Evil Dragon Race | 23 | Shin Megami Tensei IMAGINE
+Tarasque | Evil Dragon Race | 17 | Shin Megami Tensei IMAGINE
+Cockatrice | Evil Dragon Race | 8 | Shin Megami Tensei IMAGINE
+Rangda | Femme Race | 85 | Shin Megami Tensei IMAGINE
+Dakini | Femme Race | 65 | Shin Megami Tensei IMAGINE
+Atropos | Femme Race | 56 | Shin Megami Tensei IMAGINE
+Yaksini | Femme Race | 53 | Shin Megami Tensei IMAGINE
+Lachesis | Femme Race | 51 | Shin Megami Tensei IMAGINE
+Arachne | Femme Race | 50 | Shin Megami Tensei IMAGINE
+Clotho | Femme Race | 48 | Shin Megami Tensei IMAGINE
+Lamia | Femme Race | 47 | Shin Megami Tensei IMAGINE
+Yuki Jyorou | Femme Race | 44 | Shin Megami Tensei IMAGINE
+Leanan Sidhe | Femme Race | 41 | Shin Megami Tensei IMAGINE
+Yomotsu-Shikome | Femme Race | 35 | Shin Megami Tensei IMAGINE
+Gorgon | Femme Race | 32 | Shin Megami Tensei IMAGINE
+Taraka | Femme Race | 25 | Shin Megami Tensei IMAGINE
+Acheri | Femme Race | 15 | Shin Megami Tensei IMAGINE
+Datsue-Ba | Femme Race | 9 | Shin Megami Tensei IMAGINE
+Ongyo-ki | Brute Race | 91 | Shin Megami Tensei IMAGINE
+Fuu-ki | Brute Race | 72 | Shin Megami Tensei IMAGINE
+Sui-ki | Brute Race | 69 | Shin Megami Tensei IMAGINE
+Kin-ki | Brute Race | 66 | Shin Megami Tensei IMAGINE
+Shiki-Ouji | Brute Race | 63 | Shin Megami Tensei IMAGINE
+Yaksa | Brute Race | 51 | Shin Megami Tensei IMAGINE
+Yomotsu-Ikusa | Brute Race | 44 | Shin Megami Tensei IMAGINE
+Karasu Tengu | Brute Race | 28 | Shin Megami Tensei IMAGINE
+Oni | Brute Race | 25 | Shin Megami Tensei IMAGINE
+Turdak | Brute Race | 23 | Shin Megami Tensei IMAGINE
+Momunofu | Brute Race | 19 | Shin Megami Tensei IMAGINE
+Koppa Tengu | Brute Race | 15 | Shin Megami Tensei IMAGINE
+Azumi | Brute Race | 10 | Shin Megami Tensei IMAGINE
+Shikigami | Brute Race | 5 | Shin Megami Tensei IMAGINE
+Kudlak | Haunt Race | 67 | Shin Megami Tensei IMAGINE
+Kumbhanda | Haunt Race | 63 | Shin Megami Tensei IMAGINE
+Utai-Gaikotsu | Haunt Race | 51 | Shin Megami Tensei IMAGINE
+Vetala | Haunt Race | 44 | Shin Megami Tensei IMAGINE
+Legion | Haunt Race | 38 | Shin Megami Tensei IMAGINE
+Pisaca | Haunt Race | 36 | Shin Megami Tensei IMAGINE
+Chatterskull | Haunt Race | 33 | Shin Megami Tensei IMAGINE
+Yakka | Haunt Race | 24 | Shin Megami Tensei IMAGINE
+Choronzon | Haunt Race | 17 | Shin Megami Tensei IMAGINE
+Ghoul | Haunt Race | 11 | Shin Megami Tensei IMAGINE
+Gaki | Haunt Race | 7 | Shin Megami Tensei IMAGINE
+Poltergeist | Haunt Race | 4 | Shin Megami Tensei IMAGINE
+Phantom | Foul Race | 93 | Shin Megami Tensei IMAGINE
+Shadow | Foul Race | 52 | Shin Megami Tensei IMAGINE
+Specter | Foul Race | 36 | Shin Megami Tensei IMAGINE
+Black Ooze | Foul Race | 31 | Shin Megami Tensei IMAGINE
+Blob | Foul Race | 16 | Shin Megami Tensei IMAGINE
+Mou-Ryou | Foul Race | 11 | Shin Megami Tensei IMAGINE
+Slime | Foul Race | 6 | Shin Megami Tensei IMAGINE
+Will O' Wisp | Foul Race | 1 | Shin Megami Tensei IMAGINE
+Beelzebub(Fly) | Tyrant Race | 95 | Shin Megami Tensei IMAGINE
+Mara | Tyrant Race | 95 | Shin Megami Tensei IMAGINE
+Mara(Amorphous) | Tyrant Race | 95 | Shin Megami Tensei IMAGINE
+Lucifuge | Tyrant Race | 90 | Shin Megami Tensei IMAGINE
+Beelzebub(Human) | Tyrant Race | 85 | Shin Megami Tensei IMAGINE
+Astaroth | Tyrant Race | 85 | Shin Megami Tensei IMAGINE
+Chi You | Tyrant Race | 82 | Shin Megami Tensei IMAGINE
+Surt | Tyrant Race | 72 | Shin Megami Tensei IMAGINE
+Tzitzimitl | Tyrant Race | 70 | Shin Megami Tensei IMAGINE
+Loki | Tyrant Race | 69 | Shin Megami Tensei IMAGINE
+Moloch | Tyrant Race | 64 | Shin Megami Tensei IMAGINE
+Hecate | Tyrant Race | 59 | Shin Megami Tensei IMAGINE
+King Frost | Tyrant Race | 40 | Shin Megami Tensei IMAGINE
 Krishna** ° | Deity | 87 | Shin Megami Tensei IV Apocalypse
 Odin** ° | Deity | 85 | Shin Megami Tensei IV Apocalypse
 Maitreya** ° | Deity | 83 | Shin Megami Tensei IV Apocalypse

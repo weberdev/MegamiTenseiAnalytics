@@ -4,11 +4,12 @@ Path("raw_pages").mkdir(exist_ok=True)
 import re
 
 class Demon_Instance:
-    def __init__(self, givenName, race, level, game):
+    def __init__(self, givenName, race, level, game, canonicalName):
         self.givenName = givenName
         self.race = race
         self.level = level
         self.game = game
+        self.canonicalName = canonicalName
 
     def __str__(self):
         return self.givenName + " | " + self.race + " | " + str(self.level) + " | " + self.game
@@ -20,12 +21,13 @@ def normalizeRace(race):
     if " (" in race:
         #print("removing clarification")
         race = race.split(" (", 1)[0]
-
     if " / " in race:
         #print("removing extraneous alignment data")
         race = race.split(" / ", 1)[0]
     if " Arcana" in race:
         race = race.split(" Arcana", 1)[0]
+    if ".0" in race:
+        race = race.split(".0", 1)[1]
     if ".0" in race:
         race = race.split(".0", 1)[1]
     if "Suit of " in race:
@@ -162,7 +164,10 @@ def parseCompendium():
                 parsedTables.add(tableID)
                 headers = [th.get_text(strip=True) for th in table.find_all("th")]
 
-                if "Level" not in headers:
+                if "Level" not in headers and not (
+                        gameName == "Persona Q"
+                        and "Lv" in headers
+                ):
                     continue
 
                 if "Demon" in headers:
@@ -176,7 +181,10 @@ def parseCompendium():
                 else:
                     continue
 
-                levelIndex = headers.index("Level")
+                if gameName == "Persona Q" and "Lv" in headers:
+                    levelIndex = headers.index("Lv")
+                else:
+                    levelIndex = headers.index("Level")
 
                 for row in table.find_all("tr"):
                     cells = row.find_all(["td", "th"])
@@ -205,6 +213,10 @@ def parseCompendium():
                     if gameName == "Devil Summoner  Soul Hackers":
                         if cells[nameIndex].find(["i", "em"]) is not None:
                             givenName = givenName + " †"
+                    if gameName == "Persona Q":
+                        race = cells[1].get_text(strip=True)
+                    if gameName == "Persona Q":
+                        race = re.sub(r'^\d+\.0', '', race)
                     demon = Demon_Instance(
                         givenName,
                         race,
@@ -254,7 +266,7 @@ def parseCompendium():
                             for th in table.find_all("th")
                         ]
 
-                        if "Level" not in headers:
+                        if "Level" not in headers and not (gameName == "Persona Q" and "Lv" in headers):
                             element = element.find_next_sibling()
                             continue
 
@@ -270,7 +282,10 @@ def parseCompendium():
                             element = element.find_next_sibling()
                             continue
 
-                        levelIndex = headers.index("Level")
+                        if gameName == "Persona Q" and "Lv" in headers:
+                            levelIndex = headers.index("Lv")
+                        else:
+                            levelIndex = headers.index("Level")
 
                         for row in table.find_all("tr"):
                             cells = row.find_all(["td", "th"])
@@ -293,12 +308,17 @@ def parseCompendium():
 
                             if level.isnumeric() == False:
                                 level = level[:-1]
+                            if gameName == "Persona Q":
+                                race = cells[1].get_text(strip=True)
                             race = normalizeRace(race)
                             if not race.isascii():
                                 continue
                             if gameName == "Devil Summoner  Soul Hackers":
                                 if cells[nameIndex].find(["i", "em"]) is not None:
                                     givenName = givenName + " †"
+                            if gameName == "Persona Q":
+                                print("Persona Q hit")
+                                race = re.sub(r'^\d+\.0', '', race)
                             demon = Demon_Instance(
                                 givenName,
                                 race,
@@ -331,7 +351,7 @@ def writeNames():
         for name in names:
             file.write(f"{name}\n")
 #BEHOLD, MY DEMONS
-#writeOutput()
+writeOutput()
 writeNames()
 #for demon in Compendium:
  #   print(demon)

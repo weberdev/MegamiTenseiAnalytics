@@ -1,16 +1,13 @@
-100km/h Hag
 200km/h Fogey
 20mm Machinegun
 A Bao A Qu
 Abaddon
 Abdiel
-Abdiel(Fallen
 Abe no Seimei
 Abihiko
 Abraxas
 Acheri
 Aciel
-Adept
 Adramelech
 Aegir
 Aello
@@ -25,15 +22,12 @@ Agni
 Agony
 Agrippa
 Ah Puch
-Ahi Dahaka
 Ahriman
 Ahura Mazda
 Ai-ho
 Aim
 Airavata
-Airget Lam
 Airgetlam
-Airy Slime
 Aitvaras
 Aiwass
 Aizen Myouou
@@ -44,7 +38,6 @@ Alberich
 Albion
 Alciel
 Alecto
-Alfred/Yamaoka
 Alice
 Alilat
 Alp
@@ -53,21 +46,18 @@ Amabie
 Amanozako
 Amaterasu
 Amatsu Mikaboshi
-Amazon
+Amazon (demon
 Amdusias
 Ame no Fuchikoma
-Ame no Torifune
 Ame no Uzume
 Ame-no-Uzume
-Ame-no-Uzume(Uzume
-Amen Ra
-Ameno Torifune
+Ameno Torifune (demon
 Ameno-Uzume
 Ameretat
 Ammut
 Amon
 Amon Ra
-Amurtart
+Amon-Ra
 Amy
 Anahita
 Anansi
@@ -78,9 +68,7 @@ Ancient of Days
 Andras
 Andromeda
 Angel
-Angel W
-Angra Mainu
-Angra Manyu
+Angra Mainyu
 Aniel
 Ankou
 Anubis
@@ -88,19 +76,16 @@ Anzu
 Aonbarr
 Apaosha
 Apep
-Aphrodite
 Apis
 Apollo
 Apollyon
-Apophis
 Apsaras
 Apsu
-Aquan Slime
 Aquans
+Aquarius Mask
 Aquarius Mask 1
 Aquarius Mask 2
 Aquarius Mask 3
-Aquarius MaskReal
 Ara Mitama
 Arachne
 Arahabaki
@@ -111,15 +96,13 @@ Archeoch
 Ardha
 Ares
 Ariadne
-Ariadne Picaro
 Arianrhod
 Arioch
 Armaiti
-Armati
 Army Zombie
 Arsène
 Artemis
-Arthur
+Arthur (demon
 Ascomid
 Asherah
 Ashtar
@@ -127,57 +110,45 @@ Ashura
 Ashura Man
 Ashura Woman
 Asinaga
-Asmodai
 Asmodeus
 Asp
-Assassin
+Assassin (demon
 Astaroth
 Asterius
-Asterius Picaro
 Astria
 Asura
 Atavaka
 Atlas
 Atropos
 Attis
-Audhumla
 Audrey
+Audumbla
 Azathoth
 Azazel
-Azhi Dahaka
 Azi Dahaka
 Azrael
 Azumi
-B Hawaii Frost
-BUG
+B. Hawaii Frost
 Ba
 Ba Da Wang
 Baal
-Baal Avatar
 Baal Zebul
-Baby Goldfish(Black
-Baby Goldfish(Gold
-Baby Goldfish(Red
-Baby Goldfish(White
+Baby Goldfish
 Babylonia Horde
-Bacchus
 Backbeard
 Badb Catha
 Baek Yong
 Bael
-Bagaboo
 Bai Long
 Bai Suzhen
 Bai Ze
 Baihu
 Baize
 Baku
-Bal Zebul
-Balaam
 Balam
 Balaur
 Balberith
-Baldur
+Baldr
 Balor
 Bander
 Banshee
@@ -190,12 +161,7 @@ Basmu
 Bastet
 Baykok
 Beelzebub
-Beelzebub(Fly
-Beelzebub(Human
-Beelzebub[fly
-Beelzebub[human
 Behemoth
-Beidou Xingjun(Beiji-Weng
 Beiji-Weng
 Belial
 Belobog
@@ -206,19 +172,16 @@ Berserk
 Berserker
 Bes
 Betelgeuse
-Bi Fang
 Bicorn
 Bifrons
 Bigfoot
 Billiken
 Bilwis
 Binbou-gami
-Bishamon
-Bishamonten
-Bishamonten(Bishamon
+Biriken
+Bishamonten (demon
 Bit Ball
 Biwa Hoshi
-Biyarky
 Black Frost
 Black Knight
 Black Maria
@@ -229,35 +192,31 @@ Black Widow
 Blob
 Blue Cape
 Blue Man
-Blue Mask
 Bodyconian
-Bogaboo
 Bogle
 Bone Golem
+Borak
 Botis
 Brahma
 Brahman
-Brahman/Brahma
 Bres
 Brigid
 Brigit
 Brimstone Star
-Brimstone Star(Myriad Gods/God's Order only
 Brocken Specter
 Brownie
 Brynhildr
 Bucca-Boo
 Buccaboo
-Buckbaird
 Budai
 Buer
+Bug
 Bugaboo
 Bugbear
-Bugs
 Bukimi
-Buraq
 Bushyasta
 Butcher
+Byakhee
 Byakko
 Cabracan
 Cai-Zhi
@@ -269,7 +228,6 @@ Callisto
 Calon Arang
 Camael
 Camazotz
-Camel Head
 Cancer
 Captain Kidd
 Carbuncle
@@ -290,47 +248,35 @@ Chaos Hero
 Charon
 Charybdis
 Chatterskull
-Chefei(1st Form
-Chefei(2nd Form
-Chefei(3rd Form
-Chefei(4th Form
-Chefei(5th Form
-Chefei(6th Form
-Chefei(7th Form
-Chefei(8th Form
-Chemosh
+Chefei
 Chemtrail
 Chernobog
 Cherub
 Chi You
 Chimera
 Chironnupu
+Chisato Kasai
 Chon Chon
 Choronzon
 Chou-keshin
 Chris the Car
 Chronos
-Chu Chulainn
 Chupacabra
 Churel
-Cironnup
-Clay Golem
 Cleopatra
 Clotho
 Coatlicue
 Cockatrice
 Cocytus Star
-Cocytus Star(Myriad Gods/God's Order only
 Coin Knight
 Corpse
 Corpses
 Cosmo Zombie
-Crap Slime
 Crazy Dummy
-Cromm Cruach
+Crom Cruach
 Crowley
 Crusader (demon
-Crystal Skull
+Crystal Skull (Treasure Demon
 Cthulhu
 Cu Chulain
 Cu Chulainn
@@ -347,12 +293,12 @@ Cyak
 Cybele
 Cyber Horde
 Cyclops
-DB Busters
 Da Peng
 Daemon
 Daeva
 Dagda
 Dagon
+Dahaka
 Dairoku Tenmaou
 Daisoujou
 Dakini
@@ -362,11 +308,10 @@ Dantalion
 Dante
 Danu
 Daphne
-Dark Alice
 Dark Elf
 Dark Priest
 Datsue-Ba
-David
+David (demon
 Dawon
 Dead Lobster
 Death Rider
@@ -379,20 +324,17 @@ Demi-fiend
 Demiurge
 Demon Head
 Demon Horde
-Demon King
 Demonee-Ho
-Demonica-C
-Demonica-L
-Demonica-N
+Demonica-L, Demonica-N, & Demonica-C
 Demonstrators
 Depth
-Diana
+Devil Buster Busters
+Diana (Roman
 Diarmuid
 Dilu Horse (Hex Mark
 Dionysus
 Dis
 Divine Horde
-Djinn
 Dodongo
 Dokkaebi
 Dominion
@@ -404,42 +346,36 @@ Douman
 Douniu
 Dr. Bacta
 Drag Queen
-Dragon Head
 Dream Kiss
 Dresser Hag
 Dribbler
 Druj
 Dryad
 Duergar
-Dullahan
+Dullahan (demon
 Dummy
-Durahan
 Durga
-Dverger
+Dvergar
 Dwarf
 Dyaus
 Dybbuk
 Dzelarhons
 Dzolob
-Dís(Dis
 Earthies
-Earthy Slime
 Ebisu
 Echidna
 Edimmu
 Efreet
 Einherjar
-Ekimmu
 Elf
 Eligor
-Emperor's Amulet
+Emperor's Amulet (Treasure Demon
 Empusa
-En No Ozuno
+En no Ozuno
 Enku
 Enoch
 Envy
 Erinyes
-Erinys
 Erlkonig
 Eros
 Eros Prime
@@ -451,7 +387,6 @@ Facebind
 Fachan
 Fafnir
 Fairy Horde
-FakeVarna
 Fallen Horde
 Fallen Monk
 Fanatic
@@ -459,7 +394,6 @@ Fang Leng
 Fariedone
 Faunus
 Faust
-Fearal
 Feng Huang
 Fenrir
 Fereydun
@@ -469,23 +403,18 @@ Fionn mac Cumhaill
 Fir Bolg
 Fjalar
 Flaemis
-Flamey Slime
 Flamies
 Flauros
-Flauros Hallel
 Fleurety
 Focalor
 Fog
+Fomor
 Fomorian
-Fomorian(Fomor
-Formor
 Formorian
 Forneus
 Fortuna
-Frankie
-Frey
+Franken
 Freya
-Freyja
 Freyr
 Friday
 Frost Ace
@@ -525,9 +454,6 @@ Gandharva
 Ganesha
 Ganga
 Gargantua
-Gargantua 8
-Gargantua Q
-Gargantua X
 Gargoyle
 Garm
 Garrison
@@ -538,30 +464,25 @@ Gate Core
 Gdon
 Gemori
 Genbu
-Genjo
-Genkurou
+Genkuro
 Geryon
 Gespenst
 Ghede
 Ghost
+Ghost (demon
 Ghost Q
 Ghoul
 Ghoulette
 Giant
 Girimehkala
-Girimekara
 Girimekhala
-Girimekhala(Girimehkala
 Girimekra
 Girtablulu
 Glasya-Labolas
 Gnome
-Goat Head
 Goblin
-God Kandori
 Goemon
 Gogmagog
-Gold Slime
 Golem
 Gomory
 Gorgon
@@ -569,31 +490,24 @@ Gotou
 Gozu-Tennou
 Gozuki
 Greed
-Green Mask
-Green Slime
 Gremlin
 Grendel
 Greyman
 Griffon
 Grimies
-Grinbulsti
 Grudge Horde
 Gryphon
 Gu Huo Niao
-Guan Di Sheng Gong
+Guan Di
 Guan Yu
 Gucumatz
 Guedhe
-Guhuoniao
 Gui Xian
 Gullinbursti
 Gulltoppr
-Gundari
 Gundari Myouou
 Gurr
 Gurulu
-Gurulu(Gurr
-Guzfan
 Gyokukou Joutei
 Gyrator
 Gyu-Ki
@@ -607,39 +521,29 @@ Hakuma-Bhuta
 Hakutaku
 Halphas
 Hamsa
-Hanako
+Hanako (demon
 Hanbaba
-Hanged Man
+Hangedman
 Haniel
 Hannya
 Hanuman
-Hanya
 Haokah
 Haoma
 Hare of Inaba
-Harem Queen
 Harihara
 Hariti
-Harpie
 Harpy
 Hastur
 Hathor
-Haunted Taxi
 Hayagriva
-Hayataro
-Hazama(All routes
-Hazama(Warped Mind,Reiko's route only
+Hayatarou
 Headless Rider
 Heavy Metal
 Hecate
 Hecatoncheir
 Hecatoncheires
-Hecatoncheires(Boss
-Hecatonchires
 Heimdal
 Heimdall
-Heinir
-Hekatoncheires
 Hel
 Helel
 Helios
@@ -651,14 +555,14 @@ Heqet
 Heracles
 Hermes
 Hermod
-Hi no Enma
 High Pixie
 Highway Star
 Hildisvini
 Himiko
 Hinoenma
-Hinokagutsuchi
+Hinokagutsuchi (demon
 Hippolyta
+Hippou
 Hiruko
 Hitokoto-Nushi
 Hitokotonushi
@@ -675,7 +579,6 @@ Hoodlum Horde
 Hooligan
 Horkos
 Horus
-Hotei
 Houou
 Houri
 Houris
@@ -686,7 +589,6 @@ Hrungnir
 Hsing-Hsing
 Hua Po
 Huang Di
-Huang Long
 Hugin
 Huitzilopochtli
 Huli Daxian
@@ -695,19 +597,16 @@ Hunab Ku
 Hunhau
 Huoniao
 Huracan
-Hurakan
 Hydra
 Hyperion
 Hypnos
 Ibaraki Doji
-Ibaraki Douji
 Ichimokuren
 Ictinike
+Ideo Hazama
 Idun
 Ifrit
 Ihika
-Ikusa
-Il-Dana
 Ildanach
 Illuyanka
 Illuyankas
@@ -718,19 +617,19 @@ Inaruna
 Incubus
 Indra
 Indrajit
-Inferno
+Inferno (demon
 Interipelli
 Inti
 Inugami
 Inui
-Io
+Io (Persona
 Ippon-Datara
 Ippon-datara
 Iris
 Iron Maiden
 Ishtar
 Isis
-Isma's Ghost
+Isma Feed
 Isora
 Israfel
 Itsumade
@@ -738,41 +637,29 @@ Itzamna
 Iwate
 Ixtab
 Izanagi
-Izanagi Picaro
 Izanagi-no-Okami
 Izanami
 Izaya Orihara
 Jabberwocky
 Jack Frost
-Jack Lantern
-Jack O Lantern
-Jack O' Lantern
-Jack O'Lantern
 Jack Ripper
-Jack the Ripper
 Jack-o'-Lantern
-Jack-o'-Lantern(Pyro Jack
 Jahi
 Jalandhara
 Jambavan
 Janus
-Jarilo
 Jatayu
 Jaws
 Jeanne D'Arc
+Jeanne d'Arc
 Jelly Man
 Jersey Devil
 Jikokuten
-Jikokuten(Jikoku
-Jimenez (Awake Form
-Jimenez (Soil Form
-Jimenez (With Demonica
-Jimenez (Without Demonica
+Jimenez
 Jinn
 Jirae Horde
 Jiraiya
 Johanna
-Jormundgand
 Jormungandr
 Jorougumo
 Juanlian Dajiang
@@ -786,10 +673,8 @@ Junnosuke Kuroda
 Kabanda
 Kabandha
 Kabuso
-Kagutsuchi
-Kagutsuchii
 Kaguya
-Kaguya Picaro
+Kaguya Hime
 Kaichi
 Kaiming Shou
 Kaiwan
@@ -799,38 +684,29 @@ Kama
 Kamael
 Kamakura Gongoro
 Kamapua'a
-Kamasos
 Kamen-Hijiri
 Kamiotoko
 Kamu Susano-o
 Kanaloa
 Kanbari
-Kandori
 Kangiten
-Kanseiteikun
 Kanshou
 Karasu
 Karasu Tengu
-Karasu Tengu(Karasu
 Karma Soldier
 Kartikeya
 Kashiyama
 Kaso
 Katakirauwa
 Kau
-Kawancha
 Kaya-no-Hime
 Kazfiel
 Kelaino
 Kelpie
-Kenren Taishou
-Kerberos
-Kerepres
 Ketam
-Khons
 Khonsu
-Khonsu Ra
 Kiichi Hougen
+Kijimuna
 Kijimunaa
 Kikimora
 Kikuri Hime
@@ -838,7 +714,6 @@ Kikuri-Hime
 Kikuri-hime
 Killer Chopper
 Kimaris
-Kimnara
 Kimnari
 Kin's Head
 Kin-Ki
@@ -852,62 +727,51 @@ Kinnara
 Kinnari
 Kintoki-Douji
 Kirin
-Kishin
 Kisin
+Kitsune
 Kiyohime
 Knocker
 Kobold
 Kodama
 Koga Saburo
-Koh-i-Noor
+Koh-i-Noor (Treasure Demon
 Kohryu
 Kohryuu
 Kokkuri
 Kommandant
-Komokuten(Koumoku
+Komokuten
 Konohana Sakuya
 Koppa Tengu
-Koppa Tengu(Koppa
-Koropokguru
 Koropokkur
 Koropokkuru
-Koropokurr
 Kotoshironushi
-Kotosironusi
-Koumoku
 Koumokuten
-Koumoukuten
 Kraken
 Kresnik
 Krishna
-Kuchisake
 Kuchisake-Onna
 Kuda
 Kudan
 Kudlak
 Kuebiko
-Kugutsu
+Kugutsu (demon
 Kugutsushi
 Kukunochi
 Kumbhanda
-Kun Anun
 Kundali Vidyaraja
 Kurabebi
-Kurama
 Kurama Tengu
-Kurama Tengu(Kurama
 Kushi Mitama
-Kushi Mitama(Kusi Mitama
 Kushiel
 Kushinada
-Kushinada Hime
 Kushinada-Hime
+Kushinada-hime
 Kusi Mitama
 Kvasir
 Kwanca
 Kwancha
+Kyme
 Kyouryou
-Kyuubi no Kitsune
 LB-501A
 La Llorona
 Lachesis
@@ -919,9 +783,7 @@ Lagoon
 Lahmu
 Lailah
 Lakhe
-Lakshimi
 Lakshmi
-Lakshmi(Laksmi
 Laksmi
 Lamashtu
 Lamia
@@ -929,24 +791,18 @@ Langsuir
 Lanling Wang
 Larvae
 Laser Cannon
-Laughing Skull
 Law Hero
 Leanan Sidhe
 Legba
 Legion
-Legion(Healing
-Legion(Magic
-Legion(Normal
-Legion(Physical
-Legion(Rare
 Lemon Frost
 Lemur
 Lemures
 Lemurian
+Leo Mask
 Leo Mask 1
 Leo Mask 2
 Leo Mask 3
-Leo MaskReal
 Leonard
 Leprechaun
 Leto
@@ -958,40 +814,35 @@ Lilith
 Linda
 Little Lama
 Loa
-Loa(>1/12
 Loki
 Long
-Longinus
+Longinus (demon
 Longma
+Looper
 Lord Nan Dou
-Lord Nandou
 Lorelei
 Loup-garou
 Lucia
 Lucifer
 Lucifer Frost
-Lucifer(ally
-Lucifer(enemy
-Lucifrost
+Lucifroz
 Lucifuge
-Lucifugus
 Lugh
 Lust
 Luvah
-M.I.B
 Macabre
-Macabre(>1/12
 Macha
 Mad Gasser
 Mad Slug
 Mada
 Magatsu-Izanagi
-Magatsu-Izanagi Picaro
+Magatsuhi (Zoma
+Magatsuhi (demon
 Magus
+Maha Mayuri
 Mahakala
 Mahamayuri
 Maia
-Maia Custom
 Maia Prime
 Maihime Amano
 Maitreya
@@ -1001,24 +852,21 @@ Malphas
 Mamedanuki
 Mammon
 Man Eater
-Mananan
 Manananggal
 Manannan
 Mandrake
 Mangadhai
 Manticore
 Mara
-Mara(Amorphous
 Marchosias
 Marchur
 Marduk
-Maria
+Maria (demon
 Marici
 Mars
 Marshal Tianpeng
 Maruts
 Masakado
-Masakado's S
 Maschinen Kommando
 Maschinen Soldat
 Maso
@@ -1027,29 +875,27 @@ Master Therion
 Matador
 Matsuo-sama
 Maui
-Maya
+Maya (demon, Hindu
+Maya (demon, Mayan
 Mayahuel
 Medea
-Medusa
-Medusa Shadow
+Medusa (demon
+Mega Planaria
 Megaera
 Meganada
-Megaplanaria
-Melchisedec
 Melchizedek
 Melchom
 Melon Frost
 Melusine
+Men In Black
 Mephisto
 Mephistopheles
 Mercurius
-Merfolk
 Merkabah
 Merlion
 Mermaid
 Merrow
-Messiah
-Messiah Picaro
+Messiah (Persona
 Metal
 Metal Drache
 Metal Guru
@@ -1059,13 +905,10 @@ Mezuki
 Michael
 Michizane
 Midgardsomr
-Mikazuchi
 Mikiya
-Milady
-Milk-kin Frost
+Milady (Persona 5
 Milky Frost
 Mimir
-Minakata
 Minotaur
 Mishaguji
 Mishaguji-sama
@@ -1073,12 +916,10 @@ Missionary
 Mithra
 Mithras
 Mitra
-Mitra(Mithra
-Mitra-Buddha
 Miyasudokoro
 Mizuchi
 Mo Shobow
-Moebius
+Moebius (demon
 Moh Shuuvu
 Moh Shuvuu
 Mokoi
@@ -1093,48 +934,37 @@ Morrigan
 Moryo
 Mot
 Mother Harlot
-Mother Harlot(The Harlot
 Mothman
-Mou Shobo
 Mou-Ryo
 Mou-Ryou
-Mr. Bear
+Mr. Bear (demon
 Mr. Zombie
 Mucalinda
 Mudman
 Mummy
 Munin
 Murmur
-Mushus
 Mushussu
 Muspell
 Mussie
 Mutant
-Muu Shuwuu
 Myconid
 Myrmecolion
 Nacht Kobold
 Nadja
 Naga
 Naga Raja
-Naga Raja(Raja Naga
 Nagasunehiko
 Nahobeeho
 Nakisawame
 Nalagiri
 Nandi
-Nankyoku Roujin
 Nanna
-Nannar
 Nanto Seikun
 Napaea
-Naragiri
 Narasimha
-Narasinha
 Narcissus
-Narukami
-Nasu
-Nata
+Narukami (demon
 Nata Taishi
 Nebiros
 Necronomicon
@@ -1148,12 +978,10 @@ Nergal
 Nesting Doll
 Nesting Skull
 Nezha
-Nezha Taizi
-Nezha/ Nataku
 Niddhoggr
 Nidhogg
 Nidhoggr
-Night Stalker
+Night Stalker (demon
 Nightmare
 Nigi Mitama
 Nike
@@ -1168,12 +996,10 @@ Nosferatu
 Nozuchi
 Nue
 Nuwa
-Nuwa(Serpentine
 Nyalmot
 Nyami Nyami
 Nyarlathotep
 Nyx
-O-Yamatsumi
 O-namuchi
 Obariyon
 Obattarion
@@ -1189,17 +1015,14 @@ Ogre
 Ogun
 Okiku-Mushi
 Okuninushi
-Old One
+Old One (demon
 Oliver
-Oliver Zero
 Oliver-kun
 Ometeotl
 Omoikane
 Omoteotl
-Onamuchi
-Ongkhot(Onkot
+Ongkot
 Ongyo-Ki
-Ongyo-ki
 Oni
 Oni Jorou
 Onkot
@@ -1213,34 +1036,23 @@ Orcus
 Oread
 Orgone Ghost
 Orias
-Orlov
+Orlov (Treasure Demon
 Orobas
-Orochi
 Orpheus
-Orpheus Picaro
 Orpheus Telos
-Orthros
 Orthrus
+Orthrus (demon
 Ose
-Ose Hallel
 Oshichi
 Oshira-sama
 Osiris
-Oto-hime
-Otogo Douji
+Otogo-Douji
 Otohime
-Otsuki(1st Form
-Otsuki(2nd Form
-Otsuki(3rd Form
-Otsuki(4th Form
-Ou-Magatsuhi
+Otsuki
 Oukuninushi
 Oumitsunu
-Oumononushi
 Ouroboros
 Ouyamatsumi
-Oyamatsumi
-P Gargantua
 Pa Bil Sag
 Pabilsag
 Pachacamac
@@ -1255,17 +1067,11 @@ Pallas Athena
 Pandora
 Papilsag
 Parasite
-Pariker
 Parvati
 Pascal
-PascalI
-PascalII
-Pascal†(first form
-Pascal†(second form
 Patrimpas
 Patriot
 Pazuzu
-Peallaidh
 Pegasus
 Pek Young
 Pele
@@ -1280,16 +1086,13 @@ Phaleg
 Phantom
 Pharaoh
 Phoenix
-Phunbaba
 Picollus
-Pink Looper
 Pisaca
 Pixie
-Pixie (Soul Hackers ver
 Plasma
 Platoon Soldier
 Pluto Soldier
-Police
+Police (Demon
 Polisun
 Poltergeist
 Polydeuces
@@ -1301,11 +1104,9 @@ Pride
 Principality
 Prithivi
 Prometheus
-Psycho Apollyon
+Protagonist (Shin Megami Tensei
 Pucel
 Puck
-Puka
-Pulukishi(Purski
 Punks
 Purple Mirror
 Purski
@@ -1316,21 +1117,13 @@ Python
 Qi Lin
 Qilin
 Qing Long
-Qing Long(Long
-Qing Niugai
 Qing Niuguai
-Qitian Dasheng
-Qitian Dasheng(Wu Kong
-Queen Asura
 Queen Mab
-Queen Medb
 Quetzalcoatl
 Quicksilver
 Rabbi
-Ragaraja
 Raguel
 Rahab
-Rahabh
 Rahu
 Raiho
 Raiju
@@ -1340,19 +1133,19 @@ Rakcarango
 Rakcharango
 Rakshasa
 Rama
-Ramiel
 Rangda
 Raphael
 Rarung
 Rashnu
 Rasputin
+Rasputin (demon
 Rastaman
+Ratatosk
 Ratatoskr
 Ravana
-RealVarna
 Red Beret
 Red Cape
-Red Mask
+Red Cloak
 Red Rider
 Redrum
 Reiko Kashima
@@ -1364,13 +1157,10 @@ Rinok
 Robin Goodfellow
 Robin Hood
 Roc
-Roitschaggata
-Roitschaggatta
 Rolwoy
 Rukh
 Rusalka
 Ryuman
-Ryume
 S.S
 SAT
 Sadhu
@@ -1386,9 +1176,7 @@ Sallos
 Salome
 Samael
 Samurai Zombie
-Samyaza
 Sanat
-Sand Looper
 Sand Man
 Sandalphon
 Sandman
@@ -1397,57 +1185,53 @@ Sarashina-hime
 Sarasvati
 Sargasso
 Sargatanas
-SargeGirimehkala
 Sariel
 Sarutahiko
 Sarutobi Sasuke
 Satan
-Satan(>11/20
 Satanachia
-Satanael(New Game
+Satanael
 Sati
 Saturnus
 Satyr
-Satyrus
 Saurva
 Sawo Bhaku
 Scanner
 Scare Claw
 Scathach
 Scathatch
+Scorpio Mask
 Scorpio Mask 1
 Scorpio Mask 2
 Scorpio Mask 3
-Scorpio MaskReal
 Scylla
 Secret Police
 Sedna
-Seere
+Seer
 Seimen Kongou
-Seioubo
 Seiryu
 Seiryuu
 Seiten Taisei
+Seiten-Teisei
 Seitentaisei
 Seker
 Sekhmet
 Selket
 Senko
 Senri
-Seraph
+Seraph (Demon
+Seraph (demon
 Serpent
-Set
 Setanta
-Seth
-Sha Wujing
+Seth (demon
 Shade
-Shadow
-Shaka
+Shadow (demon
 Shan Xiao
 Shanhui
 Sharf Shutze
 Shax
 Shaytan
+Shemyaza
 Shiisa
 Shiisaa
 Shiki-Ouji
@@ -1460,12 +1244,10 @@ Shiva
 Shiwanna
 Shizuo Heiwajima
 Shoggoth
-Shokuin
 Shou Shen
 Shoujou
 Shouki
 Shouten
-Shu
 Shub Niggurath
 Shuten Doji
 Shuten-Doji
@@ -1475,7 +1257,6 @@ Sif
 Silky
 Simurgh
 Siren
-Siva
 Skadi
 Skanda
 Skeleton
@@ -1484,17 +1265,13 @@ Skoll
 Skuld
 Skylla
 Slave
-Sleipnir
-Slepnir
+Sleipnir (demon
 Slime
-Slime Hedoro
 Sloth
 Sobek
 Sol Leon
-Sol-Leon
-Soldier BugJiromaru
-Soldier BugTaromaru
-Soldier BugTentomaru
+Soldier Bug
+Sooma
 Souyou
 Sparna
 Spartan
@@ -1510,28 +1287,23 @@ Sraosha
 Stolas
 Stomach Bug
 Stomach Flower
-Stone Golem
-Stone of Scone
+Stone of Scone (Treasure Demon
 Stonka
 Strawberry Frost
 Strigoi
 Strigoii
 Strix
-Stuparideth
 Sturm Soldat
 Stymphalides
 Succubus
 Sudama
 Sui-Ki
-Sui-ki
 Suicide Unit
 Suiko
 Sukuna Hikona
 Sukuna-Hikona
-Sukunahikona
 Sumizome
 Suparna
-Suparna(Sparna
 Surt
 Surtr
 Surya
@@ -1542,57 +1314,42 @@ Sventovit
 Sword Knight
 Sylph
 Sytry
-T93G
-T95C/P
-T95D
-Ta-weret
 Tajikarao
-Take Mikazuchi
-Take Minakata
+Takahisa Kandori
 Take-Mikazuchi
-Take-Mikazuchi(Mikazuchi
 Take-Minakata
-Take-Minakata(Minakata
 Takeda
 Takemikazuchi
 Takeminakata
 Taksaka
-Takshaka
 Takuhi
 Talos
 Tam Lin
 Tamamo
-Tamamo no Mae
-Tamamo no mae
-Tamamo-no-mae
 Tammuz
-Tamonten
 Tan
 Tan-Ki
 Tan-ki
 Tangata Manu
 Tanki
-Tao
+Tao Isonokami
 Tao Tie
 Taotie
-Taotie(Tao Tie
 Taown
 Taowu
 Taraka
 Taranis
-Tarantula
+Tarantella
 Tarasque
 Tarrasque
 Tatsunoshin Suou
 Tattooed Man
 Taueret
+Taurus Mask
 Taurus Mask 1
 Taurus Mask 2
 Taurus Mask 3
-Taurus MaskReal
-Tek Tek
 Teketeke
-Temple Knight
 Tenaga
 Tenchu Akatsuki
 Tenchu Hekiun
@@ -1600,25 +1357,23 @@ Tenchu Mochizuki
 Tenchu Myojou
 Tendou
 Tengu
-Tenhou Gensui
 Tenjiku Tokubei
-Tenkai
+Tenkai (Demon
 Tenong Cut
-Tensen Nyan Nyan
 Tensen Nyannyan
+Terion
 Terminator
 Tesso
 Tezcatlipoca
 Thanatos
-Thanatos Picaro
 Tharmas
-The Hero
 Thor
 Thoth
 Throne
 Thunderbird
 Tiamat
 Tilottama
+Ting Cut
 Tishtoriya
 Tisiphone
 Titan
@@ -1627,6 +1382,7 @@ Tlaloc
 Tlaltecuhtli
 Tlazolteotl
 Tobi Katou
+Tockepi
 Todomeki
 Tokebi
 Tokepi
@@ -1636,25 +1392,15 @@ Tonatiuh
 Torso
 Toubyou
 Toufei
-Toutetsu
 Treant
-TribhvanaAir
-TribhvanaEarth
-TribhvanaHeaven
+Tribhvana
 Triglav
 Troll
-Troll King
-TrueLucifer(First Phase
-TrueLucifer(Myriad Gods/God's Order only
-TrueLucifer(Second Phase
-TrueLucifer(Third Phase
 Trumpeter
 Tschaggatta
 Tsuchigumo
 Tsuchinoko
-Tsukiyomi
 Tsukuyomi
-Tsukuyomi Picaro
 Tsurubebi
 Tun Kou
 Tuna Roa
@@ -1662,6 +1408,7 @@ Tuofei
 Turbo Granny
 Turbo-Granny
 Turdak
+Type 9x Mobile Infantry
 Typhon
 Tyr
 Tzaphkiel
@@ -1669,20 +1416,16 @@ Tzitzimitl
 Ubelluris
 Ubu
 Ukano Mitama
-Ukano-mitama
 Ukobach
-Umayado no Ouji
+Ulm
 Umayadono-Ouji
 Undine
 Unicorn
-Upelluri
 Upyr
 Urban Terror
 Urd
-Urdr
 Uriel
 Urizen
-Uroboros
 Urthona
 Urvashi
 Usas
@@ -1690,27 +1433,22 @@ Utai-Gaikotsu
 Utai-gaikotsu
 Utukku
 Uwabami
-Uzume
 Vajrayaksa
 Valac
 Valkyrie
 Vampire
 Varaha
 Varna
-Varna(as a party member
 Varuna
 Varunani
 Vasuki
 Vayu
-Venus
+Venus (demon
 Vepar
 Verdandi
 Verethragna
 Vesta
 Vetala
-Vetala(Rakshasa
-Vetala(as a boss
-Vetara
 Victor
 Vidfolnir
 Vidofnir
@@ -1728,36 +1466,28 @@ Volvo
 Vouivre
 Vrita
 Vritra
-Vritra& Tentacles
 Vucub-Caquix
-Vucub-Kakish
 Vulcanus
 Vulcanus Prime
 Waira
-Waitry
 Wand Knight
 Wanyudo
-Wanyuudo
-Warrior Zeus
-Watcher
+Watcher (Demon
 Waxwork
 Wendigo
 Werecat
 Weredog
 Werewolf
+Whateley
 White Rider
 Wicker Man
 Wight
-Wild Hunt
+Wild Hunt (demon
 Wildfire Horde
 Will O' Wisp
-Will O' Wisp(Blue
-Will O' Wisp(Red
-Willy
-Wong Long
 Workaholic
 Worm
-Wraith
+Wraith (demon
 Wrath
 Wu Kong
 Wyrm
@@ -1765,10 +1495,8 @@ Wyvern
 Xaphan
 Xi Wangmu
 Xiezhai
-Xiezhai(Cai-Zhi
 Xiuhtecuhtli
 Xuanwu
-Xuanwu(Gui Xian
 Xuanzang
 Yaka
 Yakka
@@ -1785,37 +1513,28 @@ Yamachichi
 Yamaoka
 Yamata no Orochi
 Yamata-no-Orochi
-Yamato Takeru
+Yamato-Takeru
 Yamawaro
 Yarilo
-Yaso Magatsuhi
-Yaso-Magatsuhi
 Yatagarasu
 Yato no Kami
 Yatsufusa
-Yebisu
-Yellow Mask
 Yggdrasil
 Yggdrassil
 Ym
 Yog Sothoth
 Yog Sothoth Jr
-Yoko
-Yomi Kugutsu (A
-Yomi Kugutsu (B
-Yomi Kugutsu (C
+Yoko Hiromine
+Yomi-Kugutsu
 Yomotsu Shikome
 Yomotsu-Ikusa
-Yomotsu-Ikusa(Ikusa
 Yomotsu-Shikome
-Yomotsu-Shikome(Shikome
 Yoshitsune
 Yowie
 Yuki Jyorou
 Yurlungur
 Zaccoum
 Zaebos
-Zaeboth
 Zaou Gongen
 Zaou-Gongen
 Zap
@@ -1826,9 +1545,6 @@ Zhong Kui
 Zhu Bajie
 Zhu Tun She
 Zhu Yin
-Zhuque
-Zhuque(Feng Huang
-Zoma
 Zombie
 Zombie Boy
 Zombie Cop
@@ -1837,7 +1553,6 @@ Zombie Dog
 Zombie Girl
 Zombie Guard
 Zombie Junkie
-Zombie Kamikaze
 Zombie Lady
 Zombie Nurse
 Zombie Officer
@@ -1847,7 +1562,5 @@ Zombie Schoolgirl
 Zombie Soldier
 Zombie Teacher
 Zorro
-Zouchou
 Zouchouten
-Zouchouten(Zouchou
 Zu

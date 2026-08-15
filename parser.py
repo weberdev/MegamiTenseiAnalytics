@@ -12,7 +12,7 @@ class Demon_Instance:
         self.canonicalName = canonicalName
 
     def __str__(self):
-        return self.givenName + " | " + self.race + " | " + str(self.level) + " | " + self.game
+        return self.givenName + " | " + self.race + " | " + str(self.level) + " | " + self.game + " | " + self.canonicalName
 Compendium = []
 html = ""
 #pages = ["List_of_Devil_Summoner:_Raidou_Kuzunoha_vs._King_Abaddon_Demons", "List_of_Devil_Summoner:_Raidou_Kuzunoha_vs._The_Soulless_Army_Demons", "List_of_Devil_Summoner:_Soul_Hackers_Demons",  "List_of_Devil_Survivor_2_Demons", "List_of_Devil_Survivor_Overclocked_Demons", "List_of_Majin_Tensei_Demons", "List_of_Majin_Tensei_II:_Spiral_Nemesis_Demons", "List_of_Megami_Tensei_Demons", "List_of_Megami_Tensei_II_Demons", "List_of_Ronde_Demons", "List_of_Shin_Megami_Tensei_Demons", "List_of_Shin_Megami_Tensei_II_Demons", "List_of_Shin_Megami_Tensei_III:_Nocturne_Demons", "List_of_Shin_Megami_Tensei_IV_Apocalypse_Demons", "List_of_Shin_Megami_Tensei_IV_Demons", "List_of_Shin_Megami_Tensei_NINE_Demons", "List_of_Shin_Megami_Tensei_V_Demons", "List_of_Shin_Megami_Tensei_V:_Vengeance_Demons", "List_of_Shin_Megami_Tensei:_Devil_Summoner_Demons", "List_of_Shin_Megami_Tensei:_if..._Demons", "List_of_Shin_Megami_Tensei:_Strange_Journey_Demons", "List_of_Soul_Hackers_2_Demons", "List_of_Megami_Ibunroku_Persona_Demons", "List_of_Persona_2:_Innocent_Sin_Personas", "List_of_Persona_2:_Innocent_Sin_Demons", "List_of_Persona_2:_Eternal_Punishment_Personas", "List_of_Persona_2:_Eternal_Punishment_Demons", "List_of_Persona_3_Personas", "List_of_Persona_3_Reload_Personas", "List_of_Persona_3_Portable_Personas", "List_of_Persona_3_FES_Personas", "List_of_Persona_4_Personas", "List_of_Persona_5_Personas", "List_of_Persona_5_Royal_Personas", "List_of_Digital_Devil_Saga:_Avatar_Tuner_Demons", "List_of_Digital_Devil_Saga:_Avatar_Tuner_2_Demons", ""List_of_Megami_Ibunroku_Persona_Personas"]
@@ -84,14 +84,13 @@ def parseCompendium():
                 if nameLink is None:
                     continue
 
+                nameLink = row.find("a")
                 givenName = nameLink.get_text(" ", strip=True)
+                canonicalName = nameLink.get("title")
 
                 if not givenName:
                     continue
 
-                # Clean markers such as *
-                while givenName and not givenName[-1].isalnum():
-                    givenName = givenName[:-1].rstrip()
 
                 level = None
 
@@ -114,7 +113,8 @@ def parseCompendium():
                     givenName,
                     race,
                     level,
-                    gameName
+                    gameName,
+                    canonicalName
                 )
 
                 Compendium.append(demon)
@@ -195,6 +195,13 @@ def parseCompendium():
 
                     givenName = cells[nameIndex].get_text(strip=True)
                     level = cells[levelIndex].get_text(strip=True)
+                    nameLink = cells[nameIndex].find("a")
+
+                    if nameLink is not None:
+                        wikiTitle = nameLink.get("title")
+                    else:
+                        wikiTitle = givenName
+                    canonicalName = wikiTitle
 
                     if givenName == "":
                         continue
@@ -221,7 +228,8 @@ def parseCompendium():
                         givenName,
                         race,
                         level,
-                        gameName
+                        gameName,
+                        canonicalName
                     )
 
                     Compendium.append(demon)
@@ -295,6 +303,14 @@ def parseCompendium():
 
                             givenName = cells[nameIndex].get_text(strip=True)
                             level = cells[levelIndex].get_text(strip=True)
+                            nameLink = cells[nameIndex].find("a")
+
+                            if nameLink is not None:
+                                wikiTitle = nameLink.get("title")
+                            else:
+                                wikiTitle = givenName
+                            canonicalName = wikiTitle
+
 
                             if givenName == "":
                                 continue
@@ -323,7 +339,8 @@ def parseCompendium():
                                 givenName,
                                 race,
                                 level,
-                                gameName
+                                gameName,
+                                canonicalName
                             )
 
                             Compendium.append(demon)
@@ -338,7 +355,7 @@ def writeNames():
     names = set()
 
     for demon in Compendium:
-        name = demon.givenName
+        name = demon.canonicalName
 
         while name and not name[-1].isalnum():
             name = name[:-1]

@@ -314,7 +314,24 @@ def writeOutput():
     with open("compendiumdbraw.txt", "w", encoding="utf-8") as file:
         for demon in Compendium:
             file.write(f"{demon}\n")
+def writeNames():
+    names = set()
+
+    for demon in Compendium:
+        name = demon.givenName
+
+        while name and not name[-1].isalnum():
+            name = name[:-1]
+
+        names.add(name)
+
+    names = sorted(names)
+
+    with open("uniquenamelist.txt", "w", encoding="utf-8") as file:
+        for name in names:
+            file.write(f"{name}\n")
 #BEHOLD, MY DEMONS
-writeOutput()
+#writeOutput()
+writeNames()
 #for demon in Compendium:
  #   print(demon)

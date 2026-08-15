@@ -357,9 +357,6 @@ def writeNames():
     for demon in Compendium:
         name = demon.canonicalName
 
-        while name and not name[-1].isalnum():
-            name = name[:-1]
-
         names.add(name)
 
     names = sorted(names)

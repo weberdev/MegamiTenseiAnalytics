@@ -46,12 +46,12 @@ Amabie
 Amanozako
 Amaterasu
 Amatsu Mikaboshi
-Amazon (demon
+Amazon (demon)
 Amdusias
 Ame no Fuchikoma
 Ame no Uzume
 Ame-no-Uzume
-Ameno Torifune (demon
+Ameno Torifune (demon)
 Ameno-Uzume
 Ameretat
 Ammut
@@ -102,7 +102,7 @@ Armaiti
 Army Zombie
 Arsène
 Artemis
-Arthur (demon
+Arthur (demon)
 Ascomid
 Asherah
 Ashtar
@@ -112,7 +112,7 @@ Ashura Woman
 Asinaga
 Asmodeus
 Asp
-Assassin (demon
+Assassin (demon)
 Astaroth
 Asterius
 Astria
@@ -179,7 +179,7 @@ Billiken
 Bilwis
 Binbou-gami
 Biriken
-Bishamonten (demon
+Bishamonten (demon)
 Bit Ball
 Biwa Hoshi
 Black Frost
@@ -275,8 +275,8 @@ Cosmo Zombie
 Crazy Dummy
 Crom Cruach
 Crowley
-Crusader (demon
-Crystal Skull (Treasure Demon
+Crusader (demon)
+Crystal Skull (Treasure Demon)
 Cthulhu
 Cu Chulain
 Cu Chulainn
@@ -311,7 +311,7 @@ Daphne
 Dark Elf
 Dark Priest
 Datsue-Ba
-David (demon
+David (demon)
 Dawon
 Dead Lobster
 Death Rider
@@ -329,9 +329,9 @@ Demonica-L, Demonica-N, & Demonica-C
 Demonstrators
 Depth
 Devil Buster Busters
-Diana (Roman
+Diana (Roman)
 Diarmuid
-Dilu Horse (Hex Mark
+Dilu Horse (Hex Mark)
 Dionysus
 Dis
 Divine Horde
@@ -352,7 +352,7 @@ Dribbler
 Druj
 Dryad
 Duergar
-Dullahan (demon
+Dullahan (demon)
 Dummy
 Durga
 Dvergar
@@ -369,7 +369,7 @@ Efreet
 Einherjar
 Elf
 Eligor
-Emperor's Amulet (Treasure Demon
+Emperor's Amulet (Treasure Demon)
 Empusa
 En no Ozuno
 Enku
@@ -469,7 +469,7 @@ Geryon
 Gespenst
 Ghede
 Ghost
-Ghost (demon
+Ghost (demon)
 Ghost Q
 Ghoul
 Ghoulette
@@ -521,7 +521,7 @@ Hakuma-Bhuta
 Hakutaku
 Halphas
 Hamsa
-Hanako (demon
+Hanako (demon)
 Hanbaba
 Hangedman
 Haniel
@@ -560,7 +560,7 @@ Highway Star
 Hildisvini
 Himiko
 Hinoenma
-Hinokagutsuchi (demon
+Hinokagutsuchi (demon)
 Hippolyta
 Hippou
 Hiruko
@@ -617,12 +617,12 @@ Inaruna
 Incubus
 Indra
 Indrajit
-Inferno (demon
+Inferno (demon)
 Interipelli
 Inti
 Inugami
 Inui
-Io (Persona
+Io (Persona)
 Ippon-Datara
 Ippon-datara
 Iris
@@ -734,7 +734,7 @@ Knocker
 Kobold
 Kodama
 Koga Saburo
-Koh-i-Noor (Treasure Demon
+Koh-i-Noor (Treasure Demon)
 Kohryu
 Kohryuu
 Kokkuri
@@ -754,7 +754,7 @@ Kuda
 Kudan
 Kudlak
 Kuebiko
-Kugutsu (demon
+Kugutsu (demon)
 Kugutsushi
 Kukunochi
 Kumbhanda
@@ -816,7 +816,7 @@ Little Lama
 Loa
 Loki
 Long
-Longinus (demon
+Longinus (demon)
 Longma
 Looper
 Lord Nan Dou
@@ -836,8 +836,8 @@ Mad Gasser
 Mad Slug
 Mada
 Magatsu-Izanagi
-Magatsuhi (Zoma
-Magatsuhi (demon
+Magatsuhi (Zoma)
+Magatsuhi (demon)
 Magus
 Maha Mayuri
 Mahakala
@@ -861,7 +861,7 @@ Mara
 Marchosias
 Marchur
 Marduk
-Maria (demon
+Maria (demon)
 Marici
 Mars
 Marshal Tianpeng
@@ -875,11 +875,11 @@ Master Therion
 Matador
 Matsuo-sama
 Maui
-Maya (demon, Hindu
-Maya (demon, Mayan
+Maya (demon, Hindu)
+Maya (demon, Mayan)
 Mayahuel
 Medea
-Medusa (demon
+Medusa (demon)
 Mega Planaria
 Megaera
 Meganada
@@ -895,7 +895,7 @@ Merkabah
 Merlion
 Mermaid
 Merrow
-Messiah (Persona
+Messiah (Persona)
 Metal
 Metal Drache
 Metal Guru
@@ -906,7 +906,7 @@ Michael
 Michizane
 Midgardsomr
 Mikiya
-Milady (Persona 5
+Milady (Persona 5)
 Milky Frost
 Mimir
 Minotaur
@@ -919,7 +919,7 @@ Mitra
 Miyasudokoro
 Mizuchi
 Mo Shobow
-Moebius (demon
+Moebius (demon)
 Moh Shuuvu
 Moh Shuvuu
 Mokoi
@@ -937,7 +937,7 @@ Mother Harlot
 Mothman
 Mou-Ryo
 Mou-Ryou
-Mr. Bear (demon
+Mr. Bear (demon)
 Mr. Zombie
 Mucalinda
 Mudman
@@ -964,7 +964,7 @@ Nanto Seikun
 Napaea
 Narasimha
 Narcissus
-Narukami (demon
+Narukami (demon)
 Nata Taishi
 Nebiros
 Necronomicon
@@ -981,7 +981,7 @@ Nezha
 Niddhoggr
 Nidhogg
 Nidhoggr
-Night Stalker (demon
+Night Stalker (demon)
 Nightmare
 Nigi Mitama
 Nike
@@ -1015,7 +1015,7 @@ Ogre
 Ogun
 Okiku-Mushi
 Okuninushi
-Old One (demon
+Old One (demon)
 Oliver
 Oliver-kun
 Ometeotl
@@ -1036,12 +1036,12 @@ Orcus
 Oread
 Orgone Ghost
 Orias
-Orlov (Treasure Demon
+Orlov (Treasure Demon)
 Orobas
 Orpheus
 Orpheus Telos
 Orthrus
-Orthrus (demon
+Orthrus (demon)
 Ose
 Oshichi
 Oshira-sama
@@ -1092,7 +1092,7 @@ Pixie
 Plasma
 Platoon Soldier
 Pluto Soldier
-Police (Demon
+Police (Demon)
 Polisun
 Poltergeist
 Polydeuces
@@ -1104,7 +1104,7 @@ Pride
 Principality
 Prithivi
 Prometheus
-Protagonist (Shin Megami Tensei
+Protagonist (Shin Megami Tensei)
 Pucel
 Puck
 Punks
@@ -1138,7 +1138,7 @@ Raphael
 Rarung
 Rashnu
 Rasputin
-Rasputin (demon
+Rasputin (demon)
 Rastaman
 Ratatosk
 Ratatoskr
@@ -1161,7 +1161,7 @@ Rolwoy
 Rukh
 Rusalka
 Ryuman
-S.S
+S.S.
 SAT
 Sadhu
 Sage of Time
@@ -1219,13 +1219,13 @@ Sekhmet
 Selket
 Senko
 Senri
-Seraph (Demon
-Seraph (demon
+Seraph (Demon)
+Seraph (demon)
 Serpent
 Setanta
-Seth (demon
+Seth (demon)
 Shade
-Shadow (demon
+Shadow (demon)
 Shan Xiao
 Shanhui
 Sharf Shutze
@@ -1265,7 +1265,7 @@ Skoll
 Skuld
 Skylla
 Slave
-Sleipnir (demon
+Sleipnir (demon)
 Slime
 Sloth
 Sobek
@@ -1287,7 +1287,7 @@ Sraosha
 Stolas
 Stomach Bug
 Stomach Flower
-Stone of Scone (Treasure Demon
+Stone of Scone (Treasure Demon)
 Stonka
 Strawberry Frost
 Strigoi
@@ -1358,7 +1358,7 @@ Tenchu Myojou
 Tendou
 Tengu
 Tenjiku Tokubei
-Tenkai (Demon
+Tenkai (Demon)
 Tenong Cut
 Tensen Nyannyan
 Terion
@@ -1443,7 +1443,7 @@ Varuna
 Varunani
 Vasuki
 Vayu
-Venus (demon
+Venus (demon)
 Vepar
 Verdandi
 Verethragna
@@ -1472,7 +1472,7 @@ Vulcanus Prime
 Waira
 Wand Knight
 Wanyudo
-Watcher (Demon
+Watcher (Demon)
 Waxwork
 Wendigo
 Werecat
@@ -1482,12 +1482,12 @@ Whateley
 White Rider
 Wicker Man
 Wight
-Wild Hunt (demon
+Wild Hunt (demon)
 Wildfire Horde
 Will O' Wisp
 Workaholic
 Worm
-Wraith (demon
+Wraith (demon)
 Wrath
 Wu Kong
 Wyrm

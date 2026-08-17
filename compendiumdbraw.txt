@@ -6897,43 +6897,43 @@ Guan Di Sheng Gong | Hero | 66 | Shin Megami Tensei  Devil Summoner | Guan Di
 Fereydun | Hero | 62 | Shin Megami Tensei  Devil Summoner | Fereydun
 Yoshitsune | Hero | 57 | Shin Megami Tensei  Devil Summoner | Yoshitsune
 Jeanne D'Arc | Hero | 54 | Shin Megami Tensei  Devil Summoner | Jeanne D'Arc
-Pisaca | Bosses | 9 | Shin Megami Tensei  Devil Summoner | Pisaca
-Fuguruma | Bosses | 12 | Shin Megami Tensei  Devil Summoner | Fuguruma
-Yakou | Bosses | 20 | Shin Megami Tensei  Devil Summoner | Yakou
-Platoon Soldier | Bosses | 17 | Shin Megami Tensei  Devil Summoner | Platoon Soldier
-Inui | Bosses | 20 | Shin Megami Tensei  Devil Summoner | Inui
-P Gargantua | Bosses | 28 | Shin Megami Tensei  Devil Summoner | Gargantua
-Sid | Bosses | 30 | Shin Megami Tensei  Devil Summoner | Sid
-Shiki-Ouji | Bosses | 27 | Shin Megami Tensei  Devil Summoner | Shiki-Ouji
-Strigoi | Bosses | 32 | Shin Megami Tensei  Devil Summoner | Strigoi
-Strix | Bosses | 30 | Shin Megami Tensei  Devil Summoner | Strix
-Kashiyama | Bosses | 33 | Shin Megami Tensei  Devil Summoner | Kashiyama
-Gargantua | Bosses | 39 | Shin Megami Tensei  Devil Summoner | Gargantua
-Dantalian | Bosses | 40 | Shin Megami Tensei  Devil Summoner | Dantalian
-Gargantua Q | Bosses | 50 | Shin Megami Tensei  Devil Summoner | Gargantua
-Julia | Bosses | 40 | Shin Megami Tensei  Devil Summoner | Julia
-Speedy | Bosses | 43 | Shin Megami Tensei  Devil Summoner | Speedy
-Mikiya | Bosses | 38 | Shin Megami Tensei  Devil Summoner | Mikiya
-Orgone Ghost | Bosses | 45 | Shin Megami Tensei  Devil Summoner | Orgone Ghost
-Orgone Ghost | Bosses | 60 | Shin Megami Tensei  Devil Summoner | Orgone Ghost
-Gargantua X | Bosses | 58 | Shin Megami Tensei  Devil Summoner | Gargantua
-Kumbhanda | Bosses | 53 | Shin Megami Tensei  Devil Summoner | Kumbhanda
-Guan Di Sheng Gong | Bosses | 56 | Shin Megami Tensei  Devil Summoner | Guan Di
-Tendou | Bosses | 64 | Shin Megami Tensei  Devil Summoner | Tendou
-Demiurge | Bosses | 70 | Shin Megami Tensei  Devil Summoner | Demiurge
-Sid | Bosses | 66 | Shin Megami Tensei  Devil Summoner | Sid
-Gargantua 8 | Bosses | 70 | Shin Megami Tensei  Devil Summoner | Gargantua
-Ou-Magatsuhi | Bosses | 75 | Shin Megami Tensei  Devil Summoner | Magatsuhi (Zoma)
-Yaso-Magatsuhi | Bosses | 80 | Shin Megami Tensei  Devil Summoner | Magatsuhi (Zoma)
-Sid | Bosses | 69 | Shin Megami Tensei  Devil Summoner | Sid
-Inaruna | Bosses | 80 | Shin Megami Tensei  Devil Summoner | Inaruna
-Inaruna | Bosses | 100 | Shin Megami Tensei  Devil Summoner | Inaruna
-Nanto Seikun | Bosses | 73 | Shin Megami Tensei  Devil Summoner | Nanto Seikun
-Hokuto Seikun | Bosses | 75 | Shin Megami Tensei  Devil Summoner | Hokuto Seikun
-Enoch | Bosses | 99 | Shin Megami Tensei  Devil Summoner | Enoch
-David | Bosses | 99 | Shin Megami Tensei  Devil Summoner | David (demon)
-Leviathan | Bosses | 99 | Shin Megami Tensei  Devil Summoner | Leviathan
-Skoll | Bosses | 99 | Shin Megami Tensei  Devil Summoner | Skoll
+Pisaca | Spirit | 9 | Shin Megami Tensei  Devil Summoner | Pisaca
+Fuguruma | Femme | 12 | Shin Megami Tensei  Devil Summoner | Fuguruma
+Yakou | Haunt | 20 | Shin Megami Tensei  Devil Summoner | Yakou
+Platoon Soldier | Onryō | 17 | Shin Megami Tensei  Devil Summoner | Platoon Soldier
+Inui | Onryō | 20 | Shin Megami Tensei  Devil Summoner | Inui
+P Gargantua | Zōma | 28 | Shin Megami Tensei  Devil Summoner | Gargantua
+Sid | Fiend | 30 | Shin Megami Tensei  Devil Summoner | Sid
+Shiki-Ouji | Jaki | 27 | Shin Megami Tensei  Devil Summoner | Shiki-Ouji
+Strigoi | Haunt | 32 | Shin Megami Tensei  Devil Summoner | Strigoi
+Strix | Femme | 30 | Shin Megami Tensei  Devil Summoner | Strix
+Kashiyama | Onryō | 33 | Shin Megami Tensei  Devil Summoner | Kashiyama
+Gargantua | Zōma | 39 | Shin Megami Tensei  Devil Summoner | Gargantua
+Dantalian | Fallen | 40 | Shin Megami Tensei  Devil Summoner | Dantalian
+Gargantua Q | Zōma | 50 | Shin Megami Tensei  Devil Summoner | Gargantua
+Julia | Onryō | 40 | Shin Megami Tensei  Devil Summoner | Julia
+Speedy | Onryō | 43 | Shin Megami Tensei  Devil Summoner | Speedy
+Mikiya | Onryō | 38 | Shin Megami Tensei  Devil Summoner | Mikiya
+Orgone Ghost | Foul | 45 | Shin Megami Tensei  Devil Summoner | Orgone Ghost
+Orgone Ghost | Foul | 60 | Shin Megami Tensei  Devil Summoner | Orgone Ghost
+Gargantua X | Zōma | 58 | Shin Megami Tensei  Devil Summoner | Gargantua
+Kumbhanda | Haunt | 53 | Shin Megami Tensei  Devil Summoner | Kumbhanda
+Guan Di Sheng Gong | Hero | 56 | Shin Megami Tensei  Devil Summoner | Guan Di
+Tendou | Haunt | 64 | Shin Megami Tensei  Devil Summoner | Tendou
+Demiurge | Tyrant | 70 | Shin Megami Tensei  Devil Summoner | Demiurge
+Sid | Fiend | 66 | Shin Megami Tensei  Devil Summoner | Sid
+Gargantua 8 | Zōma | 70 | Shin Megami Tensei  Devil Summoner | Gargantua
+Ou-Magatsuhi | Zōma | 75 | Shin Megami Tensei  Devil Summoner | Magatsuhi (Zoma)
+Yaso-Magatsuhi | Zōma | 80 | Shin Megami Tensei  Devil Summoner | Magatsuhi (Zoma)
+Sid | Fiend | 69 | Shin Megami Tensei  Devil Summoner | Sid
+Inaruna | Koki | 80 | Shin Megami Tensei  Devil Summoner | Inaruna
+Inaruna | Koki | 100 | Shin Megami Tensei  Devil Summoner | Inaruna
+Nanto Seikun | Deity | 73 | Shin Megami Tensei  Devil Summoner | Nanto Seikun
+Hokuto Seikun | Fury | 75 | Shin Megami Tensei  Devil Summoner | Hokuto Seikun
+Enoch † | Zōma | 99 | Shin Megami Tensei  Devil Summoner | Enoch
+David † | Zōma | 99 | Shin Megami Tensei  Devil Summoner | David (demon)
+Leviathan † | Zōma | 99 | Shin Megami Tensei  Devil Summoner | Leviathan
+Skoll † | Zōma | 99 | Shin Megami Tensei  Devil Summoner | Skoll
 Michael | Herald | 73 | Shin Megami Tensei  if... | Michael
 Gabriel | Herald | 68 | Shin Megami Tensei  if... | Gabriel
 Raphael | Herald | 60 | Shin Megami Tensei  if... | Raphael

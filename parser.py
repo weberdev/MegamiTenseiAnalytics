@@ -216,9 +216,11 @@ def parseCompendium():
                         continue
 
                     race = normalizeRace(race)
-                    if not race.isascii():
+                    if gameName == "Shin Megami Tensei  Devil Summoner" and "Race" in headers:
+                        race = cells[1].get_text(strip=True)
+                    if not race.isascii() and race != "Onryō" and race != "Zōma":
                         continue
-                    if gameName == "Devil Summoner  Soul Hackers":
+                    if gameName == "Devil Summoner  Soul Hackers" or gameName == "Shin Megami Tensei  Devil Summoner":
                         if cells[nameIndex].find(["i", "em"]) is not None:
                             givenName = givenName + " †"
                     if gameName == "Persona Q":
@@ -331,7 +333,7 @@ def parseCompendium():
                             if gameName == "Persona Q":
                                 race = cells[1].get_text(strip=True)
                             race = normalizeRace(race)
-                            if not race.isascii():
+                            if not race.isascii() or race == "Onryō" or race == "Zōma":
                                 continue
                             if gameName == "Devil Summoner  Soul Hackers":
                                 if cells[nameIndex].find(["i", "em"]) is not None:

@@ -123,16 +123,14 @@ CREATE TABLE IF NOT EXISTS Appearance (
 """)
 
 for demon in Compendium:
-    canonicalName = canonicalizeName(demon.wikiName)
+    resolvedCanonicalName = canonicalizeName(demon.canonicalName)
 
     demonID = getOrCreateDemon(
-        canonicalName,
-        demon.wikiName
+        resolvedCanonicalName,
+        demon.canonicalName
     )
 
-    gameID = getOrCreateGame(
-        demon.game
-    )
+    gameID = getOrCreateGame(demon.game)
 
     insertAppearance(
         demonID,

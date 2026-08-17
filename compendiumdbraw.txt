@@ -3564,13 +3564,13 @@ Rangda | Magician | 45 | Persona Q | Rangda
 Jinn | Magician | 53 | Persona Q | Jinn
 Surt | Magician | 62 | Persona Q | Surt
 Mada | Magician | 69 | Persona Q | Mada
-Ame no Uzume | 02Priestess | 6 | Persona Q | Ame no Uzume
-High Pixie | 02Priestess | 15 | Persona Q | High Pixie
-Ganga | 02Priestess | 28 | Persona Q | Ganga
-Parvati | 02Priestess | 37 | Persona Q | Parvati
-Hariti | 02Priestess | 56 | Persona Q | Hariti
-Tzitzimitl | 02Priestess | 64 | Persona Q | Tzitzimitl
-Scathach | 02Priestess | 76 | Persona Q | Scathach
+Ame no Uzume | Priestess | 6 | Persona Q | Ame no Uzume
+High Pixie | Priestess | 15 | Persona Q | High Pixie
+Ganga | Priestess | 28 | Persona Q | Ganga
+Parvati | Priestess | 37 | Persona Q | Parvati
+Hariti | Priestess | 56 | Persona Q | Hariti
+Tzitzimitl | Priestess | 64 | Persona Q | Tzitzimitl
+Scathach | Priestess | 76 | Persona Q | Scathach
 Yaksini | Empress | 11 | Persona Q | Yaksini
 Titania | Empress | 19 | Persona Q | Titania
 Gorgon | Empress | 30 | Persona Q | Gorgon
@@ -3736,6 +3736,139 @@ Warrior Zeus* | Judgement | 87 | Persona Q | Zeus
 Ardha* | Judgement | 89 | Persona Q | Ardha
 Zeus* | Judgement | 91 | Persona Q | Zeus
 Lucifer | Judgement | 93 | Persona Q | Lucifer
+Ukobach | Pyro Order | 2 | RAIDOU Remastered  The Mystery of the Soulless Army | Ukobach
+Onmoraki | Pyro Order | 9 | RAIDOU Remastered  The Mystery of the Soulless Army | Onmoraki
+Jack-o'-Lantern | Pyro Order | 12 | RAIDOU Remastered  The Mystery of the Soulless Army | Jack-o'-Lantern
+Orthrus | Pyro Order | 16 | RAIDOU Remastered  The Mystery of the Soulless Army | Orthrus (demon)
+Enku | Pyro Order | 21 | RAIDOU Remastered  The Mystery of the Soulless Army | Enku
+Oshichi | Pyro Order | 24 | RAIDOU Remastered  The Mystery of the Soulless Army | Oshichi
+Sati | Pyro Order | 29 | RAIDOU Remastered  The Mystery of the Soulless Army | Sati
+Gdon | Pyro Order | 34 | RAIDOU Remastered  The Mystery of the Soulless Army | Gdon
+Throne | Pyro Order | 39 | RAIDOU Remastered  The Mystery of the Soulless Army | Throne
+Cerberus | Pyro Order | 44 | RAIDOU Remastered  The Mystery of the Soulless Army | Cerberus
+Vritra | Pyro Order | 49 | RAIDOU Remastered  The Mystery of the Soulless Army | Vritra
+Fionn mac Cumhaill(DLC) | Pyro Order | 52 | RAIDOU Remastered  The Mystery of the Soulless Army | Fionn mac Cumhaill
+Muspell | Pyro Order | 54 | RAIDOU Remastered  The Mystery of the Soulless Army | Muspell
+Hi-no-Kagutsuchi | Pyro Order | 58 | RAIDOU Remastered  The Mystery of the Soulless Army | Hinokagutsuchi (demon)
+Mada | Pyro Order | 61 | RAIDOU Remastered  The Mystery of the Soulless Army | Mada
+Belial | Pyro Order | 66 | RAIDOU Remastered  The Mystery of the Soulless Army | Belial
+Asura | Pyro Order | 75 | RAIDOU Remastered  The Mystery of the Soulless Army | Asura
+Preta | Frost Order | 4 | RAIDOU Remastered  The Mystery of the Soulless Army | Preta
+Azumi | Frost Order | 7 | RAIDOU Remastered  The Mystery of the Soulless Army | Azumi
+Mermaid | Frost Order | 12 | RAIDOU Remastered  The Mystery of the Soulless Army | Mermaid
+Jack Frost | Frost Order | 16 | RAIDOU Remastered  The Mystery of the Soulless Army | Jack Frost
+Pabilsag | Frost Order | 22 | RAIDOU Remastered  The Mystery of the Soulless Army | Pabilsag
+Raiho | Frost Order | 26 | RAIDOU Remastered  The Mystery of the Soulless Army | Raiho
+Jubokko | Frost Order | 28 | RAIDOU Remastered  The Mystery of the Soulless Army | Jubokko
+Okuninushi | Frost Order | 32 | RAIDOU Remastered  The Mystery of the Soulless Army | Okuninushi
+Naga Raja | Frost Order | 37 | RAIDOU Remastered  The Mystery of the Soulless Army | Naga Raja
+Artemis(DLC) | Frost Order | 40 | RAIDOU Remastered  The Mystery of the Soulless Army | Artemis
+Qing Long | Frost Order | 42 | RAIDOU Remastered  The Mystery of the Soulless Army | Seiryu
+Tarrasque | Frost Order | 46 | RAIDOU Remastered  The Mystery of the Soulless Army | Tarrasque
+Oyamatsumi | Frost Order | 50 | RAIDOU Remastered  The Mystery of the Soulless Army | Ouyamatsumi
+Arahabaki | Frost Order | 53 | RAIDOU Remastered  The Mystery of the Soulless Army | Arahabaki
+Basilisk | Frost Order | 58 | RAIDOU Remastered  The Mystery of the Soulless Army | Basilisk
+Yamata-no-Orochi | Frost Order | 63 | RAIDOU Remastered  The Mystery of the Soulless Army | Yamata-no-Orochi
+Arioch | Frost Order | 72 | RAIDOU Remastered  The Mystery of the Soulless Army | Arioch
+Agathion | Volt Order | 6 | RAIDOU Remastered  The Mystery of the Soulless Army | Agathion
+Koropokkur | Volt Order | 11 | RAIDOU Remastered  The Mystery of the Soulless Army | Koropokkuru
+Raiju | Volt Order | 15 | RAIDOU Remastered  The Mystery of the Soulless Army | Raijuu
+Tsuchigumo | Volt Order | 19 | RAIDOU Remastered  The Mystery of the Soulless Army | Tsuchigumo
+Makami | Volt Order | 24 | RAIDOU Remastered  The Mystery of the Soulless Army | Makami
+Oboroguruma | Volt Order | 27 | RAIDOU Remastered  The Mystery of the Soulless Army | Oboroguruma
+Nandi | Volt Order | 30 | RAIDOU Remastered  The Mystery of the Soulless Army | Nandi
+Hayataro | Volt Order | 34 | RAIDOU Remastered  The Mystery of the Soulless Army | Hayataro
+Cybele | Volt Order | 37 | RAIDOU Remastered  The Mystery of the Soulless Army | Cybele
+Nue | Volt Order | 41 | RAIDOU Remastered  The Mystery of the Soulless Army | Nue
+Parvati | Volt Order | 46 | RAIDOU Remastered  The Mystery of the Soulless Army | Parvati
+Mishaguji | Volt Order | 50 | RAIDOU Remastered  The Mystery of the Soulless Army | Mishaguji
+Omitsunu | Volt Order | 54 | RAIDOU Remastered  The Mystery of the Soulless Army | Oumitsunu
+Thor | Volt Order | 60 | RAIDOU Remastered  The Mystery of the Soulless Army | Thor
+Zeus(DLC) | Volt Order | 63 | RAIDOU Remastered  The Mystery of the Soulless Army | Zeus
+Barong | Volt Order | 66 | RAIDOU Remastered  The Mystery of the Soulless Army | Barong
+Vishnu | Volt Order | 74 | RAIDOU Remastered  The Mystery of the Soulless Army | Vishnu
+Angel | Wind Order | 8 | RAIDOU Remastered  The Mystery of the Soulless Army | Angel
+Poltergeist | Wind Order | 10 | RAIDOU Remastered  The Mystery of the Soulless Army | Poltergeist
+Muu Shuwuu | Wind Order | 15 | RAIDOU Remastered  The Mystery of the Soulless Army | Moh Shuvuu
+Turbo Granny | Wind Order | 19 | RAIDOU Remastered  The Mystery of the Soulless Army | Turbo Granny
+Archangel | Wind Order | 23 | RAIDOU Remastered  The Mystery of the Soulless Army | Archangel
+Anzu | Wind Order | 26 | RAIDOU Remastered  The Mystery of the Soulless Army | Anzu
+Dominion | Wind Order | 30 | RAIDOU Remastered  The Mystery of the Soulless Army | Dominion
+Feng Huang | Wind Order | 34 | RAIDOU Remastered  The Mystery of the Soulless Army | Feng Huang
+Ichimokuren | Wind Order | 38 | RAIDOU Remastered  The Mystery of the Soulless Army | Ichimokuren
+Kurama Tengu | Wind Order | 41 | RAIDOU Remastered  The Mystery of the Soulless Army | Kurama Tengu
+Hitokotonushi | Wind Order | 45 | RAIDOU Remastered  The Mystery of the Soulless Army | Hitokoto-Nushi
+Power | Wind Order | 50 | RAIDOU Remastered  The Mystery of the Soulless Army | Power
+Decarabia | Wind Order | 55 | RAIDOU Remastered  The Mystery of the Soulless Army | Decarabia
+Huang Long(DLC) | Wind Order | 58 | RAIDOU Remastered  The Mystery of the Soulless Army | Kohryu
+Ophanim | Wind Order | 61 | RAIDOU Remastered  The Mystery of the Soulless Army | Ophanim
+Camael | Wind Order | 67 | RAIDOU Remastered  The Mystery of the Soulless Army | Camael
+Sandalphon | Wind Order | 74 | RAIDOU Remastered  The Mystery of the Soulless Army | Sandalphon
+Obariyon | Fury Order | 4 | RAIDOU Remastered  The Mystery of the Soulless Army | Obariyon
+Neko Shogun | Fury Order | 9 | RAIDOU Remastered  The Mystery of the Soulless Army | Neko Shogun
+Nezha | Fury Order | 14 | RAIDOU Remastered  The Mystery of the Soulless Army | Nezha
+Turdak | Fury Order | 17 | RAIDOU Remastered  The Mystery of the Soulless Army | Turdak
+Gozuki(DLC) | Fury Order | 20 | RAIDOU Remastered  The Mystery of the Soulless Army | Gozuki
+Oni | Fury Order | 22 | RAIDOU Remastered  The Mystery of the Soulless Army | Oni
+Mezuki(DLC) | Fury Order | 25 | RAIDOU Remastered  The Mystery of the Soulless Army | Mezuki
+Lamia | Fury Order | 28 | RAIDOU Remastered  The Mystery of the Soulless Army | Lamia
+Chernobog | Fury Order | 33 | RAIDOU Remastered  The Mystery of the Soulless Army | Chernobog
+Yoshitsune | Fury Order | 36 | RAIDOU Remastered  The Mystery of the Soulless Army | Yoshitsune
+Yomotsu-Ikusa | Fury Order | 38 | RAIDOU Remastered  The Mystery of the Soulless Army | Yomotsu-Ikusa
+Triglav | Fury Order | 41 | RAIDOU Remastered  The Mystery of the Soulless Army | Triglav
+Rakshasa | Fury Order | 44 | RAIDOU Remastered  The Mystery of the Soulless Army | Rakshasa
+Shouten | Fury Order | 49 | RAIDOU Remastered  The Mystery of the Soulless Army | Shouten
+Fenrir | Fury Order | 55 | RAIDOU Remastered  The Mystery of the Soulless Army | Fenrir
+Siegfried | Fury Order | 61 | RAIDOU Remastered  The Mystery of the Soulless Army | Siegfried
+Susano-o | Fury Order | 70 | RAIDOU Remastered  The Mystery of the Soulless Army | Susano-o
+Shiva | Fury Order | 75 | RAIDOU Remastered  The Mystery of the Soulless Army | Shiva
+Alp | Pagan Order | 3 | RAIDOU Remastered  The Mystery of the Soulless Army | Alp
+Inugami | Pagan Order | 8 | RAIDOU Remastered  The Mystery of the Soulless Army | Inugami
+Mokoi | Pagan Order | 13 | RAIDOU Remastered  The Mystery of the Soulless Army | Mokoi
+Lilim | Pagan Order | 18 | RAIDOU Remastered  The Mystery of the Soulless Army | Lilim
+Okiku-Mushi | Pagan Order | 22 | RAIDOU Remastered  The Mystery of the Soulless Army | Okiku-Mushi
+Ghoul | Pagan Order | 25 | RAIDOU Remastered  The Mystery of the Soulless Army | Ghoul
+Arachne | Pagan Order | 29 | RAIDOU Remastered  The Mystery of the Soulless Army | Arachne
+Alice | Pagan Order | 33 | RAIDOU Remastered  The Mystery of the Soulless Army | Alice
+Utai-Gaikotsu | Pagan Order | 35 | RAIDOU Remastered  The Mystery of the Soulless Army | Utai-gaikotsu
+Black Frost | Pagan Order | 40 | RAIDOU Remastered  The Mystery of the Soulless Army | Black Frost
+Nebiros | Pagan Order | 43 | RAIDOU Remastered  The Mystery of the Soulless Army | Nebiros
+Gashadokuro | Pagan Order | 47 | RAIDOU Remastered  The Mystery of the Soulless Army | Gashadokuro
+Incubus | Pagan Order | 51 | RAIDOU Remastered  The Mystery of the Soulless Army | Incubus
+Mot | Pagan Order | 55 | RAIDOU Remastered  The Mystery of the Soulless Army | Mot
+Lilith | Pagan Order | 58 | RAIDOU Remastered  The Mystery of the Soulless Army | Lilith
+Rangda | Pagan Order | 64 | RAIDOU Remastered  The Mystery of the Soulless Army | Rangda
+Mara | Pagan Order | 70 | RAIDOU Remastered  The Mystery of the Soulless Army | Mara
+Beelzebub | Pagan Order | 80 | RAIDOU Remastered  The Mystery of the Soulless Army | Beelzebub
+Legion(Rare) | Skill Order | 4 | RAIDOU Remastered  The Mystery of the Soulless Army | Legion
+Legion | Skill Order | 5 | RAIDOU Remastered  The Mystery of the Soulless Army | Legion
+Pixie | Skill Order | 6 | RAIDOU Remastered  The Mystery of the Soulless Army | Pixie
+Ippon-Datara | Skill Order | 12 | RAIDOU Remastered  The Mystery of the Soulless Army | Ippon-Datara
+Tam Lin | Skill Order | 18 | RAIDOU Remastered  The Mystery of the Soulless Army | Tam Lin
+Legion(Physical) | Skill Order | 20 | RAIDOU Remastered  The Mystery of the Soulless Army | Legion
+Legion(Magic) | Skill Order | 20 | RAIDOU Remastered  The Mystery of the Soulless Army | Legion
+Legion(Healing) | Skill Order | 20 | RAIDOU Remastered  The Mystery of the Soulless Army | Legion
+Leanan Sidhe | Skill Order | 25 | RAIDOU Remastered  The Mystery of the Soulless Army | Leanan Sidhe
+Nekomata | Skill Order | 29 | RAIDOU Remastered  The Mystery of the Soulless Army | Nekomata
+Idun | Skill Order | 34 | RAIDOU Remastered  The Mystery of the Soulless Army | Idun
+Thoth | Skill Order | 38 | RAIDOU Remastered  The Mystery of the Soulless Army | Thoth
+Nagasunehiko | Skill Order | 41 | RAIDOU Remastered  The Mystery of the Soulless Army | Nagasunehiko
+Abihiko | Skill Order | 44 | RAIDOU Remastered  The Mystery of the Soulless Army | Abihiko
+Scathach | Skill Order | 47 | RAIDOU Remastered  The Mystery of the Soulless Army | Scathach
+Kudan | Skill Order | 51 | RAIDOU Remastered  The Mystery of the Soulless Army | Kudan
+Futsunushi | Skill Order | 56 | RAIDOU Remastered  The Mystery of the Soulless Army | Futsunushi
+Taotie | Skill Order | 62 | RAIDOU Remastered  The Mystery of the Soulless Army | Taotie
+Belphegor | Skill Order | 71 | RAIDOU Remastered  The Mystery of the Soulless Army | Belphegor
+Erthys | Element Order | 14 | RAIDOU Remastered  The Mystery of the Soulless Army | Erthys
+Aeros | Element Order | 17 | RAIDOU Remastered  The Mystery of the Soulless Army | Aeros
+Aquans | Element Order | 19 | RAIDOU Remastered  The Mystery of the Soulless Army | Aquans
+Flaemis | Element Order | 21 | RAIDOU Remastered  The Mystery of the Soulless Army | Flaemis
+Sylph | Element Order | 29 | RAIDOU Remastered  The Mystery of the Soulless Army | Sylph
+Undine | Element Order | 31 | RAIDOU Remastered  The Mystery of the Soulless Army | Undine
+Ara Mitama | Mitama Order | 22 | RAIDOU Remastered  The Mystery of the Soulless Army | Ara Mitama
+Nigi Mitama | Mitama Order | 25 | RAIDOU Remastered  The Mystery of the Soulless Army | Nigi Mitama
+Kushi Mitama | Mitama Order | 30 | RAIDOU Remastered  The Mystery of the Soulless Army | Kushi Mitama
+Saki Mitama | Mitama Order | 32 | RAIDOU Remastered  The Mystery of the Soulless Army | Saki Mitama
 Michael | Herald | 40 | Ronde | Michael
 Gabriel | Herald | 33 | Ronde | Gabriel
 Raphael | Herald | 28 | Ronde | Raphael

@@ -42,7 +42,8 @@ def normalizeRace(race):
         race = "Wand"
     if race == "Seraph/Herald":
         race = "Herald"
-
+    if race == "02Priestess":
+        race = "Priestess"
 
     return race.strip()
 
@@ -224,6 +225,9 @@ def parseCompendium():
                         race = cells[1].get_text(strip=True)
                     if gameName == "Persona Q":
                         race = re.sub(r'^\d+\.0', '', race)
+                    if race == "02Priestess":
+                        race = "Priestess"
+
                     demon = Demon_Instance(
                         givenName,
                         race,
@@ -335,6 +339,7 @@ def parseCompendium():
                             if gameName == "Persona Q":
                                 print("Persona Q hit")
                                 race = re.sub(r'^\d+\.0', '', race)
+
                             demon = Demon_Instance(
                                 givenName,
                                 race,

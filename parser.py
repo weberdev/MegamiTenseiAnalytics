@@ -50,6 +50,94 @@ def normalizeRace(race):
 def parseCompendium():
     import re
 
+    def parseSoulHackersBosses():
+        bossesHeading = soup.find(
+            "span",
+            class_="mw-headline",
+            id="Bosses"
+        )
+
+        if bossesHeading is None:
+            return
+
+        element = bossesHeading.parent.find_next_sibling()
+
+        while element is not None:
+            # Stop when we hit the next h2-level section
+            if element.name == "h2":
+                break
+
+            if element.name == "table":
+                headers = [
+                    th.get_text(strip=True)
+                    for th in element.find_all("th")
+                ]
+
+                if "Demon" not in headers:
+                    element = element.find_next_sibling()
+                    continue
+
+                nameIndex = headers.index("Demon")
+
+                raceIndex = (
+                    headers.index("Race")
+                    if "Race" in headers
+                    else None
+                )
+
+                levelIndex = (
+                    headers.index("Lvl.")
+                    if "Lvl." in headers
+                    else None
+                )
+
+                for row in element.find_all("tr"):
+                    cells = row.find_all(["td", "th"])
+
+                    if len(cells) <= nameIndex:
+                        continue
+
+                    givenName = cells[nameIndex].get_text(strip=True)
+
+                    if givenName in ["", "Demon"]:
+                        continue
+
+                    nameLink = cells[nameIndex].find("a")
+
+                    if nameLink is not None:
+                        canonicalName = nameLink.get(
+                            "title",
+                            givenName
+                        )
+                    else:
+                        canonicalName = givenName
+
+                    race = (
+                        cells[raceIndex].get_text(strip=True)
+                        if raceIndex is not None
+                           and len(cells) > raceIndex
+                        else "Boss"
+                    )
+
+                    level = (
+                        cells[levelIndex].get_text(strip=True)
+                        if levelIndex is not None
+                           and len(cells) > levelIndex
+                        else None
+                    )
+                    print(givenName, race, level)
+                    Compendium.append(
+                        Demon_Instance(
+                            givenName,
+                            canonicalName,
+                            race,
+                            level,
+                            gameName
+                        )
+
+                    )
+
+            element = element.find_next_sibling()
     def parsePersona1Table():
         if "Demons" in file.stem:
             headings = soup.find_all("h3")
@@ -130,6 +218,8 @@ def parseCompendium():
         gameName = gameName.removeprefix("List of ")
         gameName = gameName.removesuffix(" Demons")
         gameName = gameName.removesuffix(" Personas")
+        if gameName == "Devil Summoner  Soul Hackers":
+            parseSoulHackersBosses()
 
         if gameName == "Megami Ibunroku Persona":
             parsePersona1Table()

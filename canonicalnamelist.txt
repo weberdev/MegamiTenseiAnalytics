@@ -96,6 +96,7 @@ Armaiti
 Army Zombie
 Arsène
 Artemis
+Artemisia
 Arthur (demon)
 Ascomid
 Asherah
@@ -204,6 +205,7 @@ Butcher
 Byakhee
 Byakko
 Cabracan
+Caesar
 Cailleach Bheare
 Cait Sith
 Caladrius
@@ -308,6 +310,7 @@ Demonstrators
 Depth
 Deva
 Devil Buster Busters
+Devil Summoner  Soul Hackers
 Diana (Roman)
 Diarmuid
 Dilu Horse (Hex Mark)
@@ -609,11 +612,13 @@ Julia
 Junk
 Junkie
 Junnosuke Kuroda
+Juno
 Kabandha
 Kabuso
 Kaguya Hime
 Kaiming Shou
 Kaiwan
+Kala-Nemi
 Kali
 Kalki
 Kama
@@ -622,10 +627,12 @@ Kamapua'a
 Kamen-Hijiri
 Kamiotoko
 Kamu Susano-o
+Kamui
 Kanaloa
 Kanbari
 Kangiten
 Kanshou and Bakuya
+Kanzeon
 Karasu Tengu
 Karma Soldier
 Kartikeya
@@ -1167,6 +1174,7 @@ Surt
 Surya
 Susano-o
 Suzaku
+Suzuka Gongen
 Sventovit
 Sword Knight
 Sylph
@@ -1239,6 +1247,7 @@ Toubyou
 Treant
 Tribhvana
 Triglav
+Trismegistus
 Troll
 Trumpeter
 Tschaggatta

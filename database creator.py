@@ -101,11 +101,39 @@ CREATE TABLE IF NOT EXISTS Demon (
 cursor.execute("""
 CREATE TABLE IF NOT EXISTS Game (
     game_id INTEGER PRIMARY KEY,
-    name TEXT NOT NULL,
+    name TEXT NOT NULL UNIQUE,
     release_year INTEGER,
     series TEXT,
     subseries TEXT,
-    game_family TEXT
+    family_id INTEGER,
+    FOREIGN KEY (family_id)
+        REFERENCES GameFamily(family_id)
+)
+""")
+
+cursor.execute("""
+CREATE TABLE IF NOT EXISTS GameFamily (
+    family_id INTEGER PRIMARY KEY,
+    name TEXT NOT NULL
+)
+""")
+
+cursor.execute("""
+CREATE TABLE IF NOT EXISTS Mythology (
+    mythology_id INTEGER PRIMARY KEY,
+    name TEXT NOT NULL
+)
+""")
+
+cursor.execute("""
+CREATE TABLE IF NOT EXISTS DemonMythology (
+    demon_id INTEGER NOT NULL,
+    mythology_id INTEGER NOT NULL,
+    PRIMARY KEY (demon_id, mythology_id),
+    FOREIGN KEY (demon_id)
+        REFERENCES Demon(demon_id),
+    FOREIGN KEY (mythology_id)
+        REFERENCES MYTHOLOGY(mythology_id)
 )
 """)
 

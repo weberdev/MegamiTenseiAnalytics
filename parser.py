@@ -47,9 +47,66 @@ def normalizeRace(race):
 
     return race.strip()
 
+
+
 def parseCompendium():
     import re
+    def parsePQInitialPersonas():
+        heading = soup.find("span", id="Innate_Personas")
 
+        if heading is None:
+            return
+
+        table = heading.parent.find_next_sibling("table")
+
+        if table is None:
+            return
+
+        currentArcana = None
+
+        for row in table.find_all("tr"):
+            cells = row.find_all("td")
+
+            if not cells:
+                continue
+
+            # In this table, the first td of a real Persona row is the Persona.
+            personaCell = cells[0]
+            nameLink = personaCell.find("a")
+
+            if nameLink is None:
+                continue
+
+            givenName = nameLink.get_text(" ", strip=True)
+            canonicalName = nameLink.get("title") or givenName
+
+            # Some rows explicitly contain Arcana;
+            # subsequent rowspan rows inherit the previous one.
+            for cell in cells:
+                arcanaLink = cell.find(
+                    "a",
+                    href=re.compile(r"Arcana")
+                )
+
+                if arcanaLink is not None:
+                    currentArcana = arcanaLink.get_text(
+                        " ",
+                        strip=True
+                    )
+                    break
+
+            if currentArcana is None:
+                continue
+
+            demon = Demon_Instance(
+                givenName,
+                currentArcana,
+                1,
+                gameName,
+                canonicalName
+            )
+
+            Compendium.append(demon)
     def parseSoulHackersBosses():
         bossesHeading = soup.find(
             "span",
@@ -220,7 +277,8 @@ def parseCompendium():
         gameName = gameName.removesuffix(" Personas")
         if gameName == "Devil Summoner  Soul Hackers":
             parseSoulHackersBosses()
-
+        if gameName == "Persona Q" or gameName == "Persona Q2":
+            parsePQInitialPersonas()
         if gameName == "Megami Ibunroku Persona":
             parsePersona1Table()
             continue

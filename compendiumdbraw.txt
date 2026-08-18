@@ -3367,6 +3367,26 @@ Azathoth | Councillor |  | Persona 5 Royal | Azathoth
 Decarabia | Councillor | 32 | Persona 5 Royal | Decarabia
 Dionysus | Councillor | 71 | Persona 5 Royal | Dionysus
 Izanagi-no-Okami | World | 80 | Persona 5 Royal | Izanagi-no-Okami
+Orpheus | Fool | 1 | Persona Q2 | Orpheus
+Orpheus Telos | Fool | 1 | Persona Q2 | Orpheus Telos
+Orpheus | Fool | 1 | Persona Q2 | Orpheus
+Messiah | Judgement | 1 | Persona Q2 | Messiah (Persona)
+Io | Lovers | 1 | Persona Q2 | Io (Persona)
+Isis | Lovers | 1 | Persona Q2 | Isis
+Hermes | Magician | 1 | Persona Q2 | Hermes
+Trismegistus | Magician | 1 | Persona Q2 | Trismegistus
+Polydeuces | Emperor | 1 | Persona Q2 | Polydeuces
+Caesar | Emperor | 1 | Persona Q2 | Caesar
+Penthesilea | Empress | 1 | Persona Q2 | Penthesilea
+Artemisia | Empress | 1 | Persona Q2 | Artemisia
+Lucia | Priestess | 1 | Persona Q2 | Lucia
+Juno | Priestess | 1 | Persona Q2 | Juno
+Palladion | Chariot | 1 | Persona Q2 | Palladion
+Athena | Chariot | 1 | Persona Q2 | Athena
+Cerberus | Strength | 1 | Persona Q2 | Cerberus
+Nemesis | Justice | 1 | Persona Q2 | Nemesis
+Kala-Nemi | Justice | 1 | Persona Q2 | Kala-Nemi
+Castor | Hierophant | 1 | Persona Q2 | Castor
 Slime | Fool | 1 | Persona Q2 | Slime
 Bifrons | Fool | 12 | Persona Q2 | Bifrons
 Mothman | Fool | 20 | Persona Q2 | Mothman
@@ -3612,6 +3632,40 @@ Trumpeter | Judgement | 64 | Persona Q2 | Trumpeter
 Michael° | Judgement | 68 | Persona Q2 | Michael
 Satan | Judgement | 81 | Persona Q2 | Satan
 Lucifer° | Judgement | 88 | Persona Q2 | Lucifer
+Orpheus | Fool | 1 | Persona Q | Orpheus
+Messiah | World | 1 | Persona Q | Messiah (Persona)
+Io | Lovers | 1 | Persona Q | Io (Persona)
+Isis | Lovers | 1 | Persona Q | Isis
+Hermes | Magician | 1 | Persona Q | Hermes
+Trismegistus | Magician | 1 | Persona Q | Trismegistus
+Polydeuces | Emperor | 1 | Persona Q | Polydeuces
+Caesar | Emperor | 1 | Persona Q | Caesar
+Penthesilea | Empress | 1 | Persona Q | Penthesilea
+Artemisia | Empress | 1 | Persona Q | Artemisia
+Lucia | Priestess | 1 | Persona Q | Lucia
+Juno | Priestess | 1 | Persona Q | Juno
+Palladion | Chariot | 1 | Persona Q | Palladion
+Athena | Chariot | 1 | Persona Q | Athena
+Cerberus | Strength | 1 | Persona Q | Cerberus
+Nemesis | Justice | 1 | Persona Q | Nemesis
+Kala-Nemi | Justice | 1 | Persona Q | Kala-Nemi
+Castor | Hierophant | 1 | Persona Q | Castor
+Izanagi | Fool | 1 | Persona Q | Izanagi
+Izanagi-no-Okami | World | 1 | Persona Q | Izanagi-no-Okami
+Jiraiya | Magician | 1 | Persona Q | Jiraiya
+Susano-O | Magician | 1 | Persona Q | Susano-O
+Tomoe | Chariot | 1 | Persona Q | Tomoe
+Suzuka Gongen | Chariot | 1 | Persona Q | Suzuka Gongen
+Konohana Sakuya | Priestess | 1 | Persona Q | Konohana Sakuya
+Amaterasu | Priestess | 1 | Persona Q | Amaterasu
+Take-Mikazuchi | Emperor | 1 | Persona Q | Take-Mikazuchi
+Rokuten Maoh | Emperor | 1 | Persona Q | Rokuten Maoh
+Himiko | Lovers | 1 | Persona Q | Himiko
+Kanzeon | Lovers | 1 | Persona Q | Kanzeon
+Kintoki-Douji | Star | 1 | Persona Q | Kintoki-Douji
+Kamui | Star | 1 | Persona Q | Kamui
+Sukuna-Hikona | Fortune | 1 | Persona Q | Sukuna-Hikona
+Yamato-Takeru | Fortune | 1 | Persona Q | Yamato-Takeru
 Slime | Fool | 1 | Persona Q | Slime
 Legion | Fool | 21 | Persona Q | Legion
 Orpheus Telos↓ | Fool | 26 | Persona Q | Orpheus Telos

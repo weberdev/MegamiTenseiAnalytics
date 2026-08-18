@@ -102,6 +102,7 @@ Armaiti
 Army Zombie
 Arsène
 Artemis
+Artemisia
 Arthur (demon)
 Ascomid
 Asherah
@@ -118,6 +119,7 @@ Asterius
 Astria
 Asura
 Atavaka
+Athena
 Atlas
 Atropos
 Attis
@@ -219,6 +221,7 @@ Butcher
 Byakhee
 Byakko
 Cabracan
+Caesar
 Cai-Zhi
 Cailleach Bheare
 Caim
@@ -672,6 +675,7 @@ Jumping Geezer
 Junk
 Junkie
 Junnosuke Kuroda
+Juno
 Kabanda
 Kabandha
 Kabuso
@@ -680,6 +684,7 @@ Kaguya Hime
 Kaichi
 Kaiming Shou
 Kaiwan
+Kala-Nemi
 Kali
 Kalki
 Kama
@@ -689,10 +694,12 @@ Kamapua'a
 Kamen-Hijiri
 Kamiotoko
 Kamu Susano-o
+Kamui
 Kanaloa
 Kanbari
 Kangiten
 Kanshou
+Kanzeon
 Karasu
 Karasu Tengu
 Karma Soldier
@@ -1159,6 +1166,7 @@ Rinok
 Robin Goodfellow
 Robin Hood
 Roc
+Rokuten Maoh
 Rolwoy
 Rukh
 Rusalka
@@ -1312,6 +1320,7 @@ Surya
 Susano-O
 Susano-o
 Suzaku
+Suzuka Gongen
 Sventovit
 Sword Knight
 Sylph
@@ -1397,6 +1406,7 @@ Toufei
 Treant
 Tribhvana
 Triglav
+Trismegistus
 Troll
 Trumpeter
 Tschaggatta

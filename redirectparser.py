@@ -5,7 +5,7 @@ from collections import defaultdict
 with open("redirect_map.json", encoding="utf-8") as f:
     redirectMap = json.load(f)
 
-def canonicalizeName(wikiName):
+def resolveWikiName(wikiName):
     return redirectMap.get(wikiName, wikiName)
 
 def comparisonKey(name):
@@ -24,7 +24,7 @@ with open("uniquenamelist.txt", encoding="utf-8") as f:
 
 # Apply wiki redirects
 canonicalNames = {
-    canonicalizeName(name)
+    resolveWikiName(name)
     for name in names
 }
 
@@ -72,4 +72,4 @@ tests = [
 ]
 
 for name in tests:
-    print(name, "->", canonicalizeName(name))
+    print(name, "->", resolveWikiName(name))

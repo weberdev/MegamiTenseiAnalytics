@@ -240,72 +240,72 @@ Zombie | Undead Order | 2 | Devil Summoner  Raidou Kuzunoha vs. The Soulless Arm
 Zombie Lady | Undead Order | 10 | Devil Summoner  Raidou Kuzunoha vs. The Soulless Army | Zombie Lady
 Zombie Officer | Undead Order | 25 | Devil Summoner  Raidou Kuzunoha vs. The Soulless Army | Zombie Officer
 Zombie Guard | Undead Order | 30 | Devil Summoner  Raidou Kuzunoha vs. The Soulless Army | Zombie Guard
-Carol J | Carol J | Summoner | 7 | Devil Summoner  Soul Hackers
-Preta | Preta | Haunt | 3 | Devil Summoner  Soul Hackers
-Padlock | Padlock | Undead | 4 | Devil Summoner  Soul Hackers
-Ippon-Datara | Ippon-Datara | Jaki | 5 | Devil Summoner  Soul Hackers
-Gargantua Zero | Gargantua | Zoma | 16 | Devil Summoner  Soul Hackers
-Moowis | Moowis | Cyber | 20 | Devil Summoner  Soul Hackers
-Speedy Demon | Speed Demon | Rumor | 18 | Devil Summoner  Soul Hackers
-Headless Rider*3 | Headless Rider | Undead | 17 | Devil Summoner  Soul Hackers
-Rei Reiho | Rei Reiho | Human | 39 | Devil Summoner  Soul Hackers
-Winpe | Winpe | Cyber | 18 | Devil Summoner  Soul Hackers
-Juggler | Juggler | Foul | 28 | Devil Summoner  Soul Hackers
-Snappy | Snappy | Wilder | 32 | Devil Summoner  Soul Hackers
-Moowis | Moowis | Cyber | 25 | Devil Summoner  Soul Hackers
-Moowis | Moowis | Cyber | 36 | Devil Summoner  Soul Hackers
-Finnegan | Finnegan | Summoner | 36 | Devil Summoner  Soul Hackers
-Hellhound | Hellhound | Wilder | 13 | Devil Summoner  Soul Hackers
-Orthrus | Orthrus (demon) | Beast | 31 | Devil Summoner  Soul Hackers
-Berserker | Berserker | Jaki | 33 | Devil Summoner  Soul Hackers
-Rakshasa | Rakshasa | Jaki | 28 | Devil Summoner  Soul Hackers
-Omphalos | Omphalos | Wood | 30 | Devil Summoner  Soul Hackers
-Alraune | Alraune | Wood | 28 | Devil Summoner  Soul Hackers
-Erika | Erika | Ghost | 43 | Devil Summoner  Soul Hackers
-Lukoje | Lukoje | Night | 30 | Devil Summoner  Soul Hackers
-Goggie | Goggie | Vermin | 31 | Devil Summoner  Soul Hackers
-Bugs | Bugbear | Wilder | 34 | Devil Summoner  Soul Hackers
-Mayōne | Mayone | Summoner | 43 | Devil Summoner  Soul Hackers
-Purple Mirror | Purple Mirror | Rumor | 42 | Devil Summoner  Soul Hackers
-Vetala | Vetala | Haunt | 40 | Devil Summoner  Soul Hackers
-Kaso | Kaso | Beast | 37 | Devil Summoner  Soul Hackers
-Mizuchi | Mizuchi | Snake | 38 | Devil Summoner  Soul Hackers
-Romero | Romero | Summoner | 45 | Devil Summoner  Soul Hackers
-Rolwoy | Rolwoy | Yoma | 36 | Devil Summoner  Soul Hackers
-Shemyaza | Shemyaza | Tyrant | 52 | Devil Summoner  Soul Hackers
-Tiamat | Tiamat | Godly | 73 | Devil Summoner  Soul Hackers
-Apsu | Apsu | Godly | 74 | Devil Summoner  Soul Hackers
-Finnegan | Finnegan | Summoner | 54 | Devil Summoner  Soul Hackers
-Cernunnos | Cernunnos | Reaper | 53 | Devil Summoner  Soul Hackers
-Malsumis | Malsum | Cyber | 60 | Devil Summoner  Soul Hackers
-Azazel | Azazel | Tyrant | 68 | Devil Summoner  Soul Hackers
-Satanael | Satanael | Tyrant | 70 | Devil Summoner  Soul Hackers
-Kadokura | Kadokura | Great | 74 | Devil Summoner  Soul Hackers
-Manitou | Manitou | Great | 82 | Devil Summoner  Soul Hackers
-Manitou | Manitou | Great | 83 | Devil Summoner  Soul Hackers
-King Frost | King Frost | Tyrant | 79 | Devil Summoner  Soul Hackers
-Mara | Mara | Tyrant | 91 | Devil Summoner  Soul Hackers
-Lilith | Lilith | Night | 88 | Devil Summoner  Soul Hackers
-Lucifuge | Lucifuge | Tyrant | 93 | Devil Summoner  Soul Hackers
-Beelzebub | Beelzebub | Tyrant | 99 | Devil Summoner  Soul Hackers
-Inui | Inui | Ghost | 75 | Devil Summoner  Soul Hackers
-Sid | Sid Davis | Summoner | 69 | Devil Summoner  Soul Hackers
-Vishnu | Vishnu | Deity | 82 | Devil Summoner  Soul Hackers
-Anat | Anat | Megami | 72 | Devil Summoner  Soul Hackers
-Shiva | Shiva | Fury | 84 | Devil Summoner  Soul Hackers
-Kali | Kali | Lady | 76 | Devil Summoner  Soul Hackers
-Metatron | Metatron | Herald | 80 | Devil Summoner  Soul Hackers
-Kyouji | Protagonist (Devil Summoner) | Summoner | 99 | Devil Summoner  Soul Hackers
-Gashadokuro | Gashadokuro | Jaki | 80 | Devil Summoner  Soul Hackers
-Yoshitsune | Yoshitsune | Hero | 80 | Devil Summoner  Soul Hackers
-Mishaguji | Mishaguji | Vile | 80 | Devil Summoner  Soul Hackers
-Azumi | Azumi | Brute | 80 | Devil Summoner  Soul Hackers
-Ippon-Datara | Ippon-Datara | Jaki | 80 | Devil Summoner  Soul Hackers
-Moh Shuvuu | Moh Shuvuu | Raptor | 80 | Devil Summoner  Soul Hackers
-Mokoi | Mokoi | Night | 80 | Devil Summoner  Soul Hackers
-Raido | Raido Kuzunoha XIV | Summoner | 99 | Devil Summoner  Soul Hackers
-Raidou | Raidou Kuzunoha XIV | Summoner | 99 | Devil Summoner  Soul Hackers
-Soulless God Oumagatsu | Soulless God Oumagatsu | Machine | 99 | Devil Summoner  Soul Hackers
+Carol J | Summoner | 7 | Devil Summoner  Soul Hackers | Carol J
+Preta | Haunt | 3 | Devil Summoner  Soul Hackers | Preta
+Padlock | Undead | 4 | Devil Summoner  Soul Hackers | Padlock
+Ippon-Datara | Jaki | 5 | Devil Summoner  Soul Hackers | Ippon-Datara
+Gargantua Zero | Zoma | 16 | Devil Summoner  Soul Hackers | Gargantua
+Moowis | Cyber | 20 | Devil Summoner  Soul Hackers | Moowis
+Speedy Demon | Rumor | 18 | Devil Summoner  Soul Hackers | Speed Demon
+Headless Rider*3 | Undead | 17 | Devil Summoner  Soul Hackers | Headless Rider*3
+Rei Reiho | Human | 39 | Devil Summoner  Soul Hackers | Rei Reiho
+Winpe | Cyber | 18 | Devil Summoner  Soul Hackers | Winpe
+Juggler | Foul | 28 | Devil Summoner  Soul Hackers | Juggler
+Snappy | Wilder | 32 | Devil Summoner  Soul Hackers | Snappy
+Moowis | Cyber | 25 | Devil Summoner  Soul Hackers | Moowis
+Moowis | Cyber | 36 | Devil Summoner  Soul Hackers | Moowis
+Finnegan | Summoner | 36 | Devil Summoner  Soul Hackers | Finnegan
+Hellhound | Wilder | 13 | Devil Summoner  Soul Hackers | Hellhound
+Orthrus | Beast | 31 | Devil Summoner  Soul Hackers | Orthrus (demon)
+Berserker | Jaki | 33 | Devil Summoner  Soul Hackers | Berserker
+Rakshasa | Jaki | 28 | Devil Summoner  Soul Hackers | Rakshasa
+Omphalos | Wood | 30 | Devil Summoner  Soul Hackers | Omphalos
+Alraune | Wood | 28 | Devil Summoner  Soul Hackers | Alraune
+Erika | Ghost | 43 | Devil Summoner  Soul Hackers | Erika
+Lukoje | Night | 30 | Devil Summoner  Soul Hackers | Lukoje
+Goggie | Vermin | 31 | Devil Summoner  Soul Hackers | Goggie
+Bugs | Wilder | 34 | Devil Summoner  Soul Hackers | Bugbear
+Mayōne | Summoner | 43 | Devil Summoner  Soul Hackers | Mayone
+Purple Mirror | Rumor | 42 | Devil Summoner  Soul Hackers | Purple Mirror
+Vetala | Haunt | 40 | Devil Summoner  Soul Hackers | Vetala
+Kaso | Beast | 37 | Devil Summoner  Soul Hackers | Kaso
+Mizuchi | Snake | 38 | Devil Summoner  Soul Hackers | Mizuchi
+Romero | Summoner | 45 | Devil Summoner  Soul Hackers | Romero
+Rolwoy | Yoma | 36 | Devil Summoner  Soul Hackers | Rolwoy
+Shemyaza | Tyrant | 52 | Devil Summoner  Soul Hackers | Shemyaza
+Tiamat | Godly | 73 | Devil Summoner  Soul Hackers | Tiamat
+Apsu | Godly | 74 | Devil Summoner  Soul Hackers | Apsu
+Finnegan | Summoner | 54 | Devil Summoner  Soul Hackers | Finnegan
+Cernunnos | Reaper | 53 | Devil Summoner  Soul Hackers | Cernunnos
+Malsumis | Cyber | 60 | Devil Summoner  Soul Hackers | Malsum
+Azazel | Tyrant | 68 | Devil Summoner  Soul Hackers | Azazel
+Satanael | Tyrant | 70 | Devil Summoner  Soul Hackers | Satanael
+Kadokura | Great | 74 | Devil Summoner  Soul Hackers | Kadokura
+Manitou | Great | 82 | Devil Summoner  Soul Hackers | Manitou
+Manitou | Great | 83 | Devil Summoner  Soul Hackers | Manitou
+King Frost | Tyrant | 79 | Devil Summoner  Soul Hackers | King Frost
+Mara | Tyrant | 91 | Devil Summoner  Soul Hackers | Mara
+Lilith | Night | 88 | Devil Summoner  Soul Hackers | Lilith
+Lucifuge | Tyrant | 93 | Devil Summoner  Soul Hackers | Lucifuge
+Beelzebub | Tyrant | 99 | Devil Summoner  Soul Hackers | Beelzebub
+Inui | Ghost | 75 | Devil Summoner  Soul Hackers | Inui
+Sid | Summoner | 69 | Devil Summoner  Soul Hackers | Sid Davis
+Vishnu | Deity | 82 | Devil Summoner  Soul Hackers | Vishnu
+Anat | Megami | 72 | Devil Summoner  Soul Hackers | Anat
+Shiva | Fury | 84 | Devil Summoner  Soul Hackers | Shiva
+Kali | Lady | 76 | Devil Summoner  Soul Hackers | Kali
+Metatron | Herald | 80 | Devil Summoner  Soul Hackers | Metatron
+Kyouji | Summoner | 99 | Devil Summoner  Soul Hackers | Protagonist (Devil Summoner)
+Gashadokuro | Jaki | 80 | Devil Summoner  Soul Hackers | Gashadokuro
+Yoshitsune | Hero | 80 | Devil Summoner  Soul Hackers | Yoshitsune
+Mishaguji | Vile | 80 | Devil Summoner  Soul Hackers | Mishaguji
+Azumi | Brute | 80 | Devil Summoner  Soul Hackers | Azumi
+Ippon-Datara | Jaki | 80 | Devil Summoner  Soul Hackers | Ippon-Datara
+Moh Shuvuu | Raptor | 80 | Devil Summoner  Soul Hackers | Moh Shuvuu
+Mokoi | Night | 80 | Devil Summoner  Soul Hackers | Mokoi
+Raido | Summoner | 99 | Devil Summoner  Soul Hackers | Raido Kuzunoha XIV
+Raidou | Summoner | 99 | Devil Summoner  Soul Hackers | Raidou Kuzunoha XIV
+Soulless God Oumagatsu | Machine | 99 | Devil Summoner  Soul Hackers | Soulless God Oumagatsu
 Vishnu | Deity | 84 | Devil Summoner  Soul Hackers | Vishnu
 Baal | Deity | 73 | Devil Summoner  Soul Hackers | Baal
 Odin* † | Deity | 66 | Devil Summoner  Soul Hackers | Odin

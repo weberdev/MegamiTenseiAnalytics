@@ -235,6 +235,7 @@ Cancer
 Captain Kidd
 Carbuncle
 Carmen
+Carol J
 Carrie
 Castor
 Cath Palug
@@ -332,7 +333,6 @@ Demonica-L, Demonica-N, & Demonica-C
 Demonstrators
 Depth
 Devil Buster Busters
-Devil Summoner  Soul Hackers
 Diana (Roman)
 Diarmuid
 Dilu Horse (Hex Mark)
@@ -379,6 +379,7 @@ En no Ozuno
 Enku
 Enoch
 Envy
+Erika
 Erinyes
 Erlkonig
 Eros
@@ -403,6 +404,7 @@ Fenrir
 Fereydun
 Fergus
 Fighter Horde
+Finnegan
 Fionn mac Cumhaill
 Fir Bolg
 Fjalar
@@ -486,6 +488,7 @@ Glasya-Labolas
 Gnome
 Goblin
 Goemon
+Goggie
 Gogmagog
 Golem
 Gomory
@@ -543,6 +546,7 @@ Hayagriva
 Hayataro
 Hayatarou
 Headless Rider
+Headless Rider*3
 Heavy Metal
 Hecate
 Hecatoncheir
@@ -670,6 +674,7 @@ Jorougumo
 Juanlian Dajiang
 Jubokko
 Jueyuan
+Juggler
 Julia
 Jumping Geezer
 Junk
@@ -679,6 +684,7 @@ Juno
 Kabanda
 Kabandha
 Kabuso
+Kadokura
 Kaguya
 Kaguya Hime
 Kaichi
@@ -837,6 +843,7 @@ Lucifer Frost
 Lucifroz
 Lucifuge
 Lugh
+Lukoje
 Lust
 Luvah
 Macabre
@@ -858,6 +865,7 @@ Maitreya
 Makami
 Makara
 Malphas
+Malsum
 Mamedanuki
 Mammon
 Man Eater
@@ -865,6 +873,7 @@ Manananggal
 Manannan
 Mandrake
 Mangadhai
+Manitou
 Manticore
 Mara
 Marchosias
@@ -887,6 +896,7 @@ Maui
 Maya (demon, Hindu)
 Maya (demon, Mayan)
 Mayahuel
+Mayone
 Medea
 Medusa (demon)
 Mega Planaria
@@ -935,6 +945,7 @@ Mokoi
 Mokosh
 Moloch
 Momunofu
+Moowis
 Morax
 Morgan
 Morning Star
@@ -1030,6 +1041,7 @@ Oliver-kun
 Ometeotl
 Omoikane
 Omoteotl
+Omphalos
 Ongkot
 Ongyo-Ki
 Oni
@@ -1113,6 +1125,7 @@ Pride
 Principality
 Prithivi
 Prometheus
+Protagonist (Devil Summoner)
 Protagonist (Shin Megami Tensei)
 Pucel
 Puck
@@ -1134,6 +1147,8 @@ Rabbi
 Raguel
 Rahab
 Rahu
+Raido Kuzunoha XIV
+Raidou Kuzunoha XIV
 Raiho
 Raiju
 Raijuu
@@ -1157,6 +1172,7 @@ Red Cape
 Red Cloak
 Red Rider
 Redrum
+Rei Reiho
 Reiko Kashima
 Remiel
 Rhadamanthus
@@ -1168,6 +1184,7 @@ Robin Hood
 Roc
 Rokuten Maoh
 Rolwoy
+Romero
 Rukh
 Rusalka
 Ryuman
@@ -1262,6 +1279,7 @@ Shub Niggurath
 Shuten Doji
 Shuten-Doji
 Sid
+Sid Davis
 Siegfried
 Sif
 Silky
@@ -1278,16 +1296,19 @@ Slave
 Sleipnir (demon)
 Slime
 Sloth
+Snappy
 Sobek
 Sol Leon
 Soldier Bug
 Sooma
+Soulless God Oumagatsu
 Souyou
 Sparna
 Spartan
 Spartoi
 Specter
 Spectre
+Speed Demon
 Speedy
 Sphinx
 Spider
@@ -1497,6 +1518,7 @@ Wight
 Wild Hunt (demon)
 Wildfire Horde
 Will O' Wisp
+Winpe
 Workaholic
 Worm
 Wraith (demon)

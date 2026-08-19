@@ -217,6 +217,7 @@ Cancer
 Captain Kidd
 Carbuncle
 Carmen
+Carol J
 Carrie
 Castor
 Cath Palug
@@ -310,7 +311,6 @@ Demonstrators
 Depth
 Deva
 Devil Buster Busters
-Devil Summoner  Soul Hackers
 Diana (Roman)
 Diarmuid
 Dilu Horse (Hex Mark)
@@ -353,6 +353,7 @@ En no Ozuno
 Enku
 Enoch
 Envy
+Erika Sako
 Erinyes
 Erlkonig
 Eros
@@ -375,6 +376,7 @@ Feng Huang
 Fenrir
 Fergus
 Fighter Horde
+Finnegan
 Fionn mac Cumhaill
 Fir Bolg
 Fjalar
@@ -446,6 +448,7 @@ Glasya-Labolas
 Gnome
 Goblin
 Goemon
+Goggie
 Gogmagog
 Golem
 Gorgon
@@ -494,6 +497,7 @@ Hayagriva
 Hayataro
 Head Monk
 Headless Rider
+Headless Rider*3
 Hecate
 Hecatoncheires
 Heimdall
@@ -607,6 +611,7 @@ Jorougumo
 Juanlian Dajiang
 Jubokko
 Jueyuan
+Juggler
 Julia
 Junk
 Junkie
@@ -614,6 +619,7 @@ Junnosuke Kuroda
 Juno
 Kabandha
 Kabuso
+Kadokura
 Kaguya Hime
 Kaiming Shou
 Kaiwan
@@ -749,6 +755,7 @@ Lucifer
 Lucifer Frost
 Lucifuge
 Lugh
+Lukoje
 Lust
 Luvah
 Macabre
@@ -767,6 +774,7 @@ Maitreya
 Makami
 Makara
 Malphas
+Malsum
 Mamedanuki
 Mammon
 Man Eater
@@ -774,6 +782,7 @@ Manananggal
 Manannan
 Mandrake
 Mangadhai
+Manitou
 Manticore
 Mara
 Marchosias
@@ -796,6 +805,7 @@ Maui
 Maya (demon, Hindu)
 Maya (demon, Mayan)
 Mayahuel
+Mayone
 Medea
 Medusa
 Mega Planaria
@@ -837,6 +847,7 @@ Mokoi
 Mokosh
 Moloch
 Momunofu
+Moowis
 Morax
 Morgan
 Morning Star (disambiguation)
@@ -922,6 +933,7 @@ Old One
 Oliver
 Ometeotl
 Omoikane
+Omphalos
 Ongyo-Ki
 Oni
 Oni Jorou
@@ -998,6 +1010,7 @@ Pride
 Principality
 Prithivi
 Prometheus
+Protagonist (Devil Summoner)
 Protagonist (Shin Megami Tensei)
 Pucel
 Puck
@@ -1015,6 +1028,8 @@ Rabbi
 Raguel
 Rahab
 Rahu
+Raido Kuzunoha XIV
+Raidou Kuzunoha XIV
 Raiho
 Raijuu
 Rakcharango
@@ -1033,6 +1048,7 @@ Red Cape
 Red Cloak
 Red Rider
 Redrum
+Rei Reiho
 Reiko Kashima
 Remiel
 Rhadamanthus
@@ -1041,6 +1057,7 @@ Rinok
 Robin Goodfellow
 Robin Hood
 Rolwoy
+Romero
 Rukh
 Rusalka
 Ryuman
@@ -1137,13 +1154,16 @@ Slave
 Sleipnir
 Slime
 Sloth
+Snappy
 Sobek
 Sol Cat
 Soldier Bug
+Soulless God Oumagatsu
 Souyou
 Spartan
 Spartoi
 Specter
+Speed Demon
 Speedy
 Sphinx
 Spider
@@ -1327,6 +1347,7 @@ Wight
 Wild Hunt
 Wildfire Horde
 Will O' Wisp
+Winpe
 Workaholic
 Worm
 Wraith

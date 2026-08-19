@@ -155,20 +155,23 @@ def parseCompendium():
                         continue
 
                     givenName = cells[nameIndex].get_text(strip=True)
+                    if givenName == "Headless Rider *3":
+                        givenName = "Headless Rider"
 
                     if givenName in ["", "Demon"]:
                         continue
 
-                    nameLink = cells[nameIndex].find("a")
+                    nameLink = None
+
+                    for link in cells[nameIndex].find_all("a"):
+                        if link.get_text(strip=True) == givenName:
+                            nameLink = link
+                            break
 
                     if nameLink is not None:
-                        canonicalName = nameLink.get(
-                            "title",
-                            givenName
-                        )
+                        canonicalName = nameLink.get("title") or givenName
                     else:
                         canonicalName = givenName
-
                     race = (
                         cells[raceIndex].get_text(strip=True)
                         if raceIndex is not None
@@ -182,14 +185,14 @@ def parseCompendium():
                            and len(cells) > levelIndex
                         else None
                     )
-                    print(givenName, race, level)
+                    #print(givenName, race, level)
                     Compendium.append(
                         Demon_Instance(
                             givenName,
-                            canonicalName,
                             race,
                             level,
-                            gameName
+                            gameName,
+                            canonicalName
                         )
 
                     )

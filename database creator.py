@@ -1,6 +1,13 @@
 import sqlite3
-from redirectparser import canonicalizeName, comparisonKey
+
+import redirectparser
 import parser
+import os
+
+if os.path.exists("compendium.db"):
+    os.remove("compendium.db")
+
+connection = sqlite3.connect("compendium.db")
 
 parser.Compendium.clear()
 parser.parseCompendium()
@@ -27,6 +34,8 @@ def getOrCreateGame(name, releaseYear=None):
     )
 
     return cursor.lastrowid
+
+
 
 def getOrCreateDemon(canonicalName, wikiName):
     cursor.execute(
@@ -90,11 +99,12 @@ connection = sqlite3.connect("compendium.db")
 cursor = connection.cursor()
 cursor.execute("PRAGMA foreign_keys = ON")
 
+
+
 cursor.execute("""
-CREATE TABLE IF NOT EXISTS Demon (
-    demon_id INTEGER PRIMARY KEY,
-    canonical_name TEXT NOT NULL,
-    wiki_name TEXT
+CREATE TABLE IF NOT EXISTS GameFamily (
+    family_id INTEGER PRIMARY KEY,
+    name TEXT NOT NULL UNIQUE
 )
 """)
 
@@ -112,18 +122,20 @@ CREATE TABLE IF NOT EXISTS Game (
 """)
 
 cursor.execute("""
-CREATE TABLE IF NOT EXISTS GameFamily (
-    family_id INTEGER PRIMARY KEY,
-    name TEXT NOT NULL
+CREATE TABLE IF NOT EXISTS Demon (
+    demon_id INTEGER PRIMARY KEY,
+    canonical_name TEXT NOT NULL,
+    wiki_name TEXT
 )
 """)
 
 cursor.execute("""
 CREATE TABLE IF NOT EXISTS Mythology (
     mythology_id INTEGER PRIMARY KEY,
-    name TEXT NOT NULL
+    name TEXT NOT NULL UNIQUE
 )
 """)
+
 
 cursor.execute("""
 CREATE TABLE IF NOT EXISTS DemonMythology (
@@ -151,7 +163,7 @@ CREATE TABLE IF NOT EXISTS Appearance (
 """)
 
 for demon in Compendium:
-    resolvedCanonicalName = canonicalizeName(demon.canonicalName)
+    resolvedCanonicalName = redirectparser.resolveWikiName(demon.canonicalName)
 
     demonID = getOrCreateDemon(
         resolvedCanonicalName,
@@ -167,8 +179,6 @@ for demon in Compendium:
         demon.race,
         demon.level
     )
-
-connection.commit()
 
 connection.commit()
 connection.close()

@@ -46,7 +46,13 @@ def normalizeRace(race):
 
     return race.strip()
 
-
+# a note on rereleases:
+# some games have separate wiki entries for each version. That's awesome and makes my life easier.
+# Some do not.
+# Shin Megami Tensei: rerelease demons for Sega CD: †
+# Likewise for Shin Megami Tensei II on the GBA: † or †#
+# Nocturne and Soul Hackers: italics
+# Devil Survivor 2: *
 
 def parseCompendium():
     import re
@@ -271,6 +277,9 @@ def parseCompendium():
                         else None
                     )
                     #print(givenName, race, level)
+                    if givenName == "Headless Rider*3":
+                        givenName = "Headless Rider"
+                        canonicalName = "Headless Rider"
                     Compendium.append(
                         Demon_Instance(
                             givenName,
@@ -468,9 +477,19 @@ def parseCompendium():
                         race = cells[1].get_text(strip=True)
                     if not race.isascii() and race != "Onryō" and race != "Zōma":
                         continue
-                    if gameName == "Devil Summoner  Soul Hackers" or gameName == "Shin Megami Tensei  Devil Summoner":
+                    if gameName == "Devil Summoner  Soul Hackers" or gameName == "Shin Megami Tensei  Devil Summoner" or gameName == "Shin Megami Tensei III  Nocturne":
                         if cells[nameIndex].find(["i", "em"]) is not None:
                             givenName = givenName + " †"
+
+                    def isReduxExclusive(nameCell):
+                        style = nameCell.get("style", "").replace(" ", "").lower()
+                        return "background:#000088" in style
+                    if gameName == "Shin Megami Tensei  Strange Journey":
+                        nameCell = cells[nameIndex]
+                        if isReduxExclusive(nameCell):
+                            givenName = givenName + " †"
+                    if gameName == "Devil Survivor 2" and givenName[-1] == "*":
+                        givenName = givenName[:-1]+" †"
                     if gameName == "Persona Q":
                         race = cells[1].get_text(strip=True)
                     if gameName == "Persona Q":
@@ -586,9 +605,23 @@ def parseCompendium():
                             if gameName == "Devil Summoner  Soul Hackers":
                                 if cells[nameIndex].find(["i", "em"]) is not None:
                                     givenName = givenName + " †"
+
+                            def isReduxExclusive(nameCell):
+                                style = nameCell.get("style", "").replace(" ", "").lower()
+                                return "background:#000088" in style
+
+                            if gameName == "Shin Megami Tensei  Strange Journey":
+                                nameCell = cells[nameIndex]
+                                if isReduxExclusive(nameCell):
+                                    givenName = givenName + " †"
+                            if gameName == "Devil Survivor 2" and givenName[-1] == "*":
+                                givenName = givenName[:-1] + " †"
                             if gameName == "Persona Q":
-                                print("Persona Q hit")
+                                race = cells[1].get_text(strip=True)
+                            if gameName == "Persona Q":
                                 race = re.sub(r'^\d+\.0', '', race)
+                            if race == "02Priestess":
+                                race = "Priestess"
 
                             demon = Demon_Instance(
                                 givenName,

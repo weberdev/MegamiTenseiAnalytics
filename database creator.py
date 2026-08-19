@@ -7,8 +7,6 @@ import os
 if os.path.exists("compendium.db"):
     os.remove("compendium.db")
 
-connection = sqlite3.connect("compendium.db")
-
 parser.Compendium.clear()
 parser.parseCompendium()
 

@@ -40,31 +40,11 @@ def getOrCreateDemon(canonicalName, wikiName):
         """
         SELECT demon_id
         FROM Demon
-        WHERE wiki_name = ?
+        WHERE canonical_name = ?
+        AND wiki_name = ?
         """,
-        (wikiName,)
+        (canonicalName, wikiName)
     )
-
-    row = cursor.fetchone()
-
-    if row is not None:
-        return row[0]
-
-    cursor.execute(
-        """
-        INSERT INTO Demon (
-            canonical_name,
-            wiki_name
-        )
-        VALUES (?, ?)
-        """,
-        (
-            canonicalName,
-            wikiName
-        )
-    )
-
-    return cursor.lastrowid
 
 def insertAppearance(
     demonID,

@@ -23,69 +23,69 @@ def resolveWikiName(name):
             name = name.removesuffix(suffix)
 
     return name
+if __name__ == "__main__":
+    def comparisonKey(name):
+        return re.sub(r"[^a-z0-9]", "", name.casefold())
 
-def comparisonKey(name):
-    return re.sub(r"[^a-z0-9]", "", name.casefold())
+    # Read your unique wiki names
+    names = []
 
-# Read your unique wiki names
-names = []
+    with open("uniquenamelist.txt", encoding="utf-8") as f:
+        for line in f:
+            name = line.strip()
 
-with open("uniquenamelist.txt", encoding="utf-8") as f:
-    for line in f:
-        name = line.strip()
-
-        if name:
-            names.append(name)
-
-
-# Apply wiki redirects
-canonicalNames = {
-    resolveWikiName(name)
-    for name in names
-}
+            if name:
+                names.append(name)
 
 
-# Save the post-redirect unique list
-with open("canonicalnamelist.txt", "w", encoding="utf-8") as f:
-    for name in sorted(canonicalNames):
-        f.write(name + "\n")
+    # Apply wiki redirects
+    canonicalNames = {
+        resolveWikiName(name)
+        for name in names
+    }
 
 
-# Group names that become identical if punctuation/spaces are ignored
-comparisonGroups = defaultdict(set)
-
-for name in canonicalNames:
-    key = comparisonKey(name)
-    comparisonGroups[key].add(name)
+    # Save the post-redirect unique list
+    with open("canonicalnamelist.txt", "w", encoding="utf-8") as f:
+        for name in sorted(canonicalNames):
+            f.write(name + "\n")
 
 
-# Write only suspicious groups
-with open("name_collisions.txt", "w", encoding="utf-8") as f:
-    for key in sorted(comparisonGroups):
-        variants = sorted(comparisonGroups[key])
+    # Group names that become identical if punctuation/spaces are ignored
+    comparisonGroups = defaultdict(set)
 
-        if len(variants) > 1:
-            f.write(f"{key}\n")
-
-            for name in variants:
-                f.write(f"    {name}\n")
-
-            f.write("\n")
+    for name in canonicalNames:
+        key = comparisonKey(name)
+        comparisonGroups[key].add(name)
 
 
-print("Original unique names:", len(names))
-print("After redirects:", len(canonicalNames))
-print("Redirects applied:", len(names) - len(canonicalNames))
+    # Write only suspicious groups
+    with open("name_collisions.txt", "w", encoding="utf-8") as f:
+        for key in sorted(comparisonGroups):
+            variants = sorted(comparisonGroups[key])
 
-tests = [
-    "Ame no Uzume",
-    "Ame-no-Uzume",
-    "Ameno Uzume",
-    "Girimehkala",
-    "Girimekhala",
-    "Pyro Jack",
-    "Jack-o'-Lantern"
-]
+            if len(variants) > 1:
+                f.write(f"{key}\n")
 
-for name in tests:
-    print(name, "->", resolveWikiName(name))
+                for name in variants:
+                    f.write(f"    {name}\n")
+
+                f.write("\n")
+
+
+    print("Original unique names:", len(names))
+    print("After redirects:", len(canonicalNames))
+    print("Redirects applied:", len(names) - len(canonicalNames))
+
+    tests = [
+        "Ame no Uzume",
+        "Ame-no-Uzume",
+        "Ameno Uzume",
+        "Girimehkala",
+        "Girimekhala",
+        "Pyro Jack",
+        "Jack-o'-Lantern"
+    ]
+
+    for name in tests:
+        print(name, "->", resolveWikiName(name))

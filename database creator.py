@@ -9,9 +9,7 @@ if os.path.exists("compendium.db"):
 
 parser.Compendium.clear()
 parser.parseCompendium()
-
-
-Compendium = parser.Compendium
+Compendium = parser.finalizeCompendium(parser.Compendium)
 
 def getOrCreateGame(name, releaseYear=None):
     cursor.execute(

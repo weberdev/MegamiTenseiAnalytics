@@ -123,8 +123,26 @@ def makeGameList():
         ),
 
         GameInfo(
+            "Shin Megami Tensei (Sega CD)",
+            1994,
+            series="Mainline",
+            subseries="SFC Trio",
+            family="Shin Megami Tensei",
+            releaseType="original"
+        ),
+
+        GameInfo(
             "Shin Megami Tensei II",
             1994,
+            series="Mainline",
+            subseries="SFC Trio",
+            family="Shin Megami Tensei II",
+            releaseType="original"
+        ),
+
+        GameInfo(
+            "Shin Megami Tensei II (GBA)",
+            2002,
             series="Mainline",
             subseries="SFC Trio",
             family="Shin Megami Tensei II",

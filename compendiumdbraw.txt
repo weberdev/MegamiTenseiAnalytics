@@ -7230,6 +7230,361 @@ Aramisaki | Zealot | 58 | Shin Megami Tensei  Strange Journey | Aramisaki
 Attis | Zealot | 73 | Shin Megami Tensei  Strange Journey | Attis
 Tezcatlipoca | Zealot | 81 | Shin Megami Tensei  Strange Journey | Tezcatlipoca
 Masakado | Zealot | 92 | Shin Megami Tensei  Strange Journey | Masakado
+Shiisaa | Avatar | 14 | Shin Megami Tensei  Strange Journey Redux | Shiisaa
+Kamapua'a | Avatar | 24 | Shin Megami Tensei  Strange Journey Redux | Kamapua'a
+Makami | Avatar | 32 | Shin Megami Tensei  Strange Journey Redux | Makami
+Kaiming Shou | Avatar | 43 | Shin Megami Tensei  Strange Journey Redux | Kaiming Shou
+Chimera | Avatar | 49 | Shin Megami Tensei  Strange Journey Redux | Chimera
+Anubis | Avatar | 61 | Shin Megami Tensei  Strange Journey Redux | Anubis
+Barong | Avatar | 69 | Shin Megami Tensei  Strange Journey Redux | Barong
+Hamsa | Avian | 9 | Shin Megami Tensei  Strange Journey Redux | Hamsa
+Suparna | Avian | 15 | Shin Megami Tensei  Strange Journey Redux | Suparna
+Phoenix | Avian | 25 | Shin Megami Tensei  Strange Journey Redux | Phoenix
+Thunderbird | Avian | 35 | Shin Megami Tensei  Strange Journey Redux | Thunderbird
+Feng Huang | Avian | 46 | Shin Megami Tensei  Strange Journey Redux | Feng Huang
+Yatagarasu | Avian | 59 | Shin Megami Tensei  Strange Journey Redux | Yatagarasu
+Garuda | Avian | 71 | Shin Megami Tensei  Strange Journey Redux | Garuda
+Kaso | Beast | 4 | Shin Megami Tensei  Strange Journey Redux | Kaso
+Katakirauwa | Beast | 9 | Shin Megami Tensei  Strange Journey Redux | Katakirauwa
+Inugami | Beast | 17 | Shin Megami Tensei  Strange Journey Redux | Inugami
+Nekomata | Beast | 22 | Shin Megami Tensei  Strange Journey Redux | Nekomata
+Hsing-Hsing | Beast | 30 | Shin Megami Tensei  Strange Journey Redux | Hsing-Hsing
+Orthrus | Beast | 36 | Shin Megami Tensei  Strange Journey Redux | Orthrus (demon)
+Gryphon | Beast | 46 | Shin Megami Tensei  Strange Journey Redux | Gryphon
+Ammut | Beast | 56 | Shin Megami Tensei  Strange Journey Redux | Ammut
+Cerberus | Beast | 66 | Shin Megami Tensei  Strange Journey Redux | Cerberus
+Oni | Brute | 8 | Shin Megami Tensei  Strange Journey Redux | Oni
+Azumi | Brute | 12 | Shin Megami Tensei  Strange Journey Redux | Azumi
+Momunofu | Brute | 19 | Shin Megami Tensei  Strange Journey Redux | Momunofu
+Yamawaro | Brute | 24 | Shin Megami Tensei  Strange Journey Redux | Yamawaro
+Kin-Ki | Brute | 32 | Shin Megami Tensei  Strange Journey Redux | Kin-Ki
+Fuu-Ki | Brute | 36 | Shin Megami Tensei  Strange Journey Redux | Fuu-Ki
+Sui-Ki | Brute | 41 | Shin Megami Tensei  Strange Journey Redux | Sui-Ki
+Berserker | Brute | 53 | Shin Megami Tensei  Strange Journey Redux | Berserker
+Ongyo-Ki | Brute | 66 | Shin Megami Tensei  Strange Journey Redux | Ongyo-Ki
+Dummy | Debug | 99 | Shin Megami Tensei  Strange Journey Redux | Dummy
+Jimenez | Debug | 30 | Shin Megami Tensei  Strange Journey Redux | Jimenez
+Jimenez | Debug | 30 | Shin Megami Tensei  Strange Journey Redux | Jimenez
+Jimenez | Debug | 73 | Shin Megami Tensei  Strange Journey Redux | Jimenez
+Jimenez | Debug | 70 | Shin Megami Tensei  Strange Journey Redux | Jimenez
+Thoth | Deity | 41 | Shin Megami Tensei  Strange Journey Redux | Thoth
+Inti | Deity | 49 | Shin Megami Tensei  Strange Journey Redux | Inti
+Prometheus | Deity | 57 | Shin Megami Tensei  Strange Journey Redux | Prometheus
+Omoteotl | Deity | 65 | Shin Megami Tensei  Strange Journey Redux | Omoteotl
+Zeus | Deity | 67 | Shin Megami Tensei  Strange Journey Redux | Zeus
+Odin | Deity | 71 | Shin Megami Tensei  Strange Journey Redux | Odin
+Hachiman | Deity | 77 | Shin Megami Tensei  Strange Journey Redux | Hachiman
+Vishnu | Deity | 86 | Shin Megami Tensei  Strange Journey Redux | Vishnu
+Angel | Divine | 4 | Shin Megami Tensei  Strange Journey Redux | Angel
+Archangel | Divine | 8 | Shin Megami Tensei  Strange Journey Redux | Archangel
+Principality | Divine | 14 | Shin Megami Tensei  Strange Journey Redux | Principality
+Power | Divine | 19 | Shin Megami Tensei  Strange Journey Redux | Power
+Virtue | Divine | 25 | Shin Megami Tensei  Strange Journey Redux | Virtue
+Dominion | Divine | 38 | Shin Megami Tensei  Strange Journey Redux | Dominion
+Throne | Divine | 47 | Shin Megami Tensei  Strange Journey Redux | Throne
+Cherub | Divine | 61 | Shin Megami Tensei  Strange Journey Redux | Cherub
+Makara | Dragon | 13 | Shin Megami Tensei  Strange Journey Redux | Makara
+Patrimpas | Dragon | 24 | Shin Megami Tensei  Strange Journey Redux | Patrimpas
+Gucumatz | Dragon | 35 | Shin Megami Tensei  Strange Journey Redux | Gucumatz
+Long | Dragon | 45 | Shin Megami Tensei  Strange Journey Redux | Seiryu
+Zhu Yin | Dragon | 58 | Shin Megami Tensei  Strange Journey Redux | Zhu Yin
+Quetzalcoatl | Dragon | 69 | Shin Megami Tensei  Strange Journey Redux | Quetzalcoatl
+Huang Long | Dragon | 78 | Shin Megami Tensei  Strange Journey Redux | Kohryu
+Zhu Tun She | Drake | 15 | Shin Megami Tensei  Strange Journey Redux | Zhu Tun She
+Bai Suzhen | Drake | 27 | Shin Megami Tensei  Strange Journey Redux | Bai Suzhen
+Basilisk | Drake | 35 | Shin Megami Tensei  Strange Journey Redux | Basilisk
+Kingu | Drake | 46 | Shin Megami Tensei  Strange Journey Redux | Kingu
+Mushussu | Drake | 61 | Shin Megami Tensei  Strange Journey Redux | Mushussu
+Tiamat | Drake | 63 | Shin Megami Tensei  Strange Journey Redux | Tiamat
+Nidhoggr | Drake | 65 | Shin Megami Tensei  Strange Journey Redux | Nidhoggr
+Fafnir | Drake | 72 | Shin Megami Tensei  Strange Journey Redux | Fafnir
+Vasuki | Drake | 85 | Shin Megami Tensei  Strange Journey Redux | Vasuki
+Kanbari | Enigma | 27 | Shin Megami Tensei  Strange Journey Redux | Kanbari
+Futotama | Enigma | 42 | Shin Megami Tensei  Strange Journey Redux | Futotama
+Kinmamon | Enigma | 58 | Shin Megami Tensei  Strange Journey Redux | Kinmamon
+Kama | Enigma | 72 | Shin Megami Tensei  Strange Journey Redux | Kama
+Kangiten | Enigma | 80 | Shin Megami Tensei  Strange Journey Redux | Kangiten
+Pixie | Fairy | 2 | Shin Megami Tensei  Strange Journey Redux | Pixie
+Goblin | Fairy | 7 | Shin Megami Tensei  Strange Journey Redux | Goblin
+Jack Frost | Fairy | 12 | Shin Megami Tensei  Strange Journey Redux | Jack Frost
+Pyro Jack | Fairy | 16 | Shin Megami Tensei  Strange Journey Redux | Jack-o'-Lantern
+High Pixie | Fairy | 19 | Shin Megami Tensei  Strange Journey Redux | High Pixie
+Silky | Fairy | 23 | Shin Megami Tensei  Strange Journey Redux | Silky
+Lorelei | Fairy | 31 | Shin Megami Tensei  Strange Journey Redux | Lorelei
+Spriggan | Fairy | 34 | Shin Megami Tensei  Strange Journey Redux | Spriggan
+Vivian | Fairy | 40 | Shin Megami Tensei  Strange Journey Redux | Vivian
+Oberon | Fairy | 50 | Shin Megami Tensei  Strange Journey Redux | Oberon
+Titania | Fairy | 60 | Shin Megami Tensei  Strange Journey Redux | Titania
+Demonee-Ho | Fairy | 75 | Shin Megami Tensei  Strange Journey Redux | Demonee-Ho
+Demonica-L | Fake | 1 | Shin Megami Tensei  Strange Journey Redux | Demonica-L, Demonica-N, & Demonica-C
+Demonica-N | Fake | 1 | Shin Megami Tensei  Strange Journey Redux | Demonica-L, Demonica-N, & Demonica-C
+Demonica-C | Fake | 1 | Shin Megami Tensei  Strange Journey Redux | Demonica-L, Demonica-N, & Demonica-C
+Melchom | Fallen | 7 | Shin Megami Tensei  Strange Journey Redux | Melchom
+Bifrons | Fallen | 16 | Shin Megami Tensei  Strange Journey Redux | Bifrons
+Halphas | Fallen | 22 | Shin Megami Tensei  Strange Journey Redux | Halphas
+Orias | Fallen | 27 | Shin Megami Tensei  Strange Journey Redux | Orias
+Dantalian | Fallen | 33 | Shin Megami Tensei  Strange Journey Redux | Dantalian
+Ose | Fallen | 41 | Shin Megami Tensei  Strange Journey Redux | Ose
+Decarabia | Fallen | 50 | Shin Megami Tensei  Strange Journey Redux | Decarabia
+Mithra | Fallen | 53 | Shin Megami Tensei  Strange Journey Redux | Mithra
+Forneus | Fallen | 56 | Shin Megami Tensei  Strange Journey Redux | Forneus
+Gemori | Fallen | 60 | Shin Megami Tensei  Strange Journey Redux | Gemori
+Nebiros | Fallen | 99 | Shin Megami Tensei  Strange Journey Redux | Nebiros
+Acheri | Femme | 8 | Shin Megami Tensei  Strange Journey Redux | Acheri
+Leanan Sidhe | Femme | 14 | Shin Megami Tensei  Strange Journey Redux | Leanan Sidhe
+Yuki Jyorou | Femme | 26 | Shin Megami Tensei  Strange Journey Redux | Yuki Jyorou
+Clotho | Femme | 37 | Shin Megami Tensei  Strange Journey Redux | Clotho
+Lachesis | Femme | 43 | Shin Megami Tensei  Strange Journey Redux | Lachesis
+Atropos | Femme | 49 | Shin Megami Tensei  Strange Journey Redux | Atropos
+Dakini | Femme | 63 | Shin Megami Tensei  Strange Journey Redux | Dakini
+Rangda | Femme | 68 | Shin Megami Tensei  Strange Journey Redux | Rangda
+Volvo | Femme | 71 | Shin Megami Tensei  Strange Journey Redux | Volvo
+Kali | Femme | 86 | Shin Megami Tensei  Strange Journey Redux | Kali
+David | Fiend | 22 | Shin Megami Tensei  Strange Journey Redux | David (demon)
+Matador | Fiend | 30 | Shin Megami Tensei  Strange Journey Redux | Matador
+Alice | Fiend | 39 | Shin Megami Tensei  Strange Journey Redux | Alice
+White Rider | Fiend | 49 | Shin Megami Tensei  Strange Journey Redux | White Rider
+Red Rider | Fiend | 59 | Shin Megami Tensei  Strange Journey Redux | Red Rider
+Black Rider | Fiend | 69 | Shin Megami Tensei  Strange Journey Redux | Black Rider
+Pale Rider | Fiend | 78 | Shin Megami Tensei  Strange Journey Redux | Pale Rider
+Trumpeter | Fiend | 83 | Shin Megami Tensei  Strange Journey Redux | Trumpeter
+Mother Harlot | Fiend | 90 | Shin Megami Tensei  Strange Journey Redux | Mother Harlot
+Tangata Manu | Flight | 2 | Shin Megami Tensei  Strange Journey Redux | Tangata Manu
+Harpy | Flight | 9 | Shin Megami Tensei  Strange Journey Redux | Harpy
+Gu Huo Niao | Flight | 15 | Shin Megami Tensei  Strange Journey Redux | Gu Huo Niao
+Caladrius | Flight | 22 | Shin Megami Tensei  Strange Journey Redux | Caladrius
+Toufei | Flight | 31 | Shin Megami Tensei  Strange Journey Redux | Tuofei
+Rukh | Flight | 42 | Shin Megami Tensei  Strange Journey Redux | Rukh
+Da Peng | Flight | 50 | Shin Megami Tensei  Strange Journey Redux | Da Peng
+Slime | Foul | 1 | Shin Megami Tensei  Strange Journey Redux | Slime
+Jack the Ripper | Foul | 13 | Shin Megami Tensei  Strange Journey Redux | Jack Ripper
+Doppelganger | Foul | 25 | Shin Megami Tensei  Strange Journey Redux | Doppelgänger
+Night Stalker | Foul | 38 | Shin Megami Tensei  Strange Journey Redux | Night Stalker (demon)
+Mad Gasser | Foul | 52 | Shin Megami Tensei  Strange Journey Redux | Mad Gasser
+Ares | Fury | 36 | Shin Megami Tensei  Strange Journey Redux | Ares
+Tonatiuh | Fury | 45 | Shin Megami Tensei  Strange Journey Redux | Tonatiuh
+Wu Kong | Fury | 58 | Shin Megami Tensei  Strange Journey Redux | Seiten Taisei
+Kartikeya | Fury | 70 | Shin Megami Tensei  Strange Journey Redux | Kartikeya
+Zaou-Gongen | Fury | 80 | Shin Megami Tensei  Strange Journey Redux | Zaou-Gongen
+Susano-O | Fury | 85 | Shin Megami Tensei  Strange Journey Redux | Susano-o
+Shiva | Fury | 91 | Shin Megami Tensei  Strange Journey Redux | Shiva
+Anat | Geist | 80 | Shin Megami Tensei  Strange Journey Redux | Anat
+Alilat | Geist | 84 | Shin Megami Tensei  Strange Journey Redux | Alilat
+Nadja | Genma | 23 | Shin Megami Tensei  Strange Journey Redux | Nadja
+Tam Lin | Genma | 29 | Shin Megami Tensei  Strange Journey Redux | Tam Lin
+Frost Ace | Genma | 34 | Shin Megami Tensei  Strange Journey Redux | Frost Ace
+Kurama Tengu | Genma | 38 | Shin Megami Tensei  Strange Journey Redux | Kurama Tengu
+Tlaloc | Genma | 40 | Shin Megami Tensei  Strange Journey Redux | Tlaloc
+Cu Chulainn | Genma | 48 | Shin Megami Tensei  Strange Journey Redux | Cu Chulainn
+Kresnik | Genma | 55 | Shin Megami Tensei  Strange Journey Redux | Kresnik
+Hanuman | Genma | 62 | Shin Megami Tensei  Strange Journey Redux | Hanuman
+Heimdall | Genma | 72 | Shin Megami Tensei  Strange Journey Redux | Heimdall
+Preta | Haunt | 6 | Shin Megami Tensei  Strange Journey Redux | Preta
+Mou-Ryo | Haunt | 17 | Shin Megami Tensei  Strange Journey Redux | Mou-Ryo
+Churel | Haunt | 24 | Shin Megami Tensei  Strange Journey Redux | Churel
+Ghoul | Haunt | 30 | Shin Megami Tensei  Strange Journey Redux | Ghoul
+Strigoii | Haunt | 45 | Shin Megami Tensei  Strange Journey Redux | Strigoii
+Kudlak | Haunt | 56 | Shin Megami Tensei  Strange Journey Redux | Kudlak
+Vetala | Haunt | 67 | Shin Megami Tensei  Strange Journey Redux | Vetala
+Victor | Herald | 51 | Shin Megami Tensei  Strange Journey Redux | Victor
+Israfel | Herald | 63 | Shin Megami Tensei  Strange Journey Redux | Israfel
+Kazfiel | Herald | 66 | Shin Megami Tensei  Strange Journey Redux | Kazfiel
+Azrael | Herald | 69 | Shin Megami Tensei  Strange Journey Redux | Azrael
+Sraosha | Herald | 74 | Shin Megami Tensei  Strange Journey Redux | Sraosha
+Armaiti | Herald | 76 | Shin Megami Tensei  Strange Journey Redux | Armaiti
+Aniel | Herald | 79 | Shin Megami Tensei  Strange Journey Redux | Aniel
+Mastema | Herald | 82 | Shin Megami Tensei  Strange Journey Redux | Mastema
+Sandalphon | Herald | 83 | Shin Megami Tensei  Strange Journey Redux | Sandalphon
+Metatron | Herald | 84 | Shin Megami Tensei  Strange Journey Redux | Metatron
+Seraph | Herald | 89 | Shin Megami Tensei  Strange Journey Redux | Seraph (Demon)
+Heqet | Holy | 10 | Shin Megami Tensei  Strange Journey Redux | Heqet
+Apis | Holy | 18 | Shin Megami Tensei  Strange Journey Redux | Apis
+Pabilsag | Holy | 26 | Shin Megami Tensei  Strange Journey Redux | Pabilsag
+Qing Niuguai | Holy | 33 | Shin Megami Tensei  Strange Journey Redux | Qing Niuguai
+Airavata | Holy | 41 | Shin Megami Tensei  Strange Journey Redux | Airavata
+Baihu | Holy | 48 | Shin Megami Tensei  Strange Journey Redux | Byakko
+Sleipnir | Holy | 56 | Shin Megami Tensei  Strange Journey Redux | Sleipnir (demon)
+Sphinx | Holy | 70 | Shin Megami Tensei  Strange Journey Redux | Sphinx
+Gremlin | Jaki | 5 | Shin Megami Tensei  Strange Journey Redux | Gremlin
+Ippon-Datara | Jaki | 10 | Shin Megami Tensei  Strange Journey Redux | Ippon-Datara
+Wendigo | Jaki | 23 | Shin Megami Tensei  Strange Journey Redux | Wendigo
+Black Frost | Jaki | 30 | Shin Megami Tensei  Strange Journey Redux | Black Frost
+Rakshasa | Jaki | 35 | Shin Megami Tensei  Strange Journey Redux | Rakshasa
+Grendel | Jaki | 46 | Shin Megami Tensei  Strange Journey Redux | Grendel
+Girimehkala | Jaki | 57 | Shin Megami Tensei  Strange Journey Redux | Girimekhala
+Hecatoncheir | Jaki | 70 | Shin Megami Tensei  Strange Journey Redux | Hecatoncheires
+Knocker | Jirae | 1 | Shin Megami Tensei  Strange Journey Redux | Knocker
+Hua Po | Jirae | 6 | Shin Megami Tensei  Strange Journey Redux | Hua Po
+Sudama | Jirae | 15 | Shin Megami Tensei  Strange Journey Redux | Sudama
+Dwarf | Jirae | 20 | Shin Megami Tensei  Strange Journey Redux | Dwarf
+Bagaboo | Jirae | 20 | Shin Megami Tensei  Strange Journey Redux | Bugaboo
+Bogaboo | Jirae | 20 | Shin Megami Tensei  Strange Journey Redux | Bugaboo
+Bugaboo | Jirae | 20 | Shin Megami Tensei  Strange Journey Redux | Bugaboo
+Kwancha | Jirae | 25 | Shin Megami Tensei  Strange Journey Redux | Kwancha
+Tsuchigumo | Jirae | 30 | Shin Megami Tensei  Strange Journey Redux | Tsuchigumo
+Titan | Jirae | 35 | Shin Megami Tensei  Strange Journey Redux | Titan
+Tlaltecuhtli | Jirae | 45 | Shin Megami Tensei  Strange Journey Redux | Tlaltecuhtli
+Gogmagog | Jirae | 55 | Shin Megami Tensei  Strange Journey Redux | Gogmagog
+Takeminakata | Kishin | 27 | Shin Megami Tensei  Strange Journey Redux | Take-Minakata
+Zouchouten | Kishin | 37 | Shin Megami Tensei  Strange Journey Redux | Zouchouten
+Koumokuten | Kishin | 47 | Shin Megami Tensei  Strange Journey Redux | Koumokuten
+Jikokuten | Kishin | 57 | Shin Megami Tensei  Strange Journey Redux | Jikokuten
+Bishamonten | Kishin | 65 | Shin Megami Tensei  Strange Journey Redux | Bishamonten (demon)
+Thor | Kishin | 76 | Shin Megami Tensei  Strange Journey Redux | Thor
+Pele | Lady | 10 | Shin Megami Tensei  Strange Journey Redux | Pele
+Dzelarhons | Lady | 21 | Shin Megami Tensei  Strange Journey Redux | Dzelarhons
+Sedna | Lady | 34 | Shin Megami Tensei  Strange Journey Redux | Sedna
+Hariti | Lady | 44 | Shin Megami Tensei  Strange Journey Redux | Hariti
+Diana | Lady | 54 | Shin Megami Tensei  Strange Journey Redux | Diana (Roman)
+Asherah | Lady | 58 | Shin Megami Tensei  Strange Journey Redux | Asherah
+Black Maria | Lady | 64 | Shin Megami Tensei  Strange Journey Redux | Black Maria
+Isis | Lady | 67 | Shin Megami Tensei  Strange Journey Redux | Isis
+Skadi | Lady | 73 | Shin Megami Tensei  Strange Journey Redux | Skadi
+Cybele | Lady | 76 | Shin Megami Tensei  Strange Journey Redux | Cybele
+Xi Wangmu | Lady | 79 | Shin Megami Tensei  Strange Journey Redux | Xi Wangmu
+Hathor | Megami | 11 | Shin Megami Tensei  Strange Journey Redux | Hathor
+Fortuna | Megami | 20 | Shin Megami Tensei  Strange Journey Redux | Fortuna
+Parvati | Megami | 32 | Shin Megami Tensei  Strange Journey Redux | Parvati
+Scathach | Megami | 43 | Shin Megami Tensei  Strange Journey Redux | Scathach
+Ishtar | Megami | 51 | Shin Megami Tensei  Strange Journey Redux | Ishtar
+Pallas Athena | Megami | 53 | Shin Megami Tensei  Strange Journey Redux | Pallas Athena
+Tlazolteotl | Megami | 64 | Shin Megami Tensei  Strange Journey Redux | Tlazolteotl
+Norn | Megami | 72 | Shin Megami Tensei  Strange Journey Redux | Norn
+Laksmi | Megami | 73 | Shin Megami Tensei  Strange Journey Redux | Laksmi
+Maria | Megami | 74 | Shin Megami Tensei  Strange Journey Redux | Maria (demon)
+Amaterasu | Megami | 79 | Shin Megami Tensei  Strange Journey Redux | Amaterasu
+Demeter | Megami | 85 | Shin Megami Tensei  Strange Journey Redux | Demeter
+Ara Mitama | Mitama | 21 | Shin Megami Tensei  Strange Journey Redux | Ara Mitama
+Nigi Mitama | Mitama | 26 | Shin Megami Tensei  Strange Journey Redux | Nigi Mitama
+Kusi Mitama | Mitama | 31 | Shin Megami Tensei  Strange Journey Redux | Kusi Mitama
+Saki Mitama | Mitama | 36 | Shin Megami Tensei  Strange Journey Redux | Saki Mitama
+Sandman | Night | 4 | Shin Megami Tensei  Strange Journey Redux | Sandman
+Lilim | Night | 9 | Shin Megami Tensei  Strange Journey Redux | Lilim
+Fomorian | Night | 16 | Shin Megami Tensei  Strange Journey Redux | Fomorian
+Incubus | Night | 23 | Shin Megami Tensei  Strange Journey Redux | Incubus
+Hypnos | Night | 29 | Shin Megami Tensei  Strange Journey Redux | Hypnos
+Kaiwan | Night | 34 | Shin Megami Tensei  Strange Journey Redux | Kaiwan
+Succubus | Night | 47 | Shin Megami Tensei  Strange Journey Redux | Succubus
+Wild Hunt | Night | 55 | Shin Megami Tensei  Strange Journey Redux | Wild Hunt (demon)
+Lilith | Night | 66 | Shin Megami Tensei  Strange Journey Redux | Lilith
+Maya | Night | 70 | Shin Megami Tensei  Strange Journey Redux | Maya (demon, Hindu)
+Apsaras | Nymph | 10 | Shin Megami Tensei  Strange Journey Redux | Apsaras
+Ame no Uzume | Nymph | 24 | Shin Megami Tensei  Strange Journey Redux | Ame-no-Uzume
+Anahita | Nymph | 28 | Shin Megami Tensei  Strange Journey Redux | Anahita
+Senri | Nymph | 36 | Shin Megami Tensei  Strange Journey Redux | Senri
+Kikuri-Hime | Nymph | 42 | Shin Megami Tensei  Strange Journey Redux | Kikuri-Hime
+Sarasvati | Nymph | 48 | Shin Megami Tensei  Strange Journey Redux | Sarasvati
+Peri | Nymph | 59 | Shin Megami Tensei  Strange Journey Redux | Peri
+Erthys | Prime | 8 | Shin Megami Tensei  Strange Journey Redux | Erthys
+Aeros | Prime | 12 | Shin Megami Tensei  Strange Journey Redux | Aeros
+Aquans | Prime | 16 | Shin Megami Tensei  Strange Journey Redux | Aquans
+Flaemis | Prime | 20 | Shin Megami Tensei  Strange Journey Redux | Flaemis
+Gnome | Prime | 21 | Shin Megami Tensei  Strange Journey Redux | Gnome
+Sylph | Prime | 25 | Shin Megami Tensei  Strange Journey Redux | Sylph
+Undine | Prime | 28 | Shin Megami Tensei  Strange Journey Redux | Undine
+Salamander | Prime | 32 | Shin Megami Tensei  Strange Journey Redux | Salamander
+Onmoraki | Raptor | 3 | Shin Megami Tensei  Strange Journey Redux | Onmoraki
+Itsumade | Raptor | 7 | Shin Megami Tensei  Strange Journey Redux | Itsumade
+Moh Shuvuu | Raptor | 17 | Shin Megami Tensei  Strange Journey Redux | Moh Shuvuu
+Zhen | Raptor | 28 | Shin Megami Tensei  Strange Journey Redux | Zhen
+Camazotz | Raptor | 31 | Shin Megami Tensei  Strange Journey Redux | Camazotz
+Gurr | Raptor | 40 | Shin Megami Tensei  Strange Journey Redux | Gurr
+Anzu | Raptor | 49 | Shin Megami Tensei  Strange Journey Redux | Anzu
+Huoniao | Raptor | 64 | Shin Megami Tensei  Strange Journey Redux | Huoniao
+Hresvelgr | Raptor | 70 | Shin Megami Tensei  Strange Journey Redux | Hresvelgr
+Hel | Reaper | 47 | Shin Megami Tensei  Strange Journey Redux | Hel
+Orcus | Reaper | 55 | Shin Megami Tensei  Strange Journey Redux | Orcus
+Persephone | Reaper | 58 | Shin Megami Tensei  Strange Journey Redux | Persephone
+Guedhe | Reaper | 62 | Shin Megami Tensei  Strange Journey Redux | Guedhe
+Thanatos | Reaper | 68 | Shin Megami Tensei  Strange Journey Redux | Thanatos
+Nergal | Reaper | 76 | Shin Megami Tensei  Strange Journey Redux | Nergal
+Ixtab | Reaper | 80 | Shin Megami Tensei  Strange Journey Redux | Ixtab
+Mot | Reaper | 87 | Shin Megami Tensei  Strange Journey Redux | Mot
+Naga | Snake | 11 | Shin Megami Tensei  Strange Journey Redux | Naga
+Nozuchi | Snake | 18 | Shin Megami Tensei  Strange Journey Redux | Nozuchi
+Yurlungur | Snake | 28 | Shin Megami Tensei  Strange Journey Redux | Yurlungur
+Vouivre | Snake | 33 | Shin Megami Tensei  Strange Journey Redux | Vouivre
+Gui Xian | Snake | 42 | Shin Megami Tensei  Strange Journey Redux | Genbu
+Ouroboros | Snake | 49 | Shin Megami Tensei  Strange Journey Redux | Ouroboros
+Orochi | Snake | 60 | Shin Megami Tensei  Strange Journey Redux | Yamata-no-Orochi
+Ananta | Snake | 65 | Shin Megami Tensei  Strange Journey Redux | Ananta
+Vritra | Snake | 75 | Shin Megami Tensei  Strange Journey Redux | Vritra
+Dybbuk | Spirit | 2 | Shin Megami Tensei  Strange Journey Redux | Dybbuk
+Poltergeist | Spirit | 7 | Shin Megami Tensei  Strange Journey Redux | Poltergeist
+Macabre | Spirit | 18 | Shin Megami Tensei  Strange Journey Redux | Macabre
+Inferno | Spirit | 23 | Shin Megami Tensei  Strange Journey Redux | Inferno (demon)
+Pisaca | Spirit | 29 | Shin Megami Tensei  Strange Journey Redux | Pisaca
+Legion | Spirit | 36 | Shin Megami Tensei  Strange Journey Redux | Legion
+Daphne | Tree | 21 | Shin Megami Tensei  Strange Journey Redux | Daphne
+Mayahuel | Tree | 35 | Shin Megami Tensei  Strange Journey Redux | Mayahuel
+Kukunochi | Tree | 44 | Shin Megami Tensei  Strange Journey Redux | Kukunochi
+Haoma | Tree | 55 | Shin Megami Tensei  Strange Journey Redux | Haoma
+Yggdrassil | Tree | 64 | Shin Megami Tensei  Strange Journey Redux | Yggdrassil
+Morax | Tyrant | 15 | Shin Megami Tensei  Strange Journey Redux | Morax
+Mithras | Tyrant | 25 | Shin Megami Tensei  Strange Journey Redux | Mithras
+Horkos | Tyrant | 33 | Shin Megami Tensei  Strange Journey Redux | Horkos
+King Frost | Tyrant | 40 | Shin Megami Tensei  Strange Journey Redux | King Frost
+Asura | Tyrant | 42 | Shin Megami Tensei  Strange Journey Redux | Asura
+Balor | Tyrant | 44 | Shin Megami Tensei  Strange Journey Redux | Balor
+Moloch | Tyrant | 50 | Shin Megami Tensei  Strange Journey Redux | Moloch
+Loki | Tyrant | 52 | Shin Megami Tensei  Strange Journey Redux | Loki
+Abaddon | Tyrant | 60 | Shin Megami Tensei  Strange Journey Redux | Abaddon
+Tzitzimitl | Tyrant | 71 | Shin Megami Tensei  Strange Journey Redux | Tzitzimitl
+Surt | Tyrant | 77 | Shin Megami Tensei  Strange Journey Redux | Surt
+Amon | Tyrant | 80 | Shin Megami Tensei  Strange Journey Redux | Amon
+Mara | Tyrant | 88 | Shin Megami Tensei  Strange Journey Redux | Mara
+Beelzebub | Tyrant | 99 | Shin Megami Tensei  Strange Journey Redux | Beelzebub
+Belial | Tyrant | 99 | Shin Megami Tensei  Strange Journey Redux | Belial
+Lucifuge | Tyrant | 99 | Shin Megami Tensei  Strange Journey Redux | Lucifuge
+Mamedanuki | UMA | 13 | Shin Megami Tensei  Strange Journey Redux | Mamedanuki
+Chupacabra | UMA | 19 | Shin Megami Tensei  Strange Journey Redux | Chupacabra
+Kuda | UMA | 28 | Shin Megami Tensei  Strange Journey Redux | Kuda
+Hare of Inaba | UMA | 37 | Shin Megami Tensei  Strange Journey Redux | Hare of Inaba
+Okiku-Mushi | Vermin | 3 | Shin Megami Tensei  Strange Journey Redux | Okiku-Mushi
+Ubu | Vermin | 11 | Shin Megami Tensei  Strange Journey Redux | Ubu
+Myrmecolion | Vermin | 22 | Shin Megami Tensei  Strange Journey Redux | Myrmecolion
+Mothman | Vermin | 29 | Shin Megami Tensei  Strange Journey Redux | Mothman
+Arachne | Vermin | 39 | Shin Megami Tensei  Strange Journey Redux | Arachne
+Baphomet | Vile | 26 | Shin Megami Tensei  Strange Journey Redux | Baphomet
+Mishaguji | Vile | 39 | Shin Megami Tensei  Strange Journey Redux | Mishaguji
+Pachacamac | Vile | 48 | Shin Megami Tensei  Strange Journey Redux | Pachacamac
+Taotie | Vile | 53 | Shin Megami Tensei  Strange Journey Redux | Tao Tie
+Alciel | Vile | 61 | Shin Megami Tensei  Strange Journey Redux | Alciel
+Pales | Vile | 68 | Shin Megami Tensei  Strange Journey Redux | Pales
+Samael | Vile | 75 | Shin Megami Tensei  Strange Journey Redux | Samael
+Mada | Vile | 82 | Shin Megami Tensei  Strange Journey Redux | Mada
+Seth | Vile | 85 | Shin Megami Tensei  Strange Journey Redux | Seth (demon)
+Demiurge | Vile | 94 | Shin Megami Tensei  Strange Journey Redux | Demiurge
+Jueyuan | Wilder | 10 | Shin Megami Tensei  Strange Journey Redux | Jueyuan
+Raiju | Wilder | 17 | Shin Megami Tensei  Strange Journey Redux | Raijuu
+Nue | Wilder | 27 | Shin Megami Tensei  Strange Journey Redux | Nue
+Pellaidh | Wilder | 40 | Shin Megami Tensei  Strange Journey Redux | Pellaidh
+Manticore | Wilder | 45 | Shin Megami Tensei  Strange Journey Redux | Manticore
+Catoblepas | Wilder | 52 | Shin Megami Tensei  Strange Journey Redux | Catoblepas
+Cabracan | Wilder | 64 | Shin Megami Tensei  Strange Journey Redux | Cabracan
+Fenrir | Wilder | 71 | Shin Megami Tensei  Strange Journey Redux | Fenrir
+Shan Xiao | Wood | 14 | Shin Megami Tensei  Strange Journey Redux | Shan Xiao
+Mandrake | Wood | 22 | Shin Megami Tensei  Strange Journey Redux | Mandrake
+Skogsra | Wood | 29 | Shin Megami Tensei  Strange Journey Redux | Skogsra
+Zaccoum | Wood | 42 | Shin Megami Tensei  Strange Journey Redux | Zaccoum
+Alraune | Wood | 51 | Shin Megami Tensei  Strange Journey Redux | Alraune
+Erlkonig | Wood | 61 | Shin Megami Tensei  Strange Journey Redux | Erlkonig
+Koppa Tengu | Yoma | 5 | Shin Megami Tensei  Strange Journey Redux | Koppa Tengu
+Vodyanik | Yoma | 13 | Shin Megami Tensei  Strange Journey Redux | Vodyanik
+Karasu Tengu | Yoma | 18 | Shin Megami Tensei  Strange Journey Redux | Karasu Tengu
+Dis | Yoma | 27 | Shin Megami Tensei  Strange Journey Redux | Dis
+Shiwanna | Yoma | 37 | Shin Megami Tensei  Strange Journey Redux | Shiwanna
+Valkyrie | Yoma | 45 | Shin Megami Tensei  Strange Journey Redux | Valkyrie
+Xiuhtecuhtli | Yoma | 54 | Shin Megami Tensei  Strange Journey Redux | Xiuhtecuhtli
+Master Therion | Yoma | 62 | Shin Megami Tensei  Strange Journey Redux | Master Therion
+Ganesha | Yoma | 67 | Shin Megami Tensei  Strange Journey Redux | Ganesha
+Shaytan | Yoma | 75 | Shin Megami Tensei  Strange Journey Redux | Shaytan
+Ogun | Zealot | 24 | Shin Megami Tensei  Strange Journey Redux | Ogun
+Dionysus | Zealot | 41 | Shin Megami Tensei  Strange Journey Redux | Dionysus
+Aramisaki | Zealot | 58 | Shin Megami Tensei  Strange Journey Redux | Aramisaki
+Attis | Zealot | 73 | Shin Megami Tensei  Strange Journey Redux | Attis
+Tezcatlipoca | Zealot | 81 | Shin Megami Tensei  Strange Journey Redux | Tezcatlipoca
+Masakado | Zealot | 92 | Shin Megami Tensei  Strange Journey Redux | Masakado
 Amaterasu | Amatsu | 72 | Shin Megami Tensei  if... | Amaterasu
 Tsukuyomi | Amatsu | 62 | Shin Megami Tensei  if... | Tsukuyomi
 Take-Mikazuchi | Amatsu | 58 | Shin Megami Tensei  if... | Take-Mikazuchi
@@ -10087,361 +10442,6 @@ Jinn | Yoma | 28 | Shin Megami Tensei NINE | Jinn
 Isora | Yoma | 21 | Shin Megami Tensei NINE | Isora
 Apsaras | Yoma | 16 | Shin Megami Tensei NINE | Apsaras
 Kinnari | Yoma | 11 | Shin Megami Tensei NINE | Kinnari
-Shiisaa | Avatar | 14 | Shin Megami Tensei Strange Journey Redux | Shiisaa
-Kamapua'a | Avatar | 24 | Shin Megami Tensei Strange Journey Redux | Kamapua'a
-Makami | Avatar | 32 | Shin Megami Tensei Strange Journey Redux | Makami
-Kaiming Shou | Avatar | 43 | Shin Megami Tensei Strange Journey Redux | Kaiming Shou
-Chimera | Avatar | 49 | Shin Megami Tensei Strange Journey Redux | Chimera
-Anubis | Avatar | 61 | Shin Megami Tensei Strange Journey Redux | Anubis
-Barong | Avatar | 69 | Shin Megami Tensei Strange Journey Redux | Barong
-Hamsa | Avian | 9 | Shin Megami Tensei Strange Journey Redux | Hamsa
-Suparna | Avian | 15 | Shin Megami Tensei Strange Journey Redux | Suparna
-Phoenix | Avian | 25 | Shin Megami Tensei Strange Journey Redux | Phoenix
-Thunderbird | Avian | 35 | Shin Megami Tensei Strange Journey Redux | Thunderbird
-Feng Huang | Avian | 46 | Shin Megami Tensei Strange Journey Redux | Feng Huang
-Yatagarasu | Avian | 59 | Shin Megami Tensei Strange Journey Redux | Yatagarasu
-Garuda | Avian | 71 | Shin Megami Tensei Strange Journey Redux | Garuda
-Kaso | Beast | 4 | Shin Megami Tensei Strange Journey Redux | Kaso
-Katakirauwa | Beast | 9 | Shin Megami Tensei Strange Journey Redux | Katakirauwa
-Inugami | Beast | 17 | Shin Megami Tensei Strange Journey Redux | Inugami
-Nekomata | Beast | 22 | Shin Megami Tensei Strange Journey Redux | Nekomata
-Hsing-Hsing | Beast | 30 | Shin Megami Tensei Strange Journey Redux | Hsing-Hsing
-Orthrus | Beast | 36 | Shin Megami Tensei Strange Journey Redux | Orthrus (demon)
-Gryphon | Beast | 46 | Shin Megami Tensei Strange Journey Redux | Gryphon
-Ammut | Beast | 56 | Shin Megami Tensei Strange Journey Redux | Ammut
-Cerberus | Beast | 66 | Shin Megami Tensei Strange Journey Redux | Cerberus
-Oni | Brute | 8 | Shin Megami Tensei Strange Journey Redux | Oni
-Azumi | Brute | 12 | Shin Megami Tensei Strange Journey Redux | Azumi
-Momunofu | Brute | 19 | Shin Megami Tensei Strange Journey Redux | Momunofu
-Yamawaro | Brute | 24 | Shin Megami Tensei Strange Journey Redux | Yamawaro
-Kin-Ki | Brute | 32 | Shin Megami Tensei Strange Journey Redux | Kin-Ki
-Fuu-Ki | Brute | 36 | Shin Megami Tensei Strange Journey Redux | Fuu-Ki
-Sui-Ki | Brute | 41 | Shin Megami Tensei Strange Journey Redux | Sui-Ki
-Berserker | Brute | 53 | Shin Megami Tensei Strange Journey Redux | Berserker
-Ongyo-Ki | Brute | 66 | Shin Megami Tensei Strange Journey Redux | Ongyo-Ki
-Dummy | Debug | 99 | Shin Megami Tensei Strange Journey Redux | Dummy
-Jimenez | Debug | 30 | Shin Megami Tensei Strange Journey Redux | Jimenez
-Jimenez | Debug | 30 | Shin Megami Tensei Strange Journey Redux | Jimenez
-Jimenez | Debug | 73 | Shin Megami Tensei Strange Journey Redux | Jimenez
-Jimenez | Debug | 70 | Shin Megami Tensei Strange Journey Redux | Jimenez
-Thoth | Deity | 41 | Shin Megami Tensei Strange Journey Redux | Thoth
-Inti | Deity | 49 | Shin Megami Tensei Strange Journey Redux | Inti
-Prometheus | Deity | 57 | Shin Megami Tensei Strange Journey Redux | Prometheus
-Omoteotl | Deity | 65 | Shin Megami Tensei Strange Journey Redux | Omoteotl
-Zeus | Deity | 67 | Shin Megami Tensei Strange Journey Redux | Zeus
-Odin | Deity | 71 | Shin Megami Tensei Strange Journey Redux | Odin
-Hachiman | Deity | 77 | Shin Megami Tensei Strange Journey Redux | Hachiman
-Vishnu | Deity | 86 | Shin Megami Tensei Strange Journey Redux | Vishnu
-Angel | Divine | 4 | Shin Megami Tensei Strange Journey Redux | Angel
-Archangel | Divine | 8 | Shin Megami Tensei Strange Journey Redux | Archangel
-Principality | Divine | 14 | Shin Megami Tensei Strange Journey Redux | Principality
-Power | Divine | 19 | Shin Megami Tensei Strange Journey Redux | Power
-Virtue | Divine | 25 | Shin Megami Tensei Strange Journey Redux | Virtue
-Dominion | Divine | 38 | Shin Megami Tensei Strange Journey Redux | Dominion
-Throne | Divine | 47 | Shin Megami Tensei Strange Journey Redux | Throne
-Cherub | Divine | 61 | Shin Megami Tensei Strange Journey Redux | Cherub
-Makara | Dragon | 13 | Shin Megami Tensei Strange Journey Redux | Makara
-Patrimpas | Dragon | 24 | Shin Megami Tensei Strange Journey Redux | Patrimpas
-Gucumatz | Dragon | 35 | Shin Megami Tensei Strange Journey Redux | Gucumatz
-Long | Dragon | 45 | Shin Megami Tensei Strange Journey Redux | Seiryu
-Zhu Yin | Dragon | 58 | Shin Megami Tensei Strange Journey Redux | Zhu Yin
-Quetzalcoatl | Dragon | 69 | Shin Megami Tensei Strange Journey Redux | Quetzalcoatl
-Huang Long | Dragon | 78 | Shin Megami Tensei Strange Journey Redux | Kohryu
-Zhu Tun She | Drake | 15 | Shin Megami Tensei Strange Journey Redux | Zhu Tun She
-Bai Suzhen | Drake | 27 | Shin Megami Tensei Strange Journey Redux | Bai Suzhen
-Basilisk | Drake | 35 | Shin Megami Tensei Strange Journey Redux | Basilisk
-Kingu | Drake | 46 | Shin Megami Tensei Strange Journey Redux | Kingu
-Mushussu | Drake | 61 | Shin Megami Tensei Strange Journey Redux | Mushussu
-Tiamat | Drake | 63 | Shin Megami Tensei Strange Journey Redux | Tiamat
-Nidhoggr | Drake | 65 | Shin Megami Tensei Strange Journey Redux | Nidhoggr
-Fafnir | Drake | 72 | Shin Megami Tensei Strange Journey Redux | Fafnir
-Vasuki | Drake | 85 | Shin Megami Tensei Strange Journey Redux | Vasuki
-Kanbari | Enigma | 27 | Shin Megami Tensei Strange Journey Redux | Kanbari
-Futotama | Enigma | 42 | Shin Megami Tensei Strange Journey Redux | Futotama
-Kinmamon | Enigma | 58 | Shin Megami Tensei Strange Journey Redux | Kinmamon
-Kama | Enigma | 72 | Shin Megami Tensei Strange Journey Redux | Kama
-Kangiten | Enigma | 80 | Shin Megami Tensei Strange Journey Redux | Kangiten
-Pixie | Fairy | 2 | Shin Megami Tensei Strange Journey Redux | Pixie
-Goblin | Fairy | 7 | Shin Megami Tensei Strange Journey Redux | Goblin
-Jack Frost | Fairy | 12 | Shin Megami Tensei Strange Journey Redux | Jack Frost
-Pyro Jack | Fairy | 16 | Shin Megami Tensei Strange Journey Redux | Jack-o'-Lantern
-High Pixie | Fairy | 19 | Shin Megami Tensei Strange Journey Redux | High Pixie
-Silky | Fairy | 23 | Shin Megami Tensei Strange Journey Redux | Silky
-Lorelei | Fairy | 31 | Shin Megami Tensei Strange Journey Redux | Lorelei
-Spriggan | Fairy | 34 | Shin Megami Tensei Strange Journey Redux | Spriggan
-Vivian | Fairy | 40 | Shin Megami Tensei Strange Journey Redux | Vivian
-Oberon | Fairy | 50 | Shin Megami Tensei Strange Journey Redux | Oberon
-Titania | Fairy | 60 | Shin Megami Tensei Strange Journey Redux | Titania
-Demonee-Ho | Fairy | 75 | Shin Megami Tensei Strange Journey Redux | Demonee-Ho
-Demonica-L | Fake | 1 | Shin Megami Tensei Strange Journey Redux | Demonica-L, Demonica-N, & Demonica-C
-Demonica-N | Fake | 1 | Shin Megami Tensei Strange Journey Redux | Demonica-L, Demonica-N, & Demonica-C
-Demonica-C | Fake | 1 | Shin Megami Tensei Strange Journey Redux | Demonica-L, Demonica-N, & Demonica-C
-Melchom | Fallen | 7 | Shin Megami Tensei Strange Journey Redux | Melchom
-Bifrons | Fallen | 16 | Shin Megami Tensei Strange Journey Redux | Bifrons
-Halphas | Fallen | 22 | Shin Megami Tensei Strange Journey Redux | Halphas
-Orias | Fallen | 27 | Shin Megami Tensei Strange Journey Redux | Orias
-Dantalian | Fallen | 33 | Shin Megami Tensei Strange Journey Redux | Dantalian
-Ose | Fallen | 41 | Shin Megami Tensei Strange Journey Redux | Ose
-Decarabia | Fallen | 50 | Shin Megami Tensei Strange Journey Redux | Decarabia
-Mithra | Fallen | 53 | Shin Megami Tensei Strange Journey Redux | Mithra
-Forneus | Fallen | 56 | Shin Megami Tensei Strange Journey Redux | Forneus
-Gemori | Fallen | 60 | Shin Megami Tensei Strange Journey Redux | Gemori
-Nebiros | Fallen | 99 | Shin Megami Tensei Strange Journey Redux | Nebiros
-Acheri | Femme | 8 | Shin Megami Tensei Strange Journey Redux | Acheri
-Leanan Sidhe | Femme | 14 | Shin Megami Tensei Strange Journey Redux | Leanan Sidhe
-Yuki Jyorou | Femme | 26 | Shin Megami Tensei Strange Journey Redux | Yuki Jyorou
-Clotho | Femme | 37 | Shin Megami Tensei Strange Journey Redux | Clotho
-Lachesis | Femme | 43 | Shin Megami Tensei Strange Journey Redux | Lachesis
-Atropos | Femme | 49 | Shin Megami Tensei Strange Journey Redux | Atropos
-Dakini | Femme | 63 | Shin Megami Tensei Strange Journey Redux | Dakini
-Rangda | Femme | 68 | Shin Megami Tensei Strange Journey Redux | Rangda
-Volvo | Femme | 71 | Shin Megami Tensei Strange Journey Redux | Volvo
-Kali | Femme | 86 | Shin Megami Tensei Strange Journey Redux | Kali
-David | Fiend | 22 | Shin Megami Tensei Strange Journey Redux | David (demon)
-Matador | Fiend | 30 | Shin Megami Tensei Strange Journey Redux | Matador
-Alice | Fiend | 39 | Shin Megami Tensei Strange Journey Redux | Alice
-White Rider | Fiend | 49 | Shin Megami Tensei Strange Journey Redux | White Rider
-Red Rider | Fiend | 59 | Shin Megami Tensei Strange Journey Redux | Red Rider
-Black Rider | Fiend | 69 | Shin Megami Tensei Strange Journey Redux | Black Rider
-Pale Rider | Fiend | 78 | Shin Megami Tensei Strange Journey Redux | Pale Rider
-Trumpeter | Fiend | 83 | Shin Megami Tensei Strange Journey Redux | Trumpeter
-Mother Harlot | Fiend | 90 | Shin Megami Tensei Strange Journey Redux | Mother Harlot
-Tangata Manu | Flight | 2 | Shin Megami Tensei Strange Journey Redux | Tangata Manu
-Harpy | Flight | 9 | Shin Megami Tensei Strange Journey Redux | Harpy
-Gu Huo Niao | Flight | 15 | Shin Megami Tensei Strange Journey Redux | Gu Huo Niao
-Caladrius | Flight | 22 | Shin Megami Tensei Strange Journey Redux | Caladrius
-Toufei | Flight | 31 | Shin Megami Tensei Strange Journey Redux | Tuofei
-Rukh | Flight | 42 | Shin Megami Tensei Strange Journey Redux | Rukh
-Da Peng | Flight | 50 | Shin Megami Tensei Strange Journey Redux | Da Peng
-Slime | Foul | 1 | Shin Megami Tensei Strange Journey Redux | Slime
-Jack the Ripper | Foul | 13 | Shin Megami Tensei Strange Journey Redux | Jack Ripper
-Doppelganger | Foul | 25 | Shin Megami Tensei Strange Journey Redux | Doppelgänger
-Night Stalker | Foul | 38 | Shin Megami Tensei Strange Journey Redux | Night Stalker (demon)
-Mad Gasser | Foul | 52 | Shin Megami Tensei Strange Journey Redux | Mad Gasser
-Ares | Fury | 36 | Shin Megami Tensei Strange Journey Redux | Ares
-Tonatiuh | Fury | 45 | Shin Megami Tensei Strange Journey Redux | Tonatiuh
-Wu Kong | Fury | 58 | Shin Megami Tensei Strange Journey Redux | Seiten Taisei
-Kartikeya | Fury | 70 | Shin Megami Tensei Strange Journey Redux | Kartikeya
-Zaou-Gongen | Fury | 80 | Shin Megami Tensei Strange Journey Redux | Zaou-Gongen
-Susano-O | Fury | 85 | Shin Megami Tensei Strange Journey Redux | Susano-o
-Shiva | Fury | 91 | Shin Megami Tensei Strange Journey Redux | Shiva
-Anat | Geist | 80 | Shin Megami Tensei Strange Journey Redux | Anat
-Alilat | Geist | 84 | Shin Megami Tensei Strange Journey Redux | Alilat
-Nadja | Genma | 23 | Shin Megami Tensei Strange Journey Redux | Nadja
-Tam Lin | Genma | 29 | Shin Megami Tensei Strange Journey Redux | Tam Lin
-Frost Ace | Genma | 34 | Shin Megami Tensei Strange Journey Redux | Frost Ace
-Kurama Tengu | Genma | 38 | Shin Megami Tensei Strange Journey Redux | Kurama Tengu
-Tlaloc | Genma | 40 | Shin Megami Tensei Strange Journey Redux | Tlaloc
-Cu Chulainn | Genma | 48 | Shin Megami Tensei Strange Journey Redux | Cu Chulainn
-Kresnik | Genma | 55 | Shin Megami Tensei Strange Journey Redux | Kresnik
-Hanuman | Genma | 62 | Shin Megami Tensei Strange Journey Redux | Hanuman
-Heimdall | Genma | 72 | Shin Megami Tensei Strange Journey Redux | Heimdall
-Preta | Haunt | 6 | Shin Megami Tensei Strange Journey Redux | Preta
-Mou-Ryo | Haunt | 17 | Shin Megami Tensei Strange Journey Redux | Mou-Ryo
-Churel | Haunt | 24 | Shin Megami Tensei Strange Journey Redux | Churel
-Ghoul | Haunt | 30 | Shin Megami Tensei Strange Journey Redux | Ghoul
-Strigoii | Haunt | 45 | Shin Megami Tensei Strange Journey Redux | Strigoii
-Kudlak | Haunt | 56 | Shin Megami Tensei Strange Journey Redux | Kudlak
-Vetala | Haunt | 67 | Shin Megami Tensei Strange Journey Redux | Vetala
-Victor | Herald | 51 | Shin Megami Tensei Strange Journey Redux | Victor
-Israfel | Herald | 63 | Shin Megami Tensei Strange Journey Redux | Israfel
-Kazfiel | Herald | 66 | Shin Megami Tensei Strange Journey Redux | Kazfiel
-Azrael | Herald | 69 | Shin Megami Tensei Strange Journey Redux | Azrael
-Sraosha | Herald | 74 | Shin Megami Tensei Strange Journey Redux | Sraosha
-Armaiti | Herald | 76 | Shin Megami Tensei Strange Journey Redux | Armaiti
-Aniel | Herald | 79 | Shin Megami Tensei Strange Journey Redux | Aniel
-Mastema | Herald | 82 | Shin Megami Tensei Strange Journey Redux | Mastema
-Sandalphon | Herald | 83 | Shin Megami Tensei Strange Journey Redux | Sandalphon
-Metatron | Herald | 84 | Shin Megami Tensei Strange Journey Redux | Metatron
-Seraph | Herald | 89 | Shin Megami Tensei Strange Journey Redux | Seraph (Demon)
-Heqet | Holy | 10 | Shin Megami Tensei Strange Journey Redux | Heqet
-Apis | Holy | 18 | Shin Megami Tensei Strange Journey Redux | Apis
-Pabilsag | Holy | 26 | Shin Megami Tensei Strange Journey Redux | Pabilsag
-Qing Niuguai | Holy | 33 | Shin Megami Tensei Strange Journey Redux | Qing Niuguai
-Airavata | Holy | 41 | Shin Megami Tensei Strange Journey Redux | Airavata
-Baihu | Holy | 48 | Shin Megami Tensei Strange Journey Redux | Byakko
-Sleipnir | Holy | 56 | Shin Megami Tensei Strange Journey Redux | Sleipnir (demon)
-Sphinx | Holy | 70 | Shin Megami Tensei Strange Journey Redux | Sphinx
-Gremlin | Jaki | 5 | Shin Megami Tensei Strange Journey Redux | Gremlin
-Ippon-Datara | Jaki | 10 | Shin Megami Tensei Strange Journey Redux | Ippon-Datara
-Wendigo | Jaki | 23 | Shin Megami Tensei Strange Journey Redux | Wendigo
-Black Frost | Jaki | 30 | Shin Megami Tensei Strange Journey Redux | Black Frost
-Rakshasa | Jaki | 35 | Shin Megami Tensei Strange Journey Redux | Rakshasa
-Grendel | Jaki | 46 | Shin Megami Tensei Strange Journey Redux | Grendel
-Girimehkala | Jaki | 57 | Shin Megami Tensei Strange Journey Redux | Girimekhala
-Hecatoncheir | Jaki | 70 | Shin Megami Tensei Strange Journey Redux | Hecatoncheires
-Knocker | Jirae | 1 | Shin Megami Tensei Strange Journey Redux | Knocker
-Hua Po | Jirae | 6 | Shin Megami Tensei Strange Journey Redux | Hua Po
-Sudama | Jirae | 15 | Shin Megami Tensei Strange Journey Redux | Sudama
-Dwarf | Jirae | 20 | Shin Megami Tensei Strange Journey Redux | Dwarf
-Bagaboo | Jirae | 20 | Shin Megami Tensei Strange Journey Redux | Bugaboo
-Bogaboo | Jirae | 20 | Shin Megami Tensei Strange Journey Redux | Bugaboo
-Bugaboo | Jirae | 20 | Shin Megami Tensei Strange Journey Redux | Bugaboo
-Kwancha | Jirae | 25 | Shin Megami Tensei Strange Journey Redux | Kwancha
-Tsuchigumo | Jirae | 30 | Shin Megami Tensei Strange Journey Redux | Tsuchigumo
-Titan | Jirae | 35 | Shin Megami Tensei Strange Journey Redux | Titan
-Tlaltecuhtli | Jirae | 45 | Shin Megami Tensei Strange Journey Redux | Tlaltecuhtli
-Gogmagog | Jirae | 55 | Shin Megami Tensei Strange Journey Redux | Gogmagog
-Takeminakata | Kishin | 27 | Shin Megami Tensei Strange Journey Redux | Take-Minakata
-Zouchouten | Kishin | 37 | Shin Megami Tensei Strange Journey Redux | Zouchouten
-Koumokuten | Kishin | 47 | Shin Megami Tensei Strange Journey Redux | Koumokuten
-Jikokuten | Kishin | 57 | Shin Megami Tensei Strange Journey Redux | Jikokuten
-Bishamonten | Kishin | 65 | Shin Megami Tensei Strange Journey Redux | Bishamonten (demon)
-Thor | Kishin | 76 | Shin Megami Tensei Strange Journey Redux | Thor
-Pele | Lady | 10 | Shin Megami Tensei Strange Journey Redux | Pele
-Dzelarhons | Lady | 21 | Shin Megami Tensei Strange Journey Redux | Dzelarhons
-Sedna | Lady | 34 | Shin Megami Tensei Strange Journey Redux | Sedna
-Hariti | Lady | 44 | Shin Megami Tensei Strange Journey Redux | Hariti
-Diana | Lady | 54 | Shin Megami Tensei Strange Journey Redux | Diana (Roman)
-Asherah | Lady | 58 | Shin Megami Tensei Strange Journey Redux | Asherah
-Black Maria | Lady | 64 | Shin Megami Tensei Strange Journey Redux | Black Maria
-Isis | Lady | 67 | Shin Megami Tensei Strange Journey Redux | Isis
-Skadi | Lady | 73 | Shin Megami Tensei Strange Journey Redux | Skadi
-Cybele | Lady | 76 | Shin Megami Tensei Strange Journey Redux | Cybele
-Xi Wangmu | Lady | 79 | Shin Megami Tensei Strange Journey Redux | Xi Wangmu
-Hathor | Megami | 11 | Shin Megami Tensei Strange Journey Redux | Hathor
-Fortuna | Megami | 20 | Shin Megami Tensei Strange Journey Redux | Fortuna
-Parvati | Megami | 32 | Shin Megami Tensei Strange Journey Redux | Parvati
-Scathach | Megami | 43 | Shin Megami Tensei Strange Journey Redux | Scathach
-Ishtar | Megami | 51 | Shin Megami Tensei Strange Journey Redux | Ishtar
-Pallas Athena | Megami | 53 | Shin Megami Tensei Strange Journey Redux | Pallas Athena
-Tlazolteotl | Megami | 64 | Shin Megami Tensei Strange Journey Redux | Tlazolteotl
-Norn | Megami | 72 | Shin Megami Tensei Strange Journey Redux | Norn
-Laksmi | Megami | 73 | Shin Megami Tensei Strange Journey Redux | Laksmi
-Maria | Megami | 74 | Shin Megami Tensei Strange Journey Redux | Maria (demon)
-Amaterasu | Megami | 79 | Shin Megami Tensei Strange Journey Redux | Amaterasu
-Demeter | Megami | 85 | Shin Megami Tensei Strange Journey Redux | Demeter
-Ara Mitama | Mitama | 21 | Shin Megami Tensei Strange Journey Redux | Ara Mitama
-Nigi Mitama | Mitama | 26 | Shin Megami Tensei Strange Journey Redux | Nigi Mitama
-Kusi Mitama | Mitama | 31 | Shin Megami Tensei Strange Journey Redux | Kusi Mitama
-Saki Mitama | Mitama | 36 | Shin Megami Tensei Strange Journey Redux | Saki Mitama
-Sandman | Night | 4 | Shin Megami Tensei Strange Journey Redux | Sandman
-Lilim | Night | 9 | Shin Megami Tensei Strange Journey Redux | Lilim
-Fomorian | Night | 16 | Shin Megami Tensei Strange Journey Redux | Fomorian
-Incubus | Night | 23 | Shin Megami Tensei Strange Journey Redux | Incubus
-Hypnos | Night | 29 | Shin Megami Tensei Strange Journey Redux | Hypnos
-Kaiwan | Night | 34 | Shin Megami Tensei Strange Journey Redux | Kaiwan
-Succubus | Night | 47 | Shin Megami Tensei Strange Journey Redux | Succubus
-Wild Hunt | Night | 55 | Shin Megami Tensei Strange Journey Redux | Wild Hunt (demon)
-Lilith | Night | 66 | Shin Megami Tensei Strange Journey Redux | Lilith
-Maya | Night | 70 | Shin Megami Tensei Strange Journey Redux | Maya (demon, Hindu)
-Apsaras | Nymph | 10 | Shin Megami Tensei Strange Journey Redux | Apsaras
-Ame no Uzume | Nymph | 24 | Shin Megami Tensei Strange Journey Redux | Ame-no-Uzume
-Anahita | Nymph | 28 | Shin Megami Tensei Strange Journey Redux | Anahita
-Senri | Nymph | 36 | Shin Megami Tensei Strange Journey Redux | Senri
-Kikuri-Hime | Nymph | 42 | Shin Megami Tensei Strange Journey Redux | Kikuri-Hime
-Sarasvati | Nymph | 48 | Shin Megami Tensei Strange Journey Redux | Sarasvati
-Peri | Nymph | 59 | Shin Megami Tensei Strange Journey Redux | Peri
-Erthys | Prime | 8 | Shin Megami Tensei Strange Journey Redux | Erthys
-Aeros | Prime | 12 | Shin Megami Tensei Strange Journey Redux | Aeros
-Aquans | Prime | 16 | Shin Megami Tensei Strange Journey Redux | Aquans
-Flaemis | Prime | 20 | Shin Megami Tensei Strange Journey Redux | Flaemis
-Gnome | Prime | 21 | Shin Megami Tensei Strange Journey Redux | Gnome
-Sylph | Prime | 25 | Shin Megami Tensei Strange Journey Redux | Sylph
-Undine | Prime | 28 | Shin Megami Tensei Strange Journey Redux | Undine
-Salamander | Prime | 32 | Shin Megami Tensei Strange Journey Redux | Salamander
-Onmoraki | Raptor | 3 | Shin Megami Tensei Strange Journey Redux | Onmoraki
-Itsumade | Raptor | 7 | Shin Megami Tensei Strange Journey Redux | Itsumade
-Moh Shuvuu | Raptor | 17 | Shin Megami Tensei Strange Journey Redux | Moh Shuvuu
-Zhen | Raptor | 28 | Shin Megami Tensei Strange Journey Redux | Zhen
-Camazotz | Raptor | 31 | Shin Megami Tensei Strange Journey Redux | Camazotz
-Gurr | Raptor | 40 | Shin Megami Tensei Strange Journey Redux | Gurr
-Anzu | Raptor | 49 | Shin Megami Tensei Strange Journey Redux | Anzu
-Huoniao | Raptor | 64 | Shin Megami Tensei Strange Journey Redux | Huoniao
-Hresvelgr | Raptor | 70 | Shin Megami Tensei Strange Journey Redux | Hresvelgr
-Hel | Reaper | 47 | Shin Megami Tensei Strange Journey Redux | Hel
-Orcus | Reaper | 55 | Shin Megami Tensei Strange Journey Redux | Orcus
-Persephone | Reaper | 58 | Shin Megami Tensei Strange Journey Redux | Persephone
-Guedhe | Reaper | 62 | Shin Megami Tensei Strange Journey Redux | Guedhe
-Thanatos | Reaper | 68 | Shin Megami Tensei Strange Journey Redux | Thanatos
-Nergal | Reaper | 76 | Shin Megami Tensei Strange Journey Redux | Nergal
-Ixtab | Reaper | 80 | Shin Megami Tensei Strange Journey Redux | Ixtab
-Mot | Reaper | 87 | Shin Megami Tensei Strange Journey Redux | Mot
-Naga | Snake | 11 | Shin Megami Tensei Strange Journey Redux | Naga
-Nozuchi | Snake | 18 | Shin Megami Tensei Strange Journey Redux | Nozuchi
-Yurlungur | Snake | 28 | Shin Megami Tensei Strange Journey Redux | Yurlungur
-Vouivre | Snake | 33 | Shin Megami Tensei Strange Journey Redux | Vouivre
-Gui Xian | Snake | 42 | Shin Megami Tensei Strange Journey Redux | Genbu
-Ouroboros | Snake | 49 | Shin Megami Tensei Strange Journey Redux | Ouroboros
-Orochi | Snake | 60 | Shin Megami Tensei Strange Journey Redux | Yamata-no-Orochi
-Ananta | Snake | 65 | Shin Megami Tensei Strange Journey Redux | Ananta
-Vritra | Snake | 75 | Shin Megami Tensei Strange Journey Redux | Vritra
-Dybbuk | Spirit | 2 | Shin Megami Tensei Strange Journey Redux | Dybbuk
-Poltergeist | Spirit | 7 | Shin Megami Tensei Strange Journey Redux | Poltergeist
-Macabre | Spirit | 18 | Shin Megami Tensei Strange Journey Redux | Macabre
-Inferno | Spirit | 23 | Shin Megami Tensei Strange Journey Redux | Inferno (demon)
-Pisaca | Spirit | 29 | Shin Megami Tensei Strange Journey Redux | Pisaca
-Legion | Spirit | 36 | Shin Megami Tensei Strange Journey Redux | Legion
-Daphne | Tree | 21 | Shin Megami Tensei Strange Journey Redux | Daphne
-Mayahuel | Tree | 35 | Shin Megami Tensei Strange Journey Redux | Mayahuel
-Kukunochi | Tree | 44 | Shin Megami Tensei Strange Journey Redux | Kukunochi
-Haoma | Tree | 55 | Shin Megami Tensei Strange Journey Redux | Haoma
-Yggdrassil | Tree | 64 | Shin Megami Tensei Strange Journey Redux | Yggdrassil
-Morax | Tyrant | 15 | Shin Megami Tensei Strange Journey Redux | Morax
-Mithras | Tyrant | 25 | Shin Megami Tensei Strange Journey Redux | Mithras
-Horkos | Tyrant | 33 | Shin Megami Tensei Strange Journey Redux | Horkos
-King Frost | Tyrant | 40 | Shin Megami Tensei Strange Journey Redux | King Frost
-Asura | Tyrant | 42 | Shin Megami Tensei Strange Journey Redux | Asura
-Balor | Tyrant | 44 | Shin Megami Tensei Strange Journey Redux | Balor
-Moloch | Tyrant | 50 | Shin Megami Tensei Strange Journey Redux | Moloch
-Loki | Tyrant | 52 | Shin Megami Tensei Strange Journey Redux | Loki
-Abaddon | Tyrant | 60 | Shin Megami Tensei Strange Journey Redux | Abaddon
-Tzitzimitl | Tyrant | 71 | Shin Megami Tensei Strange Journey Redux | Tzitzimitl
-Surt | Tyrant | 77 | Shin Megami Tensei Strange Journey Redux | Surt
-Amon | Tyrant | 80 | Shin Megami Tensei Strange Journey Redux | Amon
-Mara | Tyrant | 88 | Shin Megami Tensei Strange Journey Redux | Mara
-Beelzebub | Tyrant | 99 | Shin Megami Tensei Strange Journey Redux | Beelzebub
-Belial | Tyrant | 99 | Shin Megami Tensei Strange Journey Redux | Belial
-Lucifuge | Tyrant | 99 | Shin Megami Tensei Strange Journey Redux | Lucifuge
-Mamedanuki | UMA | 13 | Shin Megami Tensei Strange Journey Redux | Mamedanuki
-Chupacabra | UMA | 19 | Shin Megami Tensei Strange Journey Redux | Chupacabra
-Kuda | UMA | 28 | Shin Megami Tensei Strange Journey Redux | Kuda
-Hare of Inaba | UMA | 37 | Shin Megami Tensei Strange Journey Redux | Hare of Inaba
-Okiku-Mushi | Vermin | 3 | Shin Megami Tensei Strange Journey Redux | Okiku-Mushi
-Ubu | Vermin | 11 | Shin Megami Tensei Strange Journey Redux | Ubu
-Myrmecolion | Vermin | 22 | Shin Megami Tensei Strange Journey Redux | Myrmecolion
-Mothman | Vermin | 29 | Shin Megami Tensei Strange Journey Redux | Mothman
-Arachne | Vermin | 39 | Shin Megami Tensei Strange Journey Redux | Arachne
-Baphomet | Vile | 26 | Shin Megami Tensei Strange Journey Redux | Baphomet
-Mishaguji | Vile | 39 | Shin Megami Tensei Strange Journey Redux | Mishaguji
-Pachacamac | Vile | 48 | Shin Megami Tensei Strange Journey Redux | Pachacamac
-Taotie | Vile | 53 | Shin Megami Tensei Strange Journey Redux | Tao Tie
-Alciel | Vile | 61 | Shin Megami Tensei Strange Journey Redux | Alciel
-Pales | Vile | 68 | Shin Megami Tensei Strange Journey Redux | Pales
-Samael | Vile | 75 | Shin Megami Tensei Strange Journey Redux | Samael
-Mada | Vile | 82 | Shin Megami Tensei Strange Journey Redux | Mada
-Seth | Vile | 85 | Shin Megami Tensei Strange Journey Redux | Seth (demon)
-Demiurge | Vile | 94 | Shin Megami Tensei Strange Journey Redux | Demiurge
-Jueyuan | Wilder | 10 | Shin Megami Tensei Strange Journey Redux | Jueyuan
-Raiju | Wilder | 17 | Shin Megami Tensei Strange Journey Redux | Raijuu
-Nue | Wilder | 27 | Shin Megami Tensei Strange Journey Redux | Nue
-Pellaidh | Wilder | 40 | Shin Megami Tensei Strange Journey Redux | Pellaidh
-Manticore | Wilder | 45 | Shin Megami Tensei Strange Journey Redux | Manticore
-Catoblepas | Wilder | 52 | Shin Megami Tensei Strange Journey Redux | Catoblepas
-Cabracan | Wilder | 64 | Shin Megami Tensei Strange Journey Redux | Cabracan
-Fenrir | Wilder | 71 | Shin Megami Tensei Strange Journey Redux | Fenrir
-Shan Xiao | Wood | 14 | Shin Megami Tensei Strange Journey Redux | Shan Xiao
-Mandrake | Wood | 22 | Shin Megami Tensei Strange Journey Redux | Mandrake
-Skogsra | Wood | 29 | Shin Megami Tensei Strange Journey Redux | Skogsra
-Zaccoum | Wood | 42 | Shin Megami Tensei Strange Journey Redux | Zaccoum
-Alraune | Wood | 51 | Shin Megami Tensei Strange Journey Redux | Alraune
-Erlkonig | Wood | 61 | Shin Megami Tensei Strange Journey Redux | Erlkonig
-Koppa Tengu | Yoma | 5 | Shin Megami Tensei Strange Journey Redux | Koppa Tengu
-Vodyanik | Yoma | 13 | Shin Megami Tensei Strange Journey Redux | Vodyanik
-Karasu Tengu | Yoma | 18 | Shin Megami Tensei Strange Journey Redux | Karasu Tengu
-Dis | Yoma | 27 | Shin Megami Tensei Strange Journey Redux | Dis
-Shiwanna | Yoma | 37 | Shin Megami Tensei Strange Journey Redux | Shiwanna
-Valkyrie | Yoma | 45 | Shin Megami Tensei Strange Journey Redux | Valkyrie
-Xiuhtecuhtli | Yoma | 54 | Shin Megami Tensei Strange Journey Redux | Xiuhtecuhtli
-Master Therion | Yoma | 62 | Shin Megami Tensei Strange Journey Redux | Master Therion
-Ganesha | Yoma | 67 | Shin Megami Tensei Strange Journey Redux | Ganesha
-Shaytan | Yoma | 75 | Shin Megami Tensei Strange Journey Redux | Shaytan
-Ogun | Zealot | 24 | Shin Megami Tensei Strange Journey Redux | Ogun
-Dionysus | Zealot | 41 | Shin Megami Tensei Strange Journey Redux | Dionysus
-Aramisaki | Zealot | 58 | Shin Megami Tensei Strange Journey Redux | Aramisaki
-Attis | Zealot | 73 | Shin Megami Tensei Strange Journey Redux | Attis
-Tezcatlipoca | Zealot | 81 | Shin Megami Tensei Strange Journey Redux | Tezcatlipoca
-Masakado | Zealot | 92 | Shin Megami Tensei Strange Journey Redux | Masakado
 Makami | Avatar | 21 | Shin Megami Tensei V | Makami
 Anubis | Avatar | 41 | Shin Megami Tensei V | Anubis
 Barong | Avatar | 60 | Shin Megami Tensei V | Barong

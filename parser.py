@@ -635,6 +635,68 @@ def parseCompendium():
 
                     element = element.find_next_sibling()
 parseCompendium()
+import copy
+
+gamesWithRereleases = {
+    "Persona 4": "Persona 4 Golden",
+    "Devil Survivor 2": "Devil Survivor 2 Record Breaker",
+    "Shin Megami Tensei": "Shin Megami Tensei (Sega CD)",
+    "Shin Megami Tensei II": "Shin Megami Tensei II (GBA)",
+    "Shin Megami Tensei  Strange Journey": "Shin Megami Tensei Strange Journey Redux",
+    "Shin Megami Tensei  Devil Summoner": "Shin Megami Tensei  Devil Summoner (PSP)",
+    "Shin Megami Tensei III  Nocturne": "Shin Megami Tensei III  Nocturne MANIAX",
+    "Devil Summoner  Soul Hackers": "Devil Summoner Soul Hackers (3DS)"
+}
+
+expandedCompendium = []
+
+for demon in Compendium:
+    if demon.game not in gamesWithRereleases:
+        expandedCompendium.append(demon)
+        continue
+
+    rereleaseDemon = copy.copy(demon)
+    rereleaseDemon.game = gamesWithRereleases[demon.game]
+
+    rereleaseOnly = (
+        "[Golden only]" in demon.race
+        or "†" in demon.givenName
+    )
+
+    if rereleaseOnly:
+        rereleaseDemon.givenName = rereleaseDemon.givenName.replace("†", "").strip()
+        rereleaseDemon.race = rereleaseDemon.race.replace("[Golden only]", "").strip()
+        if "Nocturne" in rereleaseDemon.game:
+            nocturneIsASpecialGameDemonHDTurboHDRemixDemon = copy.copy(rereleaseDemon)
+            nocturneIsASpecialGameDemonHDTurboHDRemixDemon.game = "Shin Megami Tensei III  Nocturne HD Remaster"
+            expandedCompendium.append(nocturneIsASpecialGameDemonHDTurboHDRemixDemon)
+            #I love Nocturne, honestly.
+            #There's no actual roster change beyond handsome charming boy Raidou, but that's enough to special case Chronicle.
+            nocturneIsASpecialGameDemonHDTurboHDRemixDemon.game = "Shin Megami Tensei III  Nocturne Chronicle"
+            expandedCompendium.append(nocturneIsASpecialGameDemonHDTurboHDRemixDemon)
+        expandedCompendium.append(rereleaseDemon)
+
+    else:
+        expandedCompendium.append(demon)
+        expandedCompendium.append(rereleaseDemon)
+
+Compendium = expandedCompendium
+
+for demon in Compendium:
+    if demon.level == "Innat":
+        demon.level = 1
+    if "(" in demon.givenName:
+        demon.givenName = demon.givenName.split("(", 1)[0]
+    while demon.givenName[-1].isalnum() == False:
+        demon.givenName = demon.givenName[:-1]
+
+
+Compendium.sort(
+    key=lambda demon: (
+        demon.game,
+        demon.race
+    )
+)
 def writeOutput():
     with open("compendiumdbraw.txt", "w", encoding="utf-8") as file:
         for demon in Compendium:

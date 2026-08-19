@@ -68,7 +68,7 @@ games = [
         releaseType="expanded_rerelease"
     ),
     GameInfo(
-        "Devil Summoner: Soul Hackers",
+        "Devil Summoner  Soul Hackers",
         1997,
         series="Devil Summoner",
         subseries="Soul Hackers",
@@ -77,7 +77,7 @@ games = [
     ),
 
     GameInfo(
-        "Devil Summoner: Soul Hackers (3DS)",
+        "Devil Summoner  Soul Hackers (3DS)",
         2012,
         series="Devil Summoner",
         subseries="Soul Hackers",
@@ -86,7 +86,7 @@ games = [
     ),
 
     GameInfo(
-        "Devil Summoner: Raidou Kuzunoha vs. The Soulless Army",
+        "Devil Summoner  Raidou Kuzunoha vs. The Soulless Army",
         2006,
         series="Devil Summoner",
         subseries="Raidou Kuzunoha",
@@ -104,7 +104,7 @@ games = [
     ),
 
     GameInfo(
-        "Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon",
+        "Devil Summoner  Raidou Kuzunoha vs. King Abaddon",
         2008,
         series="Devil Summoner",
         subseries="Raidou Kuzunoha",
@@ -254,4 +254,173 @@ games = [
         family="Shin Megami Tensei V",
         releaseType="expanded_rerelease"
     ),
+    GameInfo(
+        "Shin Megami Tensei: Devil Survivor",
+        2009,
+        series="Devil Survivor",
+        subseries=None,
+        family="Devil Survivor",
+        releaseType="original"
+    ),
+
+    GameInfo(
+        "Shin Megami Tensei: Devil Survivor Overclocked",
+        2011,
+        series="Devil Survivor",
+        subseries=None,
+        family="Devil Survivor",
+        releaseType="expanded_rerelease"
+    ),
+
+    GameInfo(
+        "Shin Megami Tensei: Devil Survivor 2",
+        2011,
+        series="Devil Survivor",
+        subseries=None,
+        family="Devil Survivor 2",
+        releaseType="original"
+    ),
+
+    GameInfo(
+        "Devil Survivor 2 Record Breaker",
+        2015,
+        series="Devil Survivor",
+        subseries=None,
+        family="Devil Survivor 2",
+        releaseType="expanded_rerelease"
+    ),
+
+    GameInfo(
+        "Majin Tensei",
+        1994,
+        series="Majin Tensei",
+        subseries=None,
+        family="Majin Tensei",
+        releaseType="original"
+    ),
+
+    GameInfo(
+        "Majin Tensei II: Spiral Nemesis",
+        1995,
+        series="Majin Tensei",
+        subseries=None,
+        family="Majin Tensei II",
+        releaseType="original"
+    ),
+
+    GameInfo(
+        "Ronde",
+        1997,
+        series="Majin Tensei",
+        subseries=None,
+        family="Ronde",
+        releaseType="original"
+    ),
+    # Digital Devil Saga
+    GameInfo(
+        "Shin Megami Tensei: Digital Devil Saga",
+        2004,
+        series="Digital Devil Saga",
+        subseries=None,
+        family="Digital Devil Saga",
+        releaseType="original"
+    ),
+
+    GameInfo(
+        "Shin Megami Tensei: Digital Devil Saga 2",
+        2005,
+        series="Digital Devil Saga",
+        subseries=None,
+        family="Digital Devil Saga 2",
+        releaseType="original"
+    ),
+
+    # Persona 1
+    GameInfo(
+        "Megami Ibunroku Persona",
+        1996,
+        series="Persona",
+        subseries=None,
+        family="Persona",
+        releaseType="original"
+    ),
+
+
+    # Persona 2
+    GameInfo(
+        "Persona 2: Innocent Sin",
+        1999,
+        series="Persona",
+        subseries="Persona 2",
+        family="Persona 2: Innocent Sin",
+        releaseType="original"
+    ),
+
+    GameInfo(
+        "Persona 2: Eternal Punishment",
+        2000,
+        series="Persona",
+        subseries="Persona 2",
+        family="Persona 2: Eternal Punishment",
+        releaseType="original"
+    ),
+
+    # Persona 4
+    GameInfo(
+        "Persona 4",
+        2008,
+        series="Persona",
+        subseries=None,
+        family="Persona 4",
+        releaseType="original"
+    ),
+
+    GameInfo(
+        "Persona 4 Golden",
+        2012,
+        series="Persona",
+        subseries=None,
+        family="Persona 4",
+        releaseType="expanded_rerelease"
+    ),
+
+    # Persona 5
+    GameInfo(
+        "Persona 5",
+        2016,
+        series="Persona",
+        subseries=None,
+        family="Persona 5",
+        releaseType="original"
+    ),
+
+    GameInfo(
+        "Persona 5 Royal",
+        2019,
+        series="Persona",
+        subseries=None,
+        family="Persona 5",
+        releaseType="expanded_rerelease"
+    ),
+
+    # Persona Q
+    GameInfo(
+        "Persona Q: Shadow of the Labyrinth",
+        2014,
+        series="Persona",
+        subseries="Persona Q",
+        family="Persona Q",
+        releaseType="original"
+    ),
+
+    GameInfo(
+        "Persona Q2: New Cinema Labyrinth",
+        2018,
+        series="Persona",
+        subseries="Persona Q",
+        family="Persona Q2",
+        releaseType="original"
+    ),
+
+
 ]

@@ -44,11 +44,11 @@ Amabie
 Amanozako
 Amaterasu
 Amatsu Mikaboshi
-Amazon (demon)
+Amazon
 Amdusias
 Ame no Fuchikoma
 Ame-no-Uzume
-Ameno Torifune (demon)
+Ameno Torifune
 Ameretat
 Ammut
 Amon
@@ -97,7 +97,7 @@ Army Zombie
 Arsène
 Artemis
 Artemisia
-Arthur (demon)
+Arthur
 Ascomid
 Asherah
 Ashtar
@@ -107,7 +107,7 @@ Ashura Woman
 Asinaga
 Asmodeus
 Asp
-Assassin (demon)
+Assassin
 Astaroth
 Asterius
 Astria
@@ -167,7 +167,7 @@ Bigfoot
 Billiken
 Bilwis
 Binbou-gami
-Bishamonten (demon)
+Bishamonten
 Bit Ball
 Biwa Hoshi
 Black Frost
@@ -260,8 +260,8 @@ Cosmo Zombie
 Crazy Dummy
 Crom Cruach
 Crowley
-Crusader (demon)
-Crystal Skull (Treasure Demon)
+Crusader
+Crystal Skull
 Cthulhu
 Cu Chulainn
 Cu Sith
@@ -292,7 +292,7 @@ Daphne
 Dark Elf
 Dark Priest
 Datsue-Ba
-David (demon)
+David
 Dead Lobster
 Death Rider
 Decarabia
@@ -333,7 +333,7 @@ Dribbler
 Druj
 Dryad
 Duergar
-Dullahan (demon)
+Dullahan
 Dummy
 Durga
 Dwarf
@@ -347,7 +347,7 @@ Edimmu
 Einherjar
 Elf
 Eligor
-Emperor's Amulet (Treasure Demon)
+Emperor's Amulet
 Empusa
 En no Ozuno
 Enku
@@ -437,7 +437,6 @@ Genkuro
 Geryon
 Gespenst
 Ghost
-Ghost (demon)
 Ghost Q
 Ghoul
 Ghoulette
@@ -478,7 +477,7 @@ Hairy Jack
 Hakuma-Bhuta
 Halphas
 Hamsa
-Hanako (demon)
+Hanako
 Hangedman
 Hannya
 Hanuman
@@ -512,7 +511,7 @@ Highway Star
 Hildisvini
 Himiko
 Hinoenma
-Hinokagutsuchi (demon)
+Hinokagutsuchi
 Hippolyta
 Hippou
 Hiruko
@@ -561,12 +560,12 @@ Inaruna
 Incubus
 Indra
 Indrajit
-Inferno (demon)
+Inferno
 Interipelli
 Inti
 Inugami
 Inui
-Io (Persona)
+Io
 Ippon-Datara
 Iris
 Iron Maiden
@@ -667,7 +666,7 @@ Knocker
 Kobold
 Kodama
 Koga Saburo
-Koh-i-Noor (Treasure Demon)
+Koh-i-Noor
 Kohryu
 Kokkuri
 Kommandant
@@ -684,7 +683,7 @@ Kuda
 Kudan
 Kudlak
 Kuebiko
-Kugutsu (demon)
+Kugutsu
 Kugutsushi
 Kukunochi
 Kumbhanda
@@ -739,7 +738,7 @@ Linda
 Little Lama
 Loa
 Loki
-Longinus (demon)
+Longinus
 Longma
 Looper
 Lord Nan Dou
@@ -758,7 +757,7 @@ Mad Gasser
 Mad Slug
 Mada
 Magatsu-Izanagi
-Magatsuhi (demon)
+Magatsuhi
 Magus
 Mahakala
 Mahamayuri
@@ -780,7 +779,7 @@ Mara
 Marchosias
 Marchur
 Marduk
-Maria (demon)
+Maria
 Marici
 Mars
 Marshal Tianpeng
@@ -798,7 +797,7 @@ Maya (demon, Hindu)
 Maya (demon, Mayan)
 Mayahuel
 Medea
-Medusa (demon)
+Medusa
 Mega Planaria
 Megaera
 Melchizedek
@@ -812,7 +811,7 @@ Merkabah
 Merlion
 Mermaid
 Merrow
-Messiah (Persona)
+Messiah
 Metal
 Metal Drache
 Metal Guru
@@ -822,7 +821,7 @@ Mezuki
 Michael
 Michizane
 Mikiya
-Milady (Persona 5)
+Milady
 Milky Frost
 Mimir
 Minotaur
@@ -832,7 +831,7 @@ Mithra
 Mithras
 Miyasudokoro
 Mizuchi
-Moebius (demon)
+Moebius
 Moh Shuvuu
 Mokoi
 Mokosh
@@ -847,7 +846,7 @@ Mot
 Mother Harlot
 Mothman
 Mou-Ryo
-Mr. Bear (demon)
+Mr. Bear
 Mr. Zombie
 Mucalinda
 Mudman
@@ -873,7 +872,7 @@ Nanna
 Napaea
 Narasimha
 Narcissus
-Narukami (demon)
+Narukami
 Nebiros
 Necronomicon
 Neko Shogun
@@ -887,7 +886,7 @@ Nesting Doll
 Nesting Skull
 Nezha
 Nidhoggr
-Night Stalker (demon)
+Night Stalker
 Nightmare
 Nigi Mitama
 Nike
@@ -919,7 +918,7 @@ Ogre
 Ogun
 Okiku-Mushi
 Okuninushi
-Old One (demon)
+Old One
 Oliver
 Ometeotl
 Omoikane
@@ -937,11 +936,11 @@ Orcus
 Oread
 Orgone Ghost
 Orias
-Orlov (Treasure Demon)
+Orlov
 Orobas
 Orpheus
 Orpheus Telos
-Orthrus (demon)
+Orthrus
 Ose
 Oshichi
 Oshira-sama
@@ -1026,7 +1025,6 @@ Raphael
 Rarung
 Rashnu
 Rasputin
-Rasputin (demon)
 Rastaman
 Ratatoskr
 Ravana
@@ -1099,12 +1097,12 @@ Sekhmet
 Selket
 Senko
 Senri
-Seraph (demon)
+Seraph
 Serpent
 Setanta
-Seth (demon)
+Seth
 Shade
-Shadow (demon)
+Shadow
 Shan Xiao
 Shanhui
 Sharf Shutze
@@ -1136,7 +1134,7 @@ Skogsra
 Skoll
 Skuld
 Slave
-Sleipnir (demon)
+Sleipnir
 Slime
 Sloth
 Sobek
@@ -1155,7 +1153,7 @@ Sraosha
 Stolas
 Stomach Bug
 Stomach Flower
-Stone of Scone (Treasure Demon)
+Stone of Scone
 Stonka
 Strawberry Frost
 Strigoii
@@ -1214,7 +1212,7 @@ Tenchu Mochizuki
 Tenchu Myojou
 Tengu
 Tenjiku Tokubei
-Tenkai (demon)
+Tenkai
 Tenong Cut
 Tensen Nyannyan
 Tenzan Tendou
@@ -1291,7 +1289,7 @@ Varnani
 Varuna
 Vasuki
 Vayu
-Venus (demon)
+Venus
 Vepar
 Verdandi
 Verethragna
@@ -1326,12 +1324,12 @@ Werewolf
 White Rider
 Wicker Man
 Wight
-Wild Hunt (demon)
+Wild Hunt
 Wildfire Horde
 Will O' Wisp
 Workaholic
 Worm
-Wraith (demon)
+Wraith
 Wrath
 Wyrm
 Wyvern
@@ -1378,7 +1376,7 @@ Zhen
 Zhong Kui
 Zhu Tun She
 Zhu Yin
-Zoma (demon)
+Zoma
 Zombie
 Zombie Boy
 Zombie Cop

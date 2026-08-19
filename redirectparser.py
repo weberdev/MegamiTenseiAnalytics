@@ -5,8 +5,24 @@ from collections import defaultdict
 with open("redirect_map.json", encoding="utf-8") as f:
     redirectMap = json.load(f)
 
-def resolveWikiName(wikiName):
-    return redirectMap.get(wikiName, wikiName)
+def resolveWikiName(name):
+    name = redirectMap.get(name, name)
+    # (Hex mark) is not included
+    # Maya as a name points to two unique demons.
+    # (Roman) is a suffix we keep
+    # (Zoma) is kept
+    removableSuffixes = [
+        " (demon)",
+        " (Persona)",
+        " (Treasure Demon)",
+        " (Persona 5)"
+    ]
+
+    for suffix in removableSuffixes:
+        if name.endswith(suffix):
+            name = name.removesuffix(suffix)
+
+    return name
 
 def comparisonKey(name):
     return re.sub(r"[^a-z0-9]", "", name.casefold())

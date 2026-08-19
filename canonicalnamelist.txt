@@ -7,6 +7,7 @@ Abe no Seimei
 Abihiko
 Abraxas
 Acheri
+Adam Kadmon
 Adramelech
 Aegir
 Aello
@@ -17,6 +18,7 @@ Afanc
 Agares
 Agathion
 Agent
+Agnes
 Agni
 Agony
 Agrippa
@@ -31,6 +33,7 @@ Aiwass
 Aizen Myouou
 Aka Manah
 Akhkaru
+Al Azif
 Alastor
 Alberich
 Albion
@@ -109,6 +112,7 @@ Asmodeus
 Asp
 Assassin
 Astaroth
+Astarte
 Asterius
 Astria
 Asura
@@ -277,6 +281,7 @@ Cyak
 Cybele
 Cyber Horde
 Cyclops
+Célestine
 Da Peng
 Daemon
 Dagda
@@ -313,6 +318,7 @@ Deva
 Devil Buster Busters
 Diana (Roman)
 Diarmuid
+Diego
 Dilu Horse (Hex Mark)
 Dionysus
 Dis
@@ -347,6 +353,7 @@ Edimmu
 Einherjar
 Elf
 Eligor
+Ella
 Emperor's Amulet
 Empusa
 En no Ozuno
@@ -452,6 +459,7 @@ Goggie
 Gogmagog
 Golem
 Gorgon
+Gorokichi
 Gotou
 Gozu-Tennoh
 Gozuki
@@ -486,6 +494,7 @@ Hannya
 Hanuman
 Haokah
 Haoma
+Haraedo-no-Okami
 Harborim
 Hare of Inaba
 Harihara
@@ -508,6 +517,7 @@ Hellhound
 Hellsehen
 Heqet
 Heracles
+Hereward
 Hermes
 Hermod
 High Pixie
@@ -529,6 +539,7 @@ Holy Knight
 Hoodlum
 Hoodlum Horde
 Hooligan
+Hope Diamond
 Horkos
 Horus
 Houri
@@ -633,6 +644,7 @@ Kamen-Hijiri
 Kamiotoko
 Kamu Susano-o
 Kamui
+Kamui-Moshiri
 Kanaloa
 Kanbari
 Kangiten
@@ -681,6 +693,7 @@ Koppa Tengu
 Koropokkuru
 Kotoshironushi
 Koumokuten
+Kouzeon
 Kraken
 Kresnik
 Krishna
@@ -754,6 +767,7 @@ Lucia
 Lucifer
 Lucifer Frost
 Lucifuge
+Lucy
 Lugh
 Lukoje
 Lust
@@ -948,6 +962,7 @@ Orcus
 Oread
 Orgone Ghost
 Orias
+Orichalcum
 Orlov
 Orobas
 Orpheus
@@ -1012,6 +1027,7 @@ Prithivi
 Prometheus
 Protagonist (Devil Summoner)
 Protagonist (Shin Megami Tensei)
+Psyche
 Pucel
 Puck
 Punks
@@ -1022,6 +1038,7 @@ Puts
 Python
 Qing Niuguai
 Queen Mab
+Queen's Necklace
 Quetzalcoatl
 Quicksilver
 Rabbi
@@ -1036,6 +1053,7 @@ Rakcharango
 Rakshasa
 Rama
 Rangda
+Raoul
 Raphael
 Rarung
 Rashnu
@@ -1048,6 +1066,7 @@ Red Cape
 Red Cloak
 Red Rider
 Redrum
+Regent
 Rei Reiho
 Reiko Kashima
 Remiel
@@ -1186,6 +1205,7 @@ Sui-Ki
 Suicide Unit
 Suiko
 Sukuna-Hikona
+Sumeo-Okami
 Sumizome
 Suparna
 Surt
@@ -1202,6 +1222,8 @@ Takahisa Kandori
 Take-Mikazuchi
 Take-Minakata
 Takeda
+Takehaya Susano-o
+Takeji Zaiten
 Taksaka
 Talos
 Tam Lin
@@ -1347,6 +1369,7 @@ Wight
 Wild Hunt
 Wildfire Horde
 Will O' Wisp
+William
 Winpe
 Workaholic
 Worm
@@ -1370,6 +1393,7 @@ Yama
 Yamachichi
 Yamaoka
 Yamata-no-Orochi
+Yamato Sumeragi
 Yamato-Takeru
 Yamawaro
 Yatagarasu

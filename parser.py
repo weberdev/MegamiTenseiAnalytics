@@ -15,7 +15,6 @@ class Demon_Instance:
         return self.givenName + " | " + self.race + " | " + str(self.level) + " | " + self.game + " | " + self.canonicalName
 Compendium = []
 html = ""
-#pages = ["List_of_Devil_Summoner:_Raidou_Kuzunoha_vs._King_Abaddon_Demons", "List_of_Devil_Summoner:_Raidou_Kuzunoha_vs._The_Soulless_Army_Demons", "List_of_Devil_Summoner:_Soul_Hackers_Demons",  "List_of_Devil_Survivor_2_Demons", "List_of_Devil_Survivor_Overclocked_Demons", "List_of_Majin_Tensei_Demons", "List_of_Majin_Tensei_II:_Spiral_Nemesis_Demons", "List_of_Megami_Tensei_Demons", "List_of_Megami_Tensei_II_Demons", "List_of_Ronde_Demons", "List_of_Shin_Megami_Tensei_Demons", "List_of_Shin_Megami_Tensei_II_Demons", "List_of_Shin_Megami_Tensei_III:_Nocturne_Demons", "List_of_Shin_Megami_Tensei_IV_Apocalypse_Demons", "List_of_Shin_Megami_Tensei_IV_Demons", "List_of_Shin_Megami_Tensei_NINE_Demons", "List_of_Shin_Megami_Tensei_V_Demons", "List_of_Shin_Megami_Tensei_V:_Vengeance_Demons", "List_of_Shin_Megami_Tensei:_Devil_Summoner_Demons", "List_of_Shin_Megami_Tensei:_if..._Demons", "List_of_Shin_Megami_Tensei:_Strange_Journey_Demons", "List_of_Soul_Hackers_2_Demons", "List_of_Megami_Ibunroku_Persona_Demons", "List_of_Persona_2:_Innocent_Sin_Personas", "List_of_Persona_2:_Innocent_Sin_Demons", "List_of_Persona_2:_Eternal_Punishment_Personas", "List_of_Persona_2:_Eternal_Punishment_Demons", "List_of_Persona_3_Personas", "List_of_Persona_3_Reload_Personas", "List_of_Persona_3_Portable_Personas", "List_of_Persona_3_FES_Personas", "List_of_Persona_4_Personas", "List_of_Persona_5_Personas", "List_of_Persona_5_Royal_Personas", "List_of_Digital_Devil_Saga:_Avatar_Tuner_Demons", "List_of_Digital_Devil_Saga:_Avatar_Tuner_2_Demons", ""List_of_Megami_Ibunroku_Persona_Personas"]
 
 def normalizeRace(race):
     if " (" in race:
@@ -51,6 +50,92 @@ def normalizeRace(race):
 
 def parseCompendium():
     import re
+    def parseModernPersonaTable():
+        import re
+
+        headings = soup.find_all("h2")
+
+        for category in headings:
+            raceSpan = category.find("span", class_="mw-headline")
+
+            if raceSpan is None:
+                continue
+
+            arcana = raceSpan.get_text(" ", strip=True)
+
+            # Find the table immediately following this Arcana heading
+            table = category.find_next_sibling("table")
+
+            if table is None:
+                continue
+
+            # Make sure this is actually one of the Persona roster tables
+            headers = [
+                th.get_text(" ", strip=True)
+                for th in table.find_all("th")
+            ]
+
+            if "Level" not in headers or "Persona" not in headers:
+                continue
+
+            for row in table.find_all("tr"):
+                cells = row.find_all(["th", "td"])
+
+                if not cells:
+                    continue
+
+                # These tables are:
+                # Level | Persona | Level | Persona | ...
+                #
+                # So walk them two cells at a time.
+                for i in range(0, len(cells) - 1, 2):
+
+                    levelCell = cells[i]
+                    personaCell = cells[i + 1]
+
+                    # Make sure the second cell really contains a Persona link.
+                    nameLink = personaCell.find("a")
+
+                    if nameLink is None:
+                        continue
+
+                    givenName = nameLink.get_text(" ", strip=True)
+
+                    if not givenName:
+                        continue
+
+                    canonicalName = (
+                            nameLink.get("title")
+                            or givenName
+                    )
+
+                    levelText = levelCell.get_text(" ", strip=True)
+
+                    # Pull a numeric level out of things like:
+                    #
+                    # 01*
+                    # 64★
+                    # 23↓
+                    #
+                    # "Inherit" has no numeric level.
+                    match = re.search(r"\d+", levelText)
+
+                    if match:
+                        level = match.group()
+                    else:
+                        # Your current convention for unlevelled
+                        # character Personas.
+                        level = "1"
+
+                    demon = Demon_Instance(
+                        givenName,
+                        arcana,
+                        level,
+                        gameName,
+                        canonicalName
+                    )
+
+                    Compendium.append(demon)
     def parsePQInitialPersonas():
         heading = soup.find("span", id="Innate_Personas")
 
@@ -285,7 +370,19 @@ def parseCompendium():
         if gameName == "Megami Ibunroku Persona":
             parsePersona1Table()
             continue
+        modernPersonaGames = {
+            "Persona 3",
+            "Persona 3 FES",
+            "Persona 3 Portable",
+            "Persona 3 Reload",
+            "Persona 4",
+            "Persona 5",
+            "Persona 5 Royal",
+        }
 
+        if gameName in modernPersonaGames:
+            parseModernPersonaTable()
+            continue
         # your existing generic parser continues here
         headings = soup.find_all(["h2", "h3", "h4"])
 

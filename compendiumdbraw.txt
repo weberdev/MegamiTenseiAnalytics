@@ -871,6 +871,122 @@ Nigi Mitama | Mitama | 49 | Devil Survivor 2 | Nigi Mitama
 Celty Sturluson* | Record Breaker demons/humans | 65 | Devil Survivor 2 | Celty Sturluson
 Shizuo Heiwajima* | Record Breaker demons/humans | 60 | Devil Survivor 2 | Shizuo Heiwajima
 Izaya Orihara* | Record Breaker demons/humans | 55 | Devil Survivor 2 | Izaya Orihara
+Amaterasu | Megami | 63 | Devil Survivor | Amaterasu
+Norn | Megami | 54 | Devil Survivor | Norn
+Laksmi | Megami | 48 | Devil Survivor | Laksmi
+Brigid | Megami | 36 | Devil Survivor | Brigid
+Kikuri-Hime | Megami | 21 | Devil Survivor | Kikuri-Hime
+Sarasvati | Megami | 12 | Devil Survivor | Sarasvati
+Asura | Deity | 71 | Devil Survivor | Asura
+Shiva | Deity | 64 | Devil Survivor | Shiva
+Yama | Deity | 45 | Devil Survivor | Yama
+Odin | Deity | 38 | Devil Survivor | Odin
+Mahakala | Deity | 26 | Devil Survivor | Mahakala
+Thor | Deity | 16 | Devil Survivor | Thor
+Nyarlathotep | Vile | 66 | Devil Survivor | Nyarlathotep
+Arioch | Vile | 55 | Devil Survivor | Arioch
+Tao Tie | Vile | 47 | Devil Survivor | Tao Tie
+Abaddon | Vile | 40 | Devil Survivor | Abaddon
+Pazuzu | Vile | 35 | Devil Survivor | Pazuzu
+Orcus | Vile | 22 | Devil Survivor | Orcus
+Ananta | Snake | 64 | Devil Survivor | Ananta
+Orochi | Snake | 57 | Devil Survivor | Yamata no Orochi
+Seiryuu | Snake | 46 | Devil Survivor | Seiryuu
+Quetzalcoatl | Snake | 31 | Devil Survivor | Quetzalcoatl
+Pendragon | Snake | 21 | Devil Survivor | Pendragon
+Makara | Snake | 14 | Devil Survivor | Makara
+Culebre | Dragon | 48 | Devil Survivor | Culebre
+Python | Dragon | 39 | Devil Survivor | Python
+Ym | Dragon | 32 | Devil Survivor | Ym
+Basilisk | Dragon | 25 | Devil Survivor | Basilisk
+Toubyou | Dragon | 15 | Devil Survivor | Toubyou
+Metatron | Divine | 75 | Devil Survivor | Metatron
+Remiel | Divine | 63 | Devil Survivor | Remiel
+Kazfiel | Divine | 56 | Devil Survivor | Kazfiel
+Aniel | Divine | 47 | Devil Survivor | Aniel
+Lailah | Divine | 34 | Devil Survivor | Lailah
+Power | Divine | 26 | Devil Survivor | Power
+Angel | Divine | 14 | Devil Survivor | Angel
+Garuda | Avian | 61 | Devil Survivor | Garuda
+Badb Catha | Avian | 34 | Devil Survivor | Badb Catha
+Vidofnir | Avian | 25 | Devil Survivor | Vidofnir
+Suparna | Avian | 18 | Devil Survivor | Suparna
+Moh Shuvuu | Avian | 7 | Devil Survivor | Moh Shuvuu
+Murmur | Fallen | 63 | Devil Survivor | Murmur
+Agares | Fallen | 55 | Devil Survivor | Agares
+Decarabia | Fallen | 44 | Devil Survivor | Decarabia
+Orobas | Fallen | 35 | Devil Survivor | Orobas
+Nisroc | Fallen | 27 | Devil Survivor | Nisroc
+Gagyson | Fallen | 12 | Devil Survivor | Gagyson
+Barong | Avatar | 60 | Devil Survivor | Barong
+Ukano Mitama | Avatar | 52 | Devil Survivor | Ukano Mitama
+Airavata | Avatar | 40 | Devil Survivor | Airavata
+Bai Ze | Avatar | 27 | Devil Survivor | Bai Ze
+Shiisaa | Avatar | 19 | Devil Survivor | Shiisaa
+Heqet | Avatar | 9 | Devil Survivor | Heqet
+Cerberus | Beast | 53 | Devil Survivor | Cerberus
+Orthrus | Beast | 35 | Devil Survivor | Orthrus (demon)
+Cait Sith | Beast | 25 | Devil Survivor | Cait Sith
+Nekomata | Beast | 19 | Devil Survivor | Nekomata
+Hairy Jack | Beast | 10 | Devil Survivor | Hairy Jack
+Kabuso | Beast | 2 | Devil Survivor | Kabuso
+Behemoth | Wilder | 62 | Devil Survivor | Behemoth
+Mothman | Wilder | 34 | Devil Survivor | Mothman
+Afanc | Wilder | 26 | Devil Survivor | Afanc
+Garm | Wilder | 11 | Devil Survivor | Garm
+Waira | Wilder | 7 | Devil Survivor | Waira
+Ganesha | Genma | 60 | Devil Survivor | Ganesha
+Seiten Taisei | Genma | 53 | Devil Survivor | Seiten Taisei
+Kresnik | Genma | 46 | Devil Survivor | Kresnik
+Cu Chulainn | Genma | 39 | Devil Survivor | Cu Chulainn
+Hanuman | Genma | 32 | Devil Survivor | Hanuman
+Heimdall | Genma | 23 | Devil Survivor | Heimdall
+Tlaloc | Genma | 16 | Devil Survivor | Tlaloc
+Jambavan | Genma | 9 | Devil Survivor | Jambavan
+Vivian | Fairy | 45 | Devil Survivor | Vivian
+Lorelei | Fairy | 33 | Devil Survivor | Lorelei
+Silky | Fairy | 24 | Devil Survivor | Silky
+Pyro Jack | Fairy | 19 | Devil Survivor | Jack-o'-Lantern
+Jack Frost | Fairy | 14 | Devil Survivor | Jack Frost
+Kijimunaa | Fairy | 8 | Devil Survivor | Kijimunaa
+Pixie | Fairy | 2 | Devil Survivor | Pixie
+Lucifer | Tyrant | 99 | Devil Survivor | Lucifer
+Loki | Tyrant | 64 | Devil Survivor | Loki
+Astaroth | Tyrant | 52 | Devil Survivor | Astaroth
+Hecate | Tyrant | 42 | Devil Survivor | Hecate
+King Frost | Tyrant | 22 | Devil Survivor | King Frost
+Bishamon | Kishin | 65 | Devil Survivor | Bishamonten (demon)
+Koumoku | Kishin | 57 | Devil Survivor | Koumokuten
+Zouchou | Kishin | 49 | Devil Survivor | Zouchouten
+Take-Mikazuchi | Kishin | 42 | Devil Survivor | Take-Mikazuchi
+Nalagiri | Kishin | 26 | Devil Survivor | Nalagiri
+Ubelluris | Kishin | 14 | Devil Survivor | Ubelluris
+Yaksa | Touki | 52 | Devil Survivor | Yaksa
+Berserker | Touki | 41 | Devil Survivor | Berserker
+Mezuki | Touki | 20 | Devil Survivor | Mezuki
+Gozuki | Touki | 16 | Devil Survivor | Gozuki
+Bilwis | Touki | 9 | Devil Survivor | Bilwis
+Kobold | Touki | 3 | Devil Survivor | Kobold
+Kudlak | Jaki | 46 | Devil Survivor | Kudlak
+Legion | Jaki | 37 | Devil Survivor | Legion
+Loa | Jaki | 28 | Devil Survivor | Loa
+Wendigo | Jaki | 19 | Devil Survivor | Wendigo
+Ogun | Jaki | 8 | Devil Survivor | Ogun
+Ogre | Jaki | 4 | Devil Survivor | Ogre
+Rangda | Femme | 49 | Devil Survivor | Rangda
+Hariti | Femme | 39 | Devil Survivor | Hariti
+Peri | Femme | 28 | Devil Survivor | Peri
+Yuki Jyorou | Femme | 19 | Devil Survivor | Yuki Jyorou
+Lilim | Femme | 15 | Devil Survivor | Lilim
+Kikimora | Femme | 10 | Devil Survivor | Kikimora
+Flaemis | Element | 20 | Devil Survivor | Flaemis
+Aquans | Element | 15 | Devil Survivor | Aquans
+Aeros | Element | 11 | Devil Survivor | Aeros
+Erthys | Element | 7 | Devil Survivor | Erthys
+Nigi Mitama | Mitama | 44 | Devil Survivor | Nigi Mitama
+Ara Mitama | Mitama | 41 | Devil Survivor | Ara Mitama
+Kusi Mitama | Mitama | 38 | Devil Survivor | Kusi Mitama
+Saki Mitama | Mitama | 35 | Devil Survivor | Saki Mitama
 Amaterasu | Megami | 73 | Devil Survivor Overclocked | Amaterasu
 Black Maria* | Megami | 66 | Devil Survivor Overclocked | Black Maria
 Norn | Megami | 55 | Devil Survivor Overclocked | Norn
@@ -2935,438 +3051,1477 @@ Budai | Wand | 10 | Persona 2  Innocent Sin | Budai
 Shou Shen | Wand | 25 | Persona 2  Innocent Sin | Shou Shen
 Quetzalcoatl | Wand | 40 | Persona 2  Innocent Sin | Quetzalcoatl
 Orpheus | Fool | 01 | Persona 3 FES | Orpheus
+Slime | Fool | 12 | Persona 3 FES | Slime
+Legion | Fool | 22 | Persona 3 FES | Legion
+Black Frost | Fool | 34 | Persona 3 FES | Black Frost
 Ose | Fool | 44 | Persona 3 FES | Ose
+Decarabia | Fool | 50 | Persona 3 FES | Decarabia
+Loki | Fool | 58 | Persona 3 FES | Loki
+Susano-o | Fool | 76 | Persona 3 FES | Susano-o
 Orpheus Telos | Fool | 90 | Persona 3 FES | Orpheus Telos
 Hermes | Magician | 01 | Persona 3 FES | Hermes
+Trismegistus | Magician | 1 | Persona 3 FES | Trismegistus
+Nekomata | Magician | 05 | Persona 3 FES | Nekomata
+Jack Frost | Magician | 08 | Persona 3 FES | Jack Frost
 Pyro Jack | Magician | 14 | Persona 3 FES | Jack-o'-Lantern
+Hua Po | Magician | 20 | Persona 3 FES | Hua Po
+Sati | Magician | 28 | Persona 3 FES | Sati
+Orobas | Magician | 34 | Persona 3 FES | Orobas
 Rangda | Magician | 40 | Persona 3 FES | Rangda
+Surt | Magician | 52 | Persona 3 FES | Surt
 Lucia | Priestess | 17 | Persona 3 FES | Lucia
+Juno | Priestess | 1 | Persona 3 FES | Juno
+Apsaras | Priestess | 03 | Persona 3 FES | Apsaras
+Unicorn | Priestess | 11 | Persona 3 FES | Unicorn
 High Pixie | Priestess | 21 | Persona 3 FES | High Pixie
+Sarasvati | Priestess | 27 | Persona 3 FES | Sarasvati
+Ganga | Priestess | 35 | Persona 3 FES | Ganga
+Parvati | Priestess | 47 | Persona 3 FES | Parvati
 Kikuri-Hime | Priestess | 53 | Persona 3 FES | Kikuri-Hime
+Scathach | Priestess | 64 | Persona 3 FES | Scathach
 Penthesilea | Empress | 18 | Persona 3 FES | Penthesilea
+Artemisia | Empress | 1 | Persona 3 FES | Artemisia
+Leanan Sidhe | Empress | 33 | Persona 3 FES | Leanan Sidhe
+Yaksini | Empress | 50 | Persona 3 FES | Yaksini
 Laksmi | Empress | 57 | Persona 3 FES | Laksmi
+Hariti | Empress | 62 | Persona 3 FES | Hariti
+Gabriel | Empress | 69 | Persona 3 FES | Gabriel
+Mother Harlot | Empress | 74 | Persona 3 FES | Mother Harlot
 Skadi | Empress | 80 | Persona 3 FES | Skadi
+Alilat | Empress | 84 | Persona 3 FES | Alilat
 Polydeuces | Emperor | 12 | Persona 3 FES | Polydeuces
+Caesar | Emperor | 1 | Persona 3 FES | Caesar
+Forneus | Emperor | 07 | Persona 3 FES | Forneus
+Oberon | Emperor | 15 | Persona 3 FES | Oberon
 Take-Mikazuchi | Emperor | 24 | Persona 3 FES | Take-Mikazuchi
+King Frost | Emperor | 30 | Persona 3 FES | King Frost
+Raja Naga | Emperor | 36 | Persona 3 FES | Raja Naga
+Kingu | Emperor | 46 | Persona 3 FES | Kingu
 Barong | Emperor | 52 | Persona 3 FES | Barong
+Odin | Emperor | 57 | Persona 3 FES | Odin
 Castor | Hierophant | 37 | Persona 3 FES | Castor
+Psyche | Hierophant | 25 | Persona 3 FES | Psyche
+Omoikane | Hierophant | 07 | Persona 3 FES | Omoikane
+Berith | Hierophant | 13 | Persona 3 FES | Berith
 Shiisaa | Hierophant | 26 | Persona 3 FES | Shiisaa
+Flauros | Hierophant | 33 | Persona 3 FES | Flauros
+Thoth | Hierophant | 41 | Persona 3 FES | Thoth
+Hokuto Seikun | Hierophant | 47 | Persona 3 FES | Hokuto Seikun
 Daisoujou | Hierophant | 53 | Persona 3 FES | Daisoujou
+Kohryu | Hierophant | 66 | Persona 3 FES | Kohryu
 Io | Lovers | 01 | Persona 3 FES | Io (Persona)
+Isis | Lovers | 1 | Persona 3 FES | Isis
+Pixie | Lovers | 02 | Persona 3 FES | Pixie
+Alp | Lovers | 06 | Persona 3 FES | Alp
 Narcissus | Lovers | 20 | Persona 3 FES | Narcissus
+Queen Mab | Lovers | 27 | Persona 3 FES | Queen Mab
+Saki Mitama | Lovers | 39 | Persona 3 FES | Saki Mitama
+Titania | Lovers | 48 | Persona 3 FES | Titania
 Raphael | Lovers | 61 | Persona 3 FES | Raphael
+Cybele | Lovers | 68 | Persona 3 FES | Cybele
 Palladion | Chariot | 29 | Persona 3 FES | Palladion
+Pallas Athena | Chariot | 1 | Persona 3 FES | Pallas Athena
+Ara Mitama | Chariot | 06 | Persona 3 FES | Ara Mitama
+Chimera | Chariot | 09 | Persona 3 FES | Chimera
 Zouchouten | Chariot | 14 | Persona 3 FES | Zouchouten
+Ares | Chariot | 19 | Persona 3 FES | Ares
+Oumitsunu | Chariot | 30 | Persona 3 FES | Oumitsunu
+Nata Taishi | Chariot | 37 | Persona 3 FES | Nata Taishi
 Koumokuten | Chariot | 43 | Persona 3 FES | Koumokuten
+Thor | Chariot | 53 | Persona 3 FES | Thor
 Nemesis | Justice | 36 | Persona 3 FES | Nemesis
+Kala-Nemi | Justice | 1 | Persona 3 FES | Kala-Nemi
+Angel | Justice | 04 | Persona 3 FES | Angel
+Archangel | Justice | 10 | Persona 3 FES | Archangel
 Principality | Justice | 16 | Persona 3 FES | Principality
+Power | Justice | 25 | Persona 3 FES | Power
+Virtue | Justice | 32 | Persona 3 FES | Virtue
+Dominion | Justice | 42 | Persona 3 FES | Dominion
 Throne | Justice | 51 | Persona 3 FES | Throne
-Moros | Hermit |  | Persona 3 FES | Moros
+Melchizedek | Justice | 59 | Persona 3 FES | Melchizedek
+Moros | Hermit | 1 | Persona 3 FES | Moros
+Yomotsu Shikome | Hermit | 09 | Persona 3 FES | Yomotsu Shikome
+Naga | Hermit | 17 | Persona 3 FES | Naga
+Lamia | Hermit | 25 | Persona 3 FES | Lamia
 Mothman | Hermit | 32 | Persona 3 FES | Mothman
+Taraka | Hermit | 38 | Persona 3 FES | Taraka
+Kurama Tengu | Hermit | 44 | Persona 3 FES | Kurama Tengu
+Nebiros | Hermit | 50 | Persona 3 FES | Nebiros
 Kumbhanda | Hermit | 56 | Persona 3 FES | Kumbhanda
-Hypnos | Fortune |  | Persona 3 FES | Hypnos
+Arahabaki | Hermit | 60 | Persona 3 FES | Arahabaki
+Hypnos | Fortune | 1 | Persona 3 FES | Hypnos
+Fortuna | Fortune | 17 | Persona 3 FES | Fortuna
+Empusa | Fortune | 23 | Persona 3 FES | Empusa
+Kusi Mitama | Fortune | 29 | Persona 3 FES | Kusi Mitama
 Clotho | Fortune | 38 | Persona 3 FES | Clotho
+Lachesis | Fortune | 45 | Persona 3 FES | Lachesis
+Atropos | Fortune | 54 | Persona 3 FES | Atropos
+Norn | Fortune | 62 | Persona 3 FES | Norn
 Cerberus | Strength | 31 | Persona 3 FES | Cerberus
+Valkyrie | Strength | 11 | Persona 3 FES | Valkyrie
+Rakshasa | Strength | 16 | Persona 3 FES | Rakshasa
+Titan | Strength | 23 | Persona 3 FES | Titan
 Jikokuten | Strength | 29 | Persona 3 FES | Jikokuten
+Hanuman | Strength | 37 | Persona 3 FES | Hanuman
+Narasimha | Strength | 46 | Persona 3 FES | Narasimha
+Kali | Strength | 55 | Persona 3 FES | Kali
 Siegfried | Strength | 59 | Persona 3 FES | Siegfried
-Medea | Hanged Man |  | Persona 3 FES | Medea
+Medea | Hanged Man | 1 | Persona 3 FES | Medea
+Inugami | Hanged Man | 10 | Persona 3 FES | Inugami
+Take-Minakata | Hanged Man | 21 | Persona 3 FES | Take-Minakata
+Orthrus | Hanged Man | 28 | Persona 3 FES | Orthrus (demon)
 Vasuki | Hanged Man | 38 | Persona 3 FES | Vasuki
+Ubelluris | Hanged Man | 48 | Persona 3 FES | Ubelluris
+Hecatoncheires | Hanged Man | 54 | Persona 3 FES | Hecatoncheires
+Hell Biker | Hanged Man | 60 | Persona 3 FES | Hell Biker
 Attis | Hanged Man | 67 | Persona 3 FES | Attis
 Ghoul | Death | 18 | Persona 3 FES | Ghoul
+Pale Rider | Death | 24 | Persona 3 FES | Pale Rider
+Loa | Death | 31 | Persona 3 FES | Loa
+Samael | Death | 37 | Persona 3 FES | Samael
 Mot | Death | 45 | Persona 3 FES | Mot
+Alice | Death | 56 | Persona 3 FES | Alice
+Thanatos | Death | 64 | Persona 3 FES | Thanatos
 Nigi Mitama | Temperance | 12 | Persona 3 FES | Nigi Mitama
+Mithra | Temperance | 22 | Persona 3 FES | Mithra
+Genbu | Temperance | 29 | Persona 3 FES | Genbu
+Seiryuu | Temperance | 36 | Persona 3 FES | Seiryuu
 Okuninushi | Temperance | 44 | Persona 3 FES | Okuninushi
+Suzaku | Temperance | 51 | Persona 3 FES | Suzaku
+Byakko | Temperance | 57 | Persona 3 FES | Byakko
+Yurlungur | Temperance | 64 | Persona 3 FES | Yurlungur
 Lilim | Devil | 08 | Persona 3 FES | Lilim
+Vetala | Devil | 24 | Persona 3 FES | Vetala
+Incubus | Devil | 34 | Persona 3 FES | Incubus
+Succubus | Devil | 43 | Persona 3 FES | Succubus
 Pazuzu | Devil | 52 | Persona 3 FES | Pazuzu
+Lilith | Devil | 61 | Persona 3 FES | Lilith
+Abaddon | Devil | 68 | Persona 3 FES | Abaddon
+Beelzebub | Devil | 81 | Persona 3 FES | Beelzebub
 Eligor | Tower | 31 | Persona 3 FES | Eligor
+Cu Chulainn | Tower | 40 | Persona 3 FES | Cu Chulainn
+Bishamonten | Tower | 60 | Persona 3 FES | Bishamonten (demon)
+Seiten Taisei | Tower | 67 | Persona 3 FES | Seiten Taisei
 Masakado | Tower | 73 | Persona 3 FES | Masakado
+Mara | Tower | 77 | Persona 3 FES | Mara
+Shiva | Tower | 82 | Persona 3 FES | Shiva
+Chi You | Tower | 86 | Persona 3 FES | Chi You
 Nandi | Star | 39 | Persona 3 FES | Nandi
+Kaiwan | Star | 49 | Persona 3 FES | Kaiwan
+Ganesha | Star | 58 | Persona 3 FES | Ganesha
+Garuda | Star | 65 | Persona 3 FES | Garuda
 Kartikeya | Star | 70 | Persona 3 FES | Kartikeya
+Saturnus | Star | 78 | Persona 3 FES | Saturnus
+Helel | Star | 88 | Persona 3 FES | Helel
 Gurr | Moon | 15 | Persona 3 FES | Gurr
+Yamata-no-Orochi | Moon | 26 | Persona 3 FES | Yamatano-Orochi
+Girimehkala | Moon | 42 | Persona 3 FES | Girimehkala
+Dionysus | Moon | 48 | Persona 3 FES | Dionysus
 Chernobog | Moon | 58 | Persona 3 FES | Chernobog
+Seth | Moon | 66 | Persona 3 FES | Seth (demon)
+Baal Zebul | Moon | 71 | Persona 3 FES | Baal Zebul
+Sandalphon | Moon | 74 | Persona 3 FES | Sandalphon
 Yatagarasu | Sun | 30 | Persona 3 FES | Yatagarasu
+Quetzalcoatl | Sun | 43 | Persona 3 FES | Quetzalcoatl
+Jatayu | Sun | 55 | Persona 3 FES | Jatayu
+Horus | Sun | 63 | Persona 3 FES | Horus
 Suparna | Sun | 70 | Persona 3 FES | Sparna
+Vishnu | Sun | 78 | Persona 3 FES | Vishnu
+Asura | Sun | 85 | Persona 3 FES | Asura
 Anubis | Judgement | 59 | Persona 3 FES | Anubis
+Trumpeter | Judgement | 65 | Persona 3 FES | Trumpeter
+Michael | Judgement | 72 | Persona 3 FES | Michael
+Satan | Judgement | 79 | Persona 3 FES | Satan
 Lucifer | Judgement | 89 | Persona 3 FES | Lucifer
+Messiah | Judgement | 90 | Persona 3 FES | Messiah (Persona)
 Uriel | Aeon | 63 | Persona 3 FES | Uriel
+Nidhoggr | Aeon | 69 | Persona 3 FES | Nidhoggr
+Ananta | Aeon | 75 | Persona 3 FES | Ananta
+Atavaka | Aeon | 80 | Persona 3 FES | Atavaka
 Metatron | Aeon | 87 | Persona 3 FES | Metatron
 Orpheus | Fool | 01 | Persona 3 | Orpheus
+Legion | Fool | 12 | Persona 3 | Legion
+Ose | Fool | 22 | Persona 3 | Ose
+Black Frost | Fool | 34 | Persona 3 | Black Frost
 Decarabia | Fool | 44 | Persona 3 | Decarabia
+Loki | Fool | 55 | Persona 3 | Loki
+Susano-o | Fool | 76 | Persona 3 | Susano-o
 Hermes | Magician | 01 | Persona 3 | Hermes
+Trismegistus | Magician | 1 | Persona 3 | Trismegistus
+Nekomata | Magician | 05 | Persona 3 | Nekomata
+Jack Frost | Magician | 08 | Persona 3 | Jack Frost
 Pyro Jack | Magician | 14 | Persona 3 | Jack-o'-Lantern
+Sati | Magician | 20 | Persona 3 | Sati
+Orobas | Magician | 28 | Persona 3 | Orobas
+Rangda | Magician | 40 | Persona 3 | Rangda
 Surt | Magician | 50 | Persona 3 | Surt
 Lucia | Priestess | 17 | Persona 3 | Lucia
+Juno | Priestess | 1 | Persona 3 | Juno
+Apsaras | Priestess | 03 | Persona 3 | Apsaras
+Unicorn | Priestess | 11 | Persona 3 | Unicorn
 Sarasvati | Priestess | 18 | Persona 3 | Sarasvati
+Ganga | Priestess | 26 | Persona 3 | Ganga
+Parvati | Priestess | 35 | Persona 3 | Parvati
+Kikuri-hime | Priestess | 47 | Persona 3 | Kikuri-hime
 Scathach | Priestess | 60 | Persona 3 | Scathach
 Penthesilea | Empress | 18 | Persona 3 | Penthesilea
+Artemisia | Empress | 1 | Persona 3 | Artemisia
+Leanan Sidhe | Empress | 33 | Persona 3 | Leanan Sidhe
+Laksmi | Empress | 47 | Persona 3 | Laksmi
 Hariti | Empress | 57 | Persona 3 | Hariti
+Gabriel | Empress | 62 | Persona 3 | Gabriel
+Mother Harlot | Empress | 69 | Persona 3 | Mother Harlot
+Skadi | Empress | 75 | Persona 3 | Skadi
 Alilat | Empress | 84 | Persona 3 | Alilat
 Polydeuces | Emperor | 12 | Persona 3 | Polydeuces
+Caesar | Emperor | 1 | Persona 3 | Caesar
+Forneus | Emperor | 07 | Persona 3 | Forneus
+Oberon | Emperor | 15 | Persona 3 | Oberon
 Take-Mikazuchi | Emperor | 24 | Persona 3 | Take-Mikazuchi
+King Frost | Emperor | 30 | Persona 3 | King Frost
+Raja Naga | Emperor | 36 | Persona 3 | Raja Naga
+Kingu | Emperor | 46 | Persona 3 | Kingu
 Barong | Emperor | 52 | Persona 3 | Barong
+Odin | Emperor | 57 | Persona 3 | Odin
 Castor | Hierophant | 37 | Persona 3 | Castor
+Omoikane | Hierophant | 07 | Persona 3 | Omoikane
+Berith | Hierophant | 13 | Persona 3 | Berith
+Flauros | Hierophant | 23 | Persona 3 | Flauros
 Hokuto Seikun | Hierophant | 31 | Persona 3 | Hokuto Seikun
+Ananta | Hierophant | 41 | Persona 3 | Ananta
+Daisoujou | Hierophant | 53 | Persona 3 | Daisoujou
+Kohryu | Hierophant | 61 | Persona 3 | Kohryu
 Io | Lovers | 01 | Persona 3 | Io (Persona)
+Isis | Lovers | 1 | Persona 3 | Isis
+Pixie | Lovers | 02 | Persona 3 | Pixie
+Narcissus | Lovers | 20 | Persona 3 | Narcissus
 Queen Mab | Lovers | 27 | Persona 3 | Queen Mab
+Saki Mitama | Lovers | 39 | Persona 3 | Saki Mitama
+Titania | Lovers | 50 | Persona 3 | Titania
+Raphael | Lovers | 61 | Persona 3 | Raphael
 Cybele | Lovers | 68 | Persona 3 | Cybele
 Palladion | Chariot | 29 | Persona 3 | Palladion
+Pallas Athena | Chariot | 1 | Persona 3 | Pallas Athena
+Ara Mitama | Chariot | 06 | Persona 3 | Ara Mitama
+Chimera | Chariot | 09 | Persona 3 | Chimera
 Zouchouten | Chariot | 14 | Persona 3 | Zouchouten
+Ares | Chariot | 19 | Persona 3 | Ares
+Oumitsunu | Chariot | 30 | Persona 3 | Oumitsunu
+Nata Taishi | Chariot | 37 | Persona 3 | Nata Taishi
 Koumokuten | Chariot | 43 | Persona 3 | Koumokuten
+Thor | Chariot | 53 | Persona 3 | Thor
 Nemesis | Justice | 36 | Persona 3 | Nemesis
+Kala-Nemi | Justice | 1 | Persona 3 | Kala-Nemi
+Angel | Justice | 04 | Persona 3 | Angel
+Archangel | Justice | 10 | Persona 3 | Archangel
 Principality | Justice | 16 | Persona 3 | Principality
+Power | Justice | 25 | Persona 3 | Power
+Virtue | Justice | 32 | Persona 3 | Virtue
+Dominion | Justice | 42 | Persona 3 | Dominion
 Throne | Justice | 51 | Persona 3 | Throne
-Moros | Hermit |  | Persona 3 | Moros
+Melchizedek | Justice | 59 | Persona 3 | Melchizedek
+Moros | Hermit | 1 | Persona 3 | Moros
+Yomotsu-Shikome | Hermit | 09 | Persona 3 | Yomotsu-Shikome
+Naga | Hermit | 17 | Persona 3 | Naga
+Lamia | Hermit | 25 | Persona 3 | Lamia
 Taraka | Hermit | 32 | Persona 3 | Taraka
-Hypnos | Fortune |  | Persona 3 | Hypnos
+Kurama Tengu | Hermit | 41 | Persona 3 | Kurama Tengu
+Nebiros | Hermit | 50 | Persona 3 | Nebiros
+Arahabaki | Hermit | 54 | Persona 3 | Arahabaki
+Hypnos | Fortune | 1 | Persona 3 | Hypnos
+Fortuna | Fortune | 17 | Persona 3 | Fortuna
+Kusi Mitama | Fortune | 23 | Persona 3 | Kusi Mitama
+Clotho | Fortune | 33 | Persona 3 | Clotho
 Lachesis | Fortune | 45 | Persona 3 | Lachesis
+Atropos | Fortune | 54 | Persona 3 | Atropos
+Norn | Fortune | 62 | Persona 3 | Norn
 Cerberus | Strength | 34 | Persona 3 | Cerberus
+Valkyrie | Strength | 13 | Persona 3 | Valkyrie
+Titan | Strength | 21 | Persona 3 | Titan
+Jikokuten | Strength | 29 | Persona 3 | Jikokuten
 Hanuman | Strength | 37 | Persona 3 | Hanuman
-Medea | Hanged Man |  | Persona 3 | Medea
+Narasimha | Strength | 46 | Persona 3 | Narasimha
+Kali | Strength | 49 | Persona 3 | Kali
+Siegfried | Strength | 55 | Persona 3 | Siegfried
+Medea | Hanged Man | 1 | Persona 3 | Medea
+Inugami | Hanged Man | 10 | Persona 3 | Inugami
+Take-Minakata | Hanged Man | 21 | Persona 3 | Take-Minakata
+Orthrus | Hanged Man | 28 | Persona 3 | Orthrus (demon)
 Vasuki | Hanged Man | 38 | Persona 3 | Vasuki
+Ubelluris | Hanged Man | 48 | Persona 3 | Ubelluris
+Attis | Hanged Man | 58 | Persona 3 | Attis
 Loa | Death | 19 | Persona 3 | Loa
+Pale Rider | Death | 24 | Persona 3 | Pale Rider
+Samael | Death | 35 | Persona 3 | Samael
+Mot | Death | 45 | Persona 3 | Mot
 Alice | Death | 56 | Persona 3 | Alice
+Thanatos | Death | 64 | Persona 3 | Thanatos
 Nigi Mitama | Temperance | 12 | Persona 3 | Nigi Mitama
+Mithra | Temperance | 22 | Persona 3 | Mithra
+Genbu | Temperance | 29 | Persona 3 | Genbu
+Seiryuu | Temperance | 36 | Persona 3 | Seiryuu
 Okuninushi | Temperance | 44 | Persona 3 | Okuninushi
+Suzaku | Temperance | 51 | Persona 3 | Suzaku
+Byakko | Temperance | 56 | Persona 3 | Byakko
 Lilim | Devil | 08 | Persona 3 | Lilim
+Vetala | Devil | 24 | Persona 3 | Vetala
+Incubus | Devil | 34 | Persona 3 | Incubus
+Succubus | Devil | 52 | Persona 3 | Succubus
 Lilith | Devil | 61 | Persona 3 | Lilith
+Abaddon | Devil | 70 | Persona 3 | Abaddon
+Beelzebub | Devil | 81 | Persona 3 | Beelzebub
 Eligor | Tower | 31 | Persona 3 | Eligor
+Chu Chulainn | Tower | 40 | Persona 3 | Chu Chulainn
+Uriel | Tower | 54 | Persona 3 | Uriel
+Bishamonten | Tower | 60 | Persona 3 | Bishamonten (demon)
 Seiten Taisei | Tower | 67 | Persona 3 | Seiten Taisei
+Masakado | Tower | 73 | Persona 3 | Masakado
+Shiva | Tower | 82 | Persona 3 | Shiva
+Chi You | Tower | 86 | Persona 3 | Chi You
 Nandi | Star | 39 | Persona 3 | Nandi
+Kaiwan | Star | 49 | Persona 3 | Kaiwan
+Ganesha | Star | 58 | Persona 3 | Ganesha
+Garuda | Star | 65 | Persona 3 | Garuda
 Saturnus | Star | 74 | Persona 3 | Saturnus
+Lucifer | Star | 88 | Persona 3 | Lucifer
 Gurr | Moon | 15 | Persona 3 | Gurr
+Yamata-no-Orochi | Moon | 26 | Persona 3 | Yamata-no-Orochi
+Girimehkala | Moon | 42 | Persona 3 | Girimehkala
+Dionysus | Moon | 48 | Persona 3 | Dionysus
 Chernobog | Moon | 58 | Persona 3 | Chernobog
+Seth | Moon | 66 | Persona 3 | Seth (demon)
+Sandalphon | Moon | 71 | Persona 3 | Sandalphon
 Yatagarasu | Sun | 30 | Persona 3 | Yatagarasu
+Quetzalcoatl | Sun | 43 | Persona 3 | Quetzalcoatl
+Jatayu | Sun | 55 | Persona 3 | Jatayu
+Horus | Sun | 63 | Persona 3 | Horus
 Metatron | Sun | 75 | Persona 3 | Metatron
+Vishnu | Sun | 78 | Persona 3 | Vishnu
+Asura | Sun | 85 | Persona 3 | Asura
 Anubis | Judgement | 59 | Persona 3 | Anubis
-Messiah | Judgement | 90* | Persona 3 | Messiah (Persona)
+Trumpeter | Judgement | 65 | Persona 3 | Trumpeter
+Michael | Judgement | 72 | Persona 3 | Michael
+Satan | Judgement | 79 | Persona 3 | Satan
+Messiah | Judgement | 90 | Persona 3 | Messiah (Persona)
 Orpheus | Fool | 01 | Persona 3 Portable | Orpheus
+Slime | Fool | 12 | Persona 3 Portable | Slime
+Legion | Fool | 22 | Persona 3 Portable | Legion
+Black Frost | Fool | 34 | Persona 3 Portable | Black Frost
 Ose | Fool | 44 | Persona 3 Portable | Ose
+Decarabia | Fool | 50 | Persona 3 Portable | Decarabia
+Loki | Fool | 58 | Persona 3 Portable | Loki
+Susano-o | Fool | 76 | Persona 3 Portable | Susano-o
 Orpheus Telos | Fool | 90 | Persona 3 Portable | Orpheus Telos
 Hermes | Magician | 01 | Persona 3 Portable | Hermes
+Trismegistus | Magician | 1 | Persona 3 Portable | Trismegistus
+Nekomata | Magician | 05 | Persona 3 Portable | Nekomata
+Jack Frost | Magician | 08 | Persona 3 Portable | Jack Frost
 Pyro Jack | Magician | 14 | Persona 3 Portable | Jack-o'-Lantern
+Hua Po | Magician | 20 | Persona 3 Portable | Hua Po
+Sati | Magician | 28 | Persona 3 Portable | Sati
+Orobas | Magician | 34 | Persona 3 Portable | Orobas
 Rangda | Magician | 40 | Persona 3 Portable | Rangda
+Surt | Magician | 52 | Persona 3 Portable | Surt
 Lucia | Priestess | 17 | Persona 3 Portable | Lucia
+Juno | Priestess | 1 | Persona 3 Portable | Juno
+Apsaras | Priestess | 03 | Persona 3 Portable | Apsaras
+Unicorn | Priestess | 11 | Persona 3 Portable | Unicorn
 High Pixie | Priestess | 21 | Persona 3 Portable | High Pixie
+Sarasvati | Priestess | 27 | Persona 3 Portable | Sarasvati
+Ganga | Priestess | 35 | Persona 3 Portable | Ganga
+Parvati | Priestess | 47 | Persona 3 Portable | Parvati
 Kikuri-hime | Priestess | 53 | Persona 3 Portable | Kikuri-hime
+Scathach | Priestess | 64 | Persona 3 Portable | Scathach
 Penthesilea | Empress | 18 | Persona 3 Portable | Penthesilea
+Artemisia | Empress | 1 | Persona 3 Portable | Artemisia
+Leanan Sidhe | Empress | 33 | Persona 3 Portable | Leanan Sidhe
+Yaksini | Empress | 50 | Persona 3 Portable | Yaksini
 Lakshmi | Empress | 57 | Persona 3 Portable | Lakshmi
+Hariti | Empress | 62 | Persona 3 Portable | Hariti
+Gabriel | Empress | 69 | Persona 3 Portable | Gabriel
+Mother Harlot | Empress | 74 | Persona 3 Portable | Mother Harlot
 Skadi | Empress | 80 | Persona 3 Portable | Skadi
+Alilat | Empress | 84 | Persona 3 Portable | Alilat
 Polydeuces | Emperor | 12 | Persona 3 Portable | Polydeuces
+Caesar | Emperor | 1 | Persona 3 Portable | Caesar
+Forneus | Emperor | 07 | Persona 3 Portable | Forneus
+Oberon | Emperor | 15 | Persona 3 Portable | Oberon
 Take-Mikazuchi | Emperor | 24 | Persona 3 Portable | Take-Mikazuchi
+King Frost | Emperor | 30 | Persona 3 Portable | King Frost
+Raja Naga | Emperor | 36 | Persona 3 Portable | Raja Naga
+Kingu | Emperor | 46 | Persona 3 Portable | Kingu
 Barong | Emperor | 52 | Persona 3 Portable | Barong
+Odin | Emperor | 57 | Persona 3 Portable | Odin
 Castor | Hierophant | 37 | Persona 3 Portable | Castor
+Omoikane | Hierophant | 07 | Persona 3 Portable | Omoikane
+Berith | Hierophant | 13 | Persona 3 Portable | Berith
+Shiisaa | Hierophant | 26 | Persona 3 Portable | Shiisaa
 Flauros | Hierophant | 33 | Persona 3 Portable | Flauros
+Thoth | Hierophant | 41 | Persona 3 Portable | Thoth
+Hokuto Seikun | Hierophant | 47 | Persona 3 Portable | Hokuto Seikun
+Daisoujou | Hierophant | 53 | Persona 3 Portable | Daisoujou
 Kohryu | Hierophant | 66 | Persona 3 Portable | Kohryu
 Io | Lovers | 01 | Persona 3 Portable | Io (Persona)
+Isis | Lovers | 1 | Persona 3 Portable | Isis
+Pixie | Lovers | 02 | Persona 3 Portable | Pixie
+Alp | Lovers | 06 | Persona 3 Portable | Alp
 Tam Lin | Lovers | 13 | Persona 3 Portable | Tam Lin
+Narcissus | Lovers | 20 | Persona 3 Portable | Narcissus
+Queen Mab | Lovers | 27 | Persona 3 Portable | Queen Mab
+Saki Mitama | Lovers | 39 | Persona 3 Portable | Saki Mitama
 Titania | Lovers | 48 | Persona 3 Portable | Titania
+Raphael | Lovers | 61 | Persona 3 Portable | Raphael
+Cybele | Lovers | 68 | Persona 3 Portable | Cybele
 Palladion | Chariot | 29 | Persona 3 Portable | Palladion
+Pallas Athena | Chariot | 1 | Persona 3 Portable | Pallas Athena
+Ara Mitama | Chariot | 06 | Persona 3 Portable | Ara Mitama
+Chimera | Chariot | 09 | Persona 3 Portable | Chimera
 Zouchouten | Chariot | 14 | Persona 3 Portable | Zouchouten
+Ares | Chariot | 19 | Persona 3 Portable | Ares
+Oumitsunu | Chariot | 30 | Persona 3 Portable | Oumitsunu
+Nata Taishi | Chariot | 37 | Persona 3 Portable | Nata Taishi
 Koumokuten | Chariot | 43 | Persona 3 Portable | Koumokuten
+Thor | Chariot | 53 | Persona 3 Portable | Thor
 Nemesis | Justice | 36 | Persona 3 Portable | Nemesis
+Kala-Nemi | Justice | 1 | Persona 3 Portable | Kala-Nemi
+Angel | Justice | 04 | Persona 3 Portable | Angel
+Archangel | Justice | 10 | Persona 3 Portable | Archangel
 Principality | Justice | 16 | Persona 3 Portable | Principality
+Power | Justice | 25 | Persona 3 Portable | Power
+Virtue | Justice | 32 | Persona 3 Portable | Virtue
+Dominion | Justice | 42 | Persona 3 Portable | Dominion
 Throne | Justice | 51 | Persona 3 Portable | Throne
-Moros | Hermit |  | Persona 3 Portable | Moros
+Melchizedek | Justice | 59 | Persona 3 Portable | Melchizedek
+Moros | Hermit | 1 | Persona 3 Portable | Moros
+Yomotsu Shikome | Hermit | 09 | Persona 3 Portable | Yomotsu Shikome
+Naga | Hermit | 17 | Persona 3 Portable | Naga
+Lamia | Hermit | 25 | Persona 3 Portable | Lamia
 Mothman | Hermit | 32 | Persona 3 Portable | Mothman
+Taraka | Hermit | 38 | Persona 3 Portable | Taraka
+Kurama Tengu | Hermit | 44 | Persona 3 Portable | Kurama Tengu
+Nebiros | Hermit | 50 | Persona 3 Portable | Nebiros
 Kumbhanda | Hermit | 56 | Persona 3 Portable | Kumbhanda
-Hypnos | Fortune |  | Persona 3 Portable | Hypnos
+Arahabaki | Hermit | 60 | Persona 3 Portable | Arahabaki
+Hypnos | Fortune | 1 | Persona 3 Portable | Hypnos
+Fortuna | Fortune | 17 | Persona 3 Portable | Fortuna
+Empusa | Fortune | 23 | Persona 3 Portable | Empusa
+Kusi Mitama | Fortune | 29 | Persona 3 Portable | Kusi Mitama
 Clotho | Fortune | 38 | Persona 3 Portable | Clotho
+Lachesis | Fortune | 45 | Persona 3 Portable | Lachesis
+Atropos | Fortune | 54 | Persona 3 Portable | Atropos
+Norn | Fortune | 62 | Persona 3 Portable | Norn
 Cerberus | Strength | 34 | Persona 3 Portable | Cerberus
+Valkyrie | Strength | 11 | Persona 3 Portable | Valkyrie
+Rakshasa | Strength | 16 | Persona 3 Portable | Rakshasa
+Titan | Strength | 23 | Persona 3 Portable | Titan
 Jikokuten | Strength | 29 | Persona 3 Portable | Jikokuten
+Hanuman | Strength | 37 | Persona 3 Portable | Hanuman
+Narasimha | Strength | 46 | Persona 3 Portable | Narasimha
+Kali | Strength | 55 | Persona 3 Portable | Kali
 Siegfried | Strength | 59 | Persona 3 Portable | Siegfried
-Medea | Hanged Man |  | Persona 3 Portable | Medea
+Medea | Hanged Man | 1 | Persona 3 Portable | Medea
+Inugami | Hanged Man | 10 | Persona 3 Portable | Inugami
+Take-Minakata | Hanged Man | 21 | Persona 3 Portable | Take-Minakata
+Orthrus | Hanged Man | 28 | Persona 3 Portable | Orthrus (demon)
 Vasuki | Hanged Man | 38 | Persona 3 Portable | Vasuki
+Ubelluris | Hanged Man | 48 | Persona 3 Portable | Ubelluris
+Hecatoncheires | Hanged Man | 54 | Persona 3 Portable | Hecatoncheires
+Hell Biker | Hanged Man | 60 | Persona 3 Portable | Hell Biker
 Attis | Hanged Man | 67 | Persona 3 Portable | Attis
 Ghoul | Death | 18 | Persona 3 Portable | Ghoul
+Pale Rider | Death | 24 | Persona 3 Portable | Pale Rider
+Loa | Death | 31 | Persona 3 Portable | Loa
+Samael | Death | 37 | Persona 3 Portable | Samael
 Mot | Death | 45 | Persona 3 Portable | Mot
+Alice | Death | 56 | Persona 3 Portable | Alice
+Thanatos | Death | 64 | Persona 3 Portable | Thanatos
 Nigi Mitama | Temperance | 12 | Persona 3 Portable | Nigi Mitama
+Mithra | Temperance | 22 | Persona 3 Portable | Mithra
+Genbu | Temperance | 29 | Persona 3 Portable | Genbu
+Seiryuu | Temperance | 36 | Persona 3 Portable | Seiryuu
 Okuninushi | Temperance | 44 | Persona 3 Portable | Okuninushi
+Suzaku | Temperance | 51 | Persona 3 Portable | Suzaku
+Byakko | Temperance | 57 | Persona 3 Portable | Byakko
+Yurlungur | Temperance | 64 | Persona 3 Portable | Yurlungur
 Lilim | Devil | 08 | Persona 3 Portable | Lilim
+Mokoi | Devil | 18 | Persona 3 Portable | Mokoi
+Vetala | Devil | 24 | Persona 3 Portable | Vetala
+Incubus | Devil | 34 | Persona 3 Portable | Incubus
 Succubus | Devil | 43 | Persona 3 Portable | Succubus
+Pazuzu | Devil | 52 | Persona 3 Portable | Pazuzu
+Lilith | Devil | 61 | Persona 3 Portable | Lilith
+Abaddon | Devil | 68 | Persona 3 Portable | Abaddon
 Beelzebub | Devil | 81 | Persona 3 Portable | Beelzebub
 Eligor | Tower | 31 | Persona 3 Portable | Eligor
+Cu Chulainn | Tower | 40 | Persona 3 Portable | Cu Chulainn
+Bishamonten | Tower | 60 | Persona 3 Portable | Bishamonten (demon)
+Seiten Taisei | Tower | 67 | Persona 3 Portable | Seiten Taisei
 Masakado | Tower | 73 | Persona 3 Portable | Masakado
+Mara | Tower | 77 | Persona 3 Portable | Mara
+Shiva | Tower | 82 | Persona 3 Portable | Shiva
+Chi You | Tower | 86 | Persona 3 Portable | Chi You
 Neko Shogun | Star | 19 | Persona 3 Portable | Neko Shogun
+Setanta | Star | 28 | Persona 3 Portable | Setanta
+Nandi | Star | 39 | Persona 3 Portable | Nandi
+Kaiwan | Star | 49 | Persona 3 Portable | Kaiwan
 Ganesha | Star | 58 | Persona 3 Portable | Ganesha
+Garuda | Star | 65 | Persona 3 Portable | Garuda
+Kartikeya | Star | 70 | Persona 3 Portable | Kartikeya
+Saturnus | Star | 78 | Persona 3 Portable | Saturnus
 Helel | Star | 88 | Persona 3 Portable | Lucifer
 Gurr | Moon | 15 | Persona 3 Portable | Gurr
+Yamatano-Orochi | Moon | 26 | Persona 3 Portable | Yamatano-Orochi
+Girimehkala | Moon | 42 | Persona 3 Portable | Girimehkala
+Dionysus | Moon | 48 | Persona 3 Portable | Dionysus
 Chernobog | Moon | 58 | Persona 3 Portable | Chernobog
+Seth | Moon | 66 | Persona 3 Portable | Seth (demon)
+Baal Zebul | Moon | 71 | Persona 3 Portable | Baal Zebul
+Sandalphon | Moon | 74 | Persona 3 Portable | Sandalphon
 Yatagarasu | Sun | 30 | Persona 3 Portable | Yatagarasu
+Quetzalcoatl | Sun | 43 | Persona 3 Portable | Quetzalcoatl
+Jatayu | Sun | 55 | Persona 3 Portable | Jatayu
+Horus | Sun | 63 | Persona 3 Portable | Horus
 Suparna | Sun | 70 | Persona 3 Portable | Suparna
+Vishnu | Sun | 78 | Persona 3 Portable | Vishnu
+Asura | Sun | 85 | Persona 3 Portable | Asura
 Anubis | Judgement | 59 | Persona 3 Portable | Anubis
+Trumpeter | Judgement | 65 | Persona 3 Portable | Trumpeter
+Michael | Judgement | 72 | Persona 3 Portable | Michael
+Satan | Judgement | 79 | Persona 3 Portable | Satan
 Lucifer | Judgement | 89 | Persona 3 Portable | Lucifer
+Messiah | Judgement | 90 | Persona 3 Portable | Messiah (Persona)
 Uriel | Aeon | 63 | Persona 3 Portable | Uriel
+Nidhoggr | Aeon | 69 | Persona 3 Portable | Nidhoggr
+Ananta | Aeon | 75 | Persona 3 Portable | Ananta
+Atavaka | Aeon | 80 | Persona 3 Portable | Atavaka
 Metatron | Aeon | 87 | Persona 3 Portable | Metatron
 Orpheus | Fool | 1 | Persona 3 Reload | Orpheus
+Slime | Fool | 12 | Persona 3 Reload | Slime
+Arsène | Fool | 23 | Persona 3 Reload | Arsène
+Legion | Fool | 26 | Persona 3 Reload | Legion
 Black Frost | Fool | 37 | Persona 3 Reload | Black Frost
+Ose | Fool | 41 | Persona 3 Reload | Ose
+Izanagi | Fool | 46 | Persona 3 Reload | Izanagi
+Decarabia | Fool | 54 | Persona 3 Reload | Decarabia
 Loki | Fool | 69 | Persona 3 Reload | Loki
+Susano-o | Fool | 77 | Persona 3 Reload | Susano-o
+Satanael | Fool | 89 | Persona 3 Reload | Satanael
+Orpheus Telos | Fool | 91 | Persona 3 Reload | Orpheus Telos
 Hermes | Magician | 1 | Persona 3 Reload | Hermes
+Trismegistus | Magician | 1 | Persona 3 Reload | Trismegistus
+Nekomata | Magician | 3 | Persona 3 Reload | Nekomata
+Jack Frost | Magician | 8 | Persona 3 Reload | Jack Frost
 Jack-o'-Lantern | Magician | 15 | Persona 3 Reload | Jack-o'-Lantern
+Hua Po | Magician | 18 | Persona 3 Reload | Hua Po
+Zorro | Magician | 22 | Persona 3 Reload | Zorro
+Sati | Magician | 29 | Persona 3 Reload | Sati
 Orobas | Magician | 39 | Persona 3 Reload | Orobas
+Mercurius | Magician | 43 | Persona 3 Reload | Mercurius
+Rangda | Magician | 50 | Persona 3 Reload | Rangda
+Surt | Magician | 60 | Persona 3 Reload | Surt
 Futsunushi | Magician | 74 | Persona 3 Reload | Futsunushi
 Lucia | Priestess | 18 | Persona 3 Reload | Lucia
+Juno | Priestess | 1 | Persona 3 Reload | Juno
+Apsaras | Priestess | 2 | Persona 3 Reload | Apsaras
+Unicorn | Priestess | 11 | Persona 3 Reload | Unicorn
 High Pixie | Priestess | 20 | Persona 3 Reload | High Pixie
+Johanna | Priestess | 28 | Persona 3 Reload | Johanna
+Sarasvati | Priestess | 32 | Persona 3 Reload | Sarasvati
+Ganga | Priestess | 41 | Persona 3 Reload | Ganga
 Parvati | Priestess | 48 | Persona 3 Reload | Parvati
+Anat | Priestess | 53 | Persona 3 Reload | Anat
+Kikuri-Hime | Priestess | 61 | Persona 3 Reload | Kikuri-Hime
+Scathach | Priestess | 74 | Persona 3 Reload | Scathach
 Penthesilea | Empress | 20 | Persona 3 Reload | Penthesilea
+Artemisia | Empress | 1 | Persona 3 Reload | Artemisia
+Leanan Sidhe | Empress | 21 | Persona 3 Reload | Leanan Sidhe
+Yaksini | Empress | 32 | Persona 3 Reload | Yaksini
 Milady | Empress | 36 | Persona 3 Reload | Milady (Persona 5)
+Hariti | Empress | 48 | Persona 3 Reload | Hariti
+Astarte | Empress | 54 | Persona 3 Reload | Astarte
+Gabriel | Empress | 62 | Persona 3 Reload | Gabriel
 Skadi | Empress | 68 | Persona 3 Reload | Skadi
+Mother Harlot | Empress | 77 | Persona 3 Reload | Mother Harlot
+Alilat | Empress | 84 | Persona 3 Reload | Alilat
 Polydeuces | Emperor | 14 | Persona 3 Reload | Polydeuces
+Caesar | Emperor | 1 | Persona 3 Reload | Caesar
+Forneus | Emperor | 7 | Persona 3 Reload | Forneus
+Oberon | Emperor | 16 | Persona 3 Reload | Oberon
 Take-Mikazuchi | Emperor | 23 | Persona 3 Reload | Take-Mikazuchi
+Goemon | Emperor | 27 | Persona 3 Reload | Goemon
+King Frost | Emperor | 34 | Persona 3 Reload | King Frost
+Naga Raja | Emperor | 43 | Persona 3 Reload | Naga Raja
 Kamu Susano-o | Emperor | 47 | Persona 3 Reload | Kamu Susano-o
+Belphegor | Emperor | 53 | Persona 3 Reload | Belphegor
+Barong | Emperor | 63 | Persona 3 Reload | Barong
+Odin | Emperor | 74 | Persona 3 Reload | Odin
 Castor | Hierophant | 39 | Persona 3 Reload | Castor
+Psyche | Hierophant | 25 | Persona 3 Reload | Psyche
+Omoikane | Hierophant | 7 | Persona 3 Reload | Omoikane
+Berith | Hierophant | 13 | Persona 3 Reload | Berith
 Shiisaa | Hierophant | 23 | Persona 3 Reload | Shiisaa
+Flauros | Hierophant | 33 | Persona 3 Reload | Flauros
+Thoth | Hierophant | 40 | Persona 3 Reload | Thoth
+Mishaguji | Hierophant | 48 | Persona 3 Reload | Mishaguji
 Daisoujou | Hierophant | 59 | Persona 3 Reload | Daisoujou
+Kohryu | Hierophant | 71 | Persona 3 Reload | Kohryu
 Io | Lovers | 1 | Persona 3 Reload | Io (Persona)
+Isis | Lovers | 1 | Persona 3 Reload | Isis
+Pixie | Lovers | 2 | Persona 3 Reload | Pixie
+Silky | Lovers | 5 | Persona 3 Reload | Silky
 Tam Lin | Lovers | 13 | Persona 3 Reload | Tam Lin
+Carmen | Lovers | 19 | Persona 3 Reload | Carmen
+Narcissus | Lovers | 23 | Persona 3 Reload | Narcissus
+Queen Mebd | Lovers | 28 | Persona 3 Reload | Queen Mab
 Saki Mitama | Lovers | 36 | Persona 3 Reload | Saki Mitama
+Hecate | Lovers | 42 | Persona 3 Reload | Hecate
+Titania | Lovers | 49 | Persona 3 Reload | Titania
+Raphael | Lovers | 60 | Persona 3 Reload | Raphael
 Cybele | Lovers | 67 | Persona 3 Reload | Cybele
 Palladion | Chariot | 27 | Persona 3 Reload | Palladion
+Athena | Chariot | 1 | Persona 3 Reload | Pallas Athena
+Ara Mitama | Chariot | 6 | Persona 3 Reload | Ara Mitama
+Chimera | Chariot | 9 | Persona 3 Reload | Chimera
 Zouchouten | Chariot | 14 | Persona 3 Reload | Zouchouten
+Captain Kidd | Chariot | 18 | Persona 3 Reload | Captain Kidd
+Mithras | Chariot | 24 | Persona 3 Reload | Mithras
+Oni | Chariot | 31 | Persona 3 Reload | Oni
 Seiten Taisei | Chariot | 40 | Persona 3 Reload | Seiten Taisei
+Shiki-Ouji | Chariot | 45 | Persona 3 Reload | Shiki-Ouji
+Koumokuten | Chariot | 54 | Persona 3 Reload | Koumokuten
+Thor | Chariot | 64 | Persona 3 Reload | Thor
 Nemesis | Justice | 37 | Persona 3 Reload | Nemesis
+Kala-Nemi | Justice | 1 | Persona 3 Reload | Kala-Nemi
+Angel | Justice | 4 | Persona 3 Reload | Angel
+Archangel | Justice | 10 | Persona 3 Reload | Archangel
 Principality | Justice | 16 | Persona 3 Reload | Principality
+Power | Justice | 25 | Persona 3 Reload | Power
+Virtue | Justice | 32 | Persona 3 Reload | Virtue
+Robin Hood | Justice | 37 | Persona 3 Reload | Robin Hood
 Dominion | Justice | 42 | Persona 3 Reload | Dominion
-Moros | Hermit |  | Persona 3 Reload | Moros
+Throne | Justice | 52 | Persona 3 Reload | Throne
+Loki | Justice | 60 | Persona 3 Reload | Loki
+Melchizedek | Justice | 66 | Persona 3 Reload | Melchizedek
+Moros | Hermit | 1 | Persona 3 Reload | Moros
+Onmoraki | Hermit | 8 | Persona 3 Reload | Onmoraki
+Naga | Hermit | 17 | Persona 3 Reload | Naga
+Lamia | Hermit | 25 | Persona 3 Reload | Lamia
 Mothman | Hermit | 31 | Persona 3 Reload | Mothman
+Dakini | Hermit | 38 | Persona 3 Reload | Dakini
+Kurama Tengu | Hermit | 46 | Persona 3 Reload | Kurama Tengu
+Nebiros | Hermit | 52 | Persona 3 Reload | Nebiros
 Kumbhanda | Hermit | 61 | Persona 3 Reload | Kumbhanda
-Hypnos | Fortune |  | Persona 3 Reload | Hypnos
+Arahabaki | Hermit | 68 | Persona 3 Reload | Arahabaki
+Hypnos | Fortune | 1 | Persona 3 Reload | Hypnos
+Fortuna | Fortune | 15 | Persona 3 Reload | Fortuna
+Sandman | Fortune | 20 | Persona 3 Reload | Sandman
+Kushi Mitama | Fortune | 28 | Persona 3 Reload | Kusi Mitama
 Clotho | Fortune | 37 | Persona 3 Reload | Clotho
+Lachesis | Fortune | 44 | Persona 3 Reload | Lachesis
+Atropos | Fortune | 56 | Persona 3 Reload | Atropos
+Norn | Fortune | 65 | Persona 3 Reload | Norn
 Lakshmi | Fortune | 73 | Persona 3 Reload | Lakshmi
 Cerberus | Strength | 35 | Persona 3 Reload | Cerberus
+Valkyrie | Strength | 10 | Persona 3 Reload | Valkyrie
+Rakshasa | Strength | 15 | Persona 3 Reload | Rakshasa
+Matador | Strength | 22 | Persona 3 Reload | Matador
 Jikokuten | Strength | 29 | Persona 3 Reload | Jikokuten
+Hanuman | Strength | 36 | Persona 3 Reload | Hanuman
+White Rider | Strength | 46 | Persona 3 Reload | White Rider
+Siegfried | Strength | 54 | Persona 3 Reload | Siegfried
 Kali | Strength | 63 | Persona 3 Reload | Kali
-Medea | Hanged Man |  | Persona 3 Reload | Medea
+Atavaka | Strength | 72 | Persona 3 Reload | Atavaka
+Medea | Hanged Man | 1 | Persona 3 Reload | Medea
+Inugami | Hanged Man | 10 | Persona 3 Reload | Inugami
+Take-Minakata | Hanged Man | 20 | Persona 3 Reload | Take-Minakata
+Orthrus | Hanged Man | 27 | Persona 3 Reload | Orthrus (demon)
 Vasuki | Hanged Man | 38 | Persona 3 Reload | Vasuki
+Hecatoncheires | Hanged Man | 47 | Persona 3 Reload | Hecatoncheires
+Mada | Hanged Man | 57 | Persona 3 Reload | Mada
+Hell Biker | Hanged Man | 65 | Persona 3 Reload | Hell Biker
 Attis | Hanged Man | 73 | Persona 3 Reload | Attis
 Pisaca | Death | 15 | Persona 3 Reload | Pisaca
+Pale Rider | Death | 23 | Persona 3 Reload | Pale Rider
+Loa | Death | 33 | Persona 3 Reload | Loa
+Samael | Death | 41 | Persona 3 Reload | Samael
 Mot | Death | 58 | Persona 3 Reload | Mot
+Alice | Death | 68 | Persona 3 Reload | Alice
+Thanatos | Death | 78 | Persona 3 Reload | Thanatos
 Nigi Mitama | Temperance | 12 | Persona 3 Reload | Nigi Mitama
+Mitra | Temperance | 22 | Persona 3 Reload | Mithra
+Genbu | Temperance | 30 | Persona 3 Reload | Genbu
+Seiryu | Temperance | 38 | Persona 3 Reload | Seiryu
 Okuninushi | Temperance | 44 | Persona 3 Reload | Okuninushi
+Suzaku | Temperance | 55 | Persona 3 Reload | Suzaku
+Byakko | Temperance | 63 | Persona 3 Reload | Byakko
+Yurlungur | Temperance | 71 | Persona 3 Reload | Yurlungur
 Lilim | Devil | 8 | Persona 3 Reload | Lilim
+Mokoi | Devil | 18 | Persona 3 Reload | Mokoi
+Baphomet | Devil | 30 | Persona 3 Reload | Baphomet
+Incubus | Devil | 37 | Persona 3 Reload | Incubus
 Succubus | Devil | 47 | Persona 3 Reload | Succubus
+Pazuzu | Devil | 56 | Persona 3 Reload | Pazuzu
+Lilith | Devil | 65 | Persona 3 Reload | Lilith
+Abaddon | Devil | 76 | Persona 3 Reload | Abaddon
 Beelzebub | Devil | 81 | Persona 3 Reload | Beelzebub
 Eligor | Tower | 31 | Persona 3 Reload | Eligor
+Cu Chulainn | Tower | 40 | Persona 3 Reload | Cu Chulainn
+Magatsu-Izanagi | Tower | 50 | Persona 3 Reload | Magatsu-Izanagi
+Bishamonten | Tower | 60 | Persona 3 Reload | Bishamonten (demon)
 Qitian Dasheng | Tower | 67 | Persona 3 Reload | Seiten Taisei
+Mara | Tower | 75 | Persona 3 Reload | Mara
+Masakado | Tower | 79 | Persona 3 Reload | Masakado
+Shiva | Tower | 82 | Persona 3 Reload | Shiva
 Chi You | Tower | 86 | Persona 3 Reload | Chi You
 Neko Shogun | Star | 17 | Persona 3 Reload | Neko Shogun
+Setanta | Star | 29 | Persona 3 Reload | Setanta
+Cendrillon | Star | 36 | Persona 3 Reload | Cendrillon
+Kaiwan | Star | 42 | Persona 3 Reload | Kaiwan
 Ganesha | Star | 51 | Persona 3 Reload | Ganesha
+Vanadis | Star | 58 | Persona 3 Reload | Vanadis
+Garuda | Star | 64 | Persona 3 Reload | Garuda
+Houou | Star | 70 | Persona 3 Reload | Feng Huang
 Saturnus | Star | 76 | Persona 3 Reload | Saturnus
+Helel | Star | 88 | Persona 3 Reload | Helel
 Gurulu | Moon | 14 | Persona 3 Reload | Gurulu
+Yamata-no-Orochi | Moon | 25 | Persona 3 Reload | Yamata-no-Orochi
+Kaguya | Moon | 36 | Persona 3 Reload | Kaguya
+Girimekhala | Moon | 39 | Persona 3 Reload | Girimekhala
 Dionysus | Moon | 49 | Persona 3 Reload | Dionysus
+Chernobog | Moon | 56 | Persona 3 Reload | Chernobog
+Seth | Moon | 62 | Persona 3 Reload | Seth (demon)
+Baal Zebul | Moon | 72 | Persona 3 Reload | Beelzebub
 Sandalphon | Moon | 80 | Persona 3 Reload | Sandalphon
 Yatagarasu | Sun | 24 | Persona 3 Reload | Yatagarasu
+Thunderbird | Sun | 35 | Persona 3 Reload | Thunderbird
+Quetzalcoatl | Sun | 45 | Persona 3 Reload | Quetzalcoatl
+Jatayu | Sun | 55 | Persona 3 Reload | Jatayu
 Horus | Sun | 67 | Persona 3 Reload | Horus
+Vishnu | Sun | 78 | Persona 3 Reload | Vishnu
+Asura | Sun | 85 | Persona 3 Reload | Asura
 Anubis | Judgement | 40 | Persona 3 Reload | Anubis
+Trumpeter | Judgement | 59 | Persona 3 Reload | Trumpeter
+Michael | Judgement | 70 | Persona 3 Reload | Michael
+Satan | Judgement | 82 | Persona 3 Reload | Satan
 Lucifer | Judgement | 89 | Persona 3 Reload | Lucifer
+Messiah | Judgement | 91 | Persona 3 Reload | Messiah (Persona)
 Nidhoggr | Aeon | 47 | Persona 3 Reload | Nidhoggr
+Uriel | Aeon | 57 | Persona 3 Reload | Uriel
+Ananta | Aeon | 73 | Persona 3 Reload | Ananta
+Metatron | Aeon | 87 | Persona 3 Reload | Metatron
 Izanagi | Fool | 01 | Persona 4 | Izanagi
+Yomotsu-Shikome | Fool | 07 | Persona 4 | Yomotsu-Shikome
+Obariyon | Fool | 13 | Persona 4 | Obariyon
+Legion | Fool | 21 | Persona 4 | Legion
 Ose | Fool | 31 | Persona 4 | Ose
+Black Frost | Fool | 38 | Persona 4 | Black Frost
+Decarabia | Fool | 46 | Persona 4 | Decarabia
+Shiki-Ouji | Fool | 56 | Persona 4 | Shiki-Ouji
 Loki | Fool | 64 | Persona 4 | Loki
 Jiraiya | Magician | 04 | Persona 4 | Jiraiya
+Susano-o | Magician | 1 | Persona 4 | Susano-o
+Takehaya Susano-o | Magician | 1 | Persona 4 | Takehaya Susano-o
+Pixie | Magician | 02 | Persona 4 | Pixie
 Orobas | Magician | 08 | Persona 4 | Orobas
+Jack Frost | Magician | 16 | Persona 4 | Jack Frost
+Hua Po | Magician | 25 | Persona 4 | Hua Po
+Pyro Jack | Magician | 32 | Persona 4 | Jack-o'-Lantern
 Dis | Magician | 39 | Persona 4 | Dis
+Rangda | Magician | 47 | Persona 4 | Rangda
+Jinn | Magician | 62 | Persona 4 | Jinn
+Surt | Magician | 69 | Persona 4 | Surt
 Mada | Magician | 78 | Persona 4 | Mada
 Konohana Sakuya | Priestess | 15 | Persona 4 | Konohana Sakuya
+Amaterasu | Priestess | 1 | Persona 4 | Amaterasu
+Sumeo-Okami | Priestess | 1 | Persona 4 | Sumeo-Okami
+Saki Mitama | Priestess | 11 | Persona 4 | Saki Mitama
 Sarasvati | Priestess | 17 | Persona 4 | Sarasvati
+High Pixie | Priestess | 22 | Persona 4 | High Pixie
+Ganga | Priestess | 29 | Persona 4 | Ganga
+Parvati | Priestess | 37 | Persona 4 | Parvati
 Kikuri-Hime | Priestess | 48 | Persona 4 | Kikuri-Hime
+Hariti | Priestess | 59 | Persona 4 | Hariti
+Tzitzimitl | Priestess | 70 | Persona 4 | Tzitzimitl
+Scathach | Priestess | 79 | Persona 4 | Scathach
 Senri | Empress | 09 | Persona 4 | Senri
+Yaksini | Empress | 18 | Persona 4 | Yaksini
+Titania | Empress | 26 | Persona 4 | Titania
+Gorgon | Empress | 34 | Persona 4 | Gorgon
 Gabriel | Empress | 44 | Persona 4 | Gabriel
+Skadi | Empress | 52 | Persona 4 | Skadi
+Mother Harlot | Empress | 60 | Persona 4 | Mother Harlot
+Alilat | Empress | 70 | Persona 4 | Alilat
 Isis | Empress | 79 | Persona 4 | Isis
 Take-Mikazuchi | Emperor | 25 | Persona 4 | Take-Mikazuchi
+Rokuten Maoh | Emperor | 1 | Persona 4 | Rokuten Maoh
+Takeji Zaiten | Emperor | 1 | Persona 4 | Takeji Zaiten
+Oberon | Emperor | 12 | Persona 4 | Oberon
 King Frost | Emperor | 22 | Persona 4 | King Frost
+Setanta | Emperor | 34 | Persona 4 | Setanta
+Okuninushi | Emperor | 41 | Persona 4 | Okuninushi
+Thoth | Emperor | 45 | Persona 4 | Thoth
 Pabilsag | Emperor | 51 | Persona 4 | Pabilsag
+Barong | Emperor | 65 | Persona 4 | Barong
+Odin | Emperor | 74 | Persona 4 | Odin
 Omoikane | Hierophant | 07 | Persona 4 | Omoikane
+Anzu | Hierophant | 15 | Persona 4 | Anzu
+Shiisaa | Hierophant | 21 | Persona 4 | Shiisaa
+Unicorn | Hierophant | 29 | Persona 4 | Unicorn
 Flauros | Hierophant | 36 | Persona 4 | Flauros
+Hokuto Seikun | Hierophant | 45 | Persona 4 | Hokuto Seikun
+Cerberus | Hierophant | 52 | Persona 4 | Cerberus
+Daisoujou | Hierophant | 60 | Persona 4 | Daisoujou
 Hachiman | Hierophant | 70 | Persona 4 | Hachiman
+Kohryu | Hierophant | 76 | Persona 4 | Kohryu
 Himiko | Lovers | 34 | Persona 4 | Himiko
+Kanzeon | Lovers | 1 | Persona 4 | Kanzeon
+Kouzeon | Lovers | 1 | Persona 4 | Kouzeon
+Queen Mab | Lovers | 25 | Persona 4 | Queen Mab
 Undine | Lovers | 33 | Persona 4 | Undine
+Leanan Sidhe | Lovers | 42 | Persona 4 | Leanan Sidhe
+Raphael | Lovers | 53 | Persona 4 | Raphael
+Cybele | Lovers | 64 | Persona 4 | Cybele
 Ishtar | Lovers | 71 | Persona 4 | Ishtar
 Tomoe | Chariot | 06 | Persona 4 | Tomoe
+Suzuka Gongen | Chariot | 1 | Persona 4 | Suzuka Gongen
+Haraedo-no-Okami | Chariot | 1 | Persona 4 | Haraedo-no-Okami
+Slime | Chariot | 02 | Persona 4 | Slime
 Nata Taishi | Chariot | 06 | Persona 4 | Nezha
+Eligor | Chariot | 12 | Persona 4 | Eligor
+Ara Mitama | Chariot | 18 | Persona 4 | Ara Mitama
+Ares | Chariot | 25 | Persona 4 | Ares
 Triglav | Chariot | 43 | Persona 4 | Triglav
+Kin-Ki | Chariot | 54 | Persona 4 | Kin-Ki
+Thor | Chariot | 65 | Persona 4 | Thor
+Atavaka | Chariot | 72 | Persona 4 | Atavaka
 Futsunushi | Chariot | 80 | Persona 4 | Futsunushi
 Angel | Justice | 04 | Persona 4 | Angel
+Archangel | Justice | 11 | Persona 4 | Archangel
+Principality | Justice | 19 | Persona 4 | Principality
+Power | Justice | 27 | Persona 4 | Power
 Virtue | Justice | 33 | Persona 4 | Virtue
+Dominion | Justice | 38 | Persona 4 | Dominion
+Throne | Justice | 49 | Persona 4 | Throne
+Uriel | Justice | 58 | Persona 4 | Uriel
 Melchizedek | Justice | 66 | Persona 4 | Melchizedek
+Sraosha | Justice | 74 | Persona 4 | Sraosha
 Forneus | Hermit | 06 | Persona 4 | Forneus
+Ippon-Datara | Hermit | 17 | Persona 4 | Ippon-Datara
+Lamia | Hermit | 26 | Persona 4 | Lamia
+Mothman | Hermit | 33 | Persona 4 | Mothman
 Hitokotonushi | Hermit | 41 | Persona 4 | Hitokoto-Nushi
+Kurama Tengu | Hermit | 48 | Persona 4 | Kurama Tengu
+Nidhoggr | Hermit | 55 | Persona 4 | Nidhoggr
+Nebiros | Hermit | 63 | Persona 4 | Nebiros
 Arahabaki | Hermit | 73 | Persona 4 | Arahabaki
+Ongyo-Ki | Hermit | 82 | Persona 4 | Ongyo-Ki
 Sukuna-Hikona | Fortune | 55 | Persona 4 | Sukuna-Hikona
+Yamato-Takeru | Fortune | 1 | Persona 4 | Yamato-Takeru
+Yamato Sumeragi | Fortune | 1 | Persona 4 | Yamato Sumeragi
+Fortuna | Fortune | 35 | Persona 4 | Fortuna
 Clotho | Fortune | 44 | Persona 4 | Clotho
+Lachesis | Fortune | 51 | Persona 4 | Lachesis
+Ananta | Fortune | 58 | Persona 4 | Ananta
+Atropos | Fortune | 65 | Persona 4 | Atropos
 Norn | Fortune | 72 | Persona 4 | Norn
 Sandman | Strength | 05 | Persona 4 | Sandman
+Valkyrie | Strength | 08 | Persona 4 | Valkyrie
+Titan | Strength | 14 | Persona 4 | Titan
+Rakshasa | Strength | 23 | Persona 4 | Rakshasa
 Kusi Mitama | Strength | 28 | Persona 4 | Kusi Mitama
+Oni | Strength | 30 | Persona 4 | Oni
+Hanuman | Strength | 42 | Persona 4 | Hanuman
+Kali | Strength | 50 | Persona 4 | Kali
 Siegfried | Strength | 63 | Persona 4 | Siegfried
+Zaou-Gongen | Strength | 90 | Persona 4 | Zaou-Gongen
 Berith | Hanged Man | 15 | Persona 4 | Berith
+Yomotsu-Ikusa | Hanged Man | 22 | Persona 4 | Yomotsu-Ikusa
+Makami | Hanged Man | 27 | Persona 4 | Makami
+Orthrus | Hanged Man | 39 | Persona 4 | Orthrus (demon)
 Yatsufusa | Hanged Man | 49 | Persona 4 | Yatsufusa
+Taowu | Hanged Man | 56 | Persona 4 | Taown
+Hell Biker | Hanged Man | 66 | Persona 4 | Hell Biker
+Vasuki | Hanged Man | 71 | Persona 4 | Vasuki
 Attis | Hanged Man | 82 | Persona 4 | Attis
 Ghoul | Death | 09 | Persona 4 | Ghoul
+Mokoi | Death | 14 | Persona 4 | Mokoi
+Matador | Death | 24 | Persona 4 | Matador
+Samael | Death | 36 | Persona 4 | Samael
 Mot | Death | 46 | Persona 4 | Mot
+White Rider | Death | 58 | Persona 4 | White Rider
+Alice | Death | 72 | Persona 4 | Alice
+Mahakala | Death | 78 | Persona 4 | Mahakala
 Apsaras | Temperance | 04 | Persona 4 | Apsaras
+Sylph | Temperance | 11 | Persona 4 | Sylph
+Xiezhai | Temperance | 16 | Persona 4 | Xiezhai
+Nigi Mitama | Temperance | 23 | Persona 4 | Nigi Mitama
 Mithra | Temperance | 31 | Persona 4 | Mithra
+Genbu | Temperance | 40 | Persona 4 | Genbu
+Seiryuu | Temperance | 47 | Persona 4 | Seiryuu
+Suzaku | Temperance | 54 | Persona 4 | Suzaku
 Byakko | Temperance | 62 | Persona 4 | Byakko
+Yurlungur | Temperance | 69 | Persona 4 | Yurlungur
+Vishnu | Temperance | 73 | Persona 4 | Vishnu
 Ukobach | Devil | 03 | Persona 4 | Ukobach
+Lilim | Devil | 10 | Persona 4 | Lilim
+Vetala | Devil | 19 | Persona 4 | Vetala
+Incubus | Devil | 28 | Persona 4 | Incubus
 Pazuzu | Devil | 37 | Persona 4 | Pazuzu
+Succubus | Devil | 44 | Persona 4 | Succubus
+Lilith | Devil | 53 | Persona 4 | Lilith
+Belphegor | Devil | 61 | Persona 4 | Belphegor
 Belial | Devil | 68 | Persona 4 | Belial
+Beelzebub | Devil | 81 | Persona 4 | Beelzebub
 Tao Tie | Tower | 35 | Persona 4 | Tao Tie
+Cu Chulainn | Tower | 46 | Persona 4 | Cu Chulainn
+Abaddon | Tower | 55 | Persona 4 | Abaddon
+Mara | Tower | 62 | Persona 4 | Mara
 Masakado | Tower | 69 | Persona 4 | Masakado
+Yoshitsune | Tower | 75 | Persona 4 | Yoshitsune
+Shiva | Tower | 80 | Persona 4 | Shiva
 Kintoki-Douji | Star | 35 | Persona 4 | Kintoki-Douji
+Kamui | Star | 1 | Persona 4 | Kamui
+Kamui-Moshiri | Star | 1 | Persona 4 | Kamui-Moshiri
+Kaiwan | Star | 24 | Persona 4 | Kaiwan
 Neko Shogun | Star | 32 | Persona 4 | Neko Shogun
+Fuu-Ki | Star | 43 | Persona 4 | Fuu-Ki
+Ganesha | Star | 50 | Persona 4 | Ganesha
+Garuda | Star | 57 | Persona 4 | Garuda
 Kartikeya | Star | 67 | Persona 4 | Kartikeya
+Saturnus | Star | 75 | Persona 4 | Saturnus
+Helel | Star | 87 | Persona 4 | Helel
 Andras | Moon | 20 | Persona 4 | Andras
+Nozuchi | Moon | 27 | Persona 4 | Nozuchi
+Yamata-no-Orochi | Moon | 34 | Persona 4 | Yamata-no-Orochi
+Alraune | Moon | 41 | Persona 4 | Alraune
 Girimehkala | Moon | 48 | Persona 4 | Girimehkala
+Sui-Ki | Moon | 57 | Persona 4 | Sui-Ki
+Seth | Moon | 68 | Persona 4 | Seth (demon)
+Baal Zebul | Moon | 77 | Persona 4 | Baal Zebul
 Sandalphon | Moon | 84 | Persona 4 | Sandalphon
 Cu Sith | Sun | 10 | Persona 4 | Cu Sith
+Feng Huang | Sun | 20 | Persona 4 | Feng Huang
+Gdon | Sun | 31 | Persona 4 | Gdon
+Yatagarasu | Sun | 40 | Persona 4 | Yatagarasu
 Narasimha | Sun | 47 | Persona 4 | Narasimha
+Tam Lin | Sun | 53 | Persona 4 | Tam Lin
+Jatayu | Sun | 61 | Persona 4 | Jatayu
+Horus | Sun | 68 | Persona 4 | Horus
 Suparna | Sun | 77 | Persona 4 | Suparna
-Gurr | Jester | 20 | Persona 4 | Gurr
-Baphomet | Jester | 47 | Persona 4 | Baphomet
-Magatsu-Izanagi | Jester | 77* | Persona 4 | Magatsu-Izanagi
-Ame-no-Uzume | Aeon[Goldenonly] | 18 | Persona 4 | Ame-no-Uzume
-Kushinada-Hime | Aeon[Goldenonly] | 44 | Persona 4 | Kushinada-Hime
-Kaguya | Aeon[Goldenonly] | 74 | Persona 4 | Kaguya
+Asura | Sun | 86 | Persona 4 | Asura
+Gurr | Jester (Hunger) [ Golden only] | 20 | Persona 4 | Gurr
+Take-Minakata | Jester (Hunger) [ Golden only] | 27 | Persona 4 | Take-Minakata
+Pale Rider | Jester (Hunger) [ Golden only] | 34 | Persona 4 | Pale Rider
+Loa | Jester (Hunger) [ Golden only] | 40 | Persona 4 | Loa
+Baphomet | Jester (Hunger) [ Golden only] | 47 | Persona 4 | Baphomet
+Kumbhanda | Jester (Hunger) [ Golden only] | 55 | Persona 4 | Kumbhanda
+Chernobog | Jester (Hunger) [ Golden only] | 62 | Persona 4 | Chernobog
+Seiten Taisei | Jester (Hunger) [ Golden only] | 68 | Persona 4 | Seiten Taisei
+Magatsu-Izanagi | Jester (Hunger) [ Golden only] | 77 | Persona 4 | Magatsu-Izanagi
+Ame-no-Uzume | Aeon [ Golden only] | 18 | Persona 4 | Ame-no-Uzume
+Narcissus | Aeon [ Golden only] | 24 | Persona 4 | Narcissus
+Sati | Aeon [ Golden only] | 31 | Persona 4 | Sati
+Raja Naga | Aeon [ Golden only] | 37 | Persona 4 | Raja Naga
+Kushinada-Hime | Aeon [ Golden only] | 44 | Persona 4 | Kushinada-Hime
+Quetzalcoatl | Aeon [ Golden only] | 51 | Persona 4 | Quetzalcoatl
+Kingu | Aeon [ Golden only] | 58 | Persona 4 | Kingu
+Lakshmi | Aeon [ Golden only] | 65 | Persona 4 | Lakshmi
+Kaguya | Aeon [ Golden only] | 74 | Persona 4 | Kaguya
 Anubis | Judgement | 59 | Persona 4 | Anubis
+Trumpeter | Judgement | 67 | Persona 4 | Trumpeter
+Michael | Judgement | 72 | Persona 4 | Michael
+Satan | Judgement | 76 | Persona 4 | Satan
 Metatron | Judgement | 83 | Persona 4 | Metatron
+Ardha | Judgement | 90 | Persona 4 | Ardha
+Lucifer | Judgement | 93 | Persona 4 | Lucifer
 Izanagi-no-Okami | World | 91 | Persona 4 | Izanagi-no-Okami
 Arsène | Fool | 1 | Persona 5 | Arsène
+Obariyon | Fool | 8 | Persona 5 | Obariyon
+High Pixie | Fool | 16 | Persona 5 | High Pixie
+Izanagi | Fool | 20 | Persona 5 | Izanagi
 Izanagi Picaro | Fool | 23 | Persona 5 | Izanagi
+Orpheus | Fool | 26 | Persona 5 | Orpheus
+Orpheus Picaro | Fool | 29 | Persona 5 | Orpheus
+Decarabia | Fool | 32 | Persona 5 | Decarabia
 Legion | Fool | 38 | Persona 5 | Legion
+Ose | Fool | 42 | Persona 5 | Ose
+Bugs | Fool | 49 | Persona 5 | Bugbear
+Crystal Skull | Fool | 50 | Persona 5 | Crystal Skull (Treasure Demon)
 Dionysus | Fool | 61 | Persona 5 | Dionysus
+Black Frost | Fool | 67 | Persona 5 | Black Frost
+Vishnu | Fool | 83 | Persona 5 | Vishnu
+Satanael | Fool | 95 | Persona 5 | Satanael
 Zorro | Magician | 1 | Persona 5 | Zorro
+Mercurius | Magician | 1 | Persona 5 | Mercurius
+Jack-o'-Lantern | Magician | 2 | Persona 5 | Jack-o'-Lantern
+Jack Frost | Magician | 11 | Persona 5 | Jack Frost
 Nekomata | Magician | 17 | Persona 5 | Nekomata
+Sandman | Magician | 24 | Persona 5 | Sandman
+Choronzon | Magician | 28 | Persona 5 | Choronzon
+Queen Mab | Magician | 43 | Persona 5 | Queen Mab
 Rangda | Magician | 48 | Persona 5 | Rangda
+Surt | Magician | 59 | Persona 5 | Surt
+Futsunushi | Magician | 76 | Persona 5 | Futsunushi
 Johanna | Priestess | 21 | Persona 5 | Johanna
+Anat | Priestess | 1 | Persona 5 | Anat
+Silky | Priestess | 6 | Persona 5 | Silky
+Apsaras | Priestess | 11 | Persona 5 | Apsaras
 Koh-i-Noor | Priestess | 25 | Persona 5 | Koh-i-Noor (Treasure Demon)
+Isis | Priestess | 26 | Persona 5 | Isis
+Kikuri-Hime | Priestess | 40 | Persona 5 | Kikuri-Hime
+Scathach | Priestess | 45 | Persona 5 | Scathach
 Sarasvati | Priestess | 50 | Persona 5 | Sarasvati
+Skadi | Priestess | 55 | Persona 5 | Skadi
+Cybele | Priestess | 73 | Persona 5 | Cybele
 Milady | Empress | 36 | Persona 5 | Milady (Persona 5)
+Astarte | Empress | 1 | Persona 5 | Astarte
+Queen's Necklace | Empress | 15 | Persona 5 | Queen's Necklace (Treasure Demon)
+Yaksini | Empress | 20 | Persona 5 | Yaksini
 Lamia | Empress | 26 | Persona 5 | Lamia
+Hariti | Empress | 40 | Persona 5 | Hariti
+Dakini | Empress | 50 | Persona 5 | Dakini
+Titania | Empress | 56 | Persona 5 | Titania
 Kali | Empress | 77 | Persona 5 | Kali
+Mother Harlot | Empress | 80 | Persona 5 | Mother Harlot
 Goemon | Emperor | 15 | Persona 5 | Goemon
+Kamu Susano-o | Emperor | 1 | Persona 5 | Kamu Susano-o
+Regent | Emperor | 10 | Persona 5 | Regent (Treasure Demon)
+Eligor | Emperor | 16 | Persona 5 | Eligor
 Setanta | Emperor | 28 | Persona 5 | Setanta
+Thoth | Emperor | 36 | Persona 5 | Thoth
+Okuninushi | Emperor | 44 | Persona 5 | Okuninushi
+Barong | Emperor | 52 | Persona 5 | Barong
 King Frost | Emperor | 61 | Persona 5 | King Frost
+Oberon | Emperor | 66 | Persona 5 | Oberon
+Baal | Emperor | 75 | Persona 5 | Baal
+Odin | Emperor | 82 | Persona 5 | Odin
 Berith | Hierophant | 9 | Persona 5 | Berith
+Orobas | Hierophant | 17 | Persona 5 | Orobas
+Phoenix | Hierophant | 22 | Persona 5 | Feng Huang
+Anzu | Hierophant | 25 | Persona 5 | Anzu
 Unicorn | Hierophant | 39 | Persona 5 | Unicorn
+Daisoujou | Hierophant | 42 | Persona 5 | Daisoujou
+Forneus | Hierophant | 63 | Persona 5 | Forneus
+Bishamonten | Hierophant | 67 | Persona 5 | Bishamonten (demon)
 Kohryu | Hierophant | 76 | Persona 5 | Kohryu
 Carmen | Lovers | 5 | Persona 5 | Carmen
+Hecate | Lovers | 1 | Persona 5 | Hecate
+Pixie | Lovers | 2 | Persona 5 | Pixie
+Saki Mitama | Lovers | 6 | Persona 5 | Saki Mitama
 Leanan Sidhe | Lovers | 19 | Persona 5 | Leanan Sidhe
+Ame-no-Uzume | Lovers | 29 | Persona 5 | Ame no Uzume
+Kushinada | Lovers | 42 | Persona 5 | Kushinada-Hime
+Narcissus | Lovers | 50 | Persona 5 | Narcissus
 Parvati | Lovers | 56 | Persona 5 | Parvati
+Raphael | Lovers | 78 | Persona 5 | Raphael
+Ishtar | Lovers | 85 | Persona 5 | Ishtar
 Captain Kidd | Chariot | 4 | Persona 5 | Captain Kidd
+Seiten Taisei | Chariot | 1 | Persona 5 | Seiten Taisei
+Agathion | Chariot | 3 | Persona 5 | Agathion
+Slime | Chariot | 10 | Persona 5 | Slime
 Shiisaa | Chariot | 16 | Persona 5 | Shiisaa
+Shiki-Ouji | Chariot | 21 | Persona 5 | Shiki-Ouji
+Kin-Ki | Chariot | 25 | Persona 5 | Kin-Ki
+Ara Mitama | Chariot | 31 | Persona 5 | Ara Mitama
 White Rider | Chariot | 39 | Persona 5 | White Rider
+Cerberus | Chariot | 55 | Persona 5 | Cerberus
+Thor | Chariot | 64 | Persona 5 | Thor
+Chi You | Chariot | 86 | Persona 5 | Chi You
 Robin Hood | Justice | 45 | Persona 5 | Robin Hood
+Loki | Justice | 1 | Persona 5 | Loki
+Angel | Justice | 12 | Persona 5 | Angel
+Archangel | Justice | 16 | Persona 5 | Archangel
 Principality | Justice | 29 | Persona 5 | Principality
+Power | Justice | 41 | Persona 5 | Power
+Melchizedek | Justice | 60 | Persona 5 | Melchizedek
+Dominion | Justice | 68 | Persona 5 | Dominion
 Throne | Justice | 71 | Persona 5 | Throne
+Uriel | Justice | 81 | Persona 5 | Uriel
+Metatron | Justice | 89 | Persona 5 | Metatron
 Necronomicon | Hermit | 31 | Persona 5 | Necronomicon
+Prometheus | Hermit | 1 | Persona 5 | Prometheus
+Bicorn | Hermit | 4 | Persona 5 | Bicorn
+Koropokguru | Hermit | 9 | Persona 5 | Koropokkuru
 Ippon-Datara | Hermit | 13 | Persona 5 | Ippon-Datara
+Sudama | Hermit | 17 | Persona 5 | Sudama
+Naga | Hermit | 24 | Persona 5 | Naga
+Arahabaki | Hermit | 35 | Persona 5 | Arahabaki
 Kumbhanda | Hermit | 42 | Persona 5 | Kumbhanda
+Koumokuten | Hermit | 49 | Persona 5 | Koumokuten
+Kurama Tengu | Hermit | 56 | Persona 5 | Kurama Tengu
+Ongyo-Ki | Hermit | 75 | Persona 5 | Ongyo-Ki
 Stone of Scone | Fortune | 20 | Persona 5 | Stone of Scone (Treasure Demon)
+Clotho | Fortune | 26 | Persona 5 | Clotho
+Ariadne | Fortune | 30 | Persona 5 | Ariadne
+Lachesis | Fortune | 34 | Persona 5 | Lachesis
 Atropos | Fortune | 39 | Persona 5 | Atropos
+Ariadne Picaro | Fortune | 42 | Persona 5 | Ariadne
+Fortuna | Fortune | 46 | Persona 5 | Fortuna
+Norn | Fortune | 52 | Persona 5 | Norn
 Asterius | Fortune | 56 | Persona 5 | Asterius
+Asterius Picaro | Fortune | 62 | Persona 5 | Asterius
+Lakshmi | Fortune | 69 | Persona 5 | Lakshmi
 Kelpie | Strength | 6 | Persona 5 | Kelpie
+Kushi Mitama | Strength | 14 | Persona 5 | Kusi Mitama
+Oni | Strength | 19 | Persona 5 | Oni
+Rakshasa | Strength | 24 | Persona 5 | Rakshasa
 Orlov | Strength | 30 | Persona 5 | Orlov (Treasure Demon)
+Zouchouten | Strength | 31 | Persona 5 | Zouchouten
+Valkyrie | Strength | 44 | Persona 5 | Valkyrie
+Siegfried | Strength | 69 | Persona 5 | Siegfried
 Zaou-Gongen | Strength | 80 | Persona 5 | Zaou-Gongen
 Hua Po | Hanged Man | 9 | Persona 5 | Hua Po
+Inugami | Hanged Man | 14 | Persona 5 | Inugami
+Orthrus | Hanged Man | 21 | Persona 5 | Orthrus
+Take-Minakata | Hanged Man | 29 | Persona 5 | Take-Minakata
 Emperor's Amulet | Hanged Man | 35 | Persona 5 | Emperor's Amulet (Treasure Demon)
+Hecatoncheires | Hanged Man | 42 | Persona 5 | Hecatoncheir
+Moloch | Hanged Man | 60 | Persona 5 | Moloch
+Vasuki | Hanged Man | 68 | Persona 5 | Vasuki
 Attis | Hanged Man | 82 | Persona 5 | Attis
 Mandrake | Death | 3 | Persona 5 | Mandrake
+Mokoi | Death | 9 | Persona 5 | Mokoi
+Matador | Death | 19 | Persona 5 | Matador
+Pisaca | Death | 29 | Persona 5 | Pisaca
 Hell Biker | Death | 39 | Persona 5 | Hell Biker
+Hope Diamond | Death | 40 | Persona 5 | Hope Diamond (Treasure Demon)
+Pale Rider | Death | 53 | Persona 5 | Pale Rider
+Chernobog | Death | 62 | Persona 5 | Chernobog
 Thanatos | Death | 65 | Persona 5 | Thanatos
+Thanatos Picaro | Death | 69 | Persona 5 | Thanatos
+Mot | Death | 72 | Persona 5 | Mot
+Alice | Death | 79 | Persona 5 | Alice
 Genbu | Temperance | 7 | Persona 5 | Genbu
+Koppa Tengu | Temperance | 11 | Persona 5 | Koppa Tengu
+Makami | Temperance | 15 | Persona 5 | Makami
+Nigi Mitama | Temperance | 20 | Persona 5 | Nigi Mitama
 Jikokuten | Temperance | 25 | Persona 5 | Jikokuten
+Mitra | Temperance | 33 | Persona 5 | Mithra
+Byakko | Temperance | 49 | Persona 5 | Byakko
+Raja Naga | Temperance | 55 | Persona 5 | Raja Naga
 Seiryu | Temperance | 62 | Persona 5 | Seiryu
+Gabriel | Temperance | 77 | Persona 5 | Gabriel
+Ardha | Temperance | 84 | Persona 5 | Ardha
 Incubus | Devil | 5 | Persona 5 | Incubus
+Andras | Devil | 10 | Persona 5 | Andras
+Flauros | Devil | 25 | Persona 5 | Flauros
+Lilim | Devil | 32 | Persona 5 | Lilim
 Pazuzu | Devil | 43 | Persona 5 | Pazuzu
+Baphomet | Devil | 58 | Persona 5 | Baphomet
+Nebiros | Devil | 62 | Persona 5 | Nebiros
+Belial | Devil | 68 | Persona 5 | Belial
 Beelzebub | Devil | 84 | Persona 5 | Beelzebub
 Jatayu | Tower | 32 | Persona 5 | Jatayu
+Belphegor | Tower | 37 | Persona 5 | Belphegor
+Red Rider | Tower | 41 | Persona 5 | Red Rider
+Magatsu-Izanagi | Tower | 44 | Persona 5 | Magatsu-Izanagi
 Magatsu-Izanagi Picaro | Tower | 48 | Persona 5 | Magatsu-Izanagi
+Seth | Tower | 51 | Persona 5 | Seth (demon)
+Black Rider | Tower | 59 | Persona 5 | Black Rider
+Mara | Tower | 73 | Persona 5 | Mara
 Yoshitsune | Tower | 79 | Persona 5 | Yoshitsune
+Mada | Tower | 85 | Persona 5 | Mada
 Kodama | Star | 11 | Persona 5 | Kodama
+Fuu-Ki | Star | 23 | Persona 5 | Fuu-Ki
+Neko Shogun | Star | 30 | Persona 5 | Neko Shogun
+Kaiwan | Star | 36 | Persona 5 | Kaiwan
 Ananta | Star | 43 | Persona 5 | Ananta
+Garuda | Star | 52 | Persona 5 | Garuda
+Hanuman | Star | 64 | Persona 5 | Hanuman
+Cu Chulainn | Star | 67 | Persona 5 | Cu Chulainn
 Sraosha | Star | 80 | Persona 5 | Sraosha
+Lucifer | Star | 93 | Persona 5 | Lucifer
 Succubus | Moon | 7 | Persona 5 | Succubus
+Onmoraki | Moon | 12 | Persona 5 | Onmoraki
+Kaguya | Moon | 16 | Persona 5 | Kaguya Hime
+Nue | Moon | 20 | Persona 5 | Nue
 Sui-Ki | Moon | 24 | Persona 5 | Sui-Ki
+Kaguya Picaro | Moon | 25 | Persona 5 | Kaguya Hime
+Black Ooze | Moon | 29 | Persona 5 | Black Ooze
+Mothman | Moon | 33 | Persona 5 | Mothman
 Girimehkala | Moon | 44 | Persona 5 | Girimehkala
+Tsukiyomi | Moon | 50 | Persona 5 | Tsukiyomi
+Tsukiyomi Picaro | Moon | 55 | Persona 5 | Tsukuyomi
+Lilith | Moon | 60 | Persona 5 | Lilith
 Sandalphon | Moon | 75 | Persona 5 | Sandalphon
 Suzaku | Sun | 19 | Persona 5 | Suzaku
+Mithras | Sun | 39 | Persona 5 | Mithras
+Yurlungur | Sun | 42 | Persona 5 | Yurlungur
+Horus | Sun | 49 | Persona 5 | Horus
 Ganesha | Sun | 53 | Persona 5 | Ganesha
+Yatagarasu | Sun | 57 | Persona 5 | Yatagarasu
+Quetzalcoatl | Sun | 63 | Persona 5 | Quetzalcoatl
+Asura | Sun | 76 | Persona 5 | Asura
 Anubis | Judgement | 37 | Persona 5 | Anubis
+Trumpeter | Judgement | 59 | Persona 5 | Trumpeter
+Yamata-no-Orochi | Judgement | 64 | Persona 5 | Yamata no Orochi
+Abaddon | Judgement | 74 | Persona 5 | Abaddon
 Messiah | Judgement | 81 | Persona 5 | Messiah (Persona)
+Shiva | Judgement | 82 | Persona 5 | Shiva
+Michael | Judgement | 87 | Persona 5 | Michael
+Messiah Picaro | Judgement | 90 | Persona 5 | Messiah (Persona)
 Satan | Judgement | 92 | Persona 5 | Satan
 Arsène | Fool | 1 | Persona 5 Royal | Arsène
+Obariyon | Fool | 8 | Persona 5 Royal | Obariyon
+Orpheus (F) | Fool | 11 | Persona 5 Royal | Orpheus
+Orpheus Picaro (F) | Fool | 13 | Persona 5 Royal | Orpheus
 High Pixie | Fool | 16 | Persona 5 Royal | High Pixie
+Izanagi | Fool | 20 | Persona 5 Royal | Izanagi
+Izanagi Picaro | Fool | 23 | Persona 5 Royal | Izanagi
+Orpheus | Fool | 26 | Persona 5 Royal | Orpheus
 Orpheus Picaro | Fool | 29 | Persona 5 Royal | Orpheus
+Legion | Fool | 38 | Persona 5 Royal | Legion
+Ose | Fool | 42 | Persona 5 Royal | Ose
+Bugs | Fool | 49 | Persona 5 Royal | Bugbear
 Crystal Skull | Fool | 50 | Persona 5 Royal | Crystal Skull (Treasure Demon)
-Satanael(New Game+) | Fool | 95 | Persona 5 Royal | Satanael
+Black Frost | Fool | 67 | Persona 5 Royal | Black Frost
+Raoul | Fool | 76 | Persona 5 Royal | Raoul
+Vishnu | Fool | 83 | Persona 5 Royal | Vishnu
+Satanael | Fool | 95 | Persona 5 Royal | Satanael
 Zorro | Magician | 1 | Persona 5 Royal | Zorro
+Mercurius | Magician | 1 | Persona 5 Royal | Mercurius
+Diego | Magician | 1 | Persona 5 Royal | Diego
+Jack-o'-Lantern | Magician | 2 | Persona 5 Royal | Jack-o'-Lantern
 Cait Sith | Magician | 5 | Persona 5 Royal | Cait Sith
+Jack Frost | Magician | 11 | Persona 5 Royal | Jack Frost
+Nekomata | Magician | 17 | Persona 5 Royal | Nekomata
+Sandman | Magician | 24 | Persona 5 Royal | Sandman
 Choronzon | Magician | 28 | Persona 5 Royal | Choronzon
+Queen Mab | Magician | 43 | Persona 5 Royal | Queen Mab
+Rangda | Magician | 48 | Persona 5 Royal | Rangda
+Forneus | Magician | 63 | Persona 5 Royal | Forneus
 Surt | Magician | 83 | Persona 5 Royal | Surt
+Futsunushi | Magician | 86 | Persona 5 Royal | Futsunushi
 Johanna | Priestess | 21 | Persona 5 Royal | Johanna
+Anat | Priestess | 1 | Persona 5 Royal | Anat
+Agnes | Priestess | 1 | Persona 5 Royal | Agnes
+Silky | Priestess | 6 | Persona 5 Royal | Silky
 Apsaras | Priestess | 11 | Persona 5 Royal | Apsaras
+Koh-i-Noor | Priestess | 25 | Persona 5 Royal | Koh-i-Noor (Treasure Demon)
+Isis | Priestess | 26 | Persona 5 Royal | Isis
+Kikuri-Hime | Priestess | 40 | Persona 5 Royal | Kikuri-Hime
 Sarasvati | Priestess | 50 | Persona 5 Royal | Sarasvati
+Skadi | Priestess | 53 | Persona 5 Royal | Skadi
+Scathach | Priestess | 77 | Persona 5 Royal | Scathach
+Cybele | Priestess | 83 | Persona 5 Royal | Cybele
 Milady | Empress | 36 | Persona 5 Royal | Milady (Persona 5)
+Astarte | Empress | 1 | Persona 5 Royal | Astarte
+Lucy | Empress | 1 | Persona 5 Royal | Lucy
+Queen's Necklace | Empress | 15 | Persona 5 Royal | Queen's Necklace (Treasure Demon)
 Yaksini | Empress | 20 | Persona 5 Royal | Yaksini
+Lamia | Empress | 26 | Persona 5 Royal | Lamia
+Hariti | Empress | 40 | Persona 5 Royal | Hariti
+Dakini | Empress | 50 | Persona 5 Royal | Dakini
 Titania | Empress | 56 | Persona 5 Royal | Titania
+Kali | Empress | 63 | Persona 5 Royal | Kali
+Alilat | Empress | 81 | Persona 5 Royal | Alilat
+Mother Harlot | Empress | 85 | Persona 5 Royal | Mother Harlot
 Goemon | Emperor | 15 | Persona 5 Royal | Goemon
+Kamu Susanoo | Emperor | 1 | Persona 5 Royal | Kamu Susano-o
+Gorokichi | Emperor | 1 | Persona 5 Royal | Gorokichi
+Regent | Emperor | 10 | Persona 5 Royal | Regent (Treasure Demon)
 Eligor | Emperor | 16 | Persona 5 Royal | Eligor
+Setanta | Emperor | 25 | Persona 5 Royal | Setanta
+Thoth | Emperor | 36 | Persona 5 Royal | Thoth
+Barong | Emperor | 52 | Persona 5 Royal | Barong
 King Frost | Emperor | 61 | Persona 5 Royal | King Frost
+Oberon | Emperor | 66 | Persona 5 Royal | Oberon
+Baal | Emperor | 82 | Persona 5 Royal | Baal
+Odin | Emperor | 84 | Persona 5 Royal | Odin
 Berith | Hierophant | 9 | Persona 5 Royal | Berith
+Orobas | Hierophant | 17 | Persona 5 Royal | Orobas
+Anzu | Hierophant | 25 | Persona 5 Royal | Anzu
+Daisoujou | Hierophant | 40 | Persona 5 Royal | Daisoujou
 Mishaguji | Hierophant | 52 | Persona 5 Royal | Mishaguji
+Bishamonten | Hierophant | 67 | Persona 5 Royal | Bishamonten (demon)
+Kohryu | Hierophant | 76 | Persona 5 Royal | Kohryu
 Carmen | Lovers | 5 | Persona 5 Royal | Carmen
+Hecate | Lovers | 1 | Persona 5 Royal | Hecate
+Célestine | Lovers | 1 | Persona 5 Royal | Célestine
+Pixie | Lovers | 2 | Persona 5 Royal | Pixie
 Saki Mitama | Lovers | 6 | Persona 5 Royal | Saki Mitama
+Ame-no-Uzume | Lovers | 13 | Persona 5 Royal | Ame no Uzume
+Leanan Sidhe | Lovers | 19 | Persona 5 Royal | Leanan Sidhe
+Kushinada | Lovers | 42 | Persona 5 Royal | Kushinada-Hime
 Narcissus | Lovers | 48 | Persona 5 Royal | Narcissus
+Parvati | Lovers | 56 | Persona 5 Royal | Parvati
+Raphael | Lovers | 78 | Persona 5 Royal | Raphael
+Ishtar | Lovers | 85 | Persona 5 Royal | Ishtar
 Captain Kidd | Chariot | 4 | Persona 5 Royal | Captain Kidd
+Seiten Taisei | Chariot | 1 | Persona 5 Royal | Seiten Taisei
+William | Chariot | 1 | Persona 5 Royal | William (Persona)
+Agathion | Chariot | 3 | Persona 5 Royal | Agathion
 Slime | Chariot | 10 | Persona 5 Royal | Slime
+Shiki-Ouji | Chariot | 18 | Persona 5 Royal | Shiki-Ouji
+Kin-Ki | Chariot | 25 | Persona 5 Royal | Kin-Ki
+Ara Mitama | Chariot | 30 | Persona 5 Royal | Ara Mitama
 White Rider | Chariot | 38 | Persona 5 Royal | White Rider
+Athena | Chariot | 46 | Persona 5 Royal | Pallas Athena
+Athena Picaro | Chariot | 50 | Persona 5 Royal | Pallas Athena
+Cerberus | Chariot | 55 | Persona 5 Royal | Cerberus
 Thor | Chariot | 64 | Persona 5 Royal | Thor
+Chi You | Chariot | 88 | Persona 5 Royal | Chi You
 Robin Hood | Justice | 45 | Persona 5 Royal | Robin Hood
+Loki | Justice | 75 | Persona 5 Royal | Loki
+Hereward | Justice | 1 | Persona 5 Royal | Hereward
+Angel | Justice | 9 | Persona 5 Royal | Angel
 Archangel | Justice | 14 | Persona 5 Royal | Archangel
+Principality | Justice | 29 | Persona 5 Royal | Principality
+Power | Justice | 41 | Persona 5 Royal | Power
+Melchizedek | Justice | 58 | Persona 5 Royal | Melchizedek
 Dominion | Justice | 68 | Persona 5 Royal | Dominion
+Throne | Justice | 72 | Persona 5 Royal | Throne
+Uriel | Justice | 81 | Persona 5 Royal | Uriel
+Metatron | Justice | 89 | Persona 5 Royal | Metatron
 Necronomicon | Hermit | 31 | Persona 5 Royal | Necronomicon
+Prometheus | Hermit | 1 | Persona 5 Royal | Prometheus
+Al Azif | Hermit | 1 | Persona 5 Royal | Al Azif
+Bicorn | Hermit | 4 | Persona 5 Royal | Bicorn
 Koropokguru | Hermit | 9 | Persona 5 Royal | Koropokkuru
+Ippon-Datara | Hermit | 13 | Persona 5 Royal | Ippon-Datara
+Sudama | Hermit | 17 | Persona 5 Royal | Sudama
+Naga | Hermit | 24 | Persona 5 Royal | Naga
 Kurama Tengu | Hermit | 31 | Persona 5 Royal | Kurama Tengu
-Loa(>1/12) | Hermit | 70 | Persona 5 Royal | Loa
+Arahabaki | Hermit | 35 | Persona 5 Royal | Arahabaki
+Kumbhanda | Hermit | 42 | Persona 5 Royal | Kumbhanda
+Koumokuten | Hermit | 49 | Persona 5 Royal | Koumokuten
+Loa | Hermit | 70 | Persona 5 Royal | Loa
+Fafnir | Hermit | 86 | Persona 5 Royal | Fafnir
+Ongyo-Ki | Hermit | 89 | Persona 5 Royal | Ongyo-Ki
 Stone of Scone | Fortune | 20 | Persona 5 Royal | Stone of Scone (Treasure Demon)
+Clotho | Fortune | 27 | Persona 5 Royal | Clotho
+Ariadne | Fortune | 30 | Persona 5 Royal | Ariadne
+Lachesis | Fortune | 35 | Persona 5 Royal | Lachesis
 Atropos | Fortune | 39 | Persona 5 Royal | Atropos
+Ariadne Picaro | Fortune | 42 | Persona 5 Royal | Ariadne
+Fortuna | Fortune | 46 | Persona 5 Royal | Fortuna
+Norn | Fortune | 52 | Persona 5 Royal | Norn
 Asterius | Fortune | 56 | Persona 5 Royal | Asterius
+Asterius Picaro | Fortune | 62 | Persona 5 Royal | Asterius
+Lakshmi | Fortune | 69 | Persona 5 Royal | Lakshmi
 Kelpie | Strength | 6 | Persona 5 Royal | Kelpie
+Shiisaa | Strength | 15 | Persona 5 Royal | Shiisaa
+Oni | Strength | 20 | Persona 5 Royal | Oni
+Rakshasa | Strength | 24 | Persona 5 Royal | Rakshasa
 Orlov | Strength | 30 | Persona 5 Royal | Orlov (Treasure Demon)
+Zouchouten | Strength | 31 | Persona 5 Royal | Zouchouten
+Valkyrie | Strength | 44 | Persona 5 Royal | Valkyrie
+Hanuman | Strength | 64 | Persona 5 Royal | Hanuman
 Chimera | Strength | 74 | Persona 5 Royal | Chimera
+Zaou-Gongen | Strength | 80 | Persona 5 Royal | Zaou-Gongen
 Hua Po | Hanged Man | 9 | Persona 5 Royal | Hua Po
+Inugami | Hanged Man | 14 | Persona 5 Royal | Inugami
+Orthrus | Hanged Man | 21 | Persona 5 Royal | Orthrus
+Take-Minakata | Hanged Man | 26 | Persona 5 Royal | Take-Minakata
 Emperor's Amulet | Hanged Man | 35 | Persona 5 Royal | Emperor's Amulet (Treasure Demon)
-Macabre(>1/12) | Hanged Man | 73 | Persona 5 Royal | Macabre
+Hecatoncheires | Hanged Man | 42 | Persona 5 Royal | Hecatoncheir
+Jatayu | Hanged Man | 51 | Persona 5 Royal | Jatayu
+Moloch | Hanged Man | 60 | Persona 5 Royal | Moloch
+Macabre | Hanged Man | 73 | Persona 5 Royal | Macabre
+Attis | Hanged Man | 82 | Persona 5 Royal | Attis
 Mandrake | Death | 3 | Persona 5 Royal | Mandrake
+Mokoi | Death | 9 | Persona 5 Royal | Mokoi
+Matador | Death | 17 | Persona 5 Royal | Matador
+Nue | Death | 20 | Persona 5 Royal | Nue
 Pisaca | Death | 28 | Persona 5 Royal | Pisaca
+Hell Biker | Death | 37 | Persona 5 Royal | Hell Biker
+Hope Diamond | Death | 40 | Persona 5 Royal | Hope Diamond (Treasure Demon)
+Pale Rider | Death | 54 | Persona 5 Royal | Pale Rider
 Chernobog | Death | 62 | Persona 5 Royal | Chernobog
+Thanatos | Death | 65 | Persona 5 Royal | Thanatos
+Thanatos Picaro | Death | 69 | Persona 5 Royal | Thanatos
+Mot | Death | 72 | Persona 5 Royal | Mot
 Alice | Death | 83 | Persona 5 Royal | Alice
 Genbu | Temperance | 7 | Persona 5 Royal | Genbu
+Koppa Tengu | Temperance | 11 | Persona 5 Royal | Koppa Tengu
+Makami | Temperance | 15 | Persona 5 Royal | Makami
+Jikokuten | Temperance | 22 | Persona 5 Royal | Jikokuten
 Mitra | Temperance | 33 | Persona 5 Royal | Mithra
+Byakko | Temperance | 45 | Persona 5 Royal | Byakko
+Raja Naga | Temperance | 55 | Persona 5 Royal | Raja Naga
+Gabriel | Temperance | 77 | Persona 5 Royal | Gabriel
 Ardha | Temperance | 84 | Persona 5 Royal | Ardha
 Incubus | Devil | 5 | Persona 5 Royal | Incubus
+Flauros | Devil | 19 | Persona 5 Royal | Flauros
+Andras | Devil | 27 | Persona 5 Royal | Andras
+Lilim | Devil | 32 | Persona 5 Royal | Lilim
 Pazuzu | Devil | 45 | Persona 5 Royal | Pazuzu
+Baphomet | Devil | 58 | Persona 5 Royal | Baphomet
+Nebiros | Devil | 74 | Persona 5 Royal | Nebiros
+Belial | Devil | 82 | Persona 5 Royal | Belial
 Beelzebub | Devil | 87 | Persona 5 Royal | Beelzebub
 Belphegor | Tower | 37 | Persona 5 Royal | Belphegor
+Red Rider | Tower | 41 | Persona 5 Royal | Red Rider
+Magatsu-Izanagi | Tower | 44 | Persona 5 Royal | Magatsu-Izanagi
+Magatsu-Izanagi Picaro | Tower | 48 | Persona 5 Royal | Magatsu-Izanagi
 Seth | Tower | 51 | Persona 5 Royal | Seth (demon)
+Black Rider | Tower | 59 | Persona 5 Royal | Black Rider
+Mara | Tower | 73 | Persona 5 Royal | Mara
+Yoshitsune | Tower | 87 | Persona 5 Royal | Yoshitsune
 Mada | Tower | 90 | Persona 5 Royal | Mada
 Kodama | Star | 11 | Persona 5 Royal | Kodama
+Fuu-Ki | Star | 23 | Persona 5 Royal | Fuu-Ki
+Neko Shogun | Star | 30 | Persona 5 Royal | Neko Shogun
+Kaiwan | Star | 36 | Persona 5 Royal | Kaiwan
 Garuda | Star | 52 | Persona 5 Royal | Garuda
+Vasuki | Star | 68 | Persona 5 Royal | Vasuki
+Sraosha | Star | 80 | Persona 5 Royal | Sraosha
+Hastur | Star | 84 | Persona 5 Royal | Hastur
 Lucifer | Star | 93 | Persona 5 Royal | Lucifer
 Succubus | Moon | 7 | Persona 5 Royal | Succubus
+Onmoraki | Moon | 12 | Persona 5 Royal | Onmoraki
+Kaguya | Moon | 16 | Persona 5 Royal | Kaguya Hime
+Black Ooze | Moon | 18 | Persona 5 Royal | Black Ooze
 Sui-Ki | Moon | 24 | Persona 5 Royal | Sui-Ki
+Kaguya Picaro | Moon | 25 | Persona 5 Royal | Kaguya Hime
+Mothman | Moon | 33 | Persona 5 Royal | Mothman
+Girimehkala | Moon | 43 | Persona 5 Royal | Girimehkala
 Tsukiyomi | Moon | 50 | Persona 5 Royal | Tsukuyomi
+Tsukiyomi Picaro | Moon | 55 | Persona 5 Royal | Tsukuyomi
+Lilith | Moon | 60 | Persona 5 Royal | Lilith
+Byakhee | Moon | 70 | Persona 5 Royal | Byakhee
 Sandalphon | Moon | 75 | Persona 5 Royal | Sandalphon
 Suzaku | Sun | 16 | Persona 5 Royal | Suzaku
+Thunderbird | Sun | 34 | Persona 5 Royal | Thunderbird
+Mithras | Sun | 39 | Persona 5 Royal | Mithras
+Yurlungur | Sun | 43 | Persona 5 Royal | Yurlungur
 Horus | Sun | 47 | Persona 5 Royal | Horus
+Ganesha | Sun | 53 | Persona 5 Royal | Ganesha
+Quetzalcoatl | Sun | 66 | Persona 5 Royal | Quetzalcoatl
+Asura | Sun | 76 | Persona 5 Royal | Asura
 Anubis | Judgement | 34 | Persona 5 Royal | Anubis
+Trumpeter | Judgement | 59 | Persona 5 Royal | Trumpeter
+Yamata-no-Orochi | Judgement | 64 | Persona 5 Royal | Yamata no Orochi
+Abaddon | Judgement | 75 | Persona 5 Royal | Abaddon
 Messiah | Judgement | 81 | Persona 5 Royal | Messiah (Persona)
-Satan(>11/20) | Judgement | 92 | Persona 5 Royal | Satan
+Shiva | Judgement | 82 | Persona 5 Royal | Shiva
+Michael | Judgement | 87 | Persona 5 Royal | Michael
+Messiah Picaro | Judgement | 90 | Persona 5 Royal | Messiah (Persona)
+Satan | Judgement | 92 | Persona 5 Royal | Satan
 Cendrillon | Faith | 75 | Persona 5 Royal | Cendrillon
+Vanadis | Faith | 1 | Persona 5 Royal | Freya
+Ella | Faith | 1 | Persona 5 Royal | Ella
+Phoenix | Faith | 21 | Persona 5 Royal | Feng Huang
 Tam Lin | Faith | 27 | Persona 5 Royal | Tam Lin
+Unicorn | Faith | 39 | Persona 5 Royal | Unicorn
+Okuninushi | Faith | 54 | Persona 5 Royal | Okuninushi
+Orichalcum | Faith | 60 | Persona 5 Royal | Orichalcum (Treasure Demon)
 Atavaka | Faith | 65 | Persona 5 Royal | Atavaka
-Azathoth | Councillor |  | Persona 5 Royal | Azathoth
+Cu Chulainn | Faith | 76 | Persona 5 Royal | Cu Chulainn
+Siegfried | Faith | 84 | Persona 5 Royal | Siegfried
+Maria | Faith | 93 | Persona 5 Royal | Maria (demon)
+Azathoth | Councillor | 1 | Persona 5 Royal | Azathoth
+Adam Kadmon | Councillor | 1 | Persona 5 Royal | Adam Kadmon
+Kushi Mitama | Councillor | 12 | Persona 5 Royal | Kusi Mitama
+Nigi Mitama | Councillor | 22 | Persona 5 Royal | Nigi Mitama
 Decarabia | Councillor | 32 | Persona 5 Royal | Decarabia
+Ananta | Councillor | 44 | Persona 5 Royal | Ananta
+Yatagarasu | Councillor | 57 | Persona 5 Royal | Yatagarasu
+Seiryu | Councillor | 62 | Persona 5 Royal | Seiryu
 Dionysus | Councillor | 71 | Persona 5 Royal | Dionysus
+Vohu Manah | Councillor | 80 | Persona 5 Royal | Vohu Manah
 Izanagi-no-Okami | World | 80 | Persona 5 Royal | Izanagi-no-Okami
+Izanagi-no-Okami Picaro | World | 89 | Persona 5 Royal | Izanagi-no-Okami
 Orpheus | Fool | 1 | Persona Q2 | Orpheus
 Orpheus Telos | Fool | 1 | Persona Q2 | Orpheus Telos
 Orpheus | Fool | 1 | Persona Q2 | Orpheus

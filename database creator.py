@@ -41,10 +41,29 @@ def getOrCreateDemon(canonicalName, wikiName):
         SELECT demon_id
         FROM Demon
         WHERE canonical_name = ?
-        AND wiki_name = ?
         """,
-        (canonicalName, wikiName)
+        (canonicalName,)
     )
+    row = cursor.fetchone()
+
+    if row is not None:
+        return row[0]
+
+    cursor.execute(
+        """
+        INSERT INTO Demon (
+            canonical_name,
+            wiki_name
+        )
+        VALUES (?, ?)
+        """,
+        (
+            canonicalName,
+            wikiName
+        )
+    )
+
+    return cursor.lastrowid
 
 def insertAppearance(
     demonID,
@@ -157,6 +176,17 @@ for demon in Compendium:
         demon.race,
         demon.level
     )
+cursor.execute("""
+UPDATE Demon
+SET canonical_name = ?
+WHERE canonical_name = ?
+""", ("Maya", "Maya (demon, Mayan)"))
+
+cursor.execute("""
+UPDATE Demon
+SET canonical_name = ?
+WHERE canonical_name = ?
+""", ("Maya", "Maya (demon, Hindu)"))
 
 connection.commit()
 connection.close()

@@ -245,7 +245,6 @@ Castor
 Cath Palug
 Catoblepas
 Celaeno
-Celty Sturluson
 Celuluk
 Cendrillon
 Centaur
@@ -338,7 +337,6 @@ Demonee-Ho
 Demonica-L, Demonica-N, & Demonica-C
 Demonstrators
 Depth
-Devil Buster Busters
 Diana (Roman)
 Diarmuid
 Diego
@@ -347,13 +345,11 @@ Dionysus
 Dis
 Divine Horde
 Dodongo
-Dokkaebi
 Dominion
 Domovoi
 Doppelganger
 Doppelgänger
 Dormarth
-Douman
 Douniu
 Dr. Bacta
 Drag Queen
@@ -385,7 +381,6 @@ Emperor's Amulet (Treasure Demon)
 Empusa
 En no Ozuno
 Enku
-Enoch
 Envy
 Erika
 Erinyes
@@ -659,7 +654,6 @@ Ixtab
 Izanagi
 Izanagi-no-Okami
 Izanami
-Izaya Orihara
 Jabberwocky
 Jack Frost
 Jack Ripper
@@ -725,7 +719,6 @@ Kartikeya
 Kashiyama
 Kaso
 Katakirauwa
-Kau
 Kaya-no-Hime
 Kazfiel
 Kelaino
@@ -793,7 +786,6 @@ Kushi Mitama
 Kushiel
 Kushinada
 Kushinada-Hime
-Kushinada-hime
 Kusi Mitama
 Kvasir
 Kwanca
@@ -852,8 +844,6 @@ Lorelei
 Loup-garou
 Lucia
 Lucifer
-Lucifer Frost
-Lucifroz
 Lucifuge
 Lucy
 Lugh
@@ -903,7 +893,6 @@ Maschinen Kommando
 Maschinen Soldat
 Maso
 Mastema
-Master Therion
 Matador
 Matsuo-sama
 Maui
@@ -937,7 +926,6 @@ Metatron
 Mezuki
 Michael
 Michizane
-Midgardsomr
 Mikiya
 Milady (Persona 5)
 Milky Frost
@@ -1235,7 +1223,6 @@ Sariel
 Sarutahiko
 Sarutobi Sasuke
 Satan
-Satanachia
 Satanael
 Sati
 Saturnus
@@ -1288,7 +1275,6 @@ Shirayamahime
 Shisa
 Shiva
 Shiwanna
-Shizuo Heiwajima
 Shoggoth
 Shou Shen
 Shoujou
@@ -1308,7 +1294,6 @@ Skadi
 Skanda
 Skeleton
 Skogsra
-Skoll
 Skuld
 Skylla
 Slave
@@ -1376,7 +1361,6 @@ Takeji Zaiten
 Takemikazuchi
 Takeminakata
 Taksaka
-Takuhi
 Talos
 Tam Lin
 Tamamo

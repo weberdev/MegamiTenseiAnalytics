@@ -227,7 +227,6 @@ Castor
 Cath Palug
 Catoblepas
 Celaeno
-Celty Sturluson
 Celuluk
 Cendrillon
 Centaur
@@ -315,7 +314,6 @@ Demonica-L, Demonica-N, & Demonica-C
 Demonstrators
 Depth
 Deva
-Devil Buster Busters
 Diana (Roman)
 Diarmuid
 Diego
@@ -328,7 +326,6 @@ Dominion
 Domovoi
 Doppelgänger
 Dormarth
-Douman
 Douniu
 Dr. Bacta
 Drag Queen
@@ -358,7 +355,6 @@ Emperor's Amulet
 Empusa
 En no Ozuno
 Enku
-Enoch
 Envy
 Erika Sako
 Erinyes
@@ -595,7 +591,6 @@ Ixtab
 Izanagi
 Izanagi-no-Okami
 Izanami
-Izaya Orihara
 Jabberwocky
 Jack Frost
 Jack Ripper
@@ -764,7 +759,6 @@ Lorelei
 Loup-garou
 Lucia
 Lucifer
-Lucifer Frost
 Lucifuge
 Lucy
 Lugh
@@ -1106,7 +1100,6 @@ Sarutahiko
 Sarutobi Sasuke
 Sasori Otoko
 Satan
-Satanachia
 Satanael
 Sati
 Saturnus
@@ -1150,7 +1143,6 @@ Shikigami
 Shiranui
 Shiva
 Shiwanna
-Shizuo Heiwajima
 Shoggoth
 Shou Shen
 Shouten
@@ -1166,7 +1158,6 @@ Skadi
 Skanda
 Skeleton
 Skogsra
-Skoll
 Skuld
 Slave
 Sleipnir

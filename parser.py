@@ -668,16 +668,6 @@ def finalizeCompendium(comp):
         if rereleaseOnly:
             rereleaseDemon.givenName = rereleaseDemon.givenName.replace("†", "").strip()
             rereleaseDemon.race = rereleaseDemon.race.replace("[Golden only]", "").strip()
-            if "Nocturne" in rereleaseDemon.game:
-                nocturneIsASpecialGameDemonHDTurboHDRemixDemon = copy.copy(rereleaseDemon)
-                nocturneIsASpecialGameDemonHDTurboHDRemixDemon.game = "Shin Megami Tensei III  Nocturne HD Remaster"
-                expandedCompendium.append(nocturneIsASpecialGameDemonHDTurboHDRemixDemon)
-                # I love Nocturne, honestly.
-                # There's no actual roster change beyond handsome charming boy Raidou, but that's enough to special case Chronicle.
-                nocturneIsASpecialGameDemonHDTurboHDRemixDemon.game = "Shin Megami Tensei III  Nocturne Chronicle"
-                expandedCompendium.append(nocturneIsASpecialGameDemonHDTurboHDRemixDemon)
-            expandedCompendium.append(rereleaseDemon)
-
         else:
             expandedCompendium.append(demon)
             expandedCompendium.append(rereleaseDemon)
@@ -694,9 +684,9 @@ def finalizeCompendium(comp):
         if demon.game == "Shin Megami Tensei III  Nocturne MANIAX":
             nocturneDemon = copy.copy(demon)
             nocturneDemon.game = "Shin Megami Tensei III  Nocturne Chronicle"
-            Compendium.append(nocturneDemon)
-            nocturneDemon.game = "Shin Megami Tensei III  Nocturne HD Remaster"
-            Compendium.append(nocturneDemon)
+            otherNocturneDemon = copy.copy(demon)
+            otherNocturneDemon.game = "Shin Megami Tensei III  Nocturne HD Remaster"
+            Compendium.append(otherNocturneDemon)
 
 
     Compendium.sort(

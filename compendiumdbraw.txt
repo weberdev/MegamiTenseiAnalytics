@@ -597,16 +597,21 @@ Thunderbird | Avian | 42 | Devil Summoner Soul Hackers (3DS) | Thunderbird
 Phoenix | Avian | 37 | Devil Summoner Soul Hackers (3DS) | Phoenix
 Orthrus | Beast | 31 | Devil Summoner Soul Hackers (3DS) | Orthrus (demon)
 Kaso | Beast | 37 | Devil Summoner Soul Hackers (3DS) | Kaso
+Cerberus | Beast | 61 | Devil Summoner Soul Hackers (3DS) | Cerberus
 Cerberus | Beast | 60 | Devil Summoner Soul Hackers (3DS) | Cerberus
 Ammut | Beast | 53 | Devil Summoner Soul Hackers (3DS) | Ammut
 Orthrus | Beast | 45 | Devil Summoner Soul Hackers (3DS) | Orthrus (demon)
 Kaso | Beast | 37 | Devil Summoner Soul Hackers (3DS) | Kaso
+Dormarth | Beast | 32 | Devil Summoner Soul Hackers (3DS) | Dormarth
+Nekomata | Beast | 29 | Devil Summoner Soul Hackers (3DS) | Nekomata
 Nekomata | Beast | 28 | Devil Summoner Soul Hackers (3DS) | Nekomata
 Katakirauwa | Beast | 22 | Devil Summoner Soul Hackers (3DS) | Katakirauwa
 Cunhur | Beast | 15 | Devil Summoner Soul Hackers (3DS) | Cunhur
 Gally Trot | Beast | 6 | Devil Summoner Soul Hackers (3DS) | Gally Trot
 Azumi | Brute | 80 | Devil Summoner Soul Hackers (3DS) | Azumi
+Yaksa | Brute | 56 | Devil Summoner Soul Hackers (3DS) | Yaksa
 Yaksa | Brute | 55 | Devil Summoner Soul Hackers (3DS) | Yaksa
+Shiki-Ouji | Brute | 51 | Devil Summoner Soul Hackers (3DS) | Shiki-Ouji
 Berserker | Brute | 49 | Devil Summoner Soul Hackers (3DS) | Berserker
 Nyalmot | Brute | 41 | Devil Summoner Soul Hackers (3DS) | Nyalmot
 Ikusa | Brute | 35 | Devil Summoner Soul Hackers (3DS) | Yomotsu-Ikusa
@@ -622,10 +627,12 @@ Malsumis | Cyber | 60 | Devil Summoner Soul Hackers (3DS) | Malsum
 Vishnu | Deity | 82 | Devil Summoner Soul Hackers (3DS) | Vishnu
 Vishnu | Deity | 84 | Devil Summoner Soul Hackers (3DS) | Vishnu
 Baal | Deity | 73 | Devil Summoner Soul Hackers (3DS) | Baal
+Odin | Deity | 66 | Devil Summoner Soul Hackers (3DS) | Odin
 Odin | Deity | 65 | Devil Summoner Soul Hackers (3DS) | Odin
 Osiris | Deity | 59 | Devil Summoner Soul Hackers (3DS) | Osiris
 Lugh | Deity | 51 | Devil Summoner Soul Hackers (3DS) | Lugh
 Mahamayuri | Deity | 44 | Devil Summoner Soul Hackers (3DS) | Mahamayuri
+Cherub | Divine | 65 | Devil Summoner Soul Hackers (3DS) | Cherub
 Cherub | Divine | 64 | Devil Summoner Soul Hackers (3DS) | Cherub
 Throne | Divine | 57 | Devil Summoner Soul Hackers (3DS) | Throne
 Dominion | Divine | 51 | Devil Summoner Soul Hackers (3DS) | Dominion
@@ -648,6 +655,7 @@ Bai Suzhen | Drake | 21 | Devil Summoner Soul Hackers (3DS) | Bai Suzhen
 Zhu Tun She | Drake | 12 | Devil Summoner Soul Hackers (3DS) | Zhu Tun She
 Salamander | Element | 28 | Devil Summoner Soul Hackers (3DS) | Salamander
 Undine | Element | 24 | Devil Summoner Soul Hackers (3DS) | Undine
+Sylph | Element | 21 | Devil Summoner Soul Hackers (3DS) | Sylph
 Sylph | Element | 20 | Devil Summoner Soul Hackers (3DS) | Sylph
 Gnome | Element | 16 | Devil Summoner Soul Hackers (3DS) | Gnome
 Kangiten | Enigma | 62 | Devil Summoner Soul Hackers (3DS) | Kangiten
@@ -656,23 +664,29 @@ Futotama | Enigma | 23 | Devil Summoner Soul Hackers (3DS) | Futotama
 Billiken | Enigma | 15 | Devil Summoner Soul Hackers (3DS) | Billiken
 Alilat | Entity | 82 | Devil Summoner Soul Hackers (3DS) | Alilat
 Hachiman | Entity | 76 | Devil Summoner Soul Hackers (3DS) | Hachiman
+Albion | Entity | 70 | Devil Summoner Soul Hackers (3DS) | Albion
 Ometeotl | Entity | 61 | Devil Summoner Soul Hackers (3DS) | Ometeotl
 Black Maria | Entity | 55 | Devil Summoner Soul Hackers (3DS) | Black Maria
 Oberon | Fairy | 58 | Devil Summoner Soul Hackers (3DS) | Oberon
+Titania | Fairy | 53 | Devil Summoner Soul Hackers (3DS) | Titania
 Titania | Fairy | 52 | Devil Summoner Soul Hackers (3DS) | Titania
 Troll | Fairy | 47 | Devil Summoner Soul Hackers (3DS) | Troll
+Setanta | Fairy | 43 | Devil Summoner Soul Hackers (3DS) | Setanta
 Vivian | Fairy | 40 | Devil Summoner Soul Hackers (3DS) | Vivian
 Leprechaun | Fairy | 33 | Devil Summoner Soul Hackers (3DS) | Leprechaun
 Silky | Fairy | 24 | Devil Summoner Soul Hackers (3DS) | Silky
 Pyro Jack | Fairy | 20 | Devil Summoner Soul Hackers (3DS) | Jack-o'-Lantern
 Jack Frost | Fairy | 15 | Devil Summoner Soul Hackers (3DS) | Jack Frost
+Goblin | Fairy | 10 | Devil Summoner Soul Hackers (3DS) | Goblin
 Penanggal | Fairy | 7 | Devil Summoner Soul Hackers (3DS) | Penanggal
+Pixie | Fairy | 3 | Devil Summoner Soul Hackers (3DS) | Pixie
 Pixie | Fairy | 2 | Devil Summoner Soul Hackers (3DS) | Pixie
 Murmur | Fallen | 63 | Devil Summoner Soul Hackers (3DS) | Murmur
 Paimon | Fallen | 52 | Devil Summoner Soul Hackers (3DS) | Paimon
 Botis | Fallen | 46 | Devil Summoner Soul Hackers (3DS) | Botis
 Halphas | Fallen | 40 | Devil Summoner Soul Hackers (3DS) | Halphas
 Bifrons | Fallen | 34 | Devil Summoner Soul Hackers (3DS) | Bifrons
+Forneus | Fallen | 30 | Devil Summoner Soul Hackers (3DS) | Forneus
 Nisroc | Fallen | 24 | Devil Summoner Soul Hackers (3DS) | Nisroc
 Shax | Fallen | 17 | Devil Summoner Soul Hackers (3DS) | Shax
 Seere | Fallen | 10 | Devil Summoner Soul Hackers (3DS) | Seer
@@ -692,6 +706,7 @@ Harpy | Flight | 9 | Devil Summoner Soul Hackers (3DS) | Harpy
 Juggler | Foul | 28 | Devil Summoner Soul Hackers (3DS) | Juggler
 Shadow | Foul | 53 | Devil Summoner Soul Hackers (3DS) | Shadow (demon)
 Urban Terror | Foul | 31 | Devil Summoner Soul Hackers (3DS) | Urban Terror
+Douman | Foul | 26 | Devil Summoner Soul Hackers (3DS) | Douman
 Mad Gasser | Foul | 25 | Devil Summoner Soul Hackers (3DS) | Mad Gasser
 Night Stalker | Foul | 13 | Devil Summoner Soul Hackers (3DS) | Night Stalker (demon)
 Slime | Foul | 1 | Devil Summoner Soul Hackers (3DS) | Slime
@@ -699,6 +714,7 @@ Shiva | Fury | 84 | Devil Summoner Soul Hackers (3DS) | Shiva
 Shiva | Fury | 85 | Devil Summoner Soul Hackers (3DS) | Shiva
 Susano-o | Fury | 72 | Devil Summoner Soul Hackers (3DS) | Susano-o
 Zaou Gongen | Fury | 64 | Devil Summoner Soul Hackers (3DS) | Zaou Gongen
+Yama | Fury | 60 | Devil Summoner Soul Hackers (3DS) | Yama
 Kartikeya | Fury | 59 | Devil Summoner Soul Hackers (3DS) | Kartikeya
 Seiten Taisei | Fury | 49 | Devil Summoner Soul Hackers (3DS) | Seiten Taisei
 Tonatiuh | Fury | 38 | Devil Summoner Soul Hackers (3DS) | Tonatiuh
@@ -732,6 +748,7 @@ Churel | Haunt | 19 | Devil Summoner Soul Hackers (3DS) | Churel
 Obariyon | Haunt | 11 | Devil Summoner Soul Hackers (3DS) | Obariyon
 Preta | Haunt | 3 | Devil Summoner Soul Hackers (3DS) | Preta
 Metatron | Herald | 80 | Devil Summoner Soul Hackers (3DS) | Metatron
+Lucifrost | Herald | 81 | Devil Summoner Soul Hackers (3DS) | Lucifroz
 Metatron | Herald | 80 | Devil Summoner Soul Hackers (3DS) | Metatron
 Sraosha | Herald | 73 | Devil Summoner Soul Hackers (3DS) | Sraosha
 Sandalphon | Herald | 62 | Devil Summoner Soul Hackers (3DS) | Sandalphon
@@ -773,7 +790,9 @@ Duergar | Jirae | 38 | Devil Summoner Soul Hackers (3DS) | Dvergar
 Tenong Cut | Jirae | 25 | Devil Summoner Soul Hackers (3DS) | Tenong Cut
 Puts | Jirae | 18 | Devil Summoner Soul Hackers (3DS) | Puts
 Koropokkuru | Jirae | 13 | Devil Summoner Soul Hackers (3DS) | Koropokkuru
+Knocker | Jirae | 4 | Devil Summoner Soul Hackers (3DS) | Knocker
 Knocker | Jirae | 3 | Devil Summoner Soul Hackers (3DS) | Knocker
+Thor | Kishin | 72 | Devil Summoner Soul Hackers (3DS) | Thor
 Marici | Kishin | 71 | Devil Summoner Soul Hackers (3DS) | Marici
 Bishamonten | Kishin | 66 | Devil Summoner Soul Hackers (3DS) | Bishamonten (demon)
 Thor | Kishin | 58 | Devil Summoner Soul Hackers (3DS) | Thor
@@ -788,10 +807,12 @@ Kali | Lady | 75 | Devil Summoner Soul Hackers (3DS) | Kali
 Cybele | Lady | 61 | Devil Summoner Soul Hackers (3DS) | Cybele
 Diana | Lady | 52 | Devil Summoner Soul Hackers (3DS) | Diana (Roman)
 Hariti | Lady | 45 | Devil Summoner Soul Hackers (3DS) | Hariti
+Kushinada | Lady | 41 | Devil Summoner Soul Hackers (3DS) | Kushinada-hime
 Dzelarhons | Lady | 36 | Devil Summoner Soul Hackers (3DS) | Dzelarhons
 Pele | Lady | 29 | Devil Summoner Soul Hackers (3DS) | Pele
 Soulless God Oumagatsu | Machine | 99 | Devil Summoner Soul Hackers (3DS) | Soulless God Oumagatsu
 Anat | Megami | 72 | Devil Summoner Soul Hackers (3DS) | Anat
+Izanami | Megami | 83 | Devil Summoner Soul Hackers (3DS) | Izanami
 Anat | Megami | 71 | Devil Summoner Soul Hackers (3DS) | Anat
 Norn | Megami | 63 | Devil Summoner Soul Hackers (3DS) | Norn
 Lakshmi | Megami | 58 | Devil Summoner Soul Hackers (3DS) | Lakshmi
@@ -807,8 +828,10 @@ Lukoje | Night | 30 | Devil Summoner Soul Hackers (3DS) | Lukoje
 Lilith | Night | 88 | Devil Summoner Soul Hackers (3DS) | Lilith
 Mokoi | Night | 80 | Devil Summoner Soul Hackers (3DS) | Mokoi
 Nyx | Night | 56 | Devil Summoner Soul Hackers (3DS) | Nyx
+Kaiwan | Night | 50 | Devil Summoner Soul Hackers (3DS) | Kaiwan
 Succubus | Night | 49 | Devil Summoner Soul Hackers (3DS) | Succubus
 Incubus | Night | 42 | Devil Summoner Soul Hackers (3DS) | Incubus
+Black Frost | Night | 34 | Devil Summoner Soul Hackers (3DS) | Black Frost
 Wild Hunt | Night | 33 | Devil Summoner Soul Hackers (3DS) | Wild Hunt (demon)
 Sand Man | Night | 21 | Devil Summoner Soul Hackers (3DS) | Sand Man
 Kikimora | Night | 14 | Devil Summoner Soul Hackers (3DS) | Kikimora
@@ -824,12 +847,15 @@ Hresvelgr | Raptor | 64 | Devil Summoner Soul Hackers (3DS) | Hresvelgr
 Anzu | Raptor | 51 | Devil Summoner Soul Hackers (3DS) | Anzu
 Camazotz | Raptor | 36 | Devil Summoner Soul Hackers (3DS) | Camazotz
 Gurr | Raptor | 25 | Devil Summoner Soul Hackers (3DS) | Gurr
+Moh Shuuvu | Raptor | 16 | Devil Summoner Soul Hackers (3DS) | Moh Shuuvu
 Moh Shuuvu | Raptor | 15 | Devil Summoner Soul Hackers (3DS) | Moh Shuuvu
 Onmoraki | Raptor | 8 | Devil Summoner Soul Hackers (3DS) | Onmoraki
 Cernunnos | Reaper | 53 | Devil Summoner Soul Hackers (3DS) | Cernunnos
 Mot | Reaper | 72 | Devil Summoner Soul Hackers (3DS) | Mot
 Cernunnos | Reaper | 63 | Devil Summoner Soul Hackers (3DS) | Cernunnos
 Guedhe | Reaper | 54 | Devil Summoner Soul Hackers (3DS) | Guedhe
+DB Busters | Reaper | 49 | Devil Summoner Soul Hackers (3DS) | Devil Buster Busters
+Chernobog | Reaper | 48 | Devil Summoner Soul Hackers (3DS) | Chernobog
 Chernobog | Reaper | 47 | Devil Summoner Soul Hackers (3DS) | Chernobog
 Persephone | Reaper | 38 | Devil Summoner Soul Hackers (3DS) | Persephone
 Speedy Demon | Rumor | 18 | Devil Summoner Soul Hackers (3DS) | Speed Demon
@@ -877,11 +903,14 @@ Mitra | Tyrant | 80 | Devil Summoner Soul Hackers (3DS) | Mithras
 Nergal | Tyrant | 73 | Devil Summoner Soul Hackers (3DS) | Nergal
 Surt | Tyrant | 65 | Devil Summoner Soul Hackers (3DS) | Surt
 Loki | Tyrant | 59 | Devil Summoner Soul Hackers (3DS) | Loki
+Loki | Tyrant | 54 | Devil Summoner Soul Hackers (3DS) | Loki
 Tzitzimitl | Tyrant | 53 | Devil Summoner Soul Hackers (3DS) | Tzitzimitl
 Balor | Tyrant | 48 | Devil Summoner Soul Hackers (3DS) | Balor
+Moloch | Tyrant | 37 | Devil Summoner Soul Hackers (3DS) | Moloch
 Hare of Inaba | UMA | 50 | Devil Summoner Soul Hackers (3DS) | Hare of Inaba
 Chupacabra | UMA | 35 | Devil Summoner Soul Hackers (3DS) | Chupacabra
 Kuda | UMA | 20 | Devil Summoner Soul Hackers (3DS) | Kuda
+Oliver Zero | UMA | 6 | Devil Summoner Soul Hackers (3DS) | Oliver
 Oliver | UMA | 5 | Devil Summoner Soul Hackers (3DS) | Oliver
 Padlock | Undead | 4 | Devil Summoner Soul Hackers (3DS) | Padlock
 Headless Rider | Undead | 17 | Devil Summoner Soul Hackers (3DS) | Headless Rider
@@ -892,6 +921,7 @@ Drag Queen | Undead | 4 | Devil Summoner Soul Hackers (3DS) | Drag Queen
 Facebind | Undead | 1 | Devil Summoner Soul Hackers (3DS) | Facebind
 Goggie | Vermin | 31 | Devil Summoner Soul Hackers (3DS) | Goggie
 Mishaguji | Vile | 80 | Devil Summoner Soul Hackers (3DS) | Mishaguji
+Mada | Vile | 77 | Devil Summoner Soul Hackers (3DS) | Mada
 Pales | Vile | 74 | Devil Summoner Soul Hackers (3DS) | Pales
 Saturnus | Vile | 65 | Devil Summoner Soul Hackers (3DS) | Saturnus
 Tezcatlipoca | Vile | 58 | Devil Summoner Soul Hackers (3DS) | Tezcatlipoca
@@ -1284,7 +1314,9 @@ Hamsa | Avian | 24 | Devil Survivor 2 Record Breaker | Hamsa
 Suparna | Avian | 31 | Devil Survivor 2 Record Breaker | Suparna
 Vidofnir | Avian | 39 | Devil Survivor 2 Record Breaker | Vidofnir
 Badb Catha | Avian | 46 | Devil Survivor 2 Record Breaker | Badb Catha
+Rukh | Avian | 49 | Devil Survivor 2 Record Breaker | Rukh
 Anzu | Avian | 54 | Devil Survivor 2 Record Breaker | Anzu
+Kau | Avian | 58 | Devil Survivor 2 Record Breaker | Kau
 Feng Huang | Avian | 62 | Devil Survivor 2 Record Breaker | Suzaku
 Garuda | Avian | 69 | Devil Survivor 2 Record Breaker | Garuda
 Da Peng | Avian | 77 | Devil Survivor 2 Record Breaker | Da Peng
@@ -1297,6 +1329,7 @@ Nue | Beast | 42 | Devil Survivor 2 Record Breaker | Nue
 Myrmecolion | Beast | 50 | Devil Survivor 2 Record Breaker | Myrmecolion
 Cerberus | Beast | 58 | Devil Survivor 2 Record Breaker | Cerberus
 Fenrir | Beast | 66 | Devil Survivor 2 Record Breaker | Fenrir
+Cabracan | Beast | 72 | Devil Survivor 2 Record Breaker | Cabracan
 Mahakala | Deity | 22 | Devil Survivor 2 Record Breaker | Mahakala
 Thor | Deity | 29 | Devil Survivor 2 Record Breaker | Thor
 Arahabaki | Deity | 33 | Devil Survivor 2 Record Breaker | Arahabaki
@@ -1313,9 +1346,12 @@ Asura | Deity | 77 | Devil Survivor 2 Record Breaker | Asura
 Angel | Divine | 15 | Devil Survivor 2 Record Breaker | Angel
 Power | Divine | 24 | Devil Survivor 2 Record Breaker | Power
 Lailah | Divine | 32 | Devil Survivor 2 Record Breaker | Lailah
+Dominion | Divine | 37 | Devil Survivor 2 Record Breaker | Dominion
 Aniel | Divine | 42 | Devil Survivor 2 Record Breaker | Aniel
 Kazfiel | Divine | 50 | Devil Survivor 2 Record Breaker | Kazfiel
+Sandalphon | Divine | 54 | Devil Survivor 2 Record Breaker | Sandalphon
 Remiel | Divine | 59 | Devil Survivor 2 Record Breaker | Remiel
+Sraosha | Divine | 67 | Devil Survivor 2 Record Breaker | Sraosha
 Metatron | Divine | 74 | Devil Survivor 2 Record Breaker | Metatron
 Toubyou | Dragon | 12 | Devil Survivor 2 Record Breaker | Toubyou
 Bai Suzhen | Dragon | 20 | Devil Survivor 2 Record Breaker | Bai Suzhen
@@ -1325,6 +1361,7 @@ Ym | Dragon | 44 | Devil Survivor 2 Record Breaker | Ym
 Python | Dragon | 51 | Devil Survivor 2 Record Breaker | Python
 Culebre | Dragon | 58 | Devil Survivor 2 Record Breaker | Culebre
 Vritra | Dragon | 65 | Devil Survivor 2 Record Breaker | Vritra
+Fafnir | Dragon | 69 | Devil Survivor 2 Record Breaker | Fafnir
 Vasuki | Dragon | 73 | Devil Survivor 2 Record Breaker | Vasuki
 Erthys | Element | 7 | Devil Survivor 2 Record Breaker | Erthys
 Aeros | Element | 12 | Devil Survivor 2 Record Breaker | Aeros
@@ -1337,11 +1374,14 @@ Jack Frost | Fairy | 21 | Devil Survivor 2 Record Breaker | Jack Frost
 Pyro Jack | Fairy | 29 | Devil Survivor 2 Record Breaker | Jack-o'-Lantern
 Lorelei | Fairy | 37 | Devil Survivor 2 Record Breaker | Lorelei
 Silky | Fairy | 44 | Devil Survivor 2 Record Breaker | Silky
+Troll | Fairy | 48 | Devil Survivor 2 Record Breaker | Troll
 Vivian | Fairy | 52 | Devil Survivor 2 Record Breaker | Vivian
+Spriggan | Fairy | 55 | Devil Survivor 2 Record Breaker | Spriggan
 Titania | Fairy | 58 | Devil Survivor 2 Record Breaker | Titania
 Oberon | Fairy | 62 | Devil Survivor 2 Record Breaker | Oberon
 Gagyson | Fallen | 11 | Devil Survivor 2 Record Breaker | Gagyson
 Abraxas | Fallen | 19 | Devil Survivor 2 Record Breaker | Abraxas
+Dantalian | Fallen | 22 | Devil Survivor 2 Record Breaker | Dantalian
 Flauros | Fallen | 26 | Devil Survivor 2 Record Breaker | Flauros
 Barbatos | Fallen | 33 | Devil Survivor 2 Record Breaker | Barbatos
 Botis | Fallen | 37 | Devil Survivor 2 Record Breaker | Botis
@@ -1363,15 +1403,19 @@ Hariti | Femme | 46 | Devil Survivor 2 Record Breaker | Hariti
 Dzelarhons | Femme | 50 | Devil Survivor 2 Record Breaker | Dzelarhons
 Rangda | Femme | 58 | Devil Survivor 2 Record Breaker | Rangda
 Anat | Femme | 66 | Devil Survivor 2 Record Breaker | Anat
+Jahi | Femme | 70 | Devil Survivor 2 Record Breaker | Jahi
 Kali | Femme | 74 | Devil Survivor 2 Record Breaker | Kali
+Xi Wangmu | Femme | 78 | Devil Survivor 2 Record Breaker | Xi Wangmu
 Lilith | Femme | 83 | Devil Survivor 2 Record Breaker | Lilith
 Ghost Q | Fiend | 26 | Devil Survivor 2 Record Breaker | Ghost Q
 Sage of Time | Fiend | 41 | Devil Survivor 2 Record Breaker | Sage of Time
 Billiken | Fiend | 50 | Devil Survivor 2 Record Breaker | Biriken
 Trumpeter | Fiend | 63 | Devil Survivor 2 Record Breaker | Trumpeter
+Mother Harlot | Fiend | 79 | Devil Survivor 2 Record Breaker | Mother Harlot
 Alice | Fiend | 88 | Devil Survivor 2 Record Breaker | Alice
 Tam Lin | Genma | 6 | Devil Survivor 2 Record Breaker | Tam Lin
 Jambavan | Genma | 13 | Devil Survivor 2 Record Breaker | Jambavan
+Roitschaggatta | Genma | 17 | Devil Survivor 2 Record Breaker | Tschaggatta
 Ictinike | Genma | 21 | Devil Survivor 2 Record Breaker | Ictinike
 Tlaloc | Genma | 28 | Devil Survivor 2 Record Breaker | Tlaloc
 Hanuman | Genma | 33 | Devil Survivor 2 Record Breaker | Hanuman
@@ -1395,6 +1439,7 @@ Hagen | Hero | 39 | Devil Survivor 2 Record Breaker | Hagen
 Jeanne D'Arc | Hero | 50 | Devil Survivor 2 Record Breaker | Jeanne D'Arc
 Yoshitsune | Hero | 57 | Devil Survivor 2 Record Breaker | Yoshitsune
 Guan Yu | Hero | 70 | Devil Survivor 2 Record Breaker | Guan Yu
+Frost Five | Hero | 76 | Devil Survivor 2 Record Breaker | Frost Five
 Masakado | Hero | 82 | Devil Survivor 2 Record Breaker | Masakado
 Obariyon | Jaki | 3 | Devil Survivor 2 Record Breaker | Obariyon
 Ogre | Jaki | 8 | Devil Survivor 2 Record Breaker | Ogre
@@ -1403,8 +1448,10 @@ Ogun | Jaki | 23 | Devil Survivor 2 Record Breaker | Ogun
 Wendigo | Jaki | 31 | Devil Survivor 2 Record Breaker | Wendigo
 Legion | Jaki | 39 | Devil Survivor 2 Record Breaker | Legion
 Girimehkala | Jaki | 47 | Devil Survivor 2 Record Breaker | Girimehkala
+Shiki-Ouji | Jaki | 49 | Devil Survivor 2 Record Breaker | Shiki-Ouji
 Rakshasa | Jaki | 55 | Devil Survivor 2 Record Breaker | Rakshasa
 Grendel | Jaki | 64 | Devil Survivor 2 Record Breaker | Grendel
+Macabre | Jaki | 75 | Devil Survivor 2 Record Breaker | Macabre
 Black Frost | Jaki | 80 | Devil Survivor 2 Record Breaker | Black Frost
 Ubelluris | Kishin | 20 | Devil Survivor 2 Record Breaker | Ubelluris
 Nalagiri | Kishin | 28 | Devil Survivor 2 Record Breaker | Nalagiri
@@ -1415,8 +1462,10 @@ Jikokuten | Kishin | 57 | Devil Survivor 2 Record Breaker | Jikokuten
 Koumoukuten | Kishin | 64 | Devil Survivor 2 Record Breaker | Komokuten
 Bishamonten | Kishin | 71 | Devil Survivor 2 Record Breaker | Bishamonten (demon)
 Ometeotl | Kishin | 75 | Devil Survivor 2 Record Breaker | Omoteotl
+Okuninushi | Kishin | 87 | Devil Survivor 2 Record Breaker | Okuninushi
 Zaou Gongen | Kishin | 93 | Devil Survivor 2 Record Breaker | Zaou Gongen
 Sarasvati | Megami | 19 | Devil Survivor 2 Record Breaker | Sarasvati
+Ishtar | Megami | 23 | Devil Survivor 2 Record Breaker | Ishtar
 Kikuri-Hime | Megami | 27 | Devil Survivor 2 Record Breaker | Kikuri-Hime
 Hathor | Megami | 31 | Devil Survivor 2 Record Breaker | Hathor
 Brigid | Megami | 35 | Devil Survivor 2 Record Breaker | Brigid
@@ -1426,18 +1475,24 @@ Isis | Megami | 55 | Devil Survivor 2 Record Breaker | Isis
 Parvati | Megami | 59 | Devil Survivor 2 Record Breaker | Parvati
 Norn | Megami | 64 | Devil Survivor 2 Record Breaker | Norn
 Pallas Athena | Megami | 69 | Devil Survivor 2 Record Breaker | Pallas Athena
+Black Maria | Megami | 73 | Devil Survivor 2 Record Breaker | Black Maria
 Amaterasu | Megami | 77 | Devil Survivor 2 Record Breaker | Amaterasu
 Saki Mitama | Mitama | 35 | Devil Survivor 2 Record Breaker | Saki Mitama
 Kusi Mitama | Mitama | 40 | Devil Survivor 2 Record Breaker | Kusi Mitama
 Ara Mitama | Mitama | 45 | Devil Survivor 2 Record Breaker | Ara Mitama
 Nigi Mitama | Mitama | 49 | Devil Survivor 2 Record Breaker | Nigi Mitama
+Dionysus | Omega | 20 | Devil Survivor 2 Record Breaker | Dionysus
 Tonatiuh | Omega | 34 | Devil Survivor 2 Record Breaker | Tonatiuh
+Aramisaki | Omega | 39 | Devil Survivor 2 Record Breaker | Aramisaki
 Chernobog | Omega | 43 | Devil Survivor 2 Record Breaker | Chernobog
 Wu Kong | Omega | 52 | Devil Survivor 2 Record Breaker | Wu Kong
 Kartikeya | Omega | 56 | Devil Survivor 2 Record Breaker | Kartikeya
 Susano-o | Omega | 60 | Devil Survivor 2 Record Breaker | Susano-o
 Beiji-Weng | Omega | 70 | Devil Survivor 2 Record Breaker | Beiji-Weng
 Shiva | Omega | 76 | Devil Survivor 2 Record Breaker | Shiva
+Celty Sturluson | Record Breaker demons/humans | 65 | Devil Survivor 2 Record Breaker | Celty Sturluson
+Shizuo Heiwajima | Record Breaker demons/humans | 60 | Devil Survivor 2 Record Breaker | Shizuo Heiwajima
+Izaya Orihara | Record Breaker demons/humans | 55 | Devil Survivor 2 Record Breaker | Izaya Orihara
 Makara | Snake | 14 | Devil Survivor 2 Record Breaker | Makara
 Nozuchi | Snake | 23 | Devil Survivor 2 Record Breaker | Nozuchi
 Pendragon | Snake | 30 | Devil Survivor 2 Record Breaker | Pendragon
@@ -1447,24 +1502,32 @@ Seiryuu | Snake | 51 | Devil Survivor 2 Record Breaker | Seiryuu
 Gucumatz | Snake | 58 | Devil Survivor 2 Record Breaker | Gucumatz
 Orochi | Snake | 66 | Devil Survivor 2 Record Breaker | Yamata no Orochi
 Ananta | Snake | 72 | Devil Survivor 2 Record Breaker | Ananta
+Yurlungur | Snake | 76 | Devil Survivor 2 Record Breaker | Yurlungur
 Hoyau Kamui | Snake | 80 | Devil Survivor 2 Record Breaker | Hoyau Kamui
+Kohryu | Snake | 87 | Devil Survivor 2 Record Breaker | Kohryu
 Kobold | Touki | 3 | Devil Survivor 2 Record Breaker | Kobold
 Bilwis | Touki | 10 | Devil Survivor 2 Record Breaker | Bilwis
+Dokkaebi | Touki | 14 | Devil Survivor 2 Record Breaker | Dokkaebi
 Gozuki | Touki | 18 | Devil Survivor 2 Record Breaker | Gozuki
 Mezuki | Touki | 25 | Devil Survivor 2 Record Breaker | Mezuki
 Ikusa | Touki | 33 | Devil Survivor 2 Record Breaker | Yomotsu-Ikusa
 Berserker | Touki | 38 | Devil Survivor 2 Record Breaker | Berserker
 Lham Dearg | Touki | 43 | Devil Survivor 2 Record Breaker | Lham Dearg
+Momunofu | Touki | 46 | Devil Survivor 2 Record Breaker | Momunofu
 Yaksa | Touki | 51 | Devil Survivor 2 Record Breaker | Yaksa
 Nata Taishi | Touki | 59 | Devil Survivor 2 Record Breaker | Nata Taishi
 Oumitsunu | Touki | 67 | Devil Survivor 2 Record Breaker | Oumitsunu
+Titan | Touki | 76 | Devil Survivor 2 Record Breaker | Titan
+Ongyo-Ki | Touki | 83 | Devil Survivor 2 Record Breaker | Ongyo-Ki
 King Frost | Tyrant | 26 | Devil Survivor 2 Record Breaker | King Frost
 Moloch | Tyrant | 33 | Devil Survivor 2 Record Breaker | Moloch
+Lucifuge | Tyrant | 37 | Devil Survivor 2 Record Breaker | Lucifuge
 Balor | Tyrant | 40 | Devil Survivor 2 Record Breaker | Balor
 Hecate | Tyrant | 47 | Devil Survivor 2 Record Breaker | Hecate
 Tzitzimitl | Tyrant | 54 | Devil Survivor 2 Record Breaker | Tzitzimitl
 Loki | Tyrant | 61 | Devil Survivor 2 Record Breaker | Loki
 Mot | Tyrant | 68 | Devil Survivor 2 Record Breaker | Mot
+Lucifer Frost | Tyrant | 69 | Devil Survivor 2 Record Breaker | Lucifer Frost
 Astaroth | Tyrant | 75 | Devil Survivor 2 Record Breaker | Astaroth
 Nergal | Tyrant | 81 | Devil Survivor 2 Record Breaker | Nergal
 Belial | Tyrant | 86 | Devil Survivor 2 Record Breaker | Belial
@@ -1477,6 +1540,7 @@ Abaddon | Vile | 48 | Devil Survivor 2 Record Breaker | Abaddon
 Arioch | Vile | 56 | Devil Survivor 2 Record Breaker | Arioch
 Tao Tie | Vile | 62 | Devil Survivor 2 Record Breaker | Tao Tie
 Tezcatlipoca | Vile | 68 | Devil Survivor 2 Record Breaker | Tezcatlipoca
+Seth | Vile | 74 | Devil Survivor 2 Record Breaker | Seth (demon)
 Nyarlathotep | Vile | 80 | Devil Survivor 2 Record Breaker | Nyarlathotep
 Hare of Inaba | Wilder | 9 | Devil Survivor 2 Record Breaker | Hare of Inaba
 Waira | Wilder | 17 | Devil Survivor 2 Record Breaker | Waira
@@ -1485,6 +1549,7 @@ Afanc | Wilder | 33 | Devil Survivor 2 Record Breaker | Afanc
 Xiezhai | Wilder | 37 | Devil Survivor 2 Record Breaker | Xiezhai
 Mothman | Wilder | 43 | Devil Survivor 2 Record Breaker | Mothman
 Taown | Wilder | 50 | Devil Survivor 2 Record Breaker | Taown
+Catoblepas | Wilder | 54 | Devil Survivor 2 Record Breaker | Catoblepas
 Sleipnir | Wilder | 57 | Devil Survivor 2 Record Breaker | Sleipnir (demon)
 Behemoth | Wilder | 65 | Devil Survivor 2 Record Breaker | Behemoth
 Ammut | Wilder | 73 | Devil Survivor 2 Record Breaker | Ammut
@@ -6838,6 +6903,10 @@ Gargantua X | Zōma | 58 | Shin Megami Tensei  Devil Summoner (PSP) | Gargantua
 Gargantua 8 | Zōma | 70 | Shin Megami Tensei  Devil Summoner (PSP) | Gargantua
 Ou-Magatsuhi | Zōma | 75 | Shin Megami Tensei  Devil Summoner (PSP) | Magatsuhi (Zoma)
 Yaso-Magatsuhi | Zōma | 80 | Shin Megami Tensei  Devil Summoner (PSP) | Magatsuhi (Zoma)
+Enoch | Zōma | 99 | Shin Megami Tensei  Devil Summoner (PSP) | Enoch
+David | Zōma | 99 | Shin Megami Tensei  Devil Summoner (PSP) | David (demon)
+Leviathan | Zōma | 99 | Shin Megami Tensei  Devil Summoner (PSP) | Leviathan
+Skoll | Zōma | 99 | Shin Megami Tensei  Devil Summoner (PSP) | Skoll
 Shiisaa | Avatar | 14 | Shin Megami Tensei  Strange Journey | Shiisaa
 Kamapua'a | Avatar | 24 | Shin Megami Tensei  Strange Journey | Kamapua'a
 Makami | Avatar | 32 | Shin Megami Tensei  Strange Journey | Makami
@@ -7202,6 +7271,7 @@ Thoth | Deity | 41 | Shin Megami Tensei  Strange Journey Redux | Thoth
 Inti | Deity | 49 | Shin Megami Tensei  Strange Journey Redux | Inti
 Prometheus | Deity | 57 | Shin Megami Tensei  Strange Journey Redux | Prometheus
 Omoteotl | Deity | 65 | Shin Megami Tensei  Strange Journey Redux | Omoteotl
+Zeus | Deity | 67 | Shin Megami Tensei  Strange Journey Redux | Zeus
 Odin | Deity | 71 | Shin Megami Tensei  Strange Journey Redux | Odin
 Hachiman | Deity | 77 | Shin Megami Tensei  Strange Journey Redux | Hachiman
 Vishnu | Deity | 86 | Shin Megami Tensei  Strange Journey Redux | Vishnu
@@ -7228,6 +7298,7 @@ Mushussu | Drake | 61 | Shin Megami Tensei  Strange Journey Redux | Mushussu
 Tiamat | Drake | 63 | Shin Megami Tensei  Strange Journey Redux | Tiamat
 Nidhoggr | Drake | 65 | Shin Megami Tensei  Strange Journey Redux | Nidhoggr
 Fafnir | Drake | 72 | Shin Megami Tensei  Strange Journey Redux | Fafnir
+Vasuki | Drake | 85 | Shin Megami Tensei  Strange Journey Redux | Vasuki
 Kanbari | Enigma | 27 | Shin Megami Tensei  Strange Journey Redux | Kanbari
 Futotama | Enigma | 42 | Shin Megami Tensei  Strange Journey Redux | Futotama
 Kinmamon | Enigma | 58 | Shin Megami Tensei  Strange Journey Redux | Kinmamon
@@ -7256,7 +7327,9 @@ Dantalian | Fallen | 33 | Shin Megami Tensei  Strange Journey Redux | Dantalian
 Ose | Fallen | 41 | Shin Megami Tensei  Strange Journey Redux | Ose
 Decarabia | Fallen | 50 | Shin Megami Tensei  Strange Journey Redux | Decarabia
 Mithra | Fallen | 53 | Shin Megami Tensei  Strange Journey Redux | Mithra
+Forneus | Fallen | 56 | Shin Megami Tensei  Strange Journey Redux | Forneus
 Gemori | Fallen | 60 | Shin Megami Tensei  Strange Journey Redux | Gemori
+Nebiros | Fallen | 99 | Shin Megami Tensei  Strange Journey Redux | Nebiros
 Acheri | Femme | 8 | Shin Megami Tensei  Strange Journey Redux | Acheri
 Leanan Sidhe | Femme | 14 | Shin Megami Tensei  Strange Journey Redux | Leanan Sidhe
 Yuki Jyorou | Femme | 26 | Shin Megami Tensei  Strange Journey Redux | Yuki Jyorou
@@ -7265,6 +7338,8 @@ Lachesis | Femme | 43 | Shin Megami Tensei  Strange Journey Redux | Lachesis
 Atropos | Femme | 49 | Shin Megami Tensei  Strange Journey Redux | Atropos
 Dakini | Femme | 63 | Shin Megami Tensei  Strange Journey Redux | Dakini
 Rangda | Femme | 68 | Shin Megami Tensei  Strange Journey Redux | Rangda
+Volvo | Femme | 71 | Shin Megami Tensei  Strange Journey Redux | Volvo
+Kali | Femme | 86 | Shin Megami Tensei  Strange Journey Redux | Kali
 David | Fiend | 22 | Shin Megami Tensei  Strange Journey Redux | David (demon)
 Matador | Fiend | 30 | Shin Megami Tensei  Strange Journey Redux | Matador
 Alice | Fiend | 39 | Shin Megami Tensei  Strange Journey Redux | Alice
@@ -7282,14 +7357,20 @@ Toufei | Flight | 31 | Shin Megami Tensei  Strange Journey Redux | Tuofei
 Rukh | Flight | 42 | Shin Megami Tensei  Strange Journey Redux | Rukh
 Da Peng | Flight | 50 | Shin Megami Tensei  Strange Journey Redux | Da Peng
 Slime | Foul | 1 | Shin Megami Tensei  Strange Journey Redux | Slime
+Jack the Ripper | Foul | 13 | Shin Megami Tensei  Strange Journey Redux | Jack Ripper
 Doppelganger | Foul | 25 | Shin Megami Tensei  Strange Journey Redux | Doppelgänger
+Night Stalker | Foul | 38 | Shin Megami Tensei  Strange Journey Redux | Night Stalker (demon)
+Mad Gasser | Foul | 52 | Shin Megami Tensei  Strange Journey Redux | Mad Gasser
 Ares | Fury | 36 | Shin Megami Tensei  Strange Journey Redux | Ares
 Tonatiuh | Fury | 45 | Shin Megami Tensei  Strange Journey Redux | Tonatiuh
 Wu Kong | Fury | 58 | Shin Megami Tensei  Strange Journey Redux | Seiten Taisei
 Kartikeya | Fury | 70 | Shin Megami Tensei  Strange Journey Redux | Kartikeya
+Zaou-Gongen | Fury | 80 | Shin Megami Tensei  Strange Journey Redux | Zaou-Gongen
 Susano-O | Fury | 85 | Shin Megami Tensei  Strange Journey Redux | Susano-o
 Shiva | Fury | 91 | Shin Megami Tensei  Strange Journey Redux | Shiva
+Anat | Geist | 80 | Shin Megami Tensei  Strange Journey Redux | Anat
 Alilat | Geist | 84 | Shin Megami Tensei  Strange Journey Redux | Alilat
+Nadja | Genma | 23 | Shin Megami Tensei  Strange Journey Redux | Nadja
 Tam Lin | Genma | 29 | Shin Megami Tensei  Strange Journey Redux | Tam Lin
 Frost Ace | Genma | 34 | Shin Megami Tensei  Strange Journey Redux | Frost Ace
 Kurama Tengu | Genma | 38 | Shin Megami Tensei  Strange Journey Redux | Kurama Tengu
@@ -7310,8 +7391,10 @@ Israfel | Herald | 63 | Shin Megami Tensei  Strange Journey Redux | Israfel
 Kazfiel | Herald | 66 | Shin Megami Tensei  Strange Journey Redux | Kazfiel
 Azrael | Herald | 69 | Shin Megami Tensei  Strange Journey Redux | Azrael
 Sraosha | Herald | 74 | Shin Megami Tensei  Strange Journey Redux | Sraosha
+Armaiti | Herald | 76 | Shin Megami Tensei  Strange Journey Redux | Armaiti
 Aniel | Herald | 79 | Shin Megami Tensei  Strange Journey Redux | Aniel
 Mastema | Herald | 82 | Shin Megami Tensei  Strange Journey Redux | Mastema
+Sandalphon | Herald | 83 | Shin Megami Tensei  Strange Journey Redux | Sandalphon
 Metatron | Herald | 84 | Shin Megami Tensei  Strange Journey Redux | Metatron
 Seraph | Herald | 89 | Shin Megami Tensei  Strange Journey Redux | Seraph (Demon)
 Heqet | Holy | 10 | Shin Megami Tensei  Strange Journey Redux | Heqet
@@ -7338,6 +7421,7 @@ Bagaboo | Jirae | 20 | Shin Megami Tensei  Strange Journey Redux | Bugaboo
 Bogaboo | Jirae | 20 | Shin Megami Tensei  Strange Journey Redux | Bugaboo
 Bugaboo | Jirae | 20 | Shin Megami Tensei  Strange Journey Redux | Bugaboo
 Kwancha | Jirae | 25 | Shin Megami Tensei  Strange Journey Redux | Kwancha
+Tsuchigumo | Jirae | 30 | Shin Megami Tensei  Strange Journey Redux | Tsuchigumo
 Titan | Jirae | 35 | Shin Megami Tensei  Strange Journey Redux | Titan
 Tlaltecuhtli | Jirae | 45 | Shin Megami Tensei  Strange Journey Redux | Tlaltecuhtli
 Gogmagog | Jirae | 55 | Shin Megami Tensei  Strange Journey Redux | Gogmagog
@@ -7354,7 +7438,9 @@ Hariti | Lady | 44 | Shin Megami Tensei  Strange Journey Redux | Hariti
 Diana | Lady | 54 | Shin Megami Tensei  Strange Journey Redux | Diana (Roman)
 Asherah | Lady | 58 | Shin Megami Tensei  Strange Journey Redux | Asherah
 Black Maria | Lady | 64 | Shin Megami Tensei  Strange Journey Redux | Black Maria
+Isis | Lady | 67 | Shin Megami Tensei  Strange Journey Redux | Isis
 Skadi | Lady | 73 | Shin Megami Tensei  Strange Journey Redux | Skadi
+Cybele | Lady | 76 | Shin Megami Tensei  Strange Journey Redux | Cybele
 Xi Wangmu | Lady | 79 | Shin Megami Tensei  Strange Journey Redux | Xi Wangmu
 Hathor | Megami | 11 | Shin Megami Tensei  Strange Journey Redux | Hathor
 Fortuna | Megami | 20 | Shin Megami Tensei  Strange Journey Redux | Fortuna
@@ -7365,7 +7451,9 @@ Pallas Athena | Megami | 53 | Shin Megami Tensei  Strange Journey Redux | Pallas
 Tlazolteotl | Megami | 64 | Shin Megami Tensei  Strange Journey Redux | Tlazolteotl
 Norn | Megami | 72 | Shin Megami Tensei  Strange Journey Redux | Norn
 Laksmi | Megami | 73 | Shin Megami Tensei  Strange Journey Redux | Laksmi
+Maria | Megami | 74 | Shin Megami Tensei  Strange Journey Redux | Maria (demon)
 Amaterasu | Megami | 79 | Shin Megami Tensei  Strange Journey Redux | Amaterasu
+Demeter | Megami | 85 | Shin Megami Tensei  Strange Journey Redux | Demeter
 Ara Mitama | Mitama | 21 | Shin Megami Tensei  Strange Journey Redux | Ara Mitama
 Nigi Mitama | Mitama | 26 | Shin Megami Tensei  Strange Journey Redux | Nigi Mitama
 Kusi Mitama | Mitama | 31 | Shin Megami Tensei  Strange Journey Redux | Kusi Mitama
@@ -7374,6 +7462,7 @@ Sandman | Night | 4 | Shin Megami Tensei  Strange Journey Redux | Sandman
 Lilim | Night | 9 | Shin Megami Tensei  Strange Journey Redux | Lilim
 Fomorian | Night | 16 | Shin Megami Tensei  Strange Journey Redux | Fomorian
 Incubus | Night | 23 | Shin Megami Tensei  Strange Journey Redux | Incubus
+Hypnos | Night | 29 | Shin Megami Tensei  Strange Journey Redux | Hypnos
 Kaiwan | Night | 34 | Shin Megami Tensei  Strange Journey Redux | Kaiwan
 Succubus | Night | 47 | Shin Megami Tensei  Strange Journey Redux | Succubus
 Wild Hunt | Night | 55 | Shin Megami Tensei  Strange Journey Redux | Wild Hunt (demon)
@@ -7381,7 +7470,9 @@ Lilith | Night | 66 | Shin Megami Tensei  Strange Journey Redux | Lilith
 Maya | Night | 70 | Shin Megami Tensei  Strange Journey Redux | Maya (demon, Hindu)
 Apsaras | Nymph | 10 | Shin Megami Tensei  Strange Journey Redux | Apsaras
 Ame no Uzume | Nymph | 24 | Shin Megami Tensei  Strange Journey Redux | Ame-no-Uzume
+Anahita | Nymph | 28 | Shin Megami Tensei  Strange Journey Redux | Anahita
 Senri | Nymph | 36 | Shin Megami Tensei  Strange Journey Redux | Senri
+Kikuri-Hime | Nymph | 42 | Shin Megami Tensei  Strange Journey Redux | Kikuri-Hime
 Sarasvati | Nymph | 48 | Shin Megami Tensei  Strange Journey Redux | Sarasvati
 Peri | Nymph | 59 | Shin Megami Tensei  Strange Journey Redux | Peri
 Erthys | Prime | 8 | Shin Megami Tensei  Strange Journey Redux | Erthys
@@ -7405,7 +7496,9 @@ Hel | Reaper | 47 | Shin Megami Tensei  Strange Journey Redux | Hel
 Orcus | Reaper | 55 | Shin Megami Tensei  Strange Journey Redux | Orcus
 Persephone | Reaper | 58 | Shin Megami Tensei  Strange Journey Redux | Persephone
 Guedhe | Reaper | 62 | Shin Megami Tensei  Strange Journey Redux | Guedhe
+Thanatos | Reaper | 68 | Shin Megami Tensei  Strange Journey Redux | Thanatos
 Nergal | Reaper | 76 | Shin Megami Tensei  Strange Journey Redux | Nergal
+Ixtab | Reaper | 80 | Shin Megami Tensei  Strange Journey Redux | Ixtab
 Mot | Reaper | 87 | Shin Megami Tensei  Strange Journey Redux | Mot
 Naga | Snake | 11 | Shin Megami Tensei  Strange Journey Redux | Naga
 Nozuchi | Snake | 18 | Shin Megami Tensei  Strange Journey Redux | Nozuchi
@@ -7415,6 +7508,7 @@ Gui Xian | Snake | 42 | Shin Megami Tensei  Strange Journey Redux | Genbu
 Ouroboros | Snake | 49 | Shin Megami Tensei  Strange Journey Redux | Ouroboros
 Orochi | Snake | 60 | Shin Megami Tensei  Strange Journey Redux | Yamata-no-Orochi
 Ananta | Snake | 65 | Shin Megami Tensei  Strange Journey Redux | Ananta
+Vritra | Snake | 75 | Shin Megami Tensei  Strange Journey Redux | Vritra
 Dybbuk | Spirit | 2 | Shin Megami Tensei  Strange Journey Redux | Dybbuk
 Poltergeist | Spirit | 7 | Shin Megami Tensei  Strange Journey Redux | Poltergeist
 Macabre | Spirit | 18 | Shin Megami Tensei  Strange Journey Redux | Macabre
@@ -7437,7 +7531,11 @@ Loki | Tyrant | 52 | Shin Megami Tensei  Strange Journey Redux | Loki
 Abaddon | Tyrant | 60 | Shin Megami Tensei  Strange Journey Redux | Abaddon
 Tzitzimitl | Tyrant | 71 | Shin Megami Tensei  Strange Journey Redux | Tzitzimitl
 Surt | Tyrant | 77 | Shin Megami Tensei  Strange Journey Redux | Surt
+Amon | Tyrant | 80 | Shin Megami Tensei  Strange Journey Redux | Amon
 Mara | Tyrant | 88 | Shin Megami Tensei  Strange Journey Redux | Mara
+Beelzebub | Tyrant | 99 | Shin Megami Tensei  Strange Journey Redux | Beelzebub
+Belial | Tyrant | 99 | Shin Megami Tensei  Strange Journey Redux | Belial
+Lucifuge | Tyrant | 99 | Shin Megami Tensei  Strange Journey Redux | Lucifuge
 Mamedanuki | UMA | 13 | Shin Megami Tensei  Strange Journey Redux | Mamedanuki
 Chupacabra | UMA | 19 | Shin Megami Tensei  Strange Journey Redux | Chupacabra
 Kuda | UMA | 28 | Shin Megami Tensei  Strange Journey Redux | Kuda
@@ -7454,6 +7552,7 @@ Taotie | Vile | 53 | Shin Megami Tensei  Strange Journey Redux | Tao Tie
 Alciel | Vile | 61 | Shin Megami Tensei  Strange Journey Redux | Alciel
 Pales | Vile | 68 | Shin Megami Tensei  Strange Journey Redux | Pales
 Samael | Vile | 75 | Shin Megami Tensei  Strange Journey Redux | Samael
+Mada | Vile | 82 | Shin Megami Tensei  Strange Journey Redux | Mada
 Seth | Vile | 85 | Shin Megami Tensei  Strange Journey Redux | Seth (demon)
 Demiurge | Vile | 94 | Shin Megami Tensei  Strange Journey Redux | Demiurge
 Jueyuan | Wilder | 10 | Shin Megami Tensei  Strange Journey Redux | Jueyuan
@@ -7477,7 +7576,9 @@ Dis | Yoma | 27 | Shin Megami Tensei  Strange Journey Redux | Dis
 Shiwanna | Yoma | 37 | Shin Megami Tensei  Strange Journey Redux | Shiwanna
 Valkyrie | Yoma | 45 | Shin Megami Tensei  Strange Journey Redux | Valkyrie
 Xiuhtecuhtli | Yoma | 54 | Shin Megami Tensei  Strange Journey Redux | Xiuhtecuhtli
+Master Therion | Yoma | 62 | Shin Megami Tensei  Strange Journey Redux | Master Therion
 Ganesha | Yoma | 67 | Shin Megami Tensei  Strange Journey Redux | Ganesha
+Shaytan | Yoma | 75 | Shin Megami Tensei  Strange Journey Redux | Shaytan
 Ogun | Zealot | 24 | Shin Megami Tensei  Strange Journey Redux | Ogun
 Dionysus | Zealot | 41 | Shin Megami Tensei  Strange Journey Redux | Dionysus
 Aramisaki | Zealot | 58 | Shin Megami Tensei  Strange Journey Redux | Aramisaki
@@ -7778,14 +7879,20 @@ Kinnari | Yoma | 12 | Shin Megami Tensei  if... | Kinnari
 Mercurius | Yoma | 10 | Shin Megami Tensei  if... | Mercurius
 Barong | Avatar | 62 | Shin Megami Tensei (Sega CD) | Barong
 Chimera | Avatar | 55 | Shin Megami Tensei (Sega CD) | Chimera
+Sphinx | Avatar | 54 | Shin Megami Tensei (Sega CD) | Sphinx
 Narasimha | Avatar | 52 | Shin Megami Tensei (Sega CD) | Narasimha
+Pegasus | Avatar | 50 | Shin Megami Tensei (Sega CD) | Pegasus
+Bastet | Avatar | 46 | Shin Megami Tensei (Sega CD) | Bastet
 Nandi | Avatar | 42 | Shin Megami Tensei (Sega CD) | Nandi
 Garuda | Avian | 72 | Shin Megami Tensei (Sega CD) | Garuda
 Yatagarasu | Avian | 65 | Shin Megami Tensei (Sega CD) | Yatagarasu
 Phoenix | Avian | 57 | Shin Megami Tensei (Sega CD) | Phoenix
+Takuhi | Avian | 52 | Shin Megami Tensei (Sega CD) | Tuofei
 Jatayu | Avian | 47 | Shin Megami Tensei (Sega CD) | Jatayu
 Feng Huang | Avian | 36 | Shin Megami Tensei (Sega CD) | Feng Huang
+Pascal | Beast | 63 | Shin Megami Tensei (Sega CD) | Pascal
 Griffon | Beast | 50 | Shin Megami Tensei (Sega CD) | Griffon
+Pascal | Beast | 43 | Shin Megami Tensei (Sega CD) | Pascal
 Cerberus | Beast | 43 | Shin Megami Tensei (Sega CD) | Cerberus
 Rakcharango | Beast | 40 | Shin Megami Tensei (Sega CD) | Rakcharango
 Orthrus | Beast | 38 | Shin Megami Tensei (Sega CD) | Orthrus (demon)
@@ -7804,9 +7911,12 @@ Bogle | Brute | 13 | Shin Megami Tensei (Sega CD) | Bogle
 Azumi | Brute | 10 | Shin Megami Tensei (Sega CD) | Azumi
 Vishnu | Deity | 82 | Shin Megami Tensei (Sega CD) | Vishnu
 Indra | Deity | 72 | Shin Megami Tensei (Sega CD) | Indra
+Brahman | Deity | 70 | Shin Megami Tensei (Sega CD) | Brahman
 Fudou Myouou | Deity | 64 | Shin Megami Tensei (Sega CD) | Fudou Myouou
+Baal | Deity | 60 | Shin Megami Tensei (Sega CD) | Baal
 Odin | Deity | 58 | Shin Megami Tensei (Sega CD) | Odin
 Arahabaki | Deity | 51 | Shin Megami Tensei (Sega CD) | Arahabaki
+Freyr | Deity | 42 | Shin Megami Tensei (Sega CD) | Freyr
 Loki | Deity | 40 | Shin Megami Tensei (Sega CD) | Loki
 Cherub | Divine | 67 | Shin Megami Tensei (Sega CD) | Cherub
 Throne | Divine | 61 | Shin Megami Tensei (Sega CD) | Throne
@@ -7817,12 +7927,14 @@ Archangel | Divine | 34 | Shin Megami Tensei (Sega CD) | Archangel
 Angel | Divine | 14 | Shin Megami Tensei (Sega CD) | Angel
 Pascal | Dog | ? | Shin Megami Tensei (Sega CD) | Pascal
 Ananta | Dragon | 74 | Shin Megami Tensei (Sega CD) | Ananta
+Tiamat | Dragon | 70 | Shin Megami Tensei (Sega CD) | Tiamat
 Maya | Dragon | 67 | Shin Megami Tensei (Sega CD) | Maya (demon, Mayan)
 Baek Yong | Dragon | 62 | Shin Megami Tensei (Sega CD) | Baek Yong
 Vritra | Dragon | 56 | Shin Megami Tensei (Sega CD) | Vritra
 Ganga | Dragon | 49 | Shin Megami Tensei (Sega CD) | Ganga
 Coatlicue | Dragon | 44 | Shin Megami Tensei (Sega CD) | Coatlicue
 Fafnir | Drake | 60 | Shin Megami Tensei (Sega CD) | Fafnir
+Midgardsomr | Drake | 58 | Shin Megami Tensei (Sega CD) | Midgardsomr
 Serpent | Drake | 54 | Shin Megami Tensei (Sega CD) | Serpent
 Basilisk | Drake | 51 | Shin Megami Tensei (Sega CD) | Basilisk
 Wyvern | Drake | 43 | Shin Megami Tensei (Sega CD) | Wyvern
@@ -7840,19 +7952,23 @@ Erthys | Element | 8 | Shin Megami Tensei (Sega CD) | Erthys
 Oberon | Fairy | 64 | Shin Megami Tensei (Sega CD) | Oberon
 Senko | Fairy | 61 | Shin Megami Tensei (Sega CD) | Senko
 Cu Chulainn | Fairy | 59 | Shin Megami Tensei (Sega CD) | Cu Chulainn
+Dullahan | Fairy | 57 | Shin Megami Tensei (Sega CD) | Dullahan (demon)
 Tam Lin | Fairy | 55 | Shin Megami Tensei (Sega CD) | Tam Lin
 Troll | Fairy | 46 | Shin Megami Tensei (Sega CD) | Troll
 Senri | Fairy | 40 | Shin Megami Tensei (Sega CD) | Senri
 Hobgoblin | Fairy | 36 | Shin Megami Tensei (Sega CD) | Hobgoblin
+Banshee | Fairy | 30 | Shin Megami Tensei (Sega CD) | Banshee
 Elf | Fairy | 26 | Shin Megami Tensei (Sega CD) | Elf
 Kelpie | Fairy | 23 | Shin Megami Tensei (Sega CD) | Kelpie
 Rusalka | Fairy | 18 | Shin Megami Tensei (Sega CD) | Rusalka
 Gandharva | Fairy | 15 | Shin Megami Tensei (Sega CD) | Gandharva
+Cait Sith | Fairy | 14 | Shin Megami Tensei (Sega CD) | Cait Sith
 Dryad | Fairy | 12 | Shin Megami Tensei (Sega CD) | Dryad
 Pyro Jack | Fairy | 9 | Shin Megami Tensei (Sega CD) | Jack-o'-Lantern
 Jack Frost | Fairy | 8 | Shin Megami Tensei (Sega CD) | Jack Frost
 Goblin | Fairy | 6 | Shin Megami Tensei (Sega CD) | Goblin
 Pixie | Fairy | 2 | Shin Megami Tensei (Sega CD) | Pixie
+Sargatanas | Fallen | 67 | Shin Megami Tensei (Sega CD) | Sargatanas
 Flauros | Fallen | 66 | Shin Megami Tensei (Sega CD) | Flauros
 Fleurety | Fallen | 63 | Shin Megami Tensei (Sega CD) | Fleurety
 Abaddon | Fallen | 60 | Shin Megami Tensei (Sega CD) | Abaddon
@@ -7869,6 +7985,7 @@ Gamigin | Fallen | 12 | Shin Megami Tensei (Sega CD) | Gamigin
 Andras | Fallen | 8 | Shin Megami Tensei (Sega CD) | Andras
 Kali | Femme | 69 | Shin Megami Tensei (Sega CD) | Kali
 Hariti | Femme | 61 | Shin Megami Tensei (Sega CD) | Hariti
+Hel | Femme | 56 | Shin Megami Tensei (Sega CD) | Hel
 Rangda | Femme | 54 | Shin Megami Tensei (Sega CD) | Rangda
 Scylla | Femme | 49 | Shin Megami Tensei (Sega CD) | Scylla
 Dakini | Femme | 45 | Shin Megami Tensei (Sega CD) | Dakini
@@ -7945,8 +8062,11 @@ Bigfoot | Machine | 11 | Shin Megami Tensei (Sega CD) | Bigfoot
 Kugutsu | Machine | 2 | Shin Megami Tensei (Sega CD) | Kugutsu (demon)
 Lakshmi | Megami | 64 | Shin Megami Tensei (Sega CD) | Lakshmi
 Kikuri-Hime | Megami | 50 | Shin Megami Tensei (Sega CD) | Kikuri-Hime
+Urd | Megami | 46 | Shin Megami Tensei (Sega CD) | Urd
 Sarasvati | Megami | 39 | Shin Megami Tensei (Sega CD) | Sarasvati
+Verdandi | Megami | 34 | Shin Megami Tensei (Sega CD) | Verdandi
 Kushinada | Megami | 28 | Shin Megami Tensei (Sega CD) | Kushinada-Hime
+Skuld | Megami | 22 | Shin Megami Tensei (Sega CD) | Skuld
 Ame no Uzume | Megami | 16 | Shin Megami Tensei (Sega CD) | Ame no Uzume
 Scanner | Messian | 53 | Shin Megami Tensei (Sega CD) | Scanner
 Magus | Messian | 37 | Shin Megami Tensei (Sega CD) | Magus
@@ -7997,15 +8117,24 @@ Agni | Tenma | 47 | Shin Megami Tensei (Sega CD) | Agni
 Werewolf | Therian | 41 | Shin Megami Tensei (Sega CD) | Werewolf
 Werecat | Therian | 23 | Shin Megami Tensei (Sega CD) | Werecat
 Weredog | Therian | 5 | Shin Megami Tensei (Sega CD) | Weredog
+Talos | Touki | 60 | Shin Megami Tensei (Sega CD) | Talos
 Yaksa | Touki | 52 | Shin Megami Tensei (Sega CD) | Yaksa
+Minotaur | Touki | 50 | Shin Megami Tensei (Sega CD) | Minotaur
 Nezha | Touki | 46 | Shin Megami Tensei (Sega CD) | Nezha
 Mezuki | Touki | 40 | Shin Megami Tensei (Sega CD) | Mezuki
 Gozuki | Touki | 39 | Shin Megami Tensei (Sega CD) | Gozuki
 Yaksini | Touki | 30 | Shin Megami Tensei (Sega CD) | Yaksini
 Spartoi | Touki | 14 | Shin Megami Tensei (Sega CD) | Spartoi
 Beelzebub | Tyrant | 99 | Shin Megami Tensei (Sega CD) | Beelzebub
+Satanachia | Tyrant | 95 | Shin Megami Tensei (Sega CD) | Satanachia
+Astaroth | Tyrant | 90 | Shin Megami Tensei (Sega CD) | Astaroth
+Surt | Tyrant | 87 | Shin Megami Tensei (Sega CD) | Surt
+Arioch | Tyrant | 85 | Shin Megami Tensei (Sega CD) | Arioch
 Mara | Tyrant | 82 | Shin Megami Tensei (Sega CD) | Mara
+Asmodeus | Tyrant | 80 | Shin Megami Tensei (Sega CD) | Asmodeus
 Bael | Tyrant | 78 | Shin Megami Tensei (Sega CD) | Bael
+Pazuzu | Tyrant | 77 | Shin Megami Tensei (Sega CD) | Pazuzu
+Mephisto | Tyrant | 75 | Shin Megami Tensei (Sega CD) | Mephisto
 Dagon | Tyrant | 74 | Shin Megami Tensei (Sega CD) | Dagon
 Corpse | Undead | 18 | Shin Megami Tensei (Sega CD) | Corpse
 Army Zombie | Undead | 10 | Shin Megami Tensei (Sega CD) | Army Zombie
@@ -8015,8 +8144,10 @@ Obattarion | Undead | 3 | Shin Megami Tensei (Sega CD) | Obattarion
 Zombie Lady | Undead | 2 | Shin Megami Tensei (Sega CD) | Zombie Lady
 Zombie | Undead | 1 | Shin Megami Tensei (Sega CD) | Zombie
 Taotie | Vile | 71 | Shin Megami Tensei (Sega CD) | Taotie
+Seth | Vile | 69 | Shin Megami Tensei (Sega CD) | Seth (demon)
 Orcus | Vile | 66 | Shin Megami Tensei (Sega CD) | Orcus
 Tezcatlipoca | Vile | 62 | Shin Megami Tensei (Sega CD) | Tezcatlipoca
+Amon | Vile | 55 | Shin Megami Tensei (Sega CD) | Amon
 Mishaguji | Vile | 44 | Shin Megami Tensei (Sega CD) | Mishaguji
 Fenrir | Wilder | 62 | Shin Megami Tensei (Sega CD) | Fenrir
 Kraken | Wilder | 51 | Shin Megami Tensei (Sega CD) | Kraken
@@ -8026,6 +8157,7 @@ Souyou | Wilder | 27 | Shin Megami Tensei (Sega CD) | Souyou
 Nue | Wilder | 15 | Shin Megami Tensei (Sega CD) | Nue
 Hanuman | Yoma | 63 | Shin Megami Tensei (Sega CD) | Hanuman
 Ganesha | Yoma | 60 | Shin Megami Tensei (Sega CD) | Ganesha
+Ifrit | Yoma | 58 | Shin Megami Tensei (Sega CD) | Ifrit
 Kinnara | Yoma | 55 | Shin Megami Tensei (Sega CD) | Kinnara
 Tengu | Yoma | 52 | Shin Megami Tensei (Sega CD) | Tengu
 Choronzon | Yoma | 50 | Shin Megami Tensei (Sega CD) | Choronzon
@@ -8308,11 +8440,14 @@ Anubis | Avatar | 41 | Shin Megami Tensei II (GBA) | Anubis
 Narasinha | Avatar | 35 | Shin Megami Tensei II (GBA) | Narasimha
 Sphinx | Avatar | 29 | Shin Megami Tensei II (GBA) | Sphinx
 Nandi | Avatar | 17 | Shin Megami Tensei II (GBA) | Nandi
+Takuhi | Avian | 52 | Shin Megami Tensei II (GBA) | Takuhi
 Garuda | Avian | 49 | Shin Megami Tensei II (GBA) | Garuda
 Suzaku | Avian | 41 | Shin Megami Tensei II (GBA) | Suzaku
 Yatagarasu | Avian | 31 | Shin Megami Tensei II (GBA) | Yatagarasu
 Phoenix | Avian | 22 | Shin Megami Tensei II (GBA) | Phoenix
 Suparna | Avian | 15 | Shin Megami Tensei II (GBA) | Suparna
+PascalII | Beast | 63 | Shin Megami Tensei II (GBA) | Pascal
+PascalI | Beast | 43 | Shin Megami Tensei II (GBA) | Pascal
 Kerberos | Beast | 43 | Shin Megami Tensei II (GBA) | Cerberus
 Gdon | Beast | 39 | Shin Megami Tensei II (GBA) | Gdon
 Selket | Beast | 30 | Shin Megami Tensei II (GBA) | Selket
@@ -8322,6 +8457,7 @@ Cu Sith | Beast | 14 | Shin Megami Tensei II (GBA) | Cu Sith
 Cait Sith | Beast | 12 | Shin Megami Tensei II (GBA) | Cait Sith
 Yaksha | Brute | 46 | Shin Megami Tensei II (GBA) | Yaksha
 Shuten-Doji | Brute | 40 | Shin Megami Tensei II (GBA) | Shuten Doji
+Ibaraki Doji | Brute | 38 | Shin Megami Tensei II (GBA) | Ibaraki Doji
 Yakshini | Brute | 33 | Shin Megami Tensei II (GBA) | Yaksini
 Turdak | Brute | 28 | Shin Megami Tensei II (GBA) | Turdak
 Hannya | Brute | 19 | Shin Megami Tensei II (GBA) | Hannya
@@ -8356,6 +8492,7 @@ Seiryuu | Dragon | 43 | Shin Megami Tensei II (GBA) | Seiryuu
 Quetzalcoatl | Dragon | 39 | Shin Megami Tensei II (GBA) | Quetzalcoatl
 Pek Young | Dragon | 36 | Shin Megami Tensei II (GBA) | Baek Yong
 Maya | Dragon | 34 | Shin Megami Tensei II (GBA) | Maya (demon, Mayan)
+Midgardsomr | Drake | 58 | Shin Megami Tensei II (GBA) | Midgardsomr
 Tiamat | Drake | 51 | Shin Megami Tensei II (GBA) | Tiamat
 Kingu | Drake | 46 | Shin Megami Tensei II (GBA) | Kingu
 Nidhoggr | Drake | 43 | Shin Megami Tensei II (GBA) | Nidhoggr
@@ -8370,15 +8507,18 @@ Flamies | Element | 12 | Shin Megami Tensei II (GBA) | Flamies
 Aquans | Element | 11 | Shin Megami Tensei II (GBA) | Aquans
 Aeros | Element | 10 | Shin Megami Tensei II (GBA) | Aeros
 Earthies | Element | 9 | Shin Megami Tensei II (GBA) | Earthies
+Dullahan | Fairy | 57 | Shin Megami Tensei II (GBA) | Dullahan (demon)
 Titania | Fairy | 48 | Shin Megami Tensei II (GBA) | Titania
 Oberon | Fairy | 45 | Shin Megami Tensei II (GBA) | Oberon
 Cu Chulain | Fairy | 40 | Shin Megami Tensei II (GBA) | Cu Chulainn
 Nadja | Fairy | 30 | Shin Megami Tensei II (GBA) | Nadja
+Elf | Fairy | 26 | Shin Megami Tensei II (GBA) | Elf
 Banshee | Fairy | 25 | Shin Megami Tensei II (GBA) | Banshee
 Dark Elf | Fairy | 18 | Shin Megami Tensei II (GBA) | Dark Elf
 Jack O'Lantern | Fairy | 13 | Shin Megami Tensei II (GBA) | Jack-o'-Lantern
 Jack Frost | Fairy | 12 | Shin Megami Tensei II (GBA) | Jack Frost
 High Pixie | Fairy | 7 | Shin Megami Tensei II (GBA) | High Pixie
+Sargatanas | Fallen | 67 | Shin Megami Tensei II (GBA) | Sargatanas
 Agares | Fallen | 57 | Shin Megami Tensei II (GBA) | Agares
 Gaap | Fallen | 49 | Shin Megami Tensei II (GBA) | Gaap
 Berith | Fallen | 41 | Shin Megami Tensei II (GBA) | Berith
@@ -8474,10 +8614,14 @@ Junk | Machine | 21 | Shin Megami Tensei II (GBA) | Junk
 Iron Maiden | Machine | 8 | Shin Megami Tensei II (GBA) | Iron Maiden
 Crazy Dummy | Machine | 5 | Shin Megami Tensei II (GBA) | Crazy Dummy
 Lakshmi | Megami | 52 | Shin Megami Tensei II (GBA) | Lakshmi
+Urd | Megami | 46 | Shin Megami Tensei II (GBA) | Urd
 Parvati | Megami | 45 | Shin Megami Tensei II (GBA) | Parvati
 Freyja | Megami | 39 | Shin Megami Tensei II (GBA) | Freya
 Sarasvati | Megami | 35 | Shin Megami Tensei II (GBA) | Sarasvati
+Verdandi | Megami | 34 | Shin Megami Tensei II (GBA) | Verdandi
+Kushinada-Hime | Megami | 28 | Shin Megami Tensei II (GBA) | Kushinada-Hime
 Arianrhod | Megami | 27 | Shin Megami Tensei II (GBA) | Arianrhod
+Skuld | Megami | 22 | Shin Megami Tensei II (GBA) | Skuld
 Ame-no-Uzume | Megami | 21 | Shin Megami Tensei II (GBA) | Ame-no-Uzume
 Adept | Messian | 51 | Shin Megami Tensei II (GBA) | Magus
 Terminator | Messian | 40 | Shin Megami Tensei II (GBA) | Terminator
@@ -8504,6 +8648,7 @@ Jiraiya | Ring of Gaea | 15 | Shin Megami Tensei II (GBA) | Jiraiya
 Kugutsushi | Ring of Gaea | 8 | Shin Megami Tensei II (GBA) | Kugutsushi
 Yamata-no-Orochi | Snake | 53 | Shin Megami Tensei II (GBA) | Yamata no Orochi
 Vritra | Snake | 48 | Shin Megami Tensei II (GBA) | Vritra
+Yurlungur | Snake | 46 | Shin Megami Tensei II (GBA) | Yurlungur
 Raja Naga | Snake | 42 | Shin Megami Tensei II (GBA) | Raja Naga
 Oto-hime | Snake | 36 | Shin Megami Tensei II (GBA) | Otohime
 Mizuchi | Snake | 33 | Shin Megami Tensei II (GBA) | Mizuchi
@@ -8515,6 +8660,9 @@ Depth | Spirit | 15 | Shin Megami Tensei II (GBA) | Depth
 Hanged Man | Spirit | 13 | Shin Megami Tensei II (GBA) | Hangedman
 Poltergeist | Spirit | 2 | Shin Megami Tensei II (GBA) | Poltergeist
 Lucifer | Tyrant | 99 | Shin Megami Tensei II (GBA) | Lucifer
+Satanachia | Tyrant | 95 | Shin Megami Tensei II (GBA) | Satanachia
+Asmodeus | Tyrant | 80 | Shin Megami Tensei II (GBA) | Asmodeus
+Mephisto | Tyrant | 75 | Shin Megami Tensei II (GBA) | Mephisto
 Beelzebub | Tyrant | 65 | Shin Megami Tensei II (GBA) | Beelzebub
 Mara | Tyrant | 62 | Shin Megami Tensei II (GBA) | Mara
 Bael | Tyrant | 55 | Shin Megami Tensei II (GBA) | Bael
@@ -8531,6 +8679,7 @@ Police | Vaccine | 15 | Shin Megami Tensei II (GBA) | Police (Demon)
 Jaws | Vaccine | 10 | Shin Megami Tensei II (GBA) | Jaws
 Cthulhu | Vile | 67 | Shin Megami Tensei II (GBA) | Cthulhu
 Pazuzu | Vile | 59 | Shin Megami Tensei II (GBA) | Pazuzu
+Amon | Vile | 55 | Shin Megami Tensei II (GBA) | Amon
 Nyarlathotep | Vile | 53 | Shin Megami Tensei II (GBA) | Nyarlathotep
 Tezcatlipoca | Vile | 47 | Shin Megami Tensei II (GBA) | Tezcatlipoca
 Naragiri | Vile | 41 | Shin Megami Tensei II (GBA) | Nalagiri
@@ -8554,6 +8703,7 @@ Ganesha | Yoma | 43 | Shin Megami Tensei II (GBA) | Ganesha
 Djinn | Yoma | 37 | Shin Megami Tensei II (GBA) | Jinn
 Tengu | Yoma | 31 | Shin Megami Tensei II (GBA) | Tengu
 Haokah | Yoma | 27 | Shin Megami Tensei II (GBA) | Haokah
+Apsaras | Yoma | 21 | Shin Megami Tensei II (GBA) | Apsaras
 Mercurius | Yoma | 14 | Shin Megami Tensei II (GBA) | Mercurius
 Barong | Avatar | 60 | Shin Megami Tensei III  Nocturne | Barong
 Yatagarasu | Avatar | 46 | Shin Megami Tensei III  Nocturne | Yatagarasu
@@ -8744,6 +8894,195 @@ Dís | Yoma | 23 | Shin Megami Tensei III  Nocturne | Dis
 Koppa Tengu | Yoma | 19 | Shin Megami Tensei III  Nocturne | Koppa Tengu
 Isora | Yoma | 14 | Shin Megami Tensei III  Nocturne | Isora
 Apsaras | Yoma | 8 | Shin Megami Tensei III  Nocturne | Apsaras
+Barong | Avatar | 60 | Shin Megami Tensei III  Nocturne Chronicle | Barong
+Yatagarasu | Avatar | 46 | Shin Megami Tensei III  Nocturne Chronicle | Yatagarasu
+Xiezhai | Avatar | 26 | Shin Megami Tensei III  Nocturne Chronicle | Cai-Zhi
+Makami | Avatar | 22 | Shin Megami Tensei III  Nocturne Chronicle | Makami
+Garuda | Avian | 63 | Shin Megami Tensei III  Nocturne Chronicle | Garuda
+Cerberus | Beast | 61 | Shin Megami Tensei III  Nocturne Chronicle | Cerberus
+Suparna | Beast | 54 | Shin Megami Tensei III  Nocturne Chronicle | Sparna
+Orthrus | Beast | 34 | Shin Megami Tensei III  Nocturne Chronicle | Orthrus (demon)
+Badb Catha | Beast | 23 | Shin Megami Tensei III  Nocturne Chronicle | Badb Catha
+Nekomata | Beast | 18 | Shin Megami Tensei III  Nocturne Chronicle | Nekomata
+Inugami | Beast | 13 | Shin Megami Tensei III  Nocturne Chronicle | Inugami
+Ongyo-Ki | Brute | 81 | Shin Megami Tensei III  Nocturne Chronicle | Ongyo-Ki
+Fuu-Ki | Brute | 66 | Shin Megami Tensei III  Nocturne Chronicle | Fuu-Ki
+Sui-Ki | Brute | 62 | Shin Megami Tensei III  Nocturne Chronicle | Sui-Ki
+Kin-Ki | Brute | 59 | Shin Megami Tensei III  Nocturne Chronicle | Kin-Ki
+Shiki-Ouji | Brute | 54 | Shin Megami Tensei III  Nocturne Chronicle | Shiki-Ouji
+Yomotsu-Ikusa | Brute | 44 | Shin Megami Tensei III  Nocturne Chronicle | Yomotsu-Ikusa
+Oni | Brute | 25 | Shin Megami Tensei III  Nocturne Chronicle | Oni
+Momunofu | Brute | 20 | Shin Megami Tensei III  Nocturne Chronicle | Momunofu
+Shikigami | Brute | 4 | Shin Megami Tensei III  Nocturne Chronicle | Shikigami
+Vishnu | Deity | 93 | Shin Megami Tensei III  Nocturne Chronicle | Vishnu
+Mitra | Deity | 78 | Shin Megami Tensei III  Nocturne Chronicle | Mithra
+Odin | Deity | 65 | Shin Megami Tensei III  Nocturne Chronicle | Odin
+Amaterasu | Deity | 56 | Shin Megami Tensei III  Nocturne Chronicle | Amaterasu
+Atavaka | Deity | 47 | Shin Megami Tensei III  Nocturne Chronicle | Atavaka
+Horus | Deity | 38 | Shin Megami Tensei III  Nocturne Chronicle | Horus
+Baal Avatar | Deity |  | Shin Megami Tensei III  Nocturne Chronicle | Baal
+Throne | Divine | 64 | Shin Megami Tensei III  Nocturne Chronicle | Throne
+Dominion | Divine | 50 | Shin Megami Tensei III  Nocturne Chronicle | Dominion
+Virtue | Divine | 41 | Shin Megami Tensei III  Nocturne Chronicle | Virtue
+Power | Divine | 33 | Shin Megami Tensei III  Nocturne Chronicle | Power
+Principality | Divine | 28 | Shin Megami Tensei III  Nocturne Chronicle | Principality
+Archangel | Divine | 18 | Shin Megami Tensei III  Nocturne Chronicle | Archangel
+Angel | Divine | 11 | Shin Megami Tensei III  Nocturne Chronicle | Angel
+Qing Long | Dragon | 44 | Shin Megami Tensei III  Nocturne Chronicle | Long
+Xuanwu | Dragon | 30 | Shin Megami Tensei III  Nocturne Chronicle | Gui Xian
+Flaemis | Element | 20 | Shin Megami Tensei III  Nocturne Chronicle | Flaemis
+Aquans | Element | 15 | Shin Megami Tensei III  Nocturne Chronicle | Aquans
+Aeros | Element | 11 | Shin Megami Tensei III  Nocturne Chronicle | Aeros
+Erthys | Element | 7 | Shin Megami Tensei III  Nocturne Chronicle | Erthys
+Albion | Entity | 64 | Shin Megami Tensei III  Nocturne Chronicle | Albion
+Titania | Fairy | 57 | Shin Megami Tensei III  Nocturne Chronicle | Titania
+Oberon | Fairy | 46 | Shin Megami Tensei III  Nocturne Chronicle | Oberon
+Setanta | Fairy | 43 | Shin Megami Tensei III  Nocturne Chronicle | Setanta
+Troll | Fairy | 38 | Shin Megami Tensei III  Nocturne Chronicle | Troll
+Kelpie | Fairy | 26 | Shin Megami Tensei III  Nocturne Chronicle | Kelpie
+Jack-o'-Lantern | Fairy | 19 | Shin Megami Tensei III  Nocturne Chronicle | Jack-o'-Lantern
+High Pixie | Fairy | 10 | Shin Megami Tensei III  Nocturne Chronicle | High Pixie
+Jack Frost | Fairy | 7 | Shin Megami Tensei III  Nocturne Chronicle | Jack Frost
+Pixie | Fairy | 2 | Shin Megami Tensei III  Nocturne Chronicle | Pixie
+Flauros | Fallen | 68 | Shin Megami Tensei III  Nocturne Chronicle | Flauros
+Decarabia | Fallen | 58 | Shin Megami Tensei III  Nocturne Chronicle | Decarabia
+Ose | Fallen | 45 | Shin Megami Tensei III  Nocturne Chronicle | Ose
+Berith | Fallen | 37 | Shin Megami Tensei III  Nocturne Chronicle | Berith
+Eligor | Fallen | 29 | Shin Megami Tensei III  Nocturne Chronicle | Eligor
+Forneus | Fallen | 20 | Shin Megami Tensei III  Nocturne Chronicle | Forneus
+Rangda | Femme | 72 | Shin Megami Tensei III  Nocturne Chronicle | Rangda
+Atropos | Femme | 67 | Shin Megami Tensei III  Nocturne Chronicle | Atropos
+Lachesis | Femme | 63 | Shin Megami Tensei III  Nocturne Chronicle | Lachesis
+Clotho | Femme | 58 | Shin Megami Tensei III  Nocturne Chronicle | Clotho
+Dakini | Femme | 52 | Shin Megami Tensei III  Nocturne Chronicle | Dakini
+Yaksini | Femme | 43 | Shin Megami Tensei III  Nocturne Chronicle | Yaksini
+Yomotsu-Shikome | Femme | 32 | Shin Megami Tensei III  Nocturne Chronicle | Yomotsu-Shikome
+Taraka | Femme | 20 | Shin Megami Tensei III  Nocturne Chronicle | Taraka
+Datsue-Ba | Femme | 7 | Shin Megami Tensei III  Nocturne Chronicle | Datsue-Ba
+Dante | Fiend | 80 | Shin Megami Tensei III  Nocturne Chronicle | Dante
+Trumpeter | Fiend | 77 | Shin Megami Tensei III  Nocturne Chronicle | Trumpeter
+Mother Harlot | Fiend | 69 | Shin Megami Tensei III  Nocturne Chronicle | Mother Harlot
+Pale Rider | Fiend | 63 | Shin Megami Tensei III  Nocturne Chronicle | Pale Rider
+Black Rider | Fiend | 61 | Shin Megami Tensei III  Nocturne Chronicle | Black Rider
+Red Rider | Fiend | 55 | Shin Megami Tensei III  Nocturne Chronicle | Red Rider
+White Rider | Fiend | 52 | Shin Megami Tensei III  Nocturne Chronicle | White Rider
+Hell Biker | Fiend | 42 | Shin Megami Tensei III  Nocturne Chronicle | Hell Biker
+Daisoujou | Fiend | 37 | Shin Megami Tensei III  Nocturne Chronicle | Daisoujou
+Matador | Fiend | 30 | Shin Megami Tensei III  Nocturne Chronicle | Matador
+Shadow | Foul | 52 | Shin Megami Tensei III  Nocturne Chronicle | Shadow (demon)
+Sakahagi | Foul | 45 | Shin Megami Tensei III  Nocturne Chronicle | Sakahagi
+Phantom | Foul | 42 | Shin Megami Tensei III  Nocturne Chronicle | Phantom
+Black Ooze | Foul | 28 | Shin Megami Tensei III  Nocturne Chronicle | Black Ooze
+Blob | Foul | 16 | Shin Megami Tensei III  Nocturne Chronicle | Blob
+Mou-Ryo | Foul | 7 | Shin Megami Tensei III  Nocturne Chronicle | Mou-Ryo
+Slime | Foul | 6 | Shin Megami Tensei III  Nocturne Chronicle | Slime
+Will O' Wisp | Foul | 1 | Shin Megami Tensei III  Nocturne Chronicle | Will O' Wisp
+Specter | Foul |  | Shin Megami Tensei III  Nocturne Chronicle | Specter
+Shiva | Fury | 94 | Shin Megami Tensei III  Nocturne Chronicle | Shiva
+Beidou Xingjun | Fury | 61 | Shin Megami Tensei III  Nocturne Chronicle | Hokuto Seikun
+Qitian Dasheng | Fury | 54 | Shin Megami Tensei III  Nocturne Chronicle | Wu Kong
+Dionysus | Fury | 44 | Shin Megami Tensei III  Nocturne Chronicle | Dionysus
+Cu Chulainn | Genma | 52 | Shin Megami Tensei III  Nocturne Chronicle | Cu Chulainn
+Hanuman | Genma | 46 | Shin Megami Tensei III  Nocturne Chronicle | Hanuman
+Kurama Tengu | Genma | 38 | Shin Megami Tensei III  Nocturne Chronicle | Kurama Tengu
+Vetala | Haunt | 63 | Shin Megami Tensei III  Nocturne Chronicle | Vetala
+Legion | Haunt | 49 | Shin Megami Tensei III  Nocturne Chronicle | Legion
+Pisaca | Haunt | 28 | Shin Megami Tensei III  Nocturne Chronicle | Pisaca
+Chatterskull | Haunt | 20 | Shin Megami Tensei III  Nocturne Chronicle | Chatterskull
+Yaka | Haunt | 17 | Shin Megami Tensei III  Nocturne Chronicle | Yaka
+Choronzon | Haunt | 11 | Shin Megami Tensei III  Nocturne Chronicle | Choronzon
+Preta | Haunt | 4 | Shin Megami Tensei III  Nocturne Chronicle | Preta
+Chimera | Holy | 55 | Shin Megami Tensei III  Nocturne Chronicle | Chimera
+Baihu | Holy | 43 | Shin Megami Tensei III  Nocturne Chronicle | Baihu
+Zhuque | Holy | 36 | Shin Megami Tensei III  Nocturne Chronicle | Suzaku
+Senri | Holy | 27 | Shin Megami Tensei III  Nocturne Chronicle | Senri
+Unicorn | Holy | 21 | Shin Megami Tensei III  Nocturne Chronicle | Unicorn
+Shiisaa | Holy | 13 | Shin Megami Tensei III  Nocturne Chronicle | Shiisaa
+Gogmagog | Jirae | 55 | Shin Megami Tensei III  Nocturne Chronicle | Gogmagog
+Titan | Jirae | 49 | Shin Megami Tensei III  Nocturne Chronicle | Titan
+Sarutahiko | Jirae | 35 | Shin Megami Tensei III  Nocturne Chronicle | Sarutahiko
+Sudama | Jirae | 13 | Shin Megami Tensei III  Nocturne Chronicle | Sudama
+Hua Po | Jirae | 5 | Shin Megami Tensei III  Nocturne Chronicle | Hua Po
+Kodama | Jirae | 3 | Shin Megami Tensei III  Nocturne Chronicle | Kodama
+Thor | Kishin | 76 | Shin Megami Tensei III  Nocturne Chronicle | Thor
+Bishamonten | Kishin | 72 | Shin Megami Tensei III  Nocturne Chronicle | Bishamonten (demon)
+Futomimi | Kishin | 63 | Shin Megami Tensei III  Nocturne Chronicle | Futomimi
+Jikokuten | Kishin | 52 | Shin Megami Tensei III  Nocturne Chronicle | Jikokuten
+Take-Mikazuchi | Kishin | 45 | Shin Megami Tensei III  Nocturne Chronicle | Take-Mikazuchi
+Okuninushi | Kishin | 39 | Shin Megami Tensei III  Nocturne Chronicle | Okuninushi
+Komokuten | Kishin | 33 | Shin Megami Tensei III  Nocturne Chronicle | Komokuten
+Zouchouten | Kishin | 27 | Shin Megami Tensei III  Nocturne Chronicle | Zouchouten
+Take-Minakata | Kishin | 17 | Shin Megami Tensei III  Nocturne Chronicle | Take-Minakata
+Skadi | Lady | 74 | Shin Megami Tensei III  Nocturne Chronicle | Skadi
+Kali | Lady | 67 | Shin Megami Tensei III  Nocturne Chronicle | Kali
+Parvati | Lady | 57 | Shin Megami Tensei III  Nocturne Chronicle | Parvati
+Kushinada | Lady | 41 | Shin Megami Tensei III  Nocturne Chronicle | Kushinada-Hime
+Kikuri-Hime | Lady | 24 | Shin Megami Tensei III  Nocturne Chronicle | Kikuri-Hime
+Scathach | Megami | 64 | Shin Megami Tensei III  Nocturne Chronicle | Scathach
+Lakshmi | Megami | 54 | Shin Megami Tensei III  Nocturne Chronicle | Lakshmi
+Sati | Megami | 48 | Shin Megami Tensei III  Nocturne Chronicle | Sati
+Sarasvati | Megami | 30 | Shin Megami Tensei III  Nocturne Chronicle | Sarasvati
+Ame-no-Uzume | Megami | 18 | Shin Megami Tensei III  Nocturne Chronicle | Ame no Uzume
+Saki Mitama | Mitama | 35 | Shin Megami Tensei III  Nocturne Chronicle | Saki Mitama
+Kushi Mitama | Mitama | 32 | Shin Megami Tensei III  Nocturne Chronicle | Kusi Mitama
+Nigi Mitama | Mitama | 29 | Shin Megami Tensei III  Nocturne Chronicle | Nigi Mitama
+Ara Mitama | Mitama | 25 | Shin Megami Tensei III  Nocturne Chronicle | Ara Mitama
+Lilith | Night | 80 | Shin Megami Tensei III  Nocturne Chronicle | Lilith
+Nyx | Night | 70 | Shin Megami Tensei III  Nocturne Chronicle | Nyx
+Black Frost | Night | 66 | Shin Megami Tensei III  Nocturne Chronicle | Black Frost
+Queen Mab | Night | 56 | Shin Megami Tensei III  Nocturne Chronicle | Queen Mab
+Loa | Night | 53 | Shin Megami Tensei III  Nocturne Chronicle | Loa
+Kaiwan | Night | 47 | Shin Megami Tensei III  Nocturne Chronicle | Kaiwan
+Succubus | Night | 37 | Shin Megami Tensei III  Nocturne Chronicle | Succubus
+Incubus | Night | 25 | Shin Megami Tensei III  Nocturne Chronicle | Incubus
+Fomorian | Night | 18 | Shin Megami Tensei III  Nocturne Chronicle | Fomor
+Lilim | Night | 8 | Shin Megami Tensei III  Nocturne Chronicle | Lilim
+Gurulu | Raptor | 63 | Shin Megami Tensei III  Nocturne Chronicle | Gurr
+Metatron | Seraph | 95 | Shin Megami Tensei III  Nocturne Chronicle | Metatron
+Michael | Seraph | 90 | Shin Megami Tensei III  Nocturne Chronicle | Michael
+Gabriel | Seraph | 87 | Shin Megami Tensei III  Nocturne Chronicle | Gabriel
+Raphael | Seraph | 84 | Shin Megami Tensei III  Nocturne Chronicle | Raphael
+Uriel | Seraph | 73 | Shin Megami Tensei III  Nocturne Chronicle | Uriel
+Yurlungur | Snake | 66 | Shin Megami Tensei III  Nocturne Chronicle | Yurlungur
+Quetzalcoatl | Snake | 55 | Shin Megami Tensei III  Nocturne Chronicle | Quetzalcoatl
+Naga Raja | Snake | 37 | Shin Megami Tensei III  Nocturne Chronicle | Raja Naga
+Mizuchi | Snake | 34 | Shin Megami Tensei III  Nocturne Chronicle | Mizuchi
+Naga | Snake | 28 | Shin Megami Tensei III  Nocturne Chronicle | Naga
+Nozuchi | Snake | 14 | Shin Megami Tensei III  Nocturne Chronicle | Nozuchi
+Beelzebub[fly | Tyrant | 95 | Shin Megami Tensei III  Nocturne Chronicle | Beelzebub
+Mot | Tyrant | 91 | Shin Megami Tensei III  Nocturne Chronicle | Mot
+Beelzebub[human | Tyrant | 84 | Shin Megami Tensei III  Nocturne Chronicle | Beelzebub
+Aciel | Tyrant | 77 | Shin Megami Tensei III  Nocturne Chronicle | Aciel
+Surt | Tyrant | 74 | Shin Megami Tensei III  Nocturne Chronicle | Surt
+Abaddon | Tyrant | 69 | Shin Megami Tensei III  Nocturne Chronicle | Abaddon
+Loki | Tyrant | 52 | Shin Megami Tensei III  Nocturne Chronicle | Loki
+Mara | Tyrant |  | Shin Megami Tensei III  Nocturne Chronicle | Mara
+Ahriman | Tyrant |  | Shin Megami Tensei III  Nocturne Chronicle | Ahriman
+Mada | Vile | 83 | Shin Megami Tensei III  Nocturne Chronicle | Mada
+Samael | Vile | 73 | Shin Megami Tensei III  Nocturne Chronicle | Samael
+Taotie | Vile | 65 | Shin Megami Tensei III  Nocturne Chronicle | Tao Tie
+Girimekhala | Vile | 58 | Shin Megami Tensei III  Nocturne Chronicle | Girimehkala
+Pazuzu | Vile | 45 | Shin Megami Tensei III  Nocturne Chronicle | Pazuzu
+Baphomet | Vile | 33 | Shin Megami Tensei III  Nocturne Chronicle | Baphomet
+Arahabaki | Vile | 30 | Shin Megami Tensei III  Nocturne Chronicle | Arahabaki
+Noah | Vile |  | Shin Megami Tensei III  Nocturne Chronicle | Noah
+Ganesha | Wargod | 58 | Shin Megami Tensei III  Nocturne Chronicle | Ganesha
+Valkyrie | Wargod | 33 | Shin Megami Tensei III  Nocturne Chronicle | Valkyrie
+Hresvelgr | Wilder | 75 | Shin Megami Tensei III  Nocturne Chronicle | Hresvelgr
+Mothman | Wilder | 43 | Shin Megami Tensei III  Nocturne Chronicle | Mothman
+Nue | Wilder | 31 | Shin Megami Tensei III  Nocturne Chronicle | Nue
+Raiju | Wilder | 25 | Shin Megami Tensei III  Nocturne Chronicle | Raiju
+Bicorn | Wilder | 15 | Shin Megami Tensei III  Nocturne Chronicle | Bicorn
+Zhen | Wilder | 6 | Shin Megami Tensei III  Nocturne Chronicle | Zhen
+Efreet | Yoma | 52 | Shin Megami Tensei III  Nocturne Chronicle | Ifrit
+Pulukishi | Yoma | 48 | Shin Megami Tensei III  Nocturne Chronicle | Purski
+Jinn | Yoma | 44 | Shin Megami Tensei III  Nocturne Chronicle | Jinn
+Ongkhot | Yoma | 37 | Shin Megami Tensei III  Nocturne Chronicle | Onkot
+Karasu Tengu | Yoma | 28 | Shin Megami Tensei III  Nocturne Chronicle | Karasu
+Dís | Yoma | 23 | Shin Megami Tensei III  Nocturne Chronicle | Dis
+Koppa Tengu | Yoma | 19 | Shin Megami Tensei III  Nocturne Chronicle | Koppa Tengu
+Isora | Yoma | 14 | Shin Megami Tensei III  Nocturne Chronicle | Isora
+Apsaras | Yoma | 8 | Shin Megami Tensei III  Nocturne Chronicle | Apsaras
 Barong | Avatar | 60 | Shin Megami Tensei III  Nocturne HD Remaster | Barong
 Yatagarasu | Avatar | 46 | Shin Megami Tensei III  Nocturne HD Remaster | Yatagarasu
 Xiezhai | Avatar | 26 | Shin Megami Tensei III  Nocturne HD Remaster | Cai-Zhi

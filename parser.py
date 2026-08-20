@@ -668,6 +668,7 @@ def finalizeCompendium(comp):
         if rereleaseOnly:
             rereleaseDemon.givenName = rereleaseDemon.givenName.replace("†", "").strip()
             rereleaseDemon.race = rereleaseDemon.race.replace("[Golden only]", "").strip()
+            expandedCompendium.append(rereleaseDemon)
         else:
             expandedCompendium.append(demon)
             expandedCompendium.append(rereleaseDemon)
@@ -677,16 +678,20 @@ def finalizeCompendium(comp):
     for demon in Compendium:
         if demon.level == "Innat":
             demon.level = 1
-        if "(" in demon.givenName:
-            demon.givenName = demon.givenName.split("(", 1)[0]
-        while demon.givenName[-1].isalnum() == False:
-            demon.givenName = demon.givenName[:-1]
         if demon.game == "Shin Megami Tensei III  Nocturne MANIAX":
             nocturneDemon = copy.copy(demon)
             nocturneDemon.game = "Shin Megami Tensei III  Nocturne Chronicle"
+            Compendium.append(nocturneDemon)
             otherNocturneDemon = copy.copy(demon)
             otherNocturneDemon.game = "Shin Megami Tensei III  Nocturne HD Remaster"
             Compendium.append(otherNocturneDemon)
+        if "(" in demon.givenName:
+            if "Nocturne" in demon.game and "HD" not in demon.game:
+                demon.givenName.split("(",0)[0]
+            demon.givenName = demon.givenName.split("(", 1)[0]
+        while demon.givenName[-1].isalnum() == False:
+            demon.givenName = demon.givenName[:-1]
+
 
 
     Compendium.sort(

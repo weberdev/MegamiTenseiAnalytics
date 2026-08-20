@@ -837,6 +837,7 @@ Leto
 Leviathan
 Lham Dearg
 Lich
+Light Skills (Affinity)
 Lilim
 Lilith
 Linda

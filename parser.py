@@ -198,6 +198,96 @@ def parseCompendium():
             )
 
             Compendium.append(demon)
+
+    def parsePQ2Innates(soup, gameName):
+        innateHeading = soup.find(
+            "span",
+            class_="mw-headline",
+            id="Innate_Personas"
+        )
+
+        if innateHeading is None:
+            return
+
+        current = innateHeading.parent
+
+        # Walk until the Sub-Personas section begins
+        while current is not None:
+            current = current.find_next_sibling()
+
+            if current is None:
+                break
+
+            # We've reached the end of the innate section
+            if (
+                    current.name == "h2"
+                    and current.find(
+                "span",
+                class_="mw-headline",
+                id="Sub-Personas"
+            )
+            ):
+                break
+
+            if current.name != "h3":
+                continue
+
+            # P3 / P4 / P5 innate table
+            table = current.find_next_sibling("table")
+
+            if table is None:
+                continue
+
+            currentArcana = None
+
+            for row in table.find_all("tr")[1:]:
+                cells = row.find_all(["th", "td"])
+
+                if not cells:
+                    continue
+
+                # Because of rowspans, column positions shift.
+                # Conveniently, the first TD is always the Persona.
+                personaCell = row.find("td")
+
+                if personaCell is None:
+                    continue
+
+                nameLink = personaCell.find("a")
+
+                if nameLink is None:
+                    continue
+
+                givenName = nameLink.get_text(" ", strip=True)
+
+                canonicalName = nameLink.get(
+                    "title",
+                    givenName
+                )
+
+                # Find Arcana when this row explicitly contains one.
+                for link in row.find_all("a"):
+                    title = link.get("title", "")
+
+                    if title.endswith(" Arcana"):
+                        currentArcana = link.get_text(
+                            " ",
+                            strip=True
+                        )
+                        break
+
+                if currentArcana is None:
+                    currentArcana = "Unknown"
+
+                demon = Demon_Instance(
+                    givenName,
+                    currentArcana,
+                    1,
+                    gameName,
+                    canonicalName
+                )
+
+                Compendium.append(demon)
     def parseSoulHackersBosses():
         bossesHeading = soup.find(
             "span",
@@ -374,8 +464,10 @@ def parseCompendium():
         gameName = gameName.removesuffix(" Personas")
         if gameName == "Devil Summoner  Soul Hackers":
             parseSoulHackersBosses()
-        if gameName == "Persona Q" or gameName == "Persona Q2":
+        if gameName == "Persona Q" :
             parsePQInitialPersonas()
+        if gameName == "Persona Q2":
+            parsePQ2Innates(soup, gameName)
         if gameName == "Megami Ibunroku Persona":
             parsePersona1Table()
             continue
@@ -653,6 +745,25 @@ def finalizeCompendium(comp):
     expandedCompendium = []
 
     for demon in comp:
+        if demon.level == "":
+            demon.level = 1
+        if demon.level == "Innat":
+            demon.level = 1
+        if isinstance(demon.level, str):
+            try:
+                demon.level = int(demon.level)
+            except (TypeError, ValueError):
+                if demon.level == "31/38/41/48":
+                    demon.level = 31
+                elif demon.level == "31/36/38/41/45/52":
+                    demon.level = 31
+                elif demon.level == "40/50":
+                    demon.level = 40
+                elif demon.level == "50/64":
+                    demon.level = 50
+                else:
+                    demon.level = 1
+    for demon in comp:
         if demon.game not in gamesWithRereleases:
             expandedCompendium.append(demon)
             continue
@@ -676,8 +787,6 @@ def finalizeCompendium(comp):
     Compendium = expandedCompendium
 
     for demon in Compendium:
-        if demon.level == "Innat":
-            demon.level = 1
         if demon.game == "Shin Megami Tensei III  Nocturne MANIAX":
             nocturneDemon = copy.copy(demon)
             nocturneDemon.game = "Shin Megami Tensei III  Nocturne Chronicle"

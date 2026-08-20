@@ -8894,6 +8894,384 @@ Dís | Yoma | 23 | Shin Megami Tensei III  Nocturne | Dis
 Koppa Tengu | Yoma | 19 | Shin Megami Tensei III  Nocturne | Koppa Tengu
 Isora | Yoma | 14 | Shin Megami Tensei III  Nocturne | Isora
 Apsaras | Yoma | 8 | Shin Megami Tensei III  Nocturne | Apsaras
+Barong | Avatar | 60 | Shin Megami Tensei III  Nocturne HD Remaster | Barong
+Barong | Avatar | 60 | Shin Megami Tensei III  Nocturne HD Remaster | Barong
+Yatagarasu | Avatar | 46 | Shin Megami Tensei III  Nocturne HD Remaster | Yatagarasu
+Yatagarasu | Avatar | 46 | Shin Megami Tensei III  Nocturne HD Remaster | Yatagarasu
+Xiezhai | Avatar | 26 | Shin Megami Tensei III  Nocturne HD Remaster | Cai-Zhi
+Xiezhai | Avatar | 26 | Shin Megami Tensei III  Nocturne HD Remaster | Cai-Zhi
+Makami | Avatar | 22 | Shin Megami Tensei III  Nocturne HD Remaster | Makami
+Makami | Avatar | 22 | Shin Megami Tensei III  Nocturne HD Remaster | Makami
+Garuda | Avian | 63 | Shin Megami Tensei III  Nocturne HD Remaster | Garuda
+Garuda | Avian | 63 | Shin Megami Tensei III  Nocturne HD Remaster | Garuda
+Cerberus | Beast | 61 | Shin Megami Tensei III  Nocturne HD Remaster | Cerberus
+Cerberus | Beast | 61 | Shin Megami Tensei III  Nocturne HD Remaster | Cerberus
+Suparna | Beast | 54 | Shin Megami Tensei III  Nocturne HD Remaster | Sparna
+Suparna | Beast | 54 | Shin Megami Tensei III  Nocturne HD Remaster | Sparna
+Orthrus | Beast | 34 | Shin Megami Tensei III  Nocturne HD Remaster | Orthrus (demon)
+Orthrus | Beast | 34 | Shin Megami Tensei III  Nocturne HD Remaster | Orthrus (demon)
+Badb Catha | Beast | 23 | Shin Megami Tensei III  Nocturne HD Remaster | Badb Catha
+Badb Catha | Beast | 23 | Shin Megami Tensei III  Nocturne HD Remaster | Badb Catha
+Nekomata | Beast | 18 | Shin Megami Tensei III  Nocturne HD Remaster | Nekomata
+Nekomata | Beast | 18 | Shin Megami Tensei III  Nocturne HD Remaster | Nekomata
+Inugami | Beast | 13 | Shin Megami Tensei III  Nocturne HD Remaster | Inugami
+Inugami | Beast | 13 | Shin Megami Tensei III  Nocturne HD Remaster | Inugami
+Ongyo-Ki | Brute | 81 | Shin Megami Tensei III  Nocturne HD Remaster | Ongyo-Ki
+Ongyo-Ki | Brute | 81 | Shin Megami Tensei III  Nocturne HD Remaster | Ongyo-Ki
+Fuu-Ki | Brute | 66 | Shin Megami Tensei III  Nocturne HD Remaster | Fuu-Ki
+Fuu-Ki | Brute | 66 | Shin Megami Tensei III  Nocturne HD Remaster | Fuu-Ki
+Sui-Ki | Brute | 62 | Shin Megami Tensei III  Nocturne HD Remaster | Sui-Ki
+Sui-Ki | Brute | 62 | Shin Megami Tensei III  Nocturne HD Remaster | Sui-Ki
+Kin-Ki | Brute | 59 | Shin Megami Tensei III  Nocturne HD Remaster | Kin-Ki
+Kin-Ki | Brute | 59 | Shin Megami Tensei III  Nocturne HD Remaster | Kin-Ki
+Shiki-Ouji | Brute | 54 | Shin Megami Tensei III  Nocturne HD Remaster | Shiki-Ouji
+Shiki-Ouji | Brute | 54 | Shin Megami Tensei III  Nocturne HD Remaster | Shiki-Ouji
+Yomotsu-Ikusa | Brute | 44 | Shin Megami Tensei III  Nocturne HD Remaster | Yomotsu-Ikusa
+Yomotsu-Ikusa | Brute | 44 | Shin Megami Tensei III  Nocturne HD Remaster | Yomotsu-Ikusa
+Oni | Brute | 25 | Shin Megami Tensei III  Nocturne HD Remaster | Oni
+Oni | Brute | 25 | Shin Megami Tensei III  Nocturne HD Remaster | Oni
+Momunofu | Brute | 20 | Shin Megami Tensei III  Nocturne HD Remaster | Momunofu
+Momunofu | Brute | 20 | Shin Megami Tensei III  Nocturne HD Remaster | Momunofu
+Shikigami | Brute | 4 | Shin Megami Tensei III  Nocturne HD Remaster | Shikigami
+Shikigami | Brute | 4 | Shin Megami Tensei III  Nocturne HD Remaster | Shikigami
+Vishnu | Deity | 93 | Shin Megami Tensei III  Nocturne HD Remaster | Vishnu
+Vishnu | Deity | 93 | Shin Megami Tensei III  Nocturne HD Remaster | Vishnu
+Mitra | Deity | 78 | Shin Megami Tensei III  Nocturne HD Remaster | Mithra
+Mitra | Deity | 78 | Shin Megami Tensei III  Nocturne HD Remaster | Mithra
+Odin | Deity | 65 | Shin Megami Tensei III  Nocturne HD Remaster | Odin
+Odin | Deity | 65 | Shin Megami Tensei III  Nocturne HD Remaster | Odin
+Amaterasu | Deity | 56 | Shin Megami Tensei III  Nocturne HD Remaster | Amaterasu
+Amaterasu | Deity | 56 | Shin Megami Tensei III  Nocturne HD Remaster | Amaterasu
+Atavaka | Deity | 47 | Shin Megami Tensei III  Nocturne HD Remaster | Atavaka
+Atavaka | Deity | 47 | Shin Megami Tensei III  Nocturne HD Remaster | Atavaka
+Horus | Deity | 38 | Shin Megami Tensei III  Nocturne HD Remaster | Horus
+Horus | Deity | 38 | Shin Megami Tensei III  Nocturne HD Remaster | Horus
+Baal Avatar | Deity |  | Shin Megami Tensei III  Nocturne HD Remaster | Baal
+Baal Avatar | Deity |  | Shin Megami Tensei III  Nocturne HD Remaster | Baal
+Throne | Divine | 64 | Shin Megami Tensei III  Nocturne HD Remaster | Throne
+Throne | Divine | 64 | Shin Megami Tensei III  Nocturne HD Remaster | Throne
+Dominion | Divine | 50 | Shin Megami Tensei III  Nocturne HD Remaster | Dominion
+Dominion | Divine | 50 | Shin Megami Tensei III  Nocturne HD Remaster | Dominion
+Virtue | Divine | 41 | Shin Megami Tensei III  Nocturne HD Remaster | Virtue
+Virtue | Divine | 41 | Shin Megami Tensei III  Nocturne HD Remaster | Virtue
+Power | Divine | 33 | Shin Megami Tensei III  Nocturne HD Remaster | Power
+Power | Divine | 33 | Shin Megami Tensei III  Nocturne HD Remaster | Power
+Principality | Divine | 28 | Shin Megami Tensei III  Nocturne HD Remaster | Principality
+Principality | Divine | 28 | Shin Megami Tensei III  Nocturne HD Remaster | Principality
+Archangel | Divine | 18 | Shin Megami Tensei III  Nocturne HD Remaster | Archangel
+Archangel | Divine | 18 | Shin Megami Tensei III  Nocturne HD Remaster | Archangel
+Angel | Divine | 11 | Shin Megami Tensei III  Nocturne HD Remaster | Angel
+Angel | Divine | 11 | Shin Megami Tensei III  Nocturne HD Remaster | Angel
+Qing Long | Dragon | 44 | Shin Megami Tensei III  Nocturne HD Remaster | Long
+Qing Long | Dragon | 44 | Shin Megami Tensei III  Nocturne HD Remaster | Long
+Xuanwu | Dragon | 30 | Shin Megami Tensei III  Nocturne HD Remaster | Gui Xian
+Xuanwu | Dragon | 30 | Shin Megami Tensei III  Nocturne HD Remaster | Gui Xian
+Flaemis | Element | 20 | Shin Megami Tensei III  Nocturne HD Remaster | Flaemis
+Flaemis | Element | 20 | Shin Megami Tensei III  Nocturne HD Remaster | Flaemis
+Aquans | Element | 15 | Shin Megami Tensei III  Nocturne HD Remaster | Aquans
+Aquans | Element | 15 | Shin Megami Tensei III  Nocturne HD Remaster | Aquans
+Aeros | Element | 11 | Shin Megami Tensei III  Nocturne HD Remaster | Aeros
+Aeros | Element | 11 | Shin Megami Tensei III  Nocturne HD Remaster | Aeros
+Erthys | Element | 7 | Shin Megami Tensei III  Nocturne HD Remaster | Erthys
+Erthys | Element | 7 | Shin Megami Tensei III  Nocturne HD Remaster | Erthys
+Albion | Entity | 64 | Shin Megami Tensei III  Nocturne HD Remaster | Albion
+Albion | Entity | 64 | Shin Megami Tensei III  Nocturne HD Remaster | Albion
+Titania | Fairy | 57 | Shin Megami Tensei III  Nocturne HD Remaster | Titania
+Titania | Fairy | 57 | Shin Megami Tensei III  Nocturne HD Remaster | Titania
+Oberon | Fairy | 46 | Shin Megami Tensei III  Nocturne HD Remaster | Oberon
+Oberon | Fairy | 46 | Shin Megami Tensei III  Nocturne HD Remaster | Oberon
+Setanta | Fairy | 43 | Shin Megami Tensei III  Nocturne HD Remaster | Setanta
+Setanta | Fairy | 43 | Shin Megami Tensei III  Nocturne HD Remaster | Setanta
+Troll | Fairy | 38 | Shin Megami Tensei III  Nocturne HD Remaster | Troll
+Troll | Fairy | 38 | Shin Megami Tensei III  Nocturne HD Remaster | Troll
+Kelpie | Fairy | 26 | Shin Megami Tensei III  Nocturne HD Remaster | Kelpie
+Kelpie | Fairy | 26 | Shin Megami Tensei III  Nocturne HD Remaster | Kelpie
+Jack-o'-Lantern | Fairy | 19 | Shin Megami Tensei III  Nocturne HD Remaster | Jack-o'-Lantern
+Jack-o'-Lantern | Fairy | 19 | Shin Megami Tensei III  Nocturne HD Remaster | Jack-o'-Lantern
+High Pixie | Fairy | 10 | Shin Megami Tensei III  Nocturne HD Remaster | High Pixie
+High Pixie | Fairy | 10 | Shin Megami Tensei III  Nocturne HD Remaster | High Pixie
+Jack Frost | Fairy | 7 | Shin Megami Tensei III  Nocturne HD Remaster | Jack Frost
+Jack Frost | Fairy | 7 | Shin Megami Tensei III  Nocturne HD Remaster | Jack Frost
+Pixie | Fairy | 2 | Shin Megami Tensei III  Nocturne HD Remaster | Pixie
+Pixie | Fairy | 2 | Shin Megami Tensei III  Nocturne HD Remaster | Pixie
+Flauros | Fallen | 68 | Shin Megami Tensei III  Nocturne HD Remaster | Flauros
+Flauros | Fallen | 68 | Shin Megami Tensei III  Nocturne HD Remaster | Flauros
+Decarabia | Fallen | 58 | Shin Megami Tensei III  Nocturne HD Remaster | Decarabia
+Decarabia | Fallen | 58 | Shin Megami Tensei III  Nocturne HD Remaster | Decarabia
+Ose | Fallen | 45 | Shin Megami Tensei III  Nocturne HD Remaster | Ose
+Ose | Fallen | 45 | Shin Megami Tensei III  Nocturne HD Remaster | Ose
+Berith | Fallen | 37 | Shin Megami Tensei III  Nocturne HD Remaster | Berith
+Berith | Fallen | 37 | Shin Megami Tensei III  Nocturne HD Remaster | Berith
+Eligor | Fallen | 29 | Shin Megami Tensei III  Nocturne HD Remaster | Eligor
+Eligor | Fallen | 29 | Shin Megami Tensei III  Nocturne HD Remaster | Eligor
+Forneus | Fallen | 20 | Shin Megami Tensei III  Nocturne HD Remaster | Forneus
+Forneus | Fallen | 20 | Shin Megami Tensei III  Nocturne HD Remaster | Forneus
+Rangda | Femme | 72 | Shin Megami Tensei III  Nocturne HD Remaster | Rangda
+Rangda | Femme | 72 | Shin Megami Tensei III  Nocturne HD Remaster | Rangda
+Atropos | Femme | 67 | Shin Megami Tensei III  Nocturne HD Remaster | Atropos
+Atropos | Femme | 67 | Shin Megami Tensei III  Nocturne HD Remaster | Atropos
+Lachesis | Femme | 63 | Shin Megami Tensei III  Nocturne HD Remaster | Lachesis
+Lachesis | Femme | 63 | Shin Megami Tensei III  Nocturne HD Remaster | Lachesis
+Clotho | Femme | 58 | Shin Megami Tensei III  Nocturne HD Remaster | Clotho
+Clotho | Femme | 58 | Shin Megami Tensei III  Nocturne HD Remaster | Clotho
+Dakini | Femme | 52 | Shin Megami Tensei III  Nocturne HD Remaster | Dakini
+Dakini | Femme | 52 | Shin Megami Tensei III  Nocturne HD Remaster | Dakini
+Yaksini | Femme | 43 | Shin Megami Tensei III  Nocturne HD Remaster | Yaksini
+Yaksini | Femme | 43 | Shin Megami Tensei III  Nocturne HD Remaster | Yaksini
+Yomotsu-Shikome | Femme | 32 | Shin Megami Tensei III  Nocturne HD Remaster | Yomotsu-Shikome
+Yomotsu-Shikome | Femme | 32 | Shin Megami Tensei III  Nocturne HD Remaster | Yomotsu-Shikome
+Taraka | Femme | 20 | Shin Megami Tensei III  Nocturne HD Remaster | Taraka
+Taraka | Femme | 20 | Shin Megami Tensei III  Nocturne HD Remaster | Taraka
+Datsue-Ba | Femme | 7 | Shin Megami Tensei III  Nocturne HD Remaster | Datsue-Ba
+Datsue-Ba | Femme | 7 | Shin Megami Tensei III  Nocturne HD Remaster | Datsue-Ba
+Dante | Fiend | 80 | Shin Megami Tensei III  Nocturne HD Remaster | Dante
+Dante | Fiend | 80 | Shin Megami Tensei III  Nocturne HD Remaster | Dante
+Trumpeter | Fiend | 77 | Shin Megami Tensei III  Nocturne HD Remaster | Trumpeter
+Trumpeter | Fiend | 77 | Shin Megami Tensei III  Nocturne HD Remaster | Trumpeter
+Mother Harlot | Fiend | 69 | Shin Megami Tensei III  Nocturne HD Remaster | Mother Harlot
+Mother Harlot | Fiend | 69 | Shin Megami Tensei III  Nocturne HD Remaster | Mother Harlot
+Pale Rider | Fiend | 63 | Shin Megami Tensei III  Nocturne HD Remaster | Pale Rider
+Pale Rider | Fiend | 63 | Shin Megami Tensei III  Nocturne HD Remaster | Pale Rider
+Black Rider | Fiend | 61 | Shin Megami Tensei III  Nocturne HD Remaster | Black Rider
+Black Rider | Fiend | 61 | Shin Megami Tensei III  Nocturne HD Remaster | Black Rider
+Red Rider | Fiend | 55 | Shin Megami Tensei III  Nocturne HD Remaster | Red Rider
+Red Rider | Fiend | 55 | Shin Megami Tensei III  Nocturne HD Remaster | Red Rider
+White Rider | Fiend | 52 | Shin Megami Tensei III  Nocturne HD Remaster | White Rider
+White Rider | Fiend | 52 | Shin Megami Tensei III  Nocturne HD Remaster | White Rider
+Hell Biker | Fiend | 42 | Shin Megami Tensei III  Nocturne HD Remaster | Hell Biker
+Hell Biker | Fiend | 42 | Shin Megami Tensei III  Nocturne HD Remaster | Hell Biker
+Daisoujou | Fiend | 37 | Shin Megami Tensei III  Nocturne HD Remaster | Daisoujou
+Daisoujou | Fiend | 37 | Shin Megami Tensei III  Nocturne HD Remaster | Daisoujou
+Matador | Fiend | 30 | Shin Megami Tensei III  Nocturne HD Remaster | Matador
+Matador | Fiend | 30 | Shin Megami Tensei III  Nocturne HD Remaster | Matador
+Shadow | Foul | 52 | Shin Megami Tensei III  Nocturne HD Remaster | Shadow (demon)
+Shadow | Foul | 52 | Shin Megami Tensei III  Nocturne HD Remaster | Shadow (demon)
+Sakahagi | Foul | 45 | Shin Megami Tensei III  Nocturne HD Remaster | Sakahagi
+Sakahagi | Foul | 45 | Shin Megami Tensei III  Nocturne HD Remaster | Sakahagi
+Phantom | Foul | 42 | Shin Megami Tensei III  Nocturne HD Remaster | Phantom
+Phantom | Foul | 42 | Shin Megami Tensei III  Nocturne HD Remaster | Phantom
+Black Ooze | Foul | 28 | Shin Megami Tensei III  Nocturne HD Remaster | Black Ooze
+Black Ooze | Foul | 28 | Shin Megami Tensei III  Nocturne HD Remaster | Black Ooze
+Blob | Foul | 16 | Shin Megami Tensei III  Nocturne HD Remaster | Blob
+Blob | Foul | 16 | Shin Megami Tensei III  Nocturne HD Remaster | Blob
+Mou-Ryo | Foul | 7 | Shin Megami Tensei III  Nocturne HD Remaster | Mou-Ryo
+Mou-Ryo | Foul | 7 | Shin Megami Tensei III  Nocturne HD Remaster | Mou-Ryo
+Slime | Foul | 6 | Shin Megami Tensei III  Nocturne HD Remaster | Slime
+Slime | Foul | 6 | Shin Megami Tensei III  Nocturne HD Remaster | Slime
+Will O' Wisp | Foul | 1 | Shin Megami Tensei III  Nocturne HD Remaster | Will O' Wisp
+Will O' Wisp | Foul | 1 | Shin Megami Tensei III  Nocturne HD Remaster | Will O' Wisp
+Specter | Foul |  | Shin Megami Tensei III  Nocturne HD Remaster | Specter
+Specter | Foul |  | Shin Megami Tensei III  Nocturne HD Remaster | Specter
+Shiva | Fury | 94 | Shin Megami Tensei III  Nocturne HD Remaster | Shiva
+Shiva | Fury | 94 | Shin Megami Tensei III  Nocturne HD Remaster | Shiva
+Beidou Xingjun | Fury | 61 | Shin Megami Tensei III  Nocturne HD Remaster | Hokuto Seikun
+Beidou Xingjun | Fury | 61 | Shin Megami Tensei III  Nocturne HD Remaster | Hokuto Seikun
+Qitian Dasheng | Fury | 54 | Shin Megami Tensei III  Nocturne HD Remaster | Wu Kong
+Qitian Dasheng | Fury | 54 | Shin Megami Tensei III  Nocturne HD Remaster | Wu Kong
+Dionysus | Fury | 44 | Shin Megami Tensei III  Nocturne HD Remaster | Dionysus
+Dionysus | Fury | 44 | Shin Megami Tensei III  Nocturne HD Remaster | Dionysus
+Cu Chulainn | Genma | 52 | Shin Megami Tensei III  Nocturne HD Remaster | Cu Chulainn
+Cu Chulainn | Genma | 52 | Shin Megami Tensei III  Nocturne HD Remaster | Cu Chulainn
+Hanuman | Genma | 46 | Shin Megami Tensei III  Nocturne HD Remaster | Hanuman
+Hanuman | Genma | 46 | Shin Megami Tensei III  Nocturne HD Remaster | Hanuman
+Kurama Tengu | Genma | 38 | Shin Megami Tensei III  Nocturne HD Remaster | Kurama Tengu
+Kurama Tengu | Genma | 38 | Shin Megami Tensei III  Nocturne HD Remaster | Kurama Tengu
+Vetala | Haunt | 63 | Shin Megami Tensei III  Nocturne HD Remaster | Vetala
+Vetala | Haunt | 63 | Shin Megami Tensei III  Nocturne HD Remaster | Vetala
+Legion | Haunt | 49 | Shin Megami Tensei III  Nocturne HD Remaster | Legion
+Legion | Haunt | 49 | Shin Megami Tensei III  Nocturne HD Remaster | Legion
+Pisaca | Haunt | 28 | Shin Megami Tensei III  Nocturne HD Remaster | Pisaca
+Pisaca | Haunt | 28 | Shin Megami Tensei III  Nocturne HD Remaster | Pisaca
+Chatterskull | Haunt | 20 | Shin Megami Tensei III  Nocturne HD Remaster | Chatterskull
+Chatterskull | Haunt | 20 | Shin Megami Tensei III  Nocturne HD Remaster | Chatterskull
+Yaka | Haunt | 17 | Shin Megami Tensei III  Nocturne HD Remaster | Yaka
+Yaka | Haunt | 17 | Shin Megami Tensei III  Nocturne HD Remaster | Yaka
+Choronzon | Haunt | 11 | Shin Megami Tensei III  Nocturne HD Remaster | Choronzon
+Choronzon | Haunt | 11 | Shin Megami Tensei III  Nocturne HD Remaster | Choronzon
+Preta | Haunt | 4 | Shin Megami Tensei III  Nocturne HD Remaster | Preta
+Preta | Haunt | 4 | Shin Megami Tensei III  Nocturne HD Remaster | Preta
+Chimera | Holy | 55 | Shin Megami Tensei III  Nocturne HD Remaster | Chimera
+Chimera | Holy | 55 | Shin Megami Tensei III  Nocturne HD Remaster | Chimera
+Baihu | Holy | 43 | Shin Megami Tensei III  Nocturne HD Remaster | Baihu
+Baihu | Holy | 43 | Shin Megami Tensei III  Nocturne HD Remaster | Baihu
+Zhuque | Holy | 36 | Shin Megami Tensei III  Nocturne HD Remaster | Suzaku
+Zhuque | Holy | 36 | Shin Megami Tensei III  Nocturne HD Remaster | Suzaku
+Senri | Holy | 27 | Shin Megami Tensei III  Nocturne HD Remaster | Senri
+Senri | Holy | 27 | Shin Megami Tensei III  Nocturne HD Remaster | Senri
+Unicorn | Holy | 21 | Shin Megami Tensei III  Nocturne HD Remaster | Unicorn
+Unicorn | Holy | 21 | Shin Megami Tensei III  Nocturne HD Remaster | Unicorn
+Shiisaa | Holy | 13 | Shin Megami Tensei III  Nocturne HD Remaster | Shiisaa
+Shiisaa | Holy | 13 | Shin Megami Tensei III  Nocturne HD Remaster | Shiisaa
+Gogmagog | Jirae | 55 | Shin Megami Tensei III  Nocturne HD Remaster | Gogmagog
+Gogmagog | Jirae | 55 | Shin Megami Tensei III  Nocturne HD Remaster | Gogmagog
+Titan | Jirae | 49 | Shin Megami Tensei III  Nocturne HD Remaster | Titan
+Titan | Jirae | 49 | Shin Megami Tensei III  Nocturne HD Remaster | Titan
+Sarutahiko | Jirae | 35 | Shin Megami Tensei III  Nocturne HD Remaster | Sarutahiko
+Sarutahiko | Jirae | 35 | Shin Megami Tensei III  Nocturne HD Remaster | Sarutahiko
+Sudama | Jirae | 13 | Shin Megami Tensei III  Nocturne HD Remaster | Sudama
+Sudama | Jirae | 13 | Shin Megami Tensei III  Nocturne HD Remaster | Sudama
+Hua Po | Jirae | 5 | Shin Megami Tensei III  Nocturne HD Remaster | Hua Po
+Hua Po | Jirae | 5 | Shin Megami Tensei III  Nocturne HD Remaster | Hua Po
+Kodama | Jirae | 3 | Shin Megami Tensei III  Nocturne HD Remaster | Kodama
+Kodama | Jirae | 3 | Shin Megami Tensei III  Nocturne HD Remaster | Kodama
+Thor | Kishin | 76 | Shin Megami Tensei III  Nocturne HD Remaster | Thor
+Thor | Kishin | 76 | Shin Megami Tensei III  Nocturne HD Remaster | Thor
+Bishamonten | Kishin | 72 | Shin Megami Tensei III  Nocturne HD Remaster | Bishamonten (demon)
+Bishamonten | Kishin | 72 | Shin Megami Tensei III  Nocturne HD Remaster | Bishamonten (demon)
+Futomimi | Kishin | 63 | Shin Megami Tensei III  Nocturne HD Remaster | Futomimi
+Futomimi | Kishin | 63 | Shin Megami Tensei III  Nocturne HD Remaster | Futomimi
+Jikokuten | Kishin | 52 | Shin Megami Tensei III  Nocturne HD Remaster | Jikokuten
+Jikokuten | Kishin | 52 | Shin Megami Tensei III  Nocturne HD Remaster | Jikokuten
+Take-Mikazuchi | Kishin | 45 | Shin Megami Tensei III  Nocturne HD Remaster | Take-Mikazuchi
+Take-Mikazuchi | Kishin | 45 | Shin Megami Tensei III  Nocturne HD Remaster | Take-Mikazuchi
+Okuninushi | Kishin | 39 | Shin Megami Tensei III  Nocturne HD Remaster | Okuninushi
+Okuninushi | Kishin | 39 | Shin Megami Tensei III  Nocturne HD Remaster | Okuninushi
+Komokuten | Kishin | 33 | Shin Megami Tensei III  Nocturne HD Remaster | Komokuten
+Komokuten | Kishin | 33 | Shin Megami Tensei III  Nocturne HD Remaster | Komokuten
+Zouchouten | Kishin | 27 | Shin Megami Tensei III  Nocturne HD Remaster | Zouchouten
+Zouchouten | Kishin | 27 | Shin Megami Tensei III  Nocturne HD Remaster | Zouchouten
+Take-Minakata | Kishin | 17 | Shin Megami Tensei III  Nocturne HD Remaster | Take-Minakata
+Take-Minakata | Kishin | 17 | Shin Megami Tensei III  Nocturne HD Remaster | Take-Minakata
+Skadi | Lady | 74 | Shin Megami Tensei III  Nocturne HD Remaster | Skadi
+Skadi | Lady | 74 | Shin Megami Tensei III  Nocturne HD Remaster | Skadi
+Kali | Lady | 67 | Shin Megami Tensei III  Nocturne HD Remaster | Kali
+Kali | Lady | 67 | Shin Megami Tensei III  Nocturne HD Remaster | Kali
+Parvati | Lady | 57 | Shin Megami Tensei III  Nocturne HD Remaster | Parvati
+Parvati | Lady | 57 | Shin Megami Tensei III  Nocturne HD Remaster | Parvati
+Kushinada | Lady | 41 | Shin Megami Tensei III  Nocturne HD Remaster | Kushinada-Hime
+Kushinada | Lady | 41 | Shin Megami Tensei III  Nocturne HD Remaster | Kushinada-Hime
+Kikuri-Hime | Lady | 24 | Shin Megami Tensei III  Nocturne HD Remaster | Kikuri-Hime
+Kikuri-Hime | Lady | 24 | Shin Megami Tensei III  Nocturne HD Remaster | Kikuri-Hime
+Scathach | Megami | 64 | Shin Megami Tensei III  Nocturne HD Remaster | Scathach
+Scathach | Megami | 64 | Shin Megami Tensei III  Nocturne HD Remaster | Scathach
+Lakshmi | Megami | 54 | Shin Megami Tensei III  Nocturne HD Remaster | Lakshmi
+Lakshmi | Megami | 54 | Shin Megami Tensei III  Nocturne HD Remaster | Lakshmi
+Sati | Megami | 48 | Shin Megami Tensei III  Nocturne HD Remaster | Sati
+Sati | Megami | 48 | Shin Megami Tensei III  Nocturne HD Remaster | Sati
+Sarasvati | Megami | 30 | Shin Megami Tensei III  Nocturne HD Remaster | Sarasvati
+Sarasvati | Megami | 30 | Shin Megami Tensei III  Nocturne HD Remaster | Sarasvati
+Ame-no-Uzume | Megami | 18 | Shin Megami Tensei III  Nocturne HD Remaster | Ame no Uzume
+Ame-no-Uzume | Megami | 18 | Shin Megami Tensei III  Nocturne HD Remaster | Ame no Uzume
+Saki Mitama | Mitama | 35 | Shin Megami Tensei III  Nocturne HD Remaster | Saki Mitama
+Saki Mitama | Mitama | 35 | Shin Megami Tensei III  Nocturne HD Remaster | Saki Mitama
+Kushi Mitama | Mitama | 32 | Shin Megami Tensei III  Nocturne HD Remaster | Kusi Mitama
+Kushi Mitama | Mitama | 32 | Shin Megami Tensei III  Nocturne HD Remaster | Kusi Mitama
+Nigi Mitama | Mitama | 29 | Shin Megami Tensei III  Nocturne HD Remaster | Nigi Mitama
+Nigi Mitama | Mitama | 29 | Shin Megami Tensei III  Nocturne HD Remaster | Nigi Mitama
+Ara Mitama | Mitama | 25 | Shin Megami Tensei III  Nocturne HD Remaster | Ara Mitama
+Ara Mitama | Mitama | 25 | Shin Megami Tensei III  Nocturne HD Remaster | Ara Mitama
+Lilith | Night | 80 | Shin Megami Tensei III  Nocturne HD Remaster | Lilith
+Lilith | Night | 80 | Shin Megami Tensei III  Nocturne HD Remaster | Lilith
+Nyx | Night | 70 | Shin Megami Tensei III  Nocturne HD Remaster | Nyx
+Nyx | Night | 70 | Shin Megami Tensei III  Nocturne HD Remaster | Nyx
+Black Frost | Night | 66 | Shin Megami Tensei III  Nocturne HD Remaster | Black Frost
+Black Frost | Night | 66 | Shin Megami Tensei III  Nocturne HD Remaster | Black Frost
+Queen Mab | Night | 56 | Shin Megami Tensei III  Nocturne HD Remaster | Queen Mab
+Queen Mab | Night | 56 | Shin Megami Tensei III  Nocturne HD Remaster | Queen Mab
+Loa | Night | 53 | Shin Megami Tensei III  Nocturne HD Remaster | Loa
+Loa | Night | 53 | Shin Megami Tensei III  Nocturne HD Remaster | Loa
+Kaiwan | Night | 47 | Shin Megami Tensei III  Nocturne HD Remaster | Kaiwan
+Kaiwan | Night | 47 | Shin Megami Tensei III  Nocturne HD Remaster | Kaiwan
+Succubus | Night | 37 | Shin Megami Tensei III  Nocturne HD Remaster | Succubus
+Succubus | Night | 37 | Shin Megami Tensei III  Nocturne HD Remaster | Succubus
+Incubus | Night | 25 | Shin Megami Tensei III  Nocturne HD Remaster | Incubus
+Incubus | Night | 25 | Shin Megami Tensei III  Nocturne HD Remaster | Incubus
+Fomorian | Night | 18 | Shin Megami Tensei III  Nocturne HD Remaster | Fomor
+Fomorian | Night | 18 | Shin Megami Tensei III  Nocturne HD Remaster | Fomor
+Lilim | Night | 8 | Shin Megami Tensei III  Nocturne HD Remaster | Lilim
+Lilim | Night | 8 | Shin Megami Tensei III  Nocturne HD Remaster | Lilim
+Gurulu | Raptor | 63 | Shin Megami Tensei III  Nocturne HD Remaster | Gurr
+Gurulu | Raptor | 63 | Shin Megami Tensei III  Nocturne HD Remaster | Gurr
+Metatron | Seraph | 95 | Shin Megami Tensei III  Nocturne HD Remaster | Metatron
+Metatron | Seraph | 95 | Shin Megami Tensei III  Nocturne HD Remaster | Metatron
+Michael | Seraph | 90 | Shin Megami Tensei III  Nocturne HD Remaster | Michael
+Michael | Seraph | 90 | Shin Megami Tensei III  Nocturne HD Remaster | Michael
+Gabriel | Seraph | 87 | Shin Megami Tensei III  Nocturne HD Remaster | Gabriel
+Gabriel | Seraph | 87 | Shin Megami Tensei III  Nocturne HD Remaster | Gabriel
+Raphael | Seraph | 84 | Shin Megami Tensei III  Nocturne HD Remaster | Raphael
+Raphael | Seraph | 84 | Shin Megami Tensei III  Nocturne HD Remaster | Raphael
+Uriel | Seraph | 73 | Shin Megami Tensei III  Nocturne HD Remaster | Uriel
+Uriel | Seraph | 73 | Shin Megami Tensei III  Nocturne HD Remaster | Uriel
+Yurlungur | Snake | 66 | Shin Megami Tensei III  Nocturne HD Remaster | Yurlungur
+Yurlungur | Snake | 66 | Shin Megami Tensei III  Nocturne HD Remaster | Yurlungur
+Quetzalcoatl | Snake | 55 | Shin Megami Tensei III  Nocturne HD Remaster | Quetzalcoatl
+Quetzalcoatl | Snake | 55 | Shin Megami Tensei III  Nocturne HD Remaster | Quetzalcoatl
+Naga Raja | Snake | 37 | Shin Megami Tensei III  Nocturne HD Remaster | Raja Naga
+Naga Raja | Snake | 37 | Shin Megami Tensei III  Nocturne HD Remaster | Raja Naga
+Mizuchi | Snake | 34 | Shin Megami Tensei III  Nocturne HD Remaster | Mizuchi
+Mizuchi | Snake | 34 | Shin Megami Tensei III  Nocturne HD Remaster | Mizuchi
+Naga | Snake | 28 | Shin Megami Tensei III  Nocturne HD Remaster | Naga
+Naga | Snake | 28 | Shin Megami Tensei III  Nocturne HD Remaster | Naga
+Nozuchi | Snake | 14 | Shin Megami Tensei III  Nocturne HD Remaster | Nozuchi
+Nozuchi | Snake | 14 | Shin Megami Tensei III  Nocturne HD Remaster | Nozuchi
+Beelzebub[fly | Tyrant | 95 | Shin Megami Tensei III  Nocturne HD Remaster | Beelzebub
+Beelzebub[fly | Tyrant | 95 | Shin Megami Tensei III  Nocturne HD Remaster | Beelzebub
+Mot | Tyrant | 91 | Shin Megami Tensei III  Nocturne HD Remaster | Mot
+Mot | Tyrant | 91 | Shin Megami Tensei III  Nocturne HD Remaster | Mot
+Beelzebub[human | Tyrant | 84 | Shin Megami Tensei III  Nocturne HD Remaster | Beelzebub
+Beelzebub[human | Tyrant | 84 | Shin Megami Tensei III  Nocturne HD Remaster | Beelzebub
+Aciel | Tyrant | 77 | Shin Megami Tensei III  Nocturne HD Remaster | Aciel
+Aciel | Tyrant | 77 | Shin Megami Tensei III  Nocturne HD Remaster | Aciel
+Surt | Tyrant | 74 | Shin Megami Tensei III  Nocturne HD Remaster | Surt
+Surt | Tyrant | 74 | Shin Megami Tensei III  Nocturne HD Remaster | Surt
+Abaddon | Tyrant | 69 | Shin Megami Tensei III  Nocturne HD Remaster | Abaddon
+Abaddon | Tyrant | 69 | Shin Megami Tensei III  Nocturne HD Remaster | Abaddon
+Loki | Tyrant | 52 | Shin Megami Tensei III  Nocturne HD Remaster | Loki
+Loki | Tyrant | 52 | Shin Megami Tensei III  Nocturne HD Remaster | Loki
+Mara | Tyrant |  | Shin Megami Tensei III  Nocturne HD Remaster | Mara
+Mara | Tyrant |  | Shin Megami Tensei III  Nocturne HD Remaster | Mara
+Ahriman | Tyrant |  | Shin Megami Tensei III  Nocturne HD Remaster | Ahriman
+Ahriman | Tyrant |  | Shin Megami Tensei III  Nocturne HD Remaster | Ahriman
+Mada | Vile | 83 | Shin Megami Tensei III  Nocturne HD Remaster | Mada
+Mada | Vile | 83 | Shin Megami Tensei III  Nocturne HD Remaster | Mada
+Samael | Vile | 73 | Shin Megami Tensei III  Nocturne HD Remaster | Samael
+Samael | Vile | 73 | Shin Megami Tensei III  Nocturne HD Remaster | Samael
+Taotie | Vile | 65 | Shin Megami Tensei III  Nocturne HD Remaster | Tao Tie
+Taotie | Vile | 65 | Shin Megami Tensei III  Nocturne HD Remaster | Tao Tie
+Girimekhala | Vile | 58 | Shin Megami Tensei III  Nocturne HD Remaster | Girimehkala
+Girimekhala | Vile | 58 | Shin Megami Tensei III  Nocturne HD Remaster | Girimehkala
+Pazuzu | Vile | 45 | Shin Megami Tensei III  Nocturne HD Remaster | Pazuzu
+Pazuzu | Vile | 45 | Shin Megami Tensei III  Nocturne HD Remaster | Pazuzu
+Baphomet | Vile | 33 | Shin Megami Tensei III  Nocturne HD Remaster | Baphomet
+Baphomet | Vile | 33 | Shin Megami Tensei III  Nocturne HD Remaster | Baphomet
+Arahabaki | Vile | 30 | Shin Megami Tensei III  Nocturne HD Remaster | Arahabaki
+Arahabaki | Vile | 30 | Shin Megami Tensei III  Nocturne HD Remaster | Arahabaki
+Noah | Vile |  | Shin Megami Tensei III  Nocturne HD Remaster | Noah
+Noah | Vile |  | Shin Megami Tensei III  Nocturne HD Remaster | Noah
+Ganesha | Wargod | 58 | Shin Megami Tensei III  Nocturne HD Remaster | Ganesha
+Ganesha | Wargod | 58 | Shin Megami Tensei III  Nocturne HD Remaster | Ganesha
+Valkyrie | Wargod | 33 | Shin Megami Tensei III  Nocturne HD Remaster | Valkyrie
+Valkyrie | Wargod | 33 | Shin Megami Tensei III  Nocturne HD Remaster | Valkyrie
+Hresvelgr | Wilder | 75 | Shin Megami Tensei III  Nocturne HD Remaster | Hresvelgr
+Hresvelgr | Wilder | 75 | Shin Megami Tensei III  Nocturne HD Remaster | Hresvelgr
+Mothman | Wilder | 43 | Shin Megami Tensei III  Nocturne HD Remaster | Mothman
+Mothman | Wilder | 43 | Shin Megami Tensei III  Nocturne HD Remaster | Mothman
+Nue | Wilder | 31 | Shin Megami Tensei III  Nocturne HD Remaster | Nue
+Nue | Wilder | 31 | Shin Megami Tensei III  Nocturne HD Remaster | Nue
+Raiju | Wilder | 25 | Shin Megami Tensei III  Nocturne HD Remaster | Raiju
+Raiju | Wilder | 25 | Shin Megami Tensei III  Nocturne HD Remaster | Raiju
+Bicorn | Wilder | 15 | Shin Megami Tensei III  Nocturne HD Remaster | Bicorn
+Bicorn | Wilder | 15 | Shin Megami Tensei III  Nocturne HD Remaster | Bicorn
+Zhen | Wilder | 6 | Shin Megami Tensei III  Nocturne HD Remaster | Zhen
+Zhen | Wilder | 6 | Shin Megami Tensei III  Nocturne HD Remaster | Zhen
+Efreet | Yoma | 52 | Shin Megami Tensei III  Nocturne HD Remaster | Ifrit
+Efreet | Yoma | 52 | Shin Megami Tensei III  Nocturne HD Remaster | Ifrit
+Pulukishi | Yoma | 48 | Shin Megami Tensei III  Nocturne HD Remaster | Purski
+Pulukishi | Yoma | 48 | Shin Megami Tensei III  Nocturne HD Remaster | Purski
+Jinn | Yoma | 44 | Shin Megami Tensei III  Nocturne HD Remaster | Jinn
+Jinn | Yoma | 44 | Shin Megami Tensei III  Nocturne HD Remaster | Jinn
+Ongkhot | Yoma | 37 | Shin Megami Tensei III  Nocturne HD Remaster | Onkot
+Ongkhot | Yoma | 37 | Shin Megami Tensei III  Nocturne HD Remaster | Onkot
+Karasu Tengu | Yoma | 28 | Shin Megami Tensei III  Nocturne HD Remaster | Karasu
+Karasu Tengu | Yoma | 28 | Shin Megami Tensei III  Nocturne HD Remaster | Karasu
+Dís | Yoma | 23 | Shin Megami Tensei III  Nocturne HD Remaster | Dis
+Dís | Yoma | 23 | Shin Megami Tensei III  Nocturne HD Remaster | Dis
+Koppa Tengu | Yoma | 19 | Shin Megami Tensei III  Nocturne HD Remaster | Koppa Tengu
+Koppa Tengu | Yoma | 19 | Shin Megami Tensei III  Nocturne HD Remaster | Koppa Tengu
+Isora | Yoma | 14 | Shin Megami Tensei III  Nocturne HD Remaster | Isora
+Isora | Yoma | 14 | Shin Megami Tensei III  Nocturne HD Remaster | Isora
+Apsaras | Yoma | 8 | Shin Megami Tensei III  Nocturne HD Remaster | Apsaras
+Apsaras | Yoma | 8 | Shin Megami Tensei III  Nocturne HD Remaster | Apsaras
 Barong | Avatar | 60 | Shin Megami Tensei III  Nocturne MANIAX | Barong
 Yatagarasu | Avatar | 46 | Shin Megami Tensei III  Nocturne MANIAX | Yatagarasu
 Xiezhai | Avatar | 26 | Shin Megami Tensei III  Nocturne MANIAX | Cai-Zhi

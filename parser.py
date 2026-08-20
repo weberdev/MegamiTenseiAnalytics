@@ -691,6 +691,13 @@ def finalizeCompendium(comp):
             demon.givenName = demon.givenName.split("(", 1)[0]
         while demon.givenName[-1].isalnum() == False:
             demon.givenName = demon.givenName[:-1]
+        if demon.game == "Shin Megami Tensei III  Nocturne MANIAX":
+            nocturneDemon = copy.copy(demon)
+            nocturneDemon.game = "Shin Megami Tensei III  Nocturne Chronicle"
+            Compendium.append(nocturneDemon)
+            nocturneDemon.game = "Shin Megami Tensei III  Nocturne HD Remaster"
+            Compendium.append(nocturneDemon)
+
 
     Compendium.sort(
         key=lambda demon: (

@@ -1,19 +1,26 @@
 import sqlite3
-
+import gameFileMaker
 import redirectparser
 import parser
 import os
 
 if os.path.exists("compendium.db"):
     os.remove("compendium.db")
-
+games = gameFileMaker.makeGameList()
 parser.Compendium.clear()
 parser.parseCompendium()
 Compendium = parser.finalizeCompendium(parser.Compendium)
 
-def getOrCreateGame(name, releaseYear=None):
+def getOrCreateGameFamily(name):
+    if name is None:
+        return None
+
     cursor.execute(
-        "SELECT game_id FROM Game WHERE name = ?",
+        """
+        SELECT family_id
+        FROM GameFamily
+        WHERE name = ?
+        """,
         (name,)
     )
 
@@ -24,15 +31,59 @@ def getOrCreateGame(name, releaseYear=None):
 
     cursor.execute(
         """
-        INSERT INTO Game (name, release_year)
-        VALUES (?, ?)
+        INSERT INTO GameFamily (name)
+        VALUES (?)
         """,
-        (name, releaseYear)
+        (name,)
     )
 
     return cursor.lastrowid
 
 
+def insertGame(game):
+    familyID = getOrCreateGameFamily(game.family)
+
+    cursor.execute(
+        """
+        INSERT INTO Game (
+            name,
+            release_year,
+            series,
+            subseries,
+            family_id,
+            release_type
+        )
+        VALUES (?, ?, ?, ?, ?, ?)
+        """,
+        (
+            game.name,
+            game.releaseYear,
+            game.series,
+            game.subseries,
+            familyID,
+            game.releaseType
+        )
+    )
+
+    return cursor.lastrowid
+def getGameID(name):
+    cursor.execute(
+        """
+        SELECT game_id
+        FROM Game
+        WHERE name = ?
+        """,
+        (name,)
+    )
+
+    row = cursor.fetchone()
+
+    if row is None:
+        raise ValueError(
+            f"No game metadata found for parsed game: {name!r}"
+        )
+
+    return row[0]
 
 def getOrCreateDemon(canonicalName, wikiName):
     cursor.execute(
@@ -112,11 +163,13 @@ CREATE TABLE IF NOT EXISTS Game (
     series TEXT,
     subseries TEXT,
     family_id INTEGER,
+    release_type TEXT,
     FOREIGN KEY (family_id)
         REFERENCES GameFamily(family_id)
 )
 """)
-
+for game in games:
+    insertGame(game)
 cursor.execute("""
 CREATE TABLE IF NOT EXISTS Demon (
     demon_id INTEGER PRIMARY KEY,
@@ -166,7 +219,7 @@ for demon in Compendium:
         demon.canonicalName
     )
 
-    gameID = getOrCreateGame(demon.game)
+    gameID = getGameID(demon.game)
 
     insertAppearance(
         demonID,

@@ -70,7 +70,7 @@ def makeGameList():
         ),
 
         GameInfo(
-            "Devil Summoner  Soul Hackers (3DS)",
+            "Devil Summoner Soul Hackers (3DS)",
             2012,
             series="Devil Summoner",
             subseries="Soul Hackers",
@@ -128,7 +128,7 @@ def makeGameList():
             series="Mainline",
             subseries="SFC Trio",
             family="Shin Megami Tensei",
-            releaseType="original"
+            releaseType="expanded_rerelease"
         ),
 
         GameInfo(
@@ -146,7 +146,7 @@ def makeGameList():
             series="Mainline",
             subseries="SFC Trio",
             family="Shin Megami Tensei II",
-            releaseType="original"
+            releaseType="expanded_rerelease"
         ),
 
         GameInfo(
@@ -186,7 +186,7 @@ def makeGameList():
         ),
 
         GameInfo(
-            "Shin Megami Tensei III  Nocturne Maniax",
+            "Shin Megami Tensei III  Nocturne MANIAX",
             2004,
             series="Mainline",
             subseries="Nocturne",
@@ -293,7 +293,7 @@ def makeGameList():
         ),
 
         GameInfo(
-            "Devil Survivor 2  Record Breaker",
+            "Devil Survivor 2 Record Breaker",
             2015,
             series="Devil Survivor",
             subseries=None,
@@ -433,6 +433,22 @@ def makeGameList():
             releaseType="original"
         ),
 
+        GameInfo(
+            "Megami Tensei",
+            1987,
+            series= "Mainline",
+            subseries = "FC Duo",
+            family = "Megami Tensei",
+            releaseType = "original"
+        ),
+        GameInfo(
+            "Megami Tensei II",
+            1990,
+            series = "Mainline",
+            subseries = "FC Duo",
+            family = "Megami Tensei II",
+            releaseType = "original"
+        )
 
     ]
     return games

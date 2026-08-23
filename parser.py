@@ -886,13 +886,13 @@ def finalizeCompendium(comp):
         rereleaseDemon.game = gamesWithRereleases[demon.game]
 
         rereleaseOnly = (
-                "[Golden only]" in demon.race
+                "[ Golden only]" in demon.race
                 or "†" in demon.givenName
         )
 
         if rereleaseOnly:
             rereleaseDemon.givenName = rereleaseDemon.givenName.replace("†", "").strip()
-            rereleaseDemon.race = rereleaseDemon.race.replace("[Golden only]", "").strip()
+            rereleaseDemon.race = rereleaseDemon.race.replace("[ Golden only]", "").strip()
             expandedCompendium.append(rereleaseDemon)
         else:
             expandedCompendium.append(demon)
@@ -901,6 +901,11 @@ def finalizeCompendium(comp):
     Compendium = expandedCompendium
 
     for demon in Compendium:
+        #this is actually a lazy cheap zero thought fix, but my real fixes would involve fixing the wiki.
+        #dude just trust me
+        #https://megamitensei.fandom.com/wiki/Maya_(demon,_Mayan)#Appearances
+        if demon.game == "Last Bible III" and demon.givenName == "Maya":
+            demon.canonicalName = "Maya (demon, Mayan)"
         if demon.game == "Shin Megami Tensei III  Nocturne MANIAX":
             nocturneDemon = copy.copy(demon)
             nocturneDemon.game = "Shin Megami Tensei III  Nocturne Chronicle"

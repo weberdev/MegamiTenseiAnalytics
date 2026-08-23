@@ -5891,15 +5891,6 @@ Mara | Tower | 75 | Persona 3 Reload | Mara
 Masakado | Tower | 79 | Persona 3 Reload | Masakado
 Shiva | Tower | 82 | Persona 3 Reload | Shiva
 Chi You | Tower | 86 | Persona 3 Reload | Chi You
-Ame-no-Uzume | Aeon [ Golden only] | 18 | Persona 4 | Ame-no-Uzume
-Narcissus | Aeon [ Golden only] | 24 | Persona 4 | Narcissus
-Sati | Aeon [ Golden only] | 31 | Persona 4 | Sati
-Raja Naga | Aeon [ Golden only] | 37 | Persona 4 | Raja Naga
-Kushinada-Hime | Aeon [ Golden only] | 44 | Persona 4 | Kushinada-Hime
-Quetzalcoatl | Aeon [ Golden only] | 51 | Persona 4 | Quetzalcoatl
-Kingu | Aeon [ Golden only] | 58 | Persona 4 | Kingu
-Lakshmi | Aeon [ Golden only] | 65 | Persona 4 | Lakshmi
-Kaguya | Aeon [ Golden only] | 74 | Persona 4 | Kaguya
 Tomoe | Chariot | 6 | Persona 4 | Tomoe
 Suzuka Gongen | Chariot | 1 | Persona 4 | Suzuka Gongen
 Haraedo-no-Okami | Chariot | 1 | Persona 4 | Haraedo-no-Okami
@@ -5998,15 +5989,6 @@ Cerberus | Hierophant | 52 | Persona 4 | Cerberus
 Daisoujou | Hierophant | 60 | Persona 4 | Daisoujou
 Hachiman | Hierophant | 70 | Persona 4 | Hachiman
 Kohryu | Hierophant | 76 | Persona 4 | Kohryu
-Gurr | Jester (Hunger) [ Golden only] | 20 | Persona 4 | Gurr
-Take-Minakata | Jester (Hunger) [ Golden only] | 27 | Persona 4 | Take-Minakata
-Pale Rider | Jester (Hunger) [ Golden only] | 34 | Persona 4 | Pale Rider
-Loa | Jester (Hunger) [ Golden only] | 40 | Persona 4 | Loa
-Baphomet | Jester (Hunger) [ Golden only] | 47 | Persona 4 | Baphomet
-Kumbhanda | Jester (Hunger) [ Golden only] | 55 | Persona 4 | Kumbhanda
-Chernobog | Jester (Hunger) [ Golden only] | 62 | Persona 4 | Chernobog
-Seiten Taisei | Jester (Hunger) [ Golden only] | 68 | Persona 4 | Seiten Taisei
-Magatsu-Izanagi | Jester (Hunger) [ Golden only] | 77 | Persona 4 | Magatsu-Izanagi
 Anubis | Judgement | 59 | Persona 4 | Anubis
 Trumpeter | Judgement | 67 | Persona 4 | Trumpeter
 Michael | Judgement | 72 | Persona 4 | Michael
@@ -6117,15 +6099,15 @@ Masakado | Tower | 69 | Persona 4 | Masakado
 Yoshitsune | Tower | 75 | Persona 4 | Yoshitsune
 Shiva | Tower | 80 | Persona 4 | Shiva
 Izanagi-no-Okami | World | 91 | Persona 4 | Izanagi-no-Okami
-Ame-no-Uzume | Aeon [ Golden only] | 18 | Persona 4 Golden | Ame-no-Uzume
-Narcissus | Aeon [ Golden only] | 24 | Persona 4 Golden | Narcissus
-Sati | Aeon [ Golden only] | 31 | Persona 4 Golden | Sati
-Raja Naga | Aeon [ Golden only] | 37 | Persona 4 Golden | Raja Naga
-Kushinada-Hime | Aeon [ Golden only] | 44 | Persona 4 Golden | Kushinada-Hime
-Quetzalcoatl | Aeon [ Golden only] | 51 | Persona 4 Golden | Quetzalcoatl
-Kingu | Aeon [ Golden only] | 58 | Persona 4 Golden | Kingu
-Lakshmi | Aeon [ Golden only] | 65 | Persona 4 Golden | Lakshmi
-Kaguya | Aeon [ Golden only] | 74 | Persona 4 Golden | Kaguya
+Ame-no-Uzume | Aeon | 18 | Persona 4 Golden | Ame-no-Uzume
+Narcissus | Aeon | 24 | Persona 4 Golden | Narcissus
+Sati | Aeon | 31 | Persona 4 Golden | Sati
+Raja Naga | Aeon | 37 | Persona 4 Golden | Raja Naga
+Kushinada-Hime | Aeon | 44 | Persona 4 Golden | Kushinada-Hime
+Quetzalcoatl | Aeon | 51 | Persona 4 Golden | Quetzalcoatl
+Kingu | Aeon | 58 | Persona 4 Golden | Kingu
+Lakshmi | Aeon | 65 | Persona 4 Golden | Lakshmi
+Kaguya | Aeon | 74 | Persona 4 Golden | Kaguya
 Tomoe | Chariot | 6 | Persona 4 Golden | Tomoe
 Suzuka Gongen | Chariot | 1 | Persona 4 Golden | Suzuka Gongen
 Haraedo-no-Okami | Chariot | 1 | Persona 4 Golden | Haraedo-no-Okami
@@ -6224,15 +6206,15 @@ Cerberus | Hierophant | 52 | Persona 4 Golden | Cerberus
 Daisoujou | Hierophant | 60 | Persona 4 Golden | Daisoujou
 Hachiman | Hierophant | 70 | Persona 4 Golden | Hachiman
 Kohryu | Hierophant | 76 | Persona 4 Golden | Kohryu
-Gurr | Jester (Hunger) [ Golden only] | 20 | Persona 4 Golden | Gurr
-Take-Minakata | Jester (Hunger) [ Golden only] | 27 | Persona 4 Golden | Take-Minakata
-Pale Rider | Jester (Hunger) [ Golden only] | 34 | Persona 4 Golden | Pale Rider
-Loa | Jester (Hunger) [ Golden only] | 40 | Persona 4 Golden | Loa
-Baphomet | Jester (Hunger) [ Golden only] | 47 | Persona 4 Golden | Baphomet
-Kumbhanda | Jester (Hunger) [ Golden only] | 55 | Persona 4 Golden | Kumbhanda
-Chernobog | Jester (Hunger) [ Golden only] | 62 | Persona 4 Golden | Chernobog
-Seiten Taisei | Jester (Hunger) [ Golden only] | 68 | Persona 4 Golden | Seiten Taisei
-Magatsu-Izanagi | Jester (Hunger) [ Golden only] | 77 | Persona 4 Golden | Magatsu-Izanagi
+Gurr | Jester (Hunger) | 20 | Persona 4 Golden | Gurr
+Take-Minakata | Jester (Hunger) | 27 | Persona 4 Golden | Take-Minakata
+Pale Rider | Jester (Hunger) | 34 | Persona 4 Golden | Pale Rider
+Loa | Jester (Hunger) | 40 | Persona 4 Golden | Loa
+Baphomet | Jester (Hunger) | 47 | Persona 4 Golden | Baphomet
+Kumbhanda | Jester (Hunger) | 55 | Persona 4 Golden | Kumbhanda
+Chernobog | Jester (Hunger) | 62 | Persona 4 Golden | Chernobog
+Seiten Taisei | Jester (Hunger) | 68 | Persona 4 Golden | Seiten Taisei
+Magatsu-Izanagi | Jester (Hunger) | 77 | Persona 4 Golden | Magatsu-Izanagi
 Anubis | Judgement | 59 | Persona 4 Golden | Anubis
 Trumpeter | Judgement | 67 | Persona 4 Golden | Trumpeter
 Michael | Judgement | 72 | Persona 4 Golden | Michael

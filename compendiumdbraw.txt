@@ -1,3 +1,375 @@
+Hairy Jack | Akuma | 3 | Devil Children Black Book & Red Book | Hairy Jack
+Nekomata | Akuma | 5 | Devil Children Black Book & Red Book | Nekomata
+Ammut | Akuma | 8 | Devil Children Black Book & Red Book | Ammut
+Sura | Akuma | 10 | Devil Children Black Book & Red Book | Asura
+Anzu | Akuma | 13 | Devil Children Black Book & Red Book | Anzu
+Bahan | Akuma | 14 | Devil Children Black Book & Red Book | Bahan
+Clock Rabbit | Akuma | 15 | Devil Children Black Book & Red Book | Clock Rabbit
+King Sura | Akuma | 17 | Devil Children Black Book & Red Book | Asura
+Arachne | Akuma | 18 | Devil Children Black Book & Red Book | Arachne
+Stymphalides | Akuma | 19 | Devil Children Black Book & Red Book | Stymphalides
+Hippogriff | Akuma | 20 | Devil Children Black Book & Red Book | Hippogriff
+Anubis | Akuma | 22 | Devil Children Black Book & Red Book | Anubis
+Isis | Akuma | 24 | Devil Children Black Book & Red Book | Isis
+Bathin | Akuma | 27 | Devil Children Black Book & Red Book | Bathin
+Taksaka | Akuma | 29 | Devil Children Black Book & Red Book | Taksaka
+Nue | Akuma | 31 | Devil Children Black Book & Red Book | Nue
+Azoth | Akuma | 32 | Devil Children Black Book & Red Book | Azoth
+Black Raja | Akuma | 34 | Devil Children Black Book & Red Book | Black Raja
+Rahab | Akuma | 37 | Devil Children Black Book & Red Book | Rahab
+Titan | Akuma | 39 | Devil Children Black Book & Red Book | Titan
+Mammon | Akuma | 42 | Devil Children Black Book & Red Book | Mammon
+Tsukuyomi | Akuma | 44 | Devil Children Black Book & Red Book | Tsukuyomi
+Susano-o | Akuma | 47 | Devil Children Black Book & Red Book | Susano-o
+Van | Akuma | 49 | Devil Children Black Book & Red Book | Van
+Scathach | Akuma | 50 | Devil Children Black Book & Red Book | Scathach
+Kraken | Akuma | 52 | Devil Children Black Book & Red Book | Kraken
+King Van | Akuma | 54 | Devil Children Black Book & Red Book | King Van
+Paramese | Alternate Type | 2 | Devil Children Black Book & Red Book | Paramese
+Mechi | Alternate Type | 5 | Devil Children Black Book & Red Book | Mechi
+Koropokkuru | Alternate Type | 7 | Devil Children Black Book & Red Book | Koropokkuru
+Shock | Alternate Type | 9 | Devil Children Black Book & Red Book | Shock (demon)
+Gris gris | Alternate Type | 11 | Devil Children Black Book & Red Book | Gris gris
+Agathion | Alternate Type | 13 | Devil Children Black Book & Red Book | Agathion
+Waira | Alternate Type | 15 | Devil Children Black Book & Red Book | Waira
+Fairy | Alternate Type | 17 | Devil Children Black Book & Red Book | Fairy (demon)
+Hare of Inaba | Alternate Type | 20 | Devil Children Black Book & Red Book | Hare of Inaba
+Nacht Kobold | Alternate Type | 22 | Devil Children Black Book & Red Book | Nacht Kobold
+Nidhoggr | Alternate Type | 25 | Devil Children Black Book & Red Book | Nidhoggr
+Kappa | Alternate Type | 27 | Devil Children Black Book & Red Book | Kappa
+Franken | Alternate Type | 30 | Devil Children Black Book & Red Book | Franken
+Tuofei | Alternate Type | 33 | Devil Children Black Book & Red Book | Tuofei
+Snappy | Alternate Type | 35 | Devil Children Black Book & Red Book | Snappy
+Airavata | Alternate Type | 37 | Devil Children Black Book & Red Book | Airavata
+Xiezhai | Alternate Type | 40 | Devil Children Black Book & Red Book | Xiezhai
+Lynx | Alternate Type | 42 | Devil Children Black Book & Red Book | Lynx
+Scylla | Alternate Type | 45 | Devil Children Black Book & Red Book | Scylla
+Ganesha | Alternate Type | 47 | Devil Children Black Book & Red Book | Ganesha
+Simurgh | Alternate Type | 48 | Devil Children Black Book & Red Book | Simurgh
+Charon | Alternate Type | 50 | Devil Children Black Book & Red Book | Charon
+Helldog | Alternate Type | 52 | Devil Children Black Book & Red Book | Hellhound
+Odin | Alternate Type | 54 | Devil Children Black Book & Red Book | Odin
+Cerberus | Beast | 5 | Devil Children Black Book & Red Book | Cerberus
+Death Cerberus | Beast | 17 | Devil Children Black Book & Red Book | Meta Nex
+Hell Cerberus | Beast | 30 | Devil Children Black Book & Red Book | Neo Nex
+King Cerberus | Beast | 45 | Devil Children Black Book & Red Book | King Nex
+Gryphon | Beast | 5 | Devil Children Black Book & Red Book | Gryphon
+Death Gryphon | Beast | 17 | Devil Children Black Book & Red Book | Meta Gef
+Hell Gryphon | Beast | 30 | Devil Children Black Book & Red Book | Neo Gef
+King Gryphon | Beast | 45 | Devil Children Black Book & Red Book | King Gef
+Hresvelgr | Boss Type | 20 | Devil Children Black Book & Red Book | Hresvelgr
+Diana | Boss Type | 12 | Devil Children Black Book & Red Book | Diana (Devil Children)
+Vibhishana | Boss Type | 18 | Devil Children Black Book & Red Book | Vibhishana
+Vritra | Boss Type | 1 | Devil Children Black Book & Red Book | Vritra
+Indra | Boss Type | 19 | Devil Children Black Book & Red Book | Indra
+Fenrir | Boss Type | 20 | Devil Children Black Book & Red Book | Fenrir
+Abaddon | Boss Type | 1 | Devil Children Black Book & Red Book | Abaddon
+Paimon | Boss Type | 22 | Devil Children Black Book & Red Book | Paimon
+Sphinx | Boss Type | 26 | Devil Children Black Book & Red Book | Sphinx
+Asmodeus | Boss Type | 1 | Devil Children Black Book & Red Book | Asmodeus
+Death Sphinx | Boss Type | 30 | Devil Children Black Book & Red Book | Dephinx
+Belial | Boss Type | 33 | Devil Children Black Book & Red Book | Belial
+Hell Sphinx | Boss Type | 35 | Devil Children Black Book & Red Book | Helphinx
+Uriel | Boss Type | 36 | Devil Children Black Book & Red Book | Uriel
+Lucifer | Boss Type | 44 | Devil Children Black Book & Red Book | Lucifer
+Azel | Boss Type | 46 | Devil Children Black Book & Red Book | Azazel
+Michael | Boss Type | 48 | Devil Children Black Book & Red Book | Michael
+Neo Sphinx | Boss Type | 50 | Devil Children Black Book & Red Book | Neuphinx
+Berith | Boss Type | 51 | Devil Children Black Book & Red Book | Berith
+Phegor | Boss Type | 53 | Devil Children Black Book & Red Book | Belphegor
+Zebul | Boss Type | 55 | Devil Children Black Book & Red Book | Beelzebub
+Nisroc | Divine | 4 | Devil Children Black Book & Red Book | Nisroc
+Watcher | Divine | 6 | Devil Children Black Book & Red Book | Watcher (Demon)
+Nike | Divine | 9 | Devil Children Black Book & Red Book | Nike
+Grigori | Divine | 12 | Devil Children Black Book & Red Book | Grigori
+Zepar | Divine | 14 | Devil Children Black Book & Red Book | Zepar
+Angel | Divine | 16 | Devil Children Black Book & Red Book | Angel
+Koakuma | Divine | 19 | Devil Children Black Book & Red Book | Koakuma
+Skull Crown | Divine | 21 | Devil Children Black Book & Red Book | Skull Crown
+Prince | Divine | 23 | Devil Children Black Book & Red Book | Principality
+Raziel | Divine | 25 | Devil Children Black Book & Red Book | Raziel
+Arche | Divine | 26 | Devil Children Black Book & Red Book | Arche
+Exousia | Divine | 28 | Devil Children Black Book & Red Book | Exousia
+Power | Divine | 31 | Devil Children Black Book & Red Book | Power
+Virtue | Divine | 32 | Devil Children Black Book & Red Book | Virtue
+Dynamis | Divine | 34 | Devil Children Black Book & Red Book | Dynamis
+Dominion | Divine | 36 | Devil Children Black Book & Red Book | Dominion
+Ophanim | Divine | 38 | Devil Children Black Book & Red Book | Ophanim
+Kuriotes | Divine | 39 | Devil Children Black Book & Red Book | Kuriotes
+Galgalim | Divine | 40 | Devil Children Black Book & Red Book | Galgalim
+Sariel | Divine | 41 | Devil Children Black Book & Red Book | Sariel
+Cherub | Divine | 43 | Devil Children Black Book & Red Book | Cherub
+Seraph | Divine | 45 | Devil Children Black Book & Red Book | Seraph (demon)
+Merkabah | Divine | 46 | Devil Children Black Book & Red Book | Merkabah
+Ego | Divine | 48 | Devil Children Black Book & Red Book | Ego
+Archangel | Divine | 52 | Devil Children Black Book & Red Book | Archangel
+Satan | Divine | 54 | Devil Children Black Book & Red Book | Satan
+Nessie | Dragon Type | 2 | Devil Children Black Book & Red Book | Nessie
+Sand Dragon | Dragon Type | 5 | Devil Children Black Book & Red Book | Sand Dragon
+Mizuchi | Dragon Type | 8 | Devil Children Black Book & Red Book | Mizuchi
+Makara | Dragon Type | 11 | Devil Children Black Book & Red Book | Makara
+Salamander | Dragon Type | 13 | Devil Children Black Book & Red Book | Salamander
+Otohime | Dragon Type | 14 | Devil Children Black Book & Red Book | Otohime
+Basilisk | Dragon Type | 15 | Devil Children Black Book & Red Book | Basilisk
+Fafnir | Dragon Type | 17 | Devil Children Black Book & Red Book | Fafnir
+Cockatrice | Dragon Type | 23 | Devil Children Black Book & Red Book | Cockatrice
+Orochi | Dragon Type | 25 | Devil Children Black Book & Red Book | Yamata no Orochi
+Dahaka | Dragon Type | 26 | Devil Children Black Book & Red Book | Dahaka
+Crom Cruach | Dragon Type | 27 | Devil Children Black Book & Red Book | Crom Cruach
+Culebre | Dragon Type | 29 | Devil Children Black Book & Red Book | Culebre
+Seiryu | Dragon Type | 31 | Devil Children Black Book & Red Book | Seiryu
+Wyvern | Dragon Type | 33 | Devil Children Black Book & Red Book | Wyvern
+Yamata no Orochi | Dragon Type | 34 | Devil Children Black Book & Red Book | Yamata no Orochi
+Naga | Dragon Type | 35 | Devil Children Black Book & Red Book | Naga
+Vasuki | Dragon Type | 37 | Devil Children Black Book & Red Book | Vasuki
+Svafnir | Dragon Type | 39 | Devil Children Black Book & Red Book | Svafnir
+Yinglong | Dragon Type | 40 | Devil Children Black Book & Red Book | Yinglong
+Hong Long | Dragon Type | 42 | Devil Children Black Book & Red Book | Hong Long
+Yurlungur | Dragon Type | 45 | Devil Children Black Book & Red Book | Yurlungur
+Ouroboros | Dragon Type | 47 | Devil Children Black Book & Red Book | Ouroboros
+Ananta | Dragon Type | 49 | Devil Children Black Book & Red Book | Ananta
+Hei Long | Dragon Type | 50 | Devil Children Black Book & Red Book | Rox
+Wadjet | Dragon Type | 52 | Devil Children Black Book & Red Book | Wadjet
+Bai Long | Dragon Type | 54 | Devil Children Black Book & Red Book | Bai Long
+Counting Sheep | Ghost Type | 2 | Devil Children Black Book & Red Book | Counting Sheep
+Vetala | Ghost Type | 4 | Devil Children Black Book & Red Book | Vetala
+Cait Sith | Ghost Type | 7 | Devil Children Black Book & Red Book | Cait Sith
+Sandman | Ghost Type | 9 | Devil Children Black Book & Red Book | Sandman
+Undine | Ghost Type | 12 | Devil Children Black Book & Red Book | Undine
+Makura-gaeshi | Ghost Type | 13 | Devil Children Black Book & Red Book | Makura-gaeshi
+Onibi | Ghost Type | 15 | Devil Children Black Book & Red Book | Onibi
+Phantom | Ghost Type | 17 | Devil Children Black Book & Red Book | Phantom
+Red Cloak | Ghost Type | 18 | Devil Children Black Book & Red Book | Red Cloak
+Vampire | Ghost Type | 19 | Devil Children Black Book & Red Book | Vampire
+Melissa | Ghost Type | 21 | Devil Children Black Book & Red Book | Melissa
+Incubus | Ghost Type | 22 | Devil Children Black Book & Red Book | Incubus
+Baku | Ghost Type | 23 | Devil Children Black Book & Red Book | Baku
+Succubus | Ghost Type | 25 | Devil Children Black Book & Red Book | Succubus
+Banshee | Ghost Type | 27 | Devil Children Black Book & Red Book | Banshee
+Quicksilver | Ghost Type | 28 | Devil Children Black Book & Red Book | Quicksilver
+Legion | Ghost Type | 30 | Devil Children Black Book & Red Book | Legion
+Ifrit | Ghost Type | 33 | Devil Children Black Book & Red Book | Ifrit
+Mokoi | Ghost Type | 35 | Devil Children Black Book & Red Book | Mokoi
+Yatagarasu | Ghost Type | 38 | Devil Children Black Book & Red Book | Yatagarasu
+Dullahan | Ghost Type | 40 | Devil Children Black Book & Red Book | Dullahan (demon)
+Doppelgänger | Ghost Type | 41 | Devil Children Black Book & Red Book | Doppelgänger
+Gingitsune | Ghost Type | 43 | Devil Children Black Book & Red Book | Gingitsune
+Nightmare | Ghost Type | 46 | Devil Children Black Book & Red Book | Nightmare
+Kyuki | Ghost Type | 48 | Devil Children Black Book & Red Book | Kyuki
+Namtar | Ghost Type | 51 | Devil Children Black Book & Red Book | Namtar
+Ankou | Ghost Type | 53 | Devil Children Black Book & Red Book | Ankou
+Nekhbet | Good Type | 4 | Devil Children Black Book & Red Book | Nekhbet
+Tatari Mokke | Good Type | 6 | Devil Children Black Book & Red Book | Tatari Mokke
+Hippou | Good Type | 8 | Devil Children Black Book & Red Book | Hippou
+Deva | Good Type | 10 | Devil Children Black Book & Red Book | Deva
+Bastet | Good Type | 13 | Devil Children Black Book & Red Book | Bastet
+Kotodama | Good Type | 14 | Devil Children Black Book & Red Book | Kotodama
+Unicorn | Good Type | 16 | Devil Children Black Book & Red Book | Unicorn
+Rukh | Good Type | 17 | Devil Children Black Book & Red Book | Rukh
+Feng Huang | Good Type | 19 | Devil Children Black Book & Red Book | Feng Huang
+King Deva | Good Type | 18 | Devil Children Black Book & Red Book | King Deva
+Komainu | Good Type | 20 | Devil Children Black Book & Red Book | Komainu
+Neko Shogun | Good Type | 21 | Devil Children Black Book & Red Book | Neko Shogun
+Horus | Good Type | 22 | Devil Children Black Book & Red Book | Horus
+Pegasus | Good Type | 25 | Devil Children Black Book & Red Book | Pegasus
+Shiisaa | Good Type | 28 | Devil Children Black Book & Red Book | Shiisaa
+Okitsune | Good Type | 30 | Devil Children Black Book & Red Book | Kitsune
+Suzaku | Good Type | 32 | Devil Children Black Book & Red Book | Suzaku
+Byakko | Good Type | 33 | Devil Children Black Book & Red Book | Byakko
+Yatsufusa | Good Type | 34 | Devil Children Black Book & Red Book | Yatsufusa
+Itzamna | Good Type | 36 | Devil Children Black Book & Red Book | Itzamna
+Quetzalcoatl | Good Type | 37 | Devil Children Black Book & Red Book | Quetzalcoatl
+Barong | Good Type | 38 | Devil Children Black Book & Red Book | Barong
+Garuda | Good Type | 39 | Devil Children Black Book & Red Book | Garuda
+Canhel | Good Type | 41 | Devil Children Black Book & Red Book | Canhel
+Tanuki no Namamono | Good Type | 42 | Devil Children Black Book & Red Book | Tanuki no Namamono
+Genbu | Good Type | 43 | Devil Children Black Book & Red Book | Genbu
+Rangda | Good Type | 46 | Devil Children Black Book & Red Book | Rangda
+Kirin | Good Type | 49 | Devil Children Black Book & Red Book | Kirin
+Qing Niuguai | Good Type | 51 | Devil Children Black Book & Red Book | Qing Niuguai
+Gnome | Ogre Type | 1 | Devil Children Black Book & Red Book | Gnome
+Pixie | Ogre Type | 3 | Devil Children Black Book & Red Book | Pixie
+Yeti | Ogre Type | 6 | Devil Children Black Book & Red Book | Yeti
+Humbaba | Ogre Type | 8 | Devil Children Black Book & Red Book | Humbaba
+Issun-boshi | Ogre Type | 9 | Devil Children Black Book & Red Book | Issun-boshi
+Rasetsu | Ogre Type | 10 | Devil Children Black Book & Red Book | Rasetsu
+Itsumade | Ogre Type | 13 | Devil Children Black Book & Red Book | Itsumade
+Golem | Ogre Type | 15 | Devil Children Black Book & Red Book | Golem
+Sylph | Ogre Type | 16 | Devil Children Black Book & Red Book | Sylph
+King Rasetsu | Ogre Type | 17 | Devil Children Black Book & Red Book | King Rasetsu
+Skeleton | Ogre Type | 18 | Devil Children Black Book & Red Book | Skeleton
+Nitanita | Ogre Type | 20 | Devil Children Black Book & Red Book | Nitanita
+Pifrus | Ogre Type | 21 | Devil Children Black Book & Red Book | Pifrus
+Ghoul | Ogre Type | 24 | Devil Children Black Book & Red Book | Ghoul
+Toushin | Ogre Type | 26 | Devil Children Black Book & Red Book | Toushin
+Seiten Taisei | Ogre Type | 27 | Devil Children Black Book & Red Book | Seiten Taisei
+Robot | Ogre Type | 30 | Devil Children Black Book & Red Book | Robot
+Dwarf | Ogre Type | 31 | Devil Children Black Book & Red Book | Dwarf
+Mummy | Ogre Type | 32 | Devil Children Black Book & Red Book | Mummy
+Troll | Ogre Type | 33 | Devil Children Black Book & Red Book | Troll
+Boogeyman | Ogre Type | 34 | Devil Children Black Book & Red Book | Boogeyman
+Yamanba | Ogre Type | 36 | Devil Children Black Book & Red Book | Yamanba
+Oni | Ogre Type | 38 | Devil Children Black Book & Red Book | Oni
+Android | Ogre Type | 39 | Devil Children Black Book & Red Book | Android
+DB-kun | Ogre Type | 41 | Devil Children Black Book & Red Book | DB-kun
+Hecatoncheir | Ogre Type | 42 | Devil Children Black Book & Red Book | Hecatoncheir
+Girimehkala | Ogre Type | 44 | Devil Children Black Book & Red Book | Girimehkala
+Caladbolg | Ogre Type | 47 | Devil Children Black Book & Red Book | Caladbolg
+Behemoth | Others | 46 | Devil Children Black Book & Red Book | Behemoth
+Leviathan | Others | 1 | Devil Children Black Book & Red Book | Leviathan
+Ikkaku Dragon | Others | 41 | Devil Children Black Book & Red Book | Ikkaku Dragon
+Gabriel | Others | 48 | Devil Children Black Book & Red Book | Gabriel
+Metatron | Others | 54 | Devil Children Black Book & Red Book | Metatron
+Bakemogura | PlayStation Exclusive | 13 | Devil Children Black Book & Red Book | Bakemogura
+Kami wo Kure | PlayStation Exclusive | 20 | Devil Children Black Book & Red Book | Kami wo Kure
+A Bao A Qu | PlayStation Exclusive | 40 | Devil Children Black Book & Red Book | A Bao A Qu
+Nautilus | PlayStation Exclusive | 29 | Devil Children Black Book & Red Book | Nautilus
+Bunbuku Chagama | PlayStation Exclusive | 10 | Devil Children Black Book & Red Book | Bunbuku Chagama
+Moai | PlayStation Exclusive | 19 | Devil Children Black Book & Red Book | Moai
+Keukegen | PlayStation Exclusive | 22 | Devil Children Black Book & Red Book | Keukegen
+Rokurokubi | PlayStation Exclusive | 34 | Devil Children Black Book & Red Book | Rokurokubi
+Kiyohime | PlayStation Exclusive | 35 | Devil Children Black Book & Red Book | Kiyohime
+Jersey Devil | PlayStation Exclusive | 21 | Devil Children Black Book & Red Book | Jersey Devil
+Cyborg Deka | PlayStation Exclusive | 23 | Devil Children Black Book & Red Book | Cyborg Deka
+Zenki Goki | PlayStation Exclusive | 28 | Devil Children Black Book & Red Book | Zenki Goki
+Abe no Seimei | PlayStation Exclusive | 32 | Devil Children Black Book & Red Book | Abe no Seimei
+Paramecium King | PlayStation Exclusive | 36 | Devil Children Black Book & Red Book | Paramecium King
+Excalibur | PlayStation Exclusive | 46 | Devil Children Black Book & Red Book | Excalibur (demon)
+Jiang Ziya | PlayStation Exclusive | 50 | Devil Children Black Book & Red Book | Jiang Ziya
+Kaguya Hime | PlayStation Exclusive | 26 | Devil Children Black Book & Red Book | Kaguya Hime
+Brownie | PlayStation Exclusive | 24 | Devil Children Black Book & Red Book | Brownie
+Zeus | PlayStation Exclusive | 60 | Devil Children Black Book & Red Book | Zeus
+Amaterasu | PlayStation Exclusive | 60 | Devil Children Black Book & Red Book | Amaterasu
+Petit Frost | Yoma | 1 | Devil Children Black Book & Red Book | Petit Frost
+Ratatoskr | Yoma | 3 | Devil Children Black Book & Red Book | Ratatoskr
+Garm | Yoma | 5 | Devil Children Black Book & Red Book | Garm
+Yukinko | Yoma | 7 | Devil Children Black Book & Red Book | Yukinko
+Jack Frost | Yoma | 9 | Devil Children Black Book & Red Book | Jack Frost
+Strawberry Frost | Yoma | 11 | Devil Children Black Book & Red Book | Strawberry Frost
+Pyro Jack | Yoma | 14 | Devil Children Black Book & Red Book | Jack-o'-Lantern
+Kamaitachi | Yoma | 15 | Devil Children Black Book & Red Book | Razor
+Yuki-onna | Yoma | 16 | Devil Children Black Book & Red Book | Yuki-onna
+Kuda | Yoma | 17 | Devil Children Black Book & Red Book | Kuda
+Orthrus | Yoma | 20 | Devil Children Black Book & Red Book | Orthrus (demon)
+Neko no Namamono | Yoma | 21 | Devil Children Black Book & Red Book | Neko no Namamono
+Frost Ace | Yoma | 22 | Devil Children Black Book & Red Book | Frost Ace
+Myrmecoleon | Yoma | 25 | Devil Children Black Book & Red Book | Myrmecoleon
+Titania | Yoma | 27 | Devil Children Black Book & Red Book | Titania
+Kyūbi no Kitsune | Yoma | 29 | Devil Children Black Book & Red Book | Kitsune
+Zaccoum | Yoma | 30 | Devil Children Black Book & Red Book | Zaccoum
+King Frost | Yoma | 31 | Devil Children Black Book & Red Book | King Frost
+Harpy | Yoma | 32 | Devil Children Black Book & Red Book | Harpy
+Cu Sith | Yoma | 34 | Devil Children Black Book & Red Book | Cu Sith
+Mandrake | Yoma | 35 | Devil Children Black Book & Red Book | Mandrake
+Kijimuna | Yoma | 37 | Devil Children Black Book & Red Book | Kijimuna
+Hundun | Yoma | 40 | Devil Children Black Book & Red Book | Hundun
+Taown | Yoma | 43 | Devil Children Black Book & Red Book | Taown
+Siren | Yoma | 41 | Devil Children Black Book & Red Book | Siren
+Daji | Yoma | 45 | Devil Children Black Book & Red Book | Daji
+Tengu | Yoma | 47 | Devil Children Black Book & Red Book | Tengu
+Manticore | Yoma | 50 | Devil Children Black Book & Red Book | Manticore
+Ame-no-Uzume | Untyped | 1 | Devil Children Messiah Riser | Ame-no-Uzume
+Pegasus | Untyped | 1 | Devil Children Messiah Riser | Pegasus
+Jikokuten | Untyped | 1 | Devil Children Messiah Riser | Jikokuten
+Ishtar | Untyped | 1 | Devil Children Messiah Riser | Ishtar
+Ares | Untyped | 1 | Devil Children Messiah Riser | Ares
+Urd | Untyped | 1 | Devil Children Messiah Riser | Urd
+Skuld | Untyped | 1 | Devil Children Messiah Riser | Skuld
+Verdandi | Untyped | 1 | Devil Children Messiah Riser | Verdandi
+Nekomata | Untyped | 1 | Devil Children Messiah Riser | Nekomata
+Imp | Untyped | 1 | Devil Children Messiah Riser | Imp
+Kali | Untyped | 1 | Devil Children Messiah Riser | Kali
+Dunamis | Untyped | 1 | Devil Children Messiah Riser | Dunamis
+Nue | Untyped | 1 | Devil Children Messiah Riser | Nue
+Balor | Untyped | 1 | Devil Children Messiah Riser | Balor
+Rangda | Untyped | 1 | Devil Children Messiah Riser | Rangda
+Scathach | Untyped | 1 | Devil Children Messiah Riser | Scathach
+Barchiel | Untyped | 1 | Devil Children Messiah Riser | Barchiel
+Angel | Untyped | 1 | Devil Children Messiah Riser | Angel
+Zuriel | Untyped | 1 | Devil Children Messiah Riser | Zuriel
+Virtue | Untyped | 1 | Devil Children Messiah Riser | Virtue
+Muriel | Untyped | 1 | Devil Children Messiah Riser | Muriel
+Ambriel | Untyped | 1 | Devil Children Messiah Riser | Ambriel
+Barbiel | Untyped | 1 | Devil Children Messiah Riser | Barbiel
+Michael | Untyped | 1 | Devil Children Messiah Riser | Michael
+Mizuchi | Untyped | 1 | Devil Children Messiah Riser | Mizuchi
+Otohime | Untyped | 1 | Devil Children Messiah Riser | Otohime
+Culebre | Untyped | 1 | Devil Children Messiah Riser | Culebre
+Lindwurm | Untyped | 1 | Devil Children Messiah Riser | Lindwurm
+Quetzalcoatl | Untyped | 1 | Devil Children Messiah Riser | Quetzalcoatl
+Typhon | Untyped | 1 | Devil Children Messiah Riser | Typhon
+Yurlungur | Untyped | 1 | Devil Children Messiah Riser | Yurlungur
+Jormungandr | Untyped | 1 | Devil Children Messiah Riser | Jormungandr
+Tatari Mokke | Untyped | 1 | Devil Children Messiah Riser | Tatari Mokke
+Hippou | Untyped | 1 | Devil Children Messiah Riser | Hippou
+Anzu | Untyped | 1 | Devil Children Messiah Riser | Anzu
+Gargoyle | Untyped | 1 | Devil Children Messiah Riser | Gargoyle
+Feng Huang | Untyped | 1 | Devil Children Messiah Riser | Feng Huang
+Kudlak | Untyped | 1 | Devil Children Messiah Riser | Kudlak
+Yatagarasu | Untyped | 1 | Devil Children Messiah Riser | Yatagarasu
+Pazuzu | Untyped | 1 | Devil Children Messiah Riser | Pazuzu
+Kaso | Untyped | 1 | Devil Children Messiah Riser | Kaso
+Unicorn | Untyped | 1 | Devil Children Messiah Riser | Unicorn
+Selkie | Untyped | 1 | Devil Children Messiah Riser | Selkie
+Airavata | Untyped | 1 | Devil Children Messiah Riser | Airavata
+Nemea | Untyped | 1 | Devil Children Messiah Riser | Nemea
+Humbaba | Untyped | 1 | Devil Children Messiah Riser | Humbaba
+Barong | Untyped | 1 | Devil Children Messiah Riser | Barong
+Behemoth | Untyped | 1 | Devil Children Messiah Riser | Behemoth
+Gnome | Untyped | 1 | Devil Children Messiah Riser | Gnome
+Pixie | Untyped | 1 | Devil Children Messiah Riser | Pixie
+Amanojaku | Untyped | 1 | Devil Children Messiah Riser | Amanojaku
+Tsuchigumo | Untyped | 1 | Devil Children Messiah Riser | Tsuchigumo
+Golem | Untyped | 1 | Devil Children Messiah Riser | Golem
+Sylph | Untyped | 1 | Devil Children Messiah Riser | Sylph
+Shuten-Doji | Untyped | 1 | Devil Children Messiah Riser | Shuten-Doji
+Hecatoncheir | Untyped | 1 | Devil Children Messiah Riser | Hecatoncheir
+Counting Sheep | Untyped | 1 | Devil Children Messiah Riser | Counting Sheep
+Vampire | Untyped | 1 | Devil Children Messiah Riser | Vampire
+Hanuman | Untyped | 1 | Devil Children Messiah Riser | Hanuman
+Lich | Untyped | 1 | Devil Children Messiah Riser | Lich
+Artemis | Untyped | 1 | Devil Children Messiah Riser | Artemis
+Raykon | Untyped | 1 | Devil Children Messiah Riser | Raykon
+Nightmare | Untyped | 1 | Devil Children Messiah Riser | Nightmare
+Kyuuki | Untyped | 1 | Devil Children Messiah Riser | Kyuuki
+Garm | Untyped | 1 | Devil Children Messiah Riser | Garm
+Pyro Jack | Untyped | 1 | Devil Children Messiah Riser | Jack-o'-Lantern
+Leprechaun | Untyped | 1 | Devil Children Messiah Riser | Leprechaun
+Jack Frost | Untyped | 1 | Devil Children Messiah Riser | Jack Frost
+Yuki-onna | Untyped | 1 | Devil Children Messiah Riser | Yuki-onna
+Redcap | Untyped | 1 | Devil Children Messiah Riser | Redcap
+Berserker | Untyped | 1 | Devil Children Messiah Riser | Berserker
+Tengu | Untyped | 1 | Devil Children Messiah Riser | Tengu
+Paramese | Untyped | 1 | Devil Children Messiah Riser | Paramese
+Mokele Mbembe | Untyped | 1 | Devil Children Messiah Riser | Mokele Mbembe
+Xiezhai | Untyped | 1 | Devil Children Messiah Riser | Xiezhai
+Franken | Untyped | 1 | Devil Children Messiah Riser | Franken
+Brahma | Untyped | 1 | Devil Children Messiah Riser | Brahma
+Thor | Untyped | 1 | Devil Children Messiah Riser | Thor
+Loki | Untyped | 1 | Devil Children Messiah Riser | Loki
+Odin | Untyped | 1 | Devil Children Messiah Riser | Odin
+Rox | Untyped | 1 | Devil Children Messiah Riser | Rox
+Dred Rox | Untyped | 1 | Devil Children Messiah Riser | Dred Rox
+Mega Rox | Untyped | 1 | Devil Children Messiah Riser | Mega Rox
+Blaze Hei Long | Untyped | 1 | Devil Children Messiah Riser | Blaze Hei Long
+Doom Rox | Untyped | 1 | Devil Children Messiah Riser | Doom Rox
+Sol Cat | Untyped | 1 | Devil Children Messiah Riser | Sol Cat
+Rune Cat | Untyped | 1 | Devil Children Messiah Riser | Rune Cat
+Kaos Cat | Untyped | 1 | Devil Children Messiah Riser | Kaos Cat
+Dred Cat | Untyped | 1 | Devil Children Messiah Riser | Dred Cat
+Dark Cat | Untyped | 1 | Devil Children Messiah Riser | Dark Cat
+Oojita | Untyped | 1 | Devil Children Messiah Riser | Oojita
+Raruu | Untyped | 1 | Devil Children Messiah Riser | Raruu
+Ame-no-Uzume | Untyped | 1 | Devil Children Messiah Riser | Ame-no-Uzume
+Nekomata | Untyped | 1 | Devil Children Messiah Riser | Nekomata
+Barchiel | Untyped | 1 | Devil Children Messiah Riser | Barchiel
+Mizuchi | Untyped | 1 | Devil Children Messiah Riser | Mizuchi
+Tatari Mokke | Untyped | 1 | Devil Children Messiah Riser | Tatari Mokke
+Kaso | Untyped | 1 | Devil Children Messiah Riser | Kaso
+Gnome | Untyped | 1 | Devil Children Messiah Riser | Gnome
+Counting Sheep | Untyped | 1 | Devil Children Messiah Riser | Counting Sheep
+Garm | Untyped | 1 | Devil Children Messiah Riser | Garm
+Paramese | Untyped | 1 | Devil Children Messiah Riser | Paramese
 Erthys | Element Order | 14 | Devil Summoner  Raidou Kuzunoha vs. King Abaddon | Erthys
 Aeros | Element Order | 17 | Devil Summoner  Raidou Kuzunoha vs. King Abaddon | Aeros
 Aquans | Element Order | 19 | Devil Summoner  Raidou Kuzunoha vs. King Abaddon | Aquans
@@ -1952,6 +2324,500 @@ Ubelluris | Yaksa | 17 | Digital Devil Saga  Avatar Tuner 2 | Ubelluris
 Varunani | Yaksa | 48 | Digital Devil Saga  Avatar Tuner 2 | Varunani
 Vetala | Yaksa | 8 | Digital Devil Saga  Avatar Tuner 2 | Vetala
 Vritra& Tentacles | Yaksa | 40 | Digital Devil Saga  Avatar Tuner 2 | Vritra
+Kobold | Race A | 8 | Last Bible | Kobold
+Gozuki | Race A | 17 | Last Bible | Gozuki
+Atlas | Race A | 22 | Last Bible | Atlas
+Hangman | Race A | 29 | Last Bible | Lemur
+Cufling | Race A | 32 | Last Bible | Cu Chulainn
+Medusa | Race A | 35 | Last Bible | Medusa (demon)
+Scylla | Race A | 41 | Last Bible | Scylla
+Gorgon | Race A | 43 | Last Bible | Gorgon
+Nike | Race A | 53 | Last Bible | Nike
+Ifrit | Race A | 56 | Last Bible | Ifrit
+Kali | Race A | 70 | Last Bible | Shiva
+Baku | Race B | 4 | Last Bible | Baku
+Sasori | Race B | 6 | Last Bible | Tammuz
+Kimalis | Race B | 8 | Last Bible | Cimeies
+Chimera | Race B | 16 | Last Bible | Chimera
+Crow | Race B | 24 | Last Bible | Yatagarasu
+Cratureクリーチャー | Race B | 30 | Last Bible | Creature
+Fenrir | Race B | 33 | Last Bible | Fenrir
+Needle | Race B | 37 | Last Bible | Sasori Otoko
+Salamand | Race B | 42 | Last Bible | Salamander
+Scorpio | Race B | 45 | Last Bible | Sasori Otoko
+Suzaku | Race B | 57 | Last Bible | Suzaku
+Hecket | Race C | 2 | Last Bible | Heqet
+Laluhn | Race C | 3 | Last Bible | Rarung
+Blue | Race C | 12 | Last Bible | Stonka
+Gryphon | Race C | 17 | Last Bible | Gryphon
+Wingsウイングス | Race C | 25 | Last Bible | Wingsウイングス
+Garuda | Race C | 34 | Last Bible | Garuda
+Sphinx | Race C | 38 | Last Bible | Sphinx
+M-Eater | Race C | 44 | Last Bible | Man Eater
+Diva | Race C | 52 | Last Bible | Deva
+Zenon | Race C | 55 | Last Bible | Zeus
+Tanki | Race D | 6 | Last Bible | Tan-Ki
+Larun | Race D | 13 | Last Bible | Rarung
+Banshee | Race D | 16 | Last Bible | Banshee
+Mezuki | Race D | 18 | Last Bible | Mezuki
+Golem | Race D | 28 | Last Bible | Golem
+Unicorn | Race D | 31 | Last Bible | Unicorn
+Sylphy | Race D | 32 | Last Bible | Sylph
+Nue | Race D | 36 | Last Bible | Nue
+Baram | Race D | 44 | Last Bible | Balam
+Jinn | Race D | 50 | Last Bible | Jinn
+Harpy | Race E | 7 | Last Bible | Harpy
+Kelpie | Race E | 15 | Last Bible | Kelpie
+Driad | Race E | 29 | Last Bible | Dryad
+Sylph | Race E | 30 | Last Bible | Sylph
+Treant | Race E | 31 | Last Bible | Treant
+Nymph | Race E | 39 | Last Bible | Nymph (demon)
+Tsuスウ | Race E | 49 | Last Bible | Tsuスウ
+Wyvern | Race E | 51 | Last Bible | Wyvern
+Shiva | Race E | 58 | Last Bible | Vishnu
+Blob | Race F | 4 | Last Bible | Blob
+D-Link | Race F | 5 | Last Bible | Worm
+Mammoth | Race F | 14 | Last Bible | Humbaba
+Tiamat | Race F | 15 | Last Bible | Tiamat
+Ctrise | Race F | 17 | Last Bible | Cockatrice
+Alcheny | Race F | 20 | Last Bible | Arachne
+Cancer | Race F | 27 | Last Bible | Cancer
+Radon | Race F | 34 | Last Bible | Ladon
+Bones | Race F | 42 | Last Bible | Bone Golem
+Wraith | Race F | 43 | Last Bible | Lakhe
+Gomora | Race F | 46 | Last Bible | Gomorrah
+Wyrm | Race F | 48 | Last Bible | Wyrm
+Spider | Race G | 1 | Last Bible | Tsuchigumo
+Gayle | Race G | 10 | Last Bible | Chon Chon
+Ix Owlイクスオウル | Race G | 22 | Last Bible | Ix Owlイクスオウル
+Vepal | Race G | 26 | Last Bible | Vepar
+F-Trapラフレシア | Race G | 30 | Last Bible | Rafflesia
+Legba | Race G | 33 | Last Bible | Legba
+Tiphon | Race G | 40 | Last Bible | Typhon
+Slime | Race H | 1 | Last Bible | Slime
+Lich | Race H | 1 | Last Bible | Lich
+Zord PゾーﾄﾞＰ | Race X | 19 | Last Bible | Zord PゾーﾄﾞＰ
+Guyガイ | Race X | 21 | Last Bible | Guyガイ
+Zord HゾーﾄﾞＨ | Race X | 27 | Last Bible | Zord HゾーﾄﾞＨ
+Busterバスター | Race X | 35 | Last Bible | Busterバスター
+Zord MゾーﾄﾞＭ | Race X | 37 | Last Bible | Zord MゾーﾄﾞＭ
+Apemanゾードン | Race X | 47 | Last Bible | Apemanゾードン
+Zodiaゾディア | Race X | 55 | Last Bible | Zodia
+Kirin Zombie | Race X | 51 | Last Bible | Kirin
+Kirin | Race X | 60 | Last Bible | Kirin
+Amon Zombie | Race X | 60 | Last Bible | Amon
+Amon | Race X | 60 | Last Bible | Amon
+Dragon Zombie | Race X | 55 | Last Bible | Dragon Zombie
+Dragon | Race X | 60 | Last Bible | Dragon (Demon)
+K-Beeキラービー | Race Y | 11 | Last Bible | K-Beeキラービー
+Skulls | Race Y | 21 | Last Bible | Skeleton
+Rakshum | Race Y | 31 | Last Bible | Lakshmi
+Anubis | Race Y | 46 | Last Bible | Anubis
+Fury | Race Y | 47 | Last Bible | Fleurety
+Durahan | Race Y | 59 | Last Bible | Dullahan (demon)
+Pazuzu | Race Y | 80 | Last Bible | Pazuzu
+Loki | Race Y | 70 | Last Bible | Loki
+Odin | Race Y | 85 | Last Bible | Odin
+Asura | Race Y | 85 | Last Bible | Asura
+Cerbero | Race Z | 40 | Last Bible | Cerberus
+Orthrus | Race Z | 40 | Last Bible | Orthrus
+Solion | Race Z | 60 | Last Bible | Sol Cat
+Vaerial | Race Z | 70 | Last Bible | Belial
+Baal | Race Z | 70 | Last Bible | Baal
+Michael | Race Z | 80 | Last Bible | Michael
+Lucifer | Race Z | 85 | Last Bible | Lucifer
+Kashi | Beast Group | 1 | Last Bible II | Cu Sith
+Sanki | Beast Group | 3 | Last Bible II | Sanki
+Kelp | Beast Group | 7 | Last Bible II | Cherub
+Tamamo | Beast Group | 10 | Last Bible II | Tamamo
+Nandi | Beast Group | 13 | Last Bible II | Nandi
+Tanki | Beast Group | 16 | Last Bible II | Tan-Ki
+Gamijin | Beast Group | 19 | Last Bible II | Gamigin
+Randa | Beast Group | 21 | Last Bible II | Rangda
+Ashu | Beast Group | 24 | Last Bible II | Souyou
+Stonka | Beast Group | 26 | Last Bible II | Stonka
+Senko | Beast Group | 29 | Last Bible II | Senko
+Mantico | Beast Group | 31 | Last Bible II | Manticore
+Kelpie | Beast Group | 34 | Last Bible II | Kelpie
+Racketラクチャ | Beast Group | 36 | Last Bible II | Racketラクチャ
+Nue | Beast Group | 39 | Last Bible II | Nue
+Salamand | Beast Group | 41 | Last Bible II | Salamander
+Unicorn | Beast Group | 44 | Last Bible II | Unicorn
+Barong | Beast Group | 46 | Last Bible II | Barong
+Sphynx | Beast Group | 50 | Last Bible II | Sphinx
+Fenrir | Beast Group | 55 | Last Bible II | Fenrir
+Pteros | Bird Group | 1 | Last Bible II | Shisochou
+Raven | Bird Group | 4 | Last Bible II | Boogie Raven
+Jukko | Bird Group | 5 | Last Bible II | Jyukuko
+Jatayu | Bird Group | 9 | Last Bible II | Jatayu
+Velgベルク | Bird Group | 12 | Last Bible II | Velgベルク
+Marquo | Bird Group | 15 | Last Bible II | Marchosias
+Vultureシトリ | Bird Group | 17 | Last Bible II | Vultureシトリ
+Coctrice | Bird Group | 20 | Last Bible II | Cockatrice
+Vibecaw | Bird Group | 23 | Last Bible II | Badb Catha
+Gryphon | Bird Group | 25 | Last Bible II | Gryphon
+Fulkaro | Bird Group | 28 | Last Bible II | Focalor
+Jabbaジャバ | Bird Group | 31 | Last Bible II | Jabbaジャバ
+Yatgras | Bird Group | 33 | Last Bible II | Yatagarasu
+Basilis | Bird Group | 36 | Last Bible II | Basilisk
+Firebir | Bird Group | 38 | Last Bible II | Feng Huang
+Garuda | Bird Group | 41 | Last Bible II | Garuda
+Rocawロックちょう | Bird Group | 43 | Last Bible II | Rukh
+Wyrm | Bird Group | 46 | Last Bible II | Wyrm
+Wyvern | Bird Group | 49 | Last Bible II | Wyvern
+Phoenix | Bird Group | 72 | Last Bible II | Phoenix
+Dwarf | Demonaics Group | 2 | Last Bible II | Dwarf
+Elf | Demonaics Group | 4 | Last Bible II | Elf
+Knocker | Demonaics Group | 8 | Last Bible II | Knocker
+Gnome | Demonaics Group | 11 | Last Bible II | Gnome
+Mahakra | Demonaics Group | 14 | Last Bible II | Mahakala
+Dryad | Demonaics Group | 17 | Last Bible II | Dryad
+Yaxini | Demonaics Group | 20 | Last Bible II | Yaksini
+Ushars | Demonaics Group | 22 | Last Bible II | Usas
+Genie | Demonaics Group | 25 | Last Bible II | Jinn
+Sult | Demonaics Group | 27 | Last Bible II | Surt
+Hanuman | Demonaics Group | 30 | Last Bible II | Hanuman
+Servant | Demonaics Group | 32 | Last Bible II | Edimmu
+Chakraシャカラ | Demonaics Group | 35 | Last Bible II | Chakraシャカラ
+Atlas | Demonaics Group | 34 | Last Bible II | Atlas
+Kali | Demonaics Group | 40 | Last Bible II | Kali
+Hibakaraヒバカラ | Demonaics Group | 42 | Last Bible II | Hibakaraヒバカラ
+Archion | Demonaics Group | 45 | Last Bible II | Alcyoneus
+Thor | Demonaics Group | 47 | Last Bible II | Thor
+Kubanda | Demonaics Group | 52 | Last Bible II | Kumbhanda
+Odin | Demonaics Group | 73 | Last Bible II | Odin
+Worm | Dragon Group | 2 | Last Bible II | Worm
+Ogre | Dragon Group | 5 | Last Bible II | Ogre
+Naga | Dragon Group | 8 | Last Bible II | Naga
+Yurlung | Dragon Group | 10 | Last Bible II | Yurlungur
+Orochi | Dragon Group | 12 | Last Bible II | Yamata no Orochi
+Balam | Dragon Group | 15 | Last Bible II | Balam
+Gangar | Dragon Group | 18 | Last Bible II | Ganga
+Pairon | Dragon Group | 21 | Last Bible II | Bai Long
+Ulm | Dragon Group | 24 | Last Bible II | Ulm
+Hydra | Dragon Group | 26 | Last Bible II | Hydra
+Vritra | Dragon Group | 29 | Last Bible II | Vritra
+Gomorra | Dragon Group | 32 | Last Bible II | Gomorrah
+Ananta | Dragon Group | 34 | Last Bible II | Ananta
+Chinlon | Dragon Group | 37 | Last Bible II | Qing Long
+Samael | Dragon Group | 39 | Last Bible II | Samael
+Serpent | Dragon Group | 42 | Last Bible II | Serpent
+Tiamat | Dragon Group | 45 | Last Bible II | Tiamat
+Fafnir | Dragon Group | 48 | Last Bible II | Fafnir
+Pekyon | Dragon Group | 51 | Last Bible II | Baek Yong
+Tagonタゴン | Dragon Group | 55 | Last Bible II | Tagonタゴン
+Earthy | Elemental Group | 7 | Last Bible II | Erthys
+Aeros | Elemental Group | 14 | Last Bible II | Aeros
+Aquanz | Elemental Group | 21 | Last Bible II | Aquans
+Flammie | Elemental Group | 28 | Last Bible II | Flaemis
+Ugobach | Elemental Group | 35 | Last Bible II | Ukobach
+Golem | Elemental Group | 42 | Last Bible II | Golem
+Djinn | Elemental Group | 49 | Last Bible II | Jinn
+Ifrit | Elemental Group | 72 | Last Bible II | Ifrit
+Kobold | Evil Demonaics Group | 2 | Last Bible II | Kobold
+Werepup | Evil Demonaics Group | 4 | Last Bible II | Weredog
+Ork | Evil Demonaics Group | 8 | Last Bible II | Orc
+Troll | Evil Demonaics Group | 11 | Last Bible II | Troll
+Bukkabu | Evil Demonaics Group | 14 | Last Bible II | Bucca-Boo
+Lamia | Evil Demonaics Group | 17 | Last Bible II | Lamia
+Furiaei | Evil Demonaics Group | 20 | Last Bible II | Furiae
+Colonzo | Evil Demonaics Group | 22 | Last Bible II | Choronzon
+Grull | Evil Demonaics Group | 25 | Last Bible II | Gurr
+Gorgon | Evil Demonaics Group | 27 | Last Bible II | Gorgon
+Centaur | Evil Demonaics Group | 30 | Last Bible II | Centaur
+Oncott | Evil Demonaics Group | 32 | Last Bible II | Onkot
+Chulruk | Evil Demonaics Group | 35 | Last Bible II | Celuluk
+Yaksha | Evil Demonaics Group | 37 | Last Bible II | Yaksa
+Natak | Evil Demonaics Group | 40 | Last Bible II | Nataku
+Laque | Evil Demonaics Group | 42 | Last Bible II | Lakhe
+Minotar | Evil Demonaics Group | 45 | Last Bible II | Minotaur
+Girimel | Evil Demonaics Group | 1 | Last Bible II | Girimekhala
+Rakusha | Evil Demonaics Group | 52 | Last Bible II | Rakshasa
+Titan | Evil Demonaics Group | 73 | Last Bible II | Titan
+Skull | Foul Group | 1 | Last Bible II | Chatterskull
+Crawler | Foul Group | 3 | Last Bible II | Tsuchigumo
+Watcher | Foul Group | 7 | Last Bible II | Watcher (Demon)
+Mouryou | Foul Group | 10 | Last Bible II | Mou-Ryo
+Tammuz | Foul Group | 13 | Last Bible II | Tammuz
+Ooze | Foul Group | 16 | Last Bible II | Black Ooze
+Remulus | Foul Group | 19 | Last Bible II | Lemures
+Loa | Foul Group | 21 | Last Bible II | Loa
+Apolion | Foul Group | 24 | Last Bible II | Apollyon
+Phantom | Foul Group | 26 | Last Bible II | Phantom
+Corpse | Foul Group | 29 | Last Bible II | Corpse
+Legba | Foul Group | 31 | Last Bible II | Legba
+Isora | Foul Group | 34 | Last Bible II | Isora
+Chomper | Foul Group | 37 | Last Bible II | Chon Chon
+Larvae | Foul Group | 39 | Last Bible II | Larvae
+Elementエレメント | Foul Group | 41 | Last Bible II | Elementエレメント
+Legion | Foul Group | 44 | Last Bible II | Legion
+Mara | Foul Group | 46 | Last Bible II | Mara
+Itzamna | Foul Group | 50 | Last Bible II | Itzamna
+Kyakut | Foul Group | 55 | Last Bible II | Cyak
+Pixie | Magica Group | 2 | Last Bible II | Pixie
+Goblin | Magica Group | 5 | Last Bible II | Goblin
+Harpy | Magica Group | 8 | Last Bible II | Harpy
+Warcat | Magica Group | 10 | Last Bible II | Werecat
+Booger | Magica Group | 12 | Last Bible II | Bogle
+Wardog | Magica Group | 15 | Last Bible II | Weredog
+Sylph | Magica Group | 18 | Last Bible II | Sylph
+Occupet | Magica Group | 21 | Last Bible II | Ocypete
+Azumi | Magica Group | 24 | Last Bible II | Azumi
+Lilim | Magica Group | 26 | Last Bible II | Lilim
+Orkas | Magica Group | 29 | Last Bible II | Orcus
+Orobus | Magica Group | 32 | Last Bible II | Orobas
+Siren | Magica Group | 34 | Last Bible II | Siren
+Aello | Magica Group | 37 | Last Bible II | Aello
+Vapor | Magica Group | 37 | Last Bible II | Vepar
+Cokatoo | Magica Group | 42 | Last Bible II | Gu Huo Niao
+Succubi | Magica Group | 45 | Last Bible II | Succubus
+Flouret | Magica Group | 48 | Last Bible II | Fleurety
+Narashi | Magica Group | 51 | Last Bible II | Narasimha
+Ganesha | Magica Group | 55 | Last Bible II | Ganesha
+Lich | Non-evolvable | 10 | Last Bible II | Lich
+Genome | Non-evolvable | 15 | Last Bible II | Gnome
+Fahan | Non-evolvable | 20 | Last Bible II | Fachan
+Skelton | Non-evolvable | 25 | Last Bible II | Skeleton
+Kirin Zombie | Non-evolvable | 28 | Last Bible II | Kirin
+Cerberu | Non-evolvable | 30 | Last Bible II | Cerberus
+Orthus | Non-evolvable | 30 | Last Bible II | Orthrus
+Kuhulin | Non-evolvable | 30 | Last Bible II | Cu Chulainn
+Kirin | Non-evolvable | 32 | Last Bible II | Kirin
+Dragon Zombie | Non-evolvable | 32 | Last Bible II | Seiryu
+Anubis | Non-evolvable | 35 | Last Bible II | Anubis
+Amon Zombie | Non-evolvable | 35 | Last Bible II | Amon
+Dragon | Non-evolvable | 35 | Last Bible II | Seiryu
+Tinygonちびりゅう | Non-evolvable | 35 | Last Bible II | Tinygonちびりゅう
+Donkou | Non-evolvable | 40 | Last Bible II | Tun Kou
+Amon | Non-evolvable | 40 | Last Bible II | Amon
+GigantZombie | Non-evolvable | 40 | Last Bible II | Gigant
+Bones | Non-evolvable | 45 | Last Bible II | Bone Golem
+Gigant | Non-evolvable | 50 | Last Bible II | Gigant
+Tamlin | Non-evolvable | 50 | Last Bible II | Tam Lin
+Durahan | Non-evolvable | 55 | Last Bible II | Dullahan (demon)
+Suzaku | Non-evolvable | 65 | Last Bible II | Suzaku
+Eligore | Non-evolvable | 70 | Last Bible II | Eligor
+Pazuzu | Non-evolvable | 75 | Last Bible II | Pazuzu
+Fencer | Non-evolvable | 76 | Last Bible II | Genbu
+Zenon | Non-evolvable | 80 | Last Bible II | Zeus
+Solion | Non-evolvable | 85 | Last Bible II | Sol Cat
+Raphael | Non-evolvable | 100 | Last Bible II | Raphael
+Gabriel | Non-evolvable | 100 | Last Bible II | Gabriel
+Michael | Non-evolvable | 120 | Last Bible II | Michael
+Lucifer | Non-evolvable | 120 | Last Bible II | Lucifer
+Goki | Other | 30 | Last Bible II | Goki
+Skyjaki | Other | 30 | Last Bible II | Skyjaki
+Shutenk | Other | 35 | Last Bible II | Shutenk
+Gozuki | Other | 48 | Last Bible II | Gozuki
+Mezuki | Other | 48 | Last Bible II | Mezuki
+Shuragiシュラギ | Other | 50 | Last Bible II | Shuragiシュラギ
+Zenki | Other | 61 | Last Bible II | Zenki
+Raou | Other | 76 | Last Bible II | Raou
+Gaia | Other | 90 | Last Bible II | Gaia
+Canine | A Group | 1 | Last Bible Special | Cu Sith
+Sanki | A Group | 3 | Last Bible Special | Sanki
+Kelp | A Group | 7 | Last Bible Special | Cherub
+Tamano | A Group | 10 | Last Bible Special | Tamamo
+Nandi | A Group | 13 | Last Bible Special | Nandi
+Tanki | A Group | 16 | Last Bible Special | Tan-Ki
+Gamigin | A Group | 19 | Last Bible Special | Gamigin
+Rangda | A Group | 21 | Last Bible Special | Rangda
+Atsuyu | A Group | 24 | Last Bible Special | Souyou
+Stonka | A Group | 26 | Last Bible Special | Stonka
+Senko | A Group | 29 | Last Bible Special | Senko
+Manticore | A Group | 31 | Last Bible Special | Manticore
+Kelpi | A Group | 34 | Last Bible Special | Kelpie
+Rakcharango | A Group | 36 | Last Bible Special | Rakcharango
+Nue | A Group | 39 | Last Bible Special | Nue
+Salamander | A Group | 41 | Last Bible Special | Salamander
+Unicorn | A Group | 44 | Last Bible Special | Unicorn
+Barong | A Group | 46 | Last Bible Special | Barong
+Sphinx | A Group | 50 | Last Bible Special | Sphinx
+Fenrir | A Group | 55 | Last Bible Special | Fenrir
+Reichou | B Group | 1 | Last Bible Special | Shisochou
+Raven | B Group | 4 | Last Bible Special | Boogie Raven
+Jukuko | B Group | 6 | Last Bible Special | Jyukuko
+Belc | B Group | 12 | Last Bible Special | Belc
+Malchio | B Group | 15 | Last Bible Special | Marchosias
+Shitori | B Group | 17 | Last Bible Special | Shitori
+Cockatrice | B Group | 20 | Last Bible Special | Cockatrice
+Badb Catha | B Group | 23 | Last Bible Special | Badb Catha
+Griffon | B Group | 25 | Last Bible Special | Gryphon
+Focalor | B Group | 28 | Last Bible Special | Focalor
+Jaba | B Group | 31 | Last Bible Special | Jaba
+Yatagasu | B Group | 33 | Last Bible Special | Yatagarasu
+Baslisk | B Group | 36 | Last Bible Special | Basilisk
+Houhou | B Group | 38 | Last Bible Special | Feng Huang
+Garuda | B Group | 41 | Last Bible Special | Garuda
+Roc | B Group | 43 | Last Bible Special | Rukh
+Wyrm | B Group | 46 | Last Bible Special | Wyrm
+Wyvern | B Group | 49 | Last Bible Special | Wyvern
+Phoenix | B Group | 56 | Last Bible Special | Phoenix
+Irastur | Boss Group | 10 | Last Bible Special | Yliaster
+Vitriol | Boss Group | 15 | Last Bible Special | Vitriol
+Solve | Boss Group | 25 | Last Bible Special | Solve
+Coagula | Boss Group | 30 | Last Bible Special | Coagula
+Nigredo | Boss Group | 35 | Last Bible Special | Nigredo
+Hoenheim | Boss Group | 30 | Last Bible Special | Hoenheim
+Leton | Boss Group | 45 | Last Bible Special | Leton
+Akelous | Boss Group | 50 | Last Bible Special | Achelous
+Hoenheim | Boss Group | 80 | Last Bible Special | Hoenheim
+Albedo | Boss Group | 55 | Last Bible Special | Albedo
+Argos | Boss Group | 65 | Last Bible Special | Argos
+Iris | Boss Group | 70 | Last Bible Special | Iris
+Rubedo | Boss Group | 75 | Last Bible Special | Rubedo
+Project | Boss Group | 80 | Last Bible Special | Project (Demon)
+Ubroros | Boss Group | 85 | Last Bible Special | Ouroboros
+Gryas | Boss Group | 99 | Last Bible Special | Gryas
+Paragon | Boss Group | 99 | Last Bible Special | Paragon
+Kobold | C Group | 2 | Last Bible Special | Kobold
+Wolfman | C Group | 4 | Last Bible Special | Werewolf
+Orc | C Group | 8 | Last Bible Special | Orc
+Troll | C Group | 11 | Last Bible Special | Troll
+Bukkabu | C Group | 14 | Last Bible Special | Bugaboo
+Lamia | C Group | 17 | Last Bible Special | Lamia
+Furiae | C Group | 20 | Last Bible Special | Furiae
+Coronzon | C Group | 22 | Last Bible Special | Choronzon
+Gurulu | C Group | 25 | Last Bible Special | Gurr
+Centaur | C Group | 30 | Last Bible Special | Centaur
+Onkotto | C Group | 32 | Last Bible Special | Onkot
+Celuluk | C Group | 35 | Last Bible Special | Celuluk
+Yakusha | C Group | 37 | Last Bible Special | Yaksa
+Nataku | C Group | 40 | Last Bible Special | Nezha
+Lakhe | C Group | 42 | Last Bible Special | Lakhe
+Minotaur | C Group | 45 | Last Bible Special | Minotaur
+Girimek | C Group | 47 | Last Bible Special | Girimehkala
+Rakshasha | C Group | 52 | Last Bible Special | Rakshasa
+Titan | C Group | 57 | Last Bible Special | Titan
+Dwarf | D Group | 2 | Last Bible Special | Dwarf
+Elf | D Group | 4 | Last Bible Special | Elf
+Knocker | D Group | 8 | Last Bible Special | Knocker
+Gnome | D Group | 11 | Last Bible Special | Gnome
+Makara | D Group | 14 | Last Bible Special | Mahakala
+Dryad | D Group | 17 | Last Bible Special | Dryad
+Yakshini | D Group | 20 | Last Bible Special | Yaksini
+Usas | D Group | 22 | Last Bible Special | Usas
+Genie | D Group | 25 | Last Bible Special | Jinn
+Surt | D Group | 27 | Last Bible Special | Surt
+Hanuman | D Group | 30 | Last Bible Special | Hanuman
+Enkinm | D Group | 32 | Last Bible Special | Edimmu
+Shakara | D Group | 35 | Last Bible Special | Shakara
+Atlas | D Group | 37 | Last Bible Special | Atlas
+Kali | D Group | 40 | Last Bible Special | Kali
+Hibakara | D Group | 42 | Last Bible Special | Hibakara
+Alkynus | D Group | 45 | Last Bible Special | Alcyoneus
+Dvergar | D Group | 47 | Last Bible Special | Thor
+Kumbhir | D Group | 52 | Last Bible Special | Kumbhanda
+Odin | D Group | 57 | Last Bible Special | Odin
+Worm | E Group | 2 | Last Bible Special | Worm
+Ogga | E Group | 5 | Last Bible Special | Ogre
+Naga | E Group | 8 | Last Bible Special | Naga
+Yurubu | E Group | 10 | Last Bible Special | Yurlungur
+Orochi | E Group | 12 | Last Bible Special | Yamata no Orochi
+Ganga | E Group | 18 | Last Bible Special | Ganga
+Pylon | E Group | 21 | Last Bible Special | Bai Long
+Ulm | E Group | 24 | Last Bible Special | Ulm
+Hydra | E Group | 26 | Last Bible Special | Hydra
+Vritra | E Group | 29 | Last Bible Special | Vritra
+Gomorah | E Group | 32 | Last Bible Special | Gomorrah
+Ananta | E Group | 34 | Last Bible Special | Ananta
+Cheiron | E Group | 37 | Last Bible Special | Seiryu
+Samael | E Group | 39 | Last Bible Special | Samael
+Serpent | E Group | 42 | Last Bible Special | Serpent
+Tiamat | E Group | 45 | Last Bible Special | Tiamat
+Fafnir | E Group | 48 | Last Bible Special | Fafnir
+Peykon | E Group | 51 | Last Bible Special | Baek Yong
+Dagon | E Group | 55 | Last Bible Special | Dagon
+Pixie | F Group | 2 | Last Bible Special | Pixie
+Goblin | F Group | 5 | Last Bible Special | Goblin
+Harpi | F Group | 8 | Last Bible Special | Harpy
+Warcat | F Group | 10 | Last Bible Special | Werecat
+Boggle | F Group | 12 | Last Bible Special | Bogle
+Wardog | F Group | 15 | Last Bible Special | Weredog
+Slyph | F Group | 18 | Last Bible Special | Sylph
+Ocypete | F Group | 21 | Last Bible Special | Ocypete
+Azumi | F Group | 24 | Last Bible Special | Azumi
+Lilim | F Group | 26 | Last Bible Special | Lilim
+Ocus | F Group | 29 | Last Bible Special | Orcus
+Orbas | F Group | 32 | Last Bible Special | Orobas
+Siren | F Group | 34 | Last Bible Special | Siren
+Aello | F Group | 37 | Last Bible Special | Aello
+Vipar | F Group | 39 | Last Bible Special | Vepar
+Kokakucho | F Group | 42 | Last Bible Special | Gu Huo Niao
+Succuby | F Group | 45 | Last Bible Special | Succubus
+Fluerty | F Group | 48 | Last Bible Special | Fleurety
+Vishnu | F Group | 51 | Last Bible Special | Narasimha
+Ganesha | F Group | 55 | Last Bible Special | Ganesha
+Skull | G Group | 1 | Last Bible Special | Chatterskull
+Yokai | G Group | 3 | Last Bible Special | Tsuchigumo
+Watcher | G Group | 7 | Last Bible Special | Watcher (Demon)
+Mouryo | G Group | 10 | Last Bible Special | Mou-Ryo
+Tammuz | G Group | 13 | Last Bible Special | Tammuz
+Ooze | G Group | 16 | Last Bible Special | Black Ooze
+Lemures | G Group | 19 | Last Bible Special | Lemures
+Lore | G Group | 21 | Last Bible Special | Loa
+Apolion | G Group | 24 | Last Bible Special | Apollyon
+Phantom | G Group | 26 | Last Bible Special | Phantom
+Corpse | G Group | 29 | Last Bible Special | Corpses
+Legba | G Group | 31 | Last Bible Special | Legba
+Isola | G Group | 34 | Last Bible Special | Isora
+Chon | G Group | 36 | Last Bible Special | Chon Chon
+Larvae | G Group | 39 | Last Bible Special | Larvae
+Element | G Group | 41 | Last Bible Special | Element
+Legion | G Group | 44 | Last Bible Special | Legion
+Mara | G Group | 46 | Last Bible Special | Mara
+Isamu | G Group | 50 | Last Bible Special | Itzamna
+Kyaku | G Group | 55 | Last Bible Special | Cyak
+Eartheis | H Group | 7 | Last Bible Special | Erthys
+Aeires | H Group | 14 | Last Bible Special | Aeros
+Aquans | H Group | 21 | Last Bible Special | Aquans
+Fleimes | H Group | 28 | Last Bible Special | Flaemis
+Ukobach | H Group | 35 | Last Bible Special | Ukobach
+Golem | H Group | 42 | Last Bible Special | Golem
+Ginn | H Group | 49 | Last Bible Special | Jinn
+Fighter | X Group | 9 | Last Bible Special | Fighter
+Soldier | X Group | 25 | Last Bible Special | Soldier
+Commander | X Group | 30 | Last Bible Special | Commander
+Colonel | X Group | 39 | Last Bible Special | Colonel
+Pirate | X Group | 40 | Last Bible Special | Pirate
+Thief | X Group | 43 | Last Bible Special | Thief
+General | X Group | 45 | Last Bible Special | General
+Marshal | X Group | 50 | Last Bible Special | Marshal
+Jaki | Y Group | 8 | Last Bible Special | Jaki
+Yakudra | Y Group | 11 | Last Bible Special | Yakudra
+Gouou | Y Group | 15 | Last Bible Special | Gouou
+Susatsu | Y Group | 17 | Last Bible Special | Susatsu
+Goki | Y Group | 30 | Last Bible Special | Zenki Goki
+Tenki | Y Group | 30 | Last Bible Special | Tenki
+Sutenki | Y Group | 35 | Last Bible Special | Shuten Doji
+Zenki | Y Group | 37 | Last Bible Special | Zenki Goki
+Gozuki | Y Group | 48 | Last Bible Special | Gozuki
+Mezuki | Y Group | 48 | Last Bible Special | Mezuki
+Shuragi | Y Group | 50 | Last Bible Special | Shuragi
+Asyagi | Y Group | 55 | Last Bible Special | Asyagi
+Raoh | Y Group | 60 | Last Bible Special | Raoh
+Lich | Z Group | 10 | Last Bible Special | Lich
+Goonmey | Z Group | 15 | Last Bible Special | Gnome
+Fachon | Z Group | 20 | Last Bible Special | Fachan
+Boburo | Z Group | 20 | Last Bible Special | Volvo
+Mahakra | Z Group | 24 | Last Bible Special | Mahakala
+Skellet | Z Group | 25 | Last Bible Special | Skeleton
+Culaihn | Z Group | 30 | Last Bible Special | Cu Chulainn
+Anubis | Z Group | 35 | Last Bible Special | Anubis
+Tirbodh | Z Group | 37 | Last Bible Special | Tirbodh
+Donkou | Z Group | 40 | Last Bible Special | Tun Kou
+Mihariban | Z Group | 45 | Last Bible Special | Mihariban
+Bones | Z Group | 45 | Last Bible Special | Bones
+Larsa | Z Group | 45 | Last Bible Special | Larsa
+Chief | Z Group | 50 | Last Bible Special | Chief
+Tamulin | Z Group | 50 | Last Bible Special | Tam Lin
+Gaia | Z Group | 55 | Last Bible Special | Gaia
+Dulahan | Z Group | 55 | Last Bible Special | Dullahan (demon)
+Genbu | Z Group | 60 | Last Bible Special | Genbu
+Suzaku | Z Group | 65 | Last Bible Special | Suzaku
+Eligos | Z Group | 70 | Last Bible Special | Eligor
+Pazuzu | Z Group | 75 | Last Bible Special | Pazuzu
+Zeno | Z Group | 80 | Last Bible Special | Zeus
 Sol Leon | Avatar | 56 | Majin Tensei | Sol Leon
 Barong | Avatar | 51 | Majin Tensei | Barong
 Kirin | Avatar | 43 | Majin Tensei | Kirin

@@ -288,6 +288,56 @@ def parseCompendium():
                 )
 
                 Compendium.append(demon)
+
+    def parseNumberedList(soup, gameName):
+        heading = soup.find(
+            "span",
+            class_="mw-headline",
+            id="List_of_demons"
+        )
+
+        # Messiah Riser capitalizes this differently
+        if heading is None:
+            heading = soup.find(
+                "span",
+                class_="mw-headline",
+                id="List_of_Demons"
+            )
+
+        if heading is None:
+            print("NO DEMON LIST:", gameName)
+            return
+
+        demonList = heading.parent.find_next_sibling("ol")
+
+        if demonList is None:
+            print("NO ORDERED LIST:", gameName)
+            return
+
+        for item in demonList.find_all("li", recursive=False):
+
+            links = item.find_all("a")
+
+            for link in links:
+                givenName = link.get_text(" ", strip=True)
+
+                if not givenName:
+                    continue
+
+                canonicalName = link.get(
+                    "title",
+                    givenName
+                )
+
+                Compendium.append(
+                    Demon_Instance(
+                        givenName,
+                        "Untyped",
+                        1,  # no race data
+                        gameName,  # placeholder level
+                        canonicalName
+                    )
+                )
     def parseSoulHackersBosses():
         bossesHeading = soup.find(
             "span",
@@ -462,6 +512,10 @@ def parseCompendium():
         gameName = gameName.removeprefix("List of ")
         gameName = gameName.removesuffix(" Demons")
         gameName = gameName.removesuffix(" Personas")
+        print(gameName)
+        if gameName == "Devil Children Messiah Riser" or gameName == "Devil Children Fire/Ice Book":
+            parseNumberedList(soup, gameName)
+            continue
         if gameName == "Devil Summoner  Soul Hackers":
             parseSoulHackersBosses()
         if gameName == "Persona Q" :
@@ -803,12 +857,14 @@ def finalizeCompendium(comp):
 
 
 
-    Compendium.sort(
-        key=lambda demon: (
-            demon.game,
-            demon.race
+    def sortCompendium():
+        Compendium.sort(
+            key=lambda demon: (
+                demon.game,
+                demon.race
+            )
         )
-    )
+    sortCompendium()
     return Compendium
 
 Compendium= finalizeCompendium(Compendium)

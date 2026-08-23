@@ -370,6 +370,341 @@ Gnome | Untyped | 1 | Devil Children Messiah Riser | Gnome
 Counting Sheep | Untyped | 1 | Devil Children Messiah Riser | Counting Sheep
 Garm | Untyped | 1 | Devil Children Messiah Riser | Garm
 Paramese | Untyped | 1 | Devil Children Messiah Riser | Paramese
+Nekhbet | Untyped | 1 | Devil Children White Book | Nekhbet
+Tatari Mokke | Untyped | 1 | Devil Children White Book | Tatari Mokke
+Hippou | Untyped | 1 | Devil Children White Book | Hippou
+Deva | Untyped | 1 | Devil Children White Book | Deva
+Bastet | Untyped | 1 | Devil Children White Book | Bastet
+Kotodama | Untyped | 1 | Devil Children White Book | Kotodama
+Unicorn | Untyped | 1 | Devil Children White Book | Unicorn
+Roc | Untyped | 1 | Devil Children White Book | Rukh
+Houou | Untyped | 1 | Devil Children White Book | Feng Huang
+Deva Ou | Untyped | 1 | Devil Children White Book | King Deva
+Komainu | Untyped | 1 | Devil Children White Book | Komainu
+Neko Shogun | Untyped | 1 | Devil Children White Book | Neko Shogun
+Horus | Untyped | 1 | Devil Children White Book | Horus
+Pegasus | Untyped | 1 | Devil Children White Book | Pegasus
+Shiisaa | Untyped | 1 | Devil Children White Book | Shiisaa
+Okitsune | Untyped | 1 | Devil Children White Book | Kitsune
+Suzaku | Untyped | 1 | Devil Children White Book | Suzaku
+Byakko | Untyped | 1 | Devil Children White Book | Byakko
+Yatsufusa | Untyped | 1 | Devil Children White Book | Yatsufusa
+Itzamna | Untyped | 1 | Devil Children White Book | Itzamna
+Quetzalcoatl | Untyped | 1 | Devil Children White Book | Quetzalcoatl
+Barong | Untyped | 1 | Devil Children White Book | Barong
+Garuda | Untyped | 1 | Devil Children White Book | Garuda
+Canhel | Untyped | 1 | Devil Children White Book | Canhel
+Tanuki no Namamono | Untyped | 1 | Devil Children White Book | Tanuki no Namamono
+Genbu | Untyped | 1 | Devil Children White Book | Genbu
+Rangda | Untyped | 1 | Devil Children White Book | Rangda
+Kirin | Untyped | 1 | Devil Children White Book | Kirin
+Seigyuukai | Untyped | 1 | Devil Children White Book | Qing Niuguai
+Hairy Jack | Untyped | 1 | Devil Children White Book | Hairy Jack
+Nekomata | Untyped | 1 | Devil Children White Book | Nekomata
+Amon | Untyped | 1 | Devil Children White Book | Amon
+Shura | Untyped | 1 | Devil Children White Book | Asura
+Anzu | Untyped | 1 | Devil Children White Book | Anzu
+Bahan | Untyped | 1 | Devil Children White Book | Bahan
+Clock Rabbit | Untyped | 1 | Devil Children White Book | Clock Rabbit
+Shura Ou | Untyped | 1 | Devil Children White Book | Asura
+Arachne | Untyped | 1 | Devil Children White Book | Arachne
+Stymphalides | Untyped | 1 | Devil Children White Book | Stymphalides
+Hippogriff | Untyped | 1 | Devil Children White Book | Hippogriff
+Anubis | Untyped | 1 | Devil Children White Book | Anubis
+Isis | Untyped | 1 | Devil Children White Book | Isis
+Bathin | Untyped | 1 | Devil Children White Book | Bathin
+Taksaka | Untyped | 1 | Devil Children White Book | Taksaka
+Nue | Untyped | 1 | Devil Children White Book | Nue
+Azoth | Untyped | 1 | Devil Children White Book | Azoth
+Black Rajah | Untyped | 1 | Devil Children White Book | Black Raja
+Rahab | Untyped | 1 | Devil Children White Book | Rahab
+Titan | Untyped | 1 | Devil Children White Book | Titan
+Mammon | Untyped | 1 | Devil Children White Book | Mammon
+Tsukuyomi | Untyped | 1 | Devil Children White Book | Tsukuyomi
+Susanoo | Untyped | 1 | Devil Children White Book | Susano-o
+Van | Untyped | 1 | Devil Children White Book | Van
+Scathach | Untyped | 1 | Devil Children White Book | Scathach
+Kraken | Untyped | 1 | Devil Children White Book | Kraken
+Van Ou | Untyped | 1 | Devil Children White Book | King Van
+Nisroch | Untyped | 1 | Devil Children White Book | Nisroc
+Watcher | Untyped | 1 | Devil Children White Book | Watcher (Demon)
+Nike | Untyped | 1 | Devil Children White Book | Nike
+Grigori | Untyped | 1 | Devil Children White Book | Grigori
+Zepar | Untyped | 1 | Devil Children White Book | Zepar
+Angel | Untyped | 1 | Devil Children White Book | Angel
+Koakuma | Untyped | 1 | Devil Children White Book | Koakuma
+Skull Crown | Untyped | 1 | Devil Children White Book | Skull Crown
+Prince | Untyped | 1 | Devil Children White Book | Principality
+Raziel | Untyped | 1 | Devil Children White Book | Raziel
+Arche | Untyped | 1 | Devil Children White Book | Arche
+Exousia | Untyped | 1 | Devil Children White Book | Exousia
+Power | Untyped | 1 | Devil Children White Book | Power
+Virtue | Untyped | 1 | Devil Children White Book | Virtue
+Dunamis | Untyped | 1 | Devil Children White Book | Dynamis
+Dominion | Untyped | 1 | Devil Children White Book | Dominion
+Ophanim | Untyped | 1 | Devil Children White Book | Ophanim
+Kuriotes | Untyped | 1 | Devil Children White Book | Kuriotes
+Galgalim | Untyped | 1 | Devil Children White Book | Galgalim
+Sariel | Untyped | 1 | Devil Children White Book | Sariel
+Cherubim | Untyped | 1 | Devil Children White Book | Cherub
+Seraphim | Untyped | 1 | Devil Children White Book | Seraph (demon)
+Merkabah | Untyped | 1 | Devil Children White Book | Merkabah
+Ego | Untyped | 1 | Devil Children White Book | Ego
+Archangel | Untyped | 1 | Devil Children White Book | Archangel
+Satan | Untyped | 1 | Devil Children White Book | Satan
+Gnome | Untyped | 1 | Devil Children White Book | Gnome
+Pixie | Untyped | 1 | Devil Children White Book | Pixie
+Yeti | Untyped | 1 | Devil Children White Book | Yeti
+Humbaba | Untyped | 1 | Devil Children White Book | Humbaba
+Issun-boshi | Untyped | 1 | Devil Children White Book | Issun-boshi
+Rasetsu | Untyped | 1 | Devil Children White Book | Rasetsu
+Itsumade | Untyped | 1 | Devil Children White Book | Itsumade
+Golem | Untyped | 1 | Devil Children White Book | Golem
+Sylph | Untyped | 1 | Devil Children White Book | Sylph
+Rasetsu Ou | Untyped | 1 | Devil Children White Book | King Rasetsu
+Skeleton | Untyped | 1 | Devil Children White Book | Skeleton
+Nitanita | Untyped | 1 | Devil Children White Book | Nitanita
+Pifrus | Untyped | 1 | Devil Children White Book | Pifrus
+Ghoul | Untyped | 1 | Devil Children White Book | Ghoul
+Toushin | Untyped | 1 | Devil Children White Book | Toushin
+Son Goku | Untyped | 1 | Devil Children White Book | Seiten Taisei
+Robot | Untyped | 1 | Devil Children White Book | Robot
+Dwarf | Untyped | 1 | Devil Children White Book | Dwarf
+Mummy | Untyped | 1 | Devil Children White Book | Mummy
+Troll | Untyped | 1 | Devil Children White Book | Troll
+Boogeyman | Untyped | 1 | Devil Children White Book | Boogeyman
+Yamanba | Untyped | 1 | Devil Children White Book | Yamanba
+Oni | Untyped | 1 | Devil Children White Book | Oni
+Android | Untyped | 1 | Devil Children White Book | Android
+Deebiikun | Untyped | 1 | Devil Children White Book | DB-kun
+Hecatoncheir | Untyped | 1 | Devil Children White Book | Hecatoncheires
+Girimehkala | Untyped | 1 | Devil Children White Book | Girimekhala
+Caladcholg | Untyped | 1 | Devil Children White Book | Caladbolg
+Counting Sheep | Untyped | 1 | Devil Children White Book | Counting Sheep
+Vetala | Untyped | 1 | Devil Children White Book | Vetala
+Cait Sith | Untyped | 1 | Devil Children White Book | Cait Sith
+Sandman | Untyped | 1 | Devil Children White Book | Sandman
+Undine | Untyped | 1 | Devil Children White Book | Undine
+Makura-gaeshi | Untyped | 1 | Devil Children White Book | Makura-gaeshi
+Onibi | Untyped | 1 | Devil Children White Book | Onibi
+Phantom | Untyped | 1 | Devil Children White Book | Phantom
+Aka Manto | Untyped | 1 | Devil Children White Book | Red Cloak
+Vampire | Untyped | 1 | Devil Children White Book | Vampire
+Melissa | Untyped | 1 | Devil Children White Book | Melissa
+Incubus | Untyped | 1 | Devil Children White Book | Incubus
+Baku | Untyped | 1 | Devil Children White Book | Baku
+Succubus | Untyped | 1 | Devil Children White Book | Succubus
+Banshee | Untyped | 1 | Devil Children White Book | Banshee
+Quicksilver | Untyped | 1 | Devil Children White Book | Quicksilver
+Persona | Untyped | 1 | Devil Children White Book | Persona (demon)
+Legion | Untyped | 1 | Devil Children White Book | Legion
+Ifrit | Untyped | 1 | Devil Children White Book | Ifrit
+Mokoi | Untyped | 1 | Devil Children White Book | Mokoi
+Yatagarasu | Untyped | 1 | Devil Children White Book | Yatagarasu
+Dullahan | Untyped | 1 | Devil Children White Book | Dullahan (demon)
+Doppelganger | Untyped | 1 | Devil Children White Book | Doppelgänger
+Gingitsune | Untyped | 1 | Devil Children White Book | Gingitsune
+Nightmare | Untyped | 1 | Devil Children White Book | Nightmare
+Kyuuki | Untyped | 1 | Devil Children White Book | Kyuki
+Namtar | Untyped | 1 | Devil Children White Book | Namtar
+Ankou | Untyped | 1 | Devil Children White Book | Ankou
+Nessie | Untyped | 1 | Devil Children White Book | Nessie
+Sand Dragon | Untyped | 1 | Devil Children White Book | Sand Dragon
+Mizuchi | Untyped | 1 | Devil Children White Book | Mizuchi
+Makara | Untyped | 1 | Devil Children White Book | Makara
+Salamander | Untyped | 1 | Devil Children White Book | Salamander
+Otohime | Untyped | 1 | Devil Children White Book | Otohime
+Basilisk | Untyped | 1 | Devil Children White Book | Basilisk
+Fafnir | Untyped | 1 | Devil Children White Book | Fafnir
+Cockatrice | Untyped | 1 | Devil Children White Book | Cockatrice
+Orochi | Untyped | 1 | Devil Children White Book | Yamata-no-Orochi
+Dahaka | Untyped | 1 | Devil Children White Book | Dahaka
+Crom Cruach | Untyped | 1 | Devil Children White Book | Crom Cruach
+Cuelebre | Untyped | 1 | Devil Children White Book | Culebre
+Seiryuu | Untyped | 1 | Devil Children White Book | Seiryu
+Wyvern | Untyped | 1 | Devil Children White Book | Wyvern
+Yamata no Orochi | Untyped | 1 | Devil Children White Book | Yamata-no-Orochi
+Naga | Untyped | 1 | Devil Children White Book | Naga
+Vasuki | Untyped | 1 | Devil Children White Book | Vasuki
+Suvaabuniru | Untyped | 1 | Devil Children White Book | Svafnir
+Ouryuu | Untyped | 1 | Devil Children White Book | Yinglong
+Sekiryuu | Untyped | 1 | Devil Children White Book | Hong Long
+Yurlungur | Untyped | 1 | Devil Children White Book | Yurlungur
+Ouroboros | Untyped | 1 | Devil Children White Book | Ouroboros
+Ananta | Untyped | 1 | Devil Children White Book | Ananta
+Kokuryuu | Untyped | 1 | Devil Children White Book | Rox
+Vaget | Untyped | 1 | Devil Children White Book | Wadjet
+Hakuryuu | Untyped | 1 | Devil Children White Book | Bai Long
+Petit Frost | Untyped | 1 | Devil Children White Book | Petit Frost
+Ratatosk | Untyped | 1 | Devil Children White Book | Ratatoskr
+Garm | Untyped | 1 | Devil Children White Book | Garm
+Yukinko | Untyped | 1 | Devil Children White Book | Yukinko
+Jack Frost | Untyped | 1 | Devil Children White Book | Jack Frost
+Strawberry Frost | Untyped | 1 | Devil Children White Book | Strawberry Frost
+Jack Lantern | Untyped | 1 | Devil Children White Book | Jack-o'-Lantern
+Kamaitachi | Untyped | 1 | Devil Children White Book | Razor
+Yuki-onna | Untyped | 1 | Devil Children White Book | Yuki-onna
+Kudagitsune | Untyped | 1 | Devil Children White Book | Kuda
+Orthrus | Untyped | 1 | Devil Children White Book | Orthrus (demon)
+Neko no Namamono | Untyped | 1 | Devil Children White Book | Neko no Namamono
+Frost Ace | Untyped | 1 | Devil Children White Book | Frost Ace
+Myrmecoleon | Untyped | 1 | Devil Children White Book | Myrmecoleon
+Titania | Untyped | 1 | Devil Children White Book | Titania
+Kyuubi no Kitsune | Untyped | 1 | Devil Children White Book | Kitsune
+Zaccoum | Untyped | 1 | Devil Children White Book | Zaccoum
+King Frost | Untyped | 1 | Devil Children White Book | King Frost
+Harpy | Untyped | 1 | Devil Children White Book | Harpy
+Cu Sith | Untyped | 1 | Devil Children White Book | Cu Sith
+Mandrake | Untyped | 1 | Devil Children White Book | Mandrake
+Kijimuna | Untyped | 1 | Devil Children White Book | Kijimuna
+Konton | Untyped | 1 | Devil Children White Book | Hundun
+Taowu | Untyped | 1 | Devil Children White Book | Taown
+Siren | Untyped | 1 | Devil Children White Book | Siren
+Dakki | Untyped | 1 | Devil Children White Book | Daji
+Tengu | Untyped | 1 | Devil Children White Book | Tengu
+Manticore | Untyped | 1 | Devil Children White Book | Manticore
+Paramecium | Untyped | 1 | Devil Children White Book | Paramese
+Mecchii | Untyped | 1 | Devil Children White Book | Mechi
+Koropokkuru | Untyped | 1 | Devil Children White Book | Koropokkuru
+Shock | Untyped | 1 | Devil Children White Book | Shock (demon)
+Guriguri | Untyped | 1 | Devil Children White Book | Gris gris
+Agathion | Untyped | 1 | Devil Children White Book | Agathion
+Waira | Untyped | 1 | Devil Children White Book | Waira
+Fairy | Untyped | 1 | Devil Children White Book | Fairy (demon)
+Inaba White Rabbit | Untyped | 1 | Devil Children White Book | Hare of Inaba
+Nacht Kobold | Untyped | 1 | Devil Children White Book | Nacht Kobold
+Nidhoggr | Untyped | 1 | Devil Children White Book | Nidhoggr
+Kappa | Untyped | 1 | Devil Children White Book | Kappa
+Franken | Untyped | 1 | Devil Children White Book | Franken
+Takuhi | Untyped | 1 | Devil Children White Book | Tuofei
+Snappy | Untyped | 1 | Devil Children White Book | Snappy
+Airavata | Untyped | 1 | Devil Children White Book | Airavata
+Kaichi | Untyped | 1 | Devil Children White Book | Xiezhai
+Lynx | Untyped | 1 | Devil Children White Book | Lynx
+Scylla | Untyped | 1 | Devil Children White Book | Scylla
+Ganesha | Untyped | 1 | Devil Children White Book | Ganesha
+Simurgh | Untyped | 1 | Devil Children White Book | Simurgh
+Charon | Untyped | 1 | Devil Children White Book | Charon
+Hellhound | Untyped | 1 | Devil Children White Book | Hellhound
+Odin | Untyped | 1 | Devil Children White Book | Odin
+Hraesvelgr | Untyped | 1 | Devil Children White Book | Hresvelgr
+Diana | Untyped | 1 | Devil Children White Book | Diana (Devil Children)
+Hel | Untyped | 1 | Devil Children White Book | Hel
+Vibhishana | Untyped | 1 | Devil Children White Book | Vibhishana
+Vritra | Untyped | 1 | Devil Children White Book | Vritra
+Indra | Untyped | 1 | Devil Children White Book | Indra
+Fenrir | Untyped | 1 | Devil Children White Book | Fenrir
+Abaddon | Untyped | 1 | Devil Children White Book | Abaddon
+Paimon | Untyped | 1 | Devil Children White Book | Paimon
+Sphinx | Untyped | 1 | Devil Children White Book | Sphinx
+Asmodeus | Untyped | 1 | Devil Children White Book | Asmodeus
+Demogorgon | Untyped | 1 | Devil Children White Book | Demogorgon
+Death Sphinx | Untyped | 1 | Devil Children White Book | Dephinx
+Belial | Untyped | 1 | Devil Children White Book | Belial
+Hell Sphinx | Untyped | 1 | Devil Children White Book | Helphinx
+Uriel | Untyped | 1 | Devil Children White Book | Uriel
+Raphael | Untyped | 1 | Devil Children White Book | Raphael
+Lucifer | Untyped | 1 | Devil Children White Book | Lucifer
+Azel | Untyped | 1 | Devil Children White Book | Azazel
+Michael | Untyped | 1 | Devil Children White Book | Michael
+Neo Sphinx | Untyped | 1 | Devil Children White Book | Neuphinx
+Hoshigami | Untyped | 1 | Devil Children White Book | Starhair
+Berith | Untyped | 1 | Devil Children White Book | Berith
+Phegor | Untyped | 1 | Devil Children White Book | Belphegor
+Zebul | Untyped | 1 | Devil Children White Book | Beelzebub
+Cerberus | Untyped | 1 | Devil Children White Book | Cerberus
+Death Cerberus | Untyped | 1 | Devil Children White Book | Meta Nex
+Hell Cerberus | Untyped | 1 | Devil Children White Book | Neo Nex
+King Cerberus | Untyped | 1 | Devil Children White Book | King Nex
+Griffon | Untyped | 1 | Devil Children White Book | Gryphon
+Death Griffon | Untyped | 1 | Devil Children White Book | Meta Gef
+Hell Griffon | Untyped | 1 | Devil Children White Book | Neo Gef
+King Griffon | Untyped | 1 | Devil Children White Book | King Gef
+Behemoth | Untyped | 1 | Devil Children White Book | Behemoth
+Leviathan | Untyped | 1 | Devil Children White Book | Leviathan
+Ikkaku Dragon | Untyped | 1 | Devil Children White Book | Ikkaku Dragon
+Gabriel | Untyped | 1 | Devil Children White Book | Gabriel
+Metatron | Untyped | 1 | Devil Children White Book | Metatron
+Chimera | Untyped | 1 | Devil Children White Book | Chimera
+Death Chimera | Untyped | 1 | Devil Children White Book | Meta Kem
+Hell Chimera | Untyped | 1 | Devil Children White Book | Neo Kem
+King Chimera | Untyped | 1 | Devil Children White Book | King Kem
+Phoenix | Untyped | 1 | Devil Children White Book | Phoenix
+Death Phoenix | Untyped | 1 | Devil Children White Book | Denix
+Hell Phoenix | Untyped | 1 | Devil Children White Book | Helnix
+Neo Phoenix | Untyped | 1 | Devil Children White Book | Neonix
+Imp | Untyped | 1 | Devil Children White Book | Imp
+Cupid | Untyped | 1 | Devil Children White Book | Cupid
+Raguel | Untyped | 1 | Devil Children White Book | Raguel
+Nathanael | Untyped | 1 | Devil Children White Book | Nathanael
+Midir | Untyped | 1 | Devil Children White Book | Midir
+Moloch | Untyped | 1 | Devil Children White Book | Moloch
+Seth | Untyped | 1 | Devil Children White Book | Seth (demon)
+Stolas | Untyped | 1 | Devil Children White Book | Stolas
+Kali | Untyped | 1 | Devil Children White Book | Kali
+Stribog | Untyped | 1 | Devil Children White Book | Stribog
+Valkyrie | Untyped | 1 | Devil Children White Book | Valkyrie
+Dian Cecht | Untyped | 1 | Devil Children White Book | Dian Cecht
+Samigina | Untyped | 1 | Devil Children White Book | Gamigin
+Bagu | Untyped | 1 | Devil Children White Book | Bug
+Hag | Untyped | 1 | Devil Children White Book | Hag
+Lindwurm | Untyped | 1 | Devil Children White Book | Lindwurm
+Furfur | Untyped | 1 | Devil Children White Book | Furfur
+Murmur | Untyped | 1 | Devil Children White Book | Murmur
+Marchocias | Untyped | 1 | Devil Children White Book | Marchosias
+Vishnu | Untyped | 1 | Devil Children White Book | Vishnu
+Ra | Untyped | 1 | Devil Children White Book | Amon-Ra
+Buran | Untyped | 1 | Devil Children White Book | Bran
+Jashin | Untyped | 1 | Devil Children White Book | Jashin (demon)
+Melon Frost | Untyped | 1 | Devil Children White Book | Melon Frost
+Lemon Frost | Untyped | 1 | Devil Children White Book | Lemon Frost
+Frost Trio | Untyped | 1 | Devil Children White Book | Frost Trio
+Alice | Untyped | 1 | Devil Children White Book | Alice
+Jin | Untyped | 1 | Devil Children White Book | Jinn
+Tankororin | Untyped | 1 | Devil Children White Book | Tankororin
+Umibozu | Untyped | 1 | Devil Children White Book | Umibozu
+Shiva | Untyped | 1 | Devil Children White Book | Shiva
+Hanuman | Untyped | 1 | Devil Children White Book | Hanuman
+Astaroth | Untyped | 1 | Devil Children White Book | Astaroth
+Arioch | Untyped | 1 | Devil Children White Book | Arioch
+Backbeard | Untyped | 1 | Devil Children White Book | Backbeard
+Oshichi | Untyped | 1 | Devil Children White Book | Oshichi
+Cu Chulainn | Untyped | 1 | Devil Children White Book | Cu Chulainn
+Hiruko | Untyped | 1 | Devil Children White Book | Hiruko
+Tiamat | Untyped | 1 | Devil Children White Book | Tiamat
+Ishtar | Untyped | 1 | Devil Children White Book | Ishtar
+Hades | Untyped | 1 | Devil Children White Book | Hades
+Dagon | Untyped | 1 | Devil Children White Book | Dagon
+Artemis | Untyped | 1 | Devil Children White Book | Artemis
+Talos | Untyped | 1 | Devil Children White Book | Talos
+Homunculus | Untyped | 1 | Devil Children White Book | Homunculus (demon)
+Zashiki-warashi | Untyped | 1 | Devil Children White Book | Elphine
+Gogmagog | Untyped | 1 | Devil Children White Book | Gogmagog
+Kaminari-sama | Untyped | 1 | Devil Children White Book | Kaminari-sama
+Okuninushi | Untyped | 1 | Devil Children White Book | Okuninushi
+Sooma | Untyped | 1 | Devil Children White Book | Zoma (demon)
+Iron Kitsune | Untyped | 1 | Devil Children White Book | Kitsune
+Kyuusupaa | Untyped | 1 | Devil Children White Book | Kyuusupaa
+Kamazaru | Untyped | 1 | Devil Children White Book | Kamazaru
+Heart | Untyped | 1 | Devil Children White Book | Heart
+Indy | Untyped | 1 | Devil Children White Book | Indy
+Sweet | Untyped | 1 | Devil Children White Book | Sweet
+Aquacloud | Untyped | 1 | Devil Children White Book | Aquacloud
+Pluto | Untyped | 1 | Devil Children White Book | Pluto
+Green M | Untyped | 1 | Devil Children White Book | Green M
+Flower Killer | Untyped | 1 | Devil Children White Book | Flower Killer
+Chiruchiru | Untyped | 1 | Devil Children White Book | Chiruchiru
+Viking | Untyped | 1 | Devil Children White Book | Viking
+Kirudante | Untyped | 1 | Devil Children White Book | Kirudante
+Lemonchi | Untyped | 1 | Devil Children White Book | Lemonchi
+Mamedanuki | Untyped | 1 | Devil Children White Book | Mamedanuki
+Kurodanjakku | Untyped | 1 | Devil Children White Book | Kurodanshaku
+Okubyou Tamago | Untyped | 1 | Devil Children White Book | Okubyou Tamago
+Kinoko Houshi | Untyped | 1 | Devil Children White Book | Kinoko Houshi
+Lost | Untyped | 1 | Devil Children White Book | Lost (demon)
+Shadow | Untyped | 1 | Devil Children White Book | Shadow (demon)
+Requiem | Untyped | 1 | Devil Children White Book | Requiem
+Gilgamesh | Untyped | 1 | Devil Children White Book | Gilgamesh
 Erthys | Element Order | 14 | Devil Summoner  Raidou Kuzunoha vs. King Abaddon | Erthys
 Aeros | Element Order | 17 | Devil Summoner  Raidou Kuzunoha vs. King Abaddon | Aeros
 Aquans | Element Order | 19 | Devil Summoner  Raidou Kuzunoha vs. King Abaddon | Aquans
@@ -2614,6 +2949,321 @@ Shuragiシュラギ | Other | 50 | Last Bible II | Shuragiシュラギ
 Zenki | Other | 61 | Last Bible II | Zenki
 Raou | Other | 76 | Last Bible II | Raou
 Gaia | Other | 90 | Last Bible II | Gaia
+Slime | Demig | 1 | Last Bible III | Slime
+Watcher | Demig | 3 | Last Bible III | Watcher (Demon)
+Mou-Ryo | Demig | 5 | Last Bible III | Mou-Ryo
+Blob | Demig | 7 | Last Bible III | Blob
+Phantom | Demig | 10 | Last Bible III | Phantom
+Lemures | Demig | 12 | Last Bible III | Lemures
+Legba | Demig | 14 | Last Bible III | Legba
+Inferno | Demig | 17 | Last Bible III | Inferno (demon)
+Backbeard | Demig | 19 | Last Bible III | Backbeard
+Larvae | Demig | 22 | Last Bible III | Larvae
+Legion | Demig | 25 | Last Bible III | Legion
+Chon Chon | Demig | 28 | Last Bible III | Chon Chon
+Choronzon | Demig | 31 | Last Bible III | Choronzon
+Corpse | Demig | 34 | Last Bible III | Corpse
+Jin | Demig | 38 | Last Bible III | Jin
+Ifrit | Demig | 40 | Last Bible III | Ifrit
+Chulruk | Demig | 42 | Last Bible III | Chulruk
+Loa | Demig | 45 | Last Bible III | Loa
+Tao Tie | Demig | 49 | Last Bible III | Tao Tie
+Abaddon | Demig | 55 | Last Bible III | Abaddon
+Basmu | Dragoon | 1 | Last Bible III | Basmu
+Worm | Dragoon | 3 | Last Bible III | Worm
+Apipe | Dragoon | 5 | Last Bible III | Apipe
+Wyrm | Dragoon | 8 | Last Bible III | Wyrm
+Yurlungur | Dragoon | 11 | Last Bible III | Yurlungur
+Wyvern | Dragoon | 13 | Last Bible III | Wyvern
+Quetzalcoatl | Dragoon | 16 | Last Bible III | Quetzalcoatl
+Balaur | Dragoon | 19 | Last Bible III | Balaur
+Maya | Dragoon | 22 | Last Bible III | Maya
+Ladon | Dragoon | 25 | Last Bible III | Ladon
+Bai Long | Dragoon | 28 | Last Bible III | Bai Long
+Baek Yong | Dragoon | 30 | Last Bible III | Baek Yong
+Vritra | Dragoon | 33 | Last Bible III | Vritra
+Itzamna | Dragoon | 36 | Last Bible III | Itzamna
+Kohryu | Dragoon | 38 | Last Bible III | Kohryu
+Typhon | Dragoon | 41 | Last Bible III | Typhon
+Fafnir | Dragoon | 44 | Last Bible III | Fafnir
+Nidhoggr | Dragoon | 47 | Last Bible III | Nidhoggr
+Tiamat | Dragoon | 51 | Last Bible III | Tiamat
+Ananta | Dragoon | 57 | Last Bible III | Ananta
+Kobold | Gurgan | 2 | Last Bible III | Kobold
+Cait Sith | Gurgan | 4 | Last Bible III | Cait Sith
+Orc | Gurgan | 6 | Last Bible III | Orc
+Fomor | Gurgan | 9 | Last Bible III | Fomor
+Kinnari | Gurgan | 11 | Last Bible III | Kinnari
+Minotaur | Gurgan | 13 | Last Bible III | Minotaur
+Werecat | Gurgan | 16 | Last Bible III | Werecat
+Werewolf | Gurgan | 19 | Last Bible III | Werewolf
+Purski | Gurgan | 21 | Last Bible III | Purski
+Orobas | Gurgan | 24 | Last Bible III | Orobas
+Leonard | Gurgan | 27 | Last Bible III | Leonard
+Senri | Gurgan | 30 | Last Bible III | Senri
+Onkot | Gurgan | 33 | Last Bible III | Onkot
+Ose | Gurgan | 36 | Last Bible III | Ose
+Incubus | Gurgan | 39 | Last Bible III | Incubus
+Purshi | Gurgan | 41 | Last Bible III | Purshi
+Narasimha | Gurgan | 44 | Last Bible III | Narasimha
+Ganesha | Gurgan | 46 | Last Bible III | Ganesha
+Hanuman | Gurgan | 50 | Last Bible III | Hanuman
+Flauros | Gurgan | 55 | Last Bible III | Flauros
+Cancer | Ichthys | 2 | Last Bible III | Cancer
+Lemurian | Ichthys | 4 | Last Bible III | Lemurian
+Heqet | Ichthys | 7 | Last Bible III | Heqet
+Azumi | Ichthys | 9 | Last Bible III | Azumi
+Ketam | Ichthys | 12 | Last Bible III | Ketam
+Kelpie | Ichthys | 14 | Last Bible III | Kelpie
+Taueret | Ichthys | 17 | Last Bible III | Taueret
+Isora | Ichthys | 20 | Last Bible III | Isora
+Rusalka | Ichthys | 23 | Last Bible III | Rusalka
+Vepar | Ichthys | 25 | Last Bible III | Vepar
+Forneus | Ichthys | 27 | Last Bible III | Forneus
+Hydra | Ichthys | 30 | Last Bible III | Hydra
+Ragon | Ichthys | 33 | Last Bible III | Ragon
+Tanki | Ichthys | 35 | Last Bible III | Tanki
+Ulm | Ichthys | 37 | Last Bible III | Ulm
+Serpent | Ichthys | 40 | Last Bible III | Serpent
+Sobek | Ichthys | 43 | Last Bible III | Sobek
+Behemoth | Ichthys | 46 | Last Bible III | Behemoth
+Leviathan | Ichthys | 50 | Last Bible III | Leviathan
+Dagon | Ichthys | 56 | Last Bible III | Dagon
+Erthys | Ilkara | 4 | Last Bible III | Erthys
+Aeros | Ilkara | 6 | Last Bible III | Aeros
+Aquans | Ilkara | 8 | Last Bible III | Aquans
+Flamies | Ilkara | 10 | Last Bible III | Flamies
+Gnome | Ilkara | 14 | Last Bible III | Gnome
+Sylph | Ilkara | 16 | Last Bible III | Sylph
+Undine | Ilkara | 18 | Last Bible III | Undine
+Salamander | Ilkara | 20 | Last Bible III | Salamander
+Valkyrie | Ilkara | 24 | Last Bible III | Valkyrie
+Aerial | Ilkara | 26 | Last Bible III | Aerial
+Sanki | Jami | 1 | Last Bible III | Sanki
+Bicorn | Jami | 3 | Last Bible III | Bicorn
+Cu Sith | Jami | 5 | Last Bible III | Cu Sith
+Calydonian Boar | Jami | 7 | Last Bible III | Calydon
+Fachan | Jami | 10 | Last Bible III | Fachan
+Garm | Jami | 12 | Last Bible III | Garm
+Gamygyn | Jami | 15 | Last Bible III | Gamygyn
+Apis | Jami | 18 | Last Bible III | Apis
+Nue | Jami | 21 | Last Bible III | Nue
+Svadilfari | Jami | 23 | Last Bible III | Svadilfari
+Atsuyu | Jami | 26 | Last Bible III | Atsuyu
+Hargest | Jami | 29 | Last Bible III | Hargest
+Stonka | Jami | 32 | Last Bible III | Stonka
+Tamamo | Jami | 35 | Last Bible III | Tamamo
+Varaha | Jami | 38 | Last Bible III | Varaha
+Nandi | Jami | 41 | Last Bible III | Nandi
+Rakcarango | Jami | 43 | Last Bible III | Rakcarango
+Senko | Jami | 47 | Last Bible III | Senko
+Barong | Jami | 51 | Last Bible III | Barong
+Fenrir | Jami | 57 | Last Bible III | Fenrir
+Hakutaku | Karman | 30 | Last Bible III | Hakutaku
+Yatagarasu | Karman | 33 | Last Bible III | Yatagarasu
+Genbu | Karman | 36 | Last Bible III | Genbu
+Suzaku | Karman | 39 | Last Bible III | Suzaku
+Byakko | Karman | 42 | Last Bible III | Byakko
+Seiryuu | Karman | 45 | Last Bible III | Seiryuu
+Weredog | Karman | 31 | Last Bible III | Weredog
+Satyr | Karman | 35 | Last Bible III | Satyr
+Beowulf | Karman | 38 | Last Bible III | Beowulf
+Baphomet | Karman | 41 | Last Bible III | Baphomet
+Briareus | Karman | 44 | Last Bible III | Briareus
+Ent | Karman | 47 | Last Bible III | Ent
+Seiten Taisei | Karman | 50 | Last Bible III | Seiten Taisei
+Siegfried | Karman | 53 | Last Bible III | Siegfried
+Humbaba | Karman | 55 | Last Bible III | Humbaba
+Tenko | Karman | 58 | Last Bible III | Tenko
+Hippopotamus | Karman | 34 | Last Bible III | Hippopotamus
+Pabilsag | Karman | 40 | Last Bible III | Pabilsag
+Treant | Karman | 34 | Last Bible III | Treant
+Dark Elf | Karman | 39 | Last Bible III | Dark Elf
+Anzu | Karman | 15 | Last Bible III | Anzu
+Bastet | Karman | 30 | Last Bible III | Bastet
+Chimera | Karman | 26 | Last Bible III | Chimera
+Horkos | Karman | 37 | Last Bible III | Horkos
+Rukh | Karman | 28 | Last Bible III | Rukh
+Bufu Dragon | Karman | 18 | Last Bible III | Bufu Dragon
+Borou | Karman | 20 | Last Bible III | Borou
+Karasu Tengu | Karman | 40 | Last Bible III | Karasu Tengu
+Roy | Karman | 25 | Last Bible III | Roy
+Cerberus | Karman | 53 | Last Bible III | Cerberus
+Sol Cat | Karman | 55 | Last Bible III | Sol Cat
+Fey | Karman | 10 | Last Bible III | Fey
+Tenhou Gensui | Karman | 14 | Last Bible III | Tenhou Gensui
+Utgard | Karman | 16 | Last Bible III | Utgard
+Mandrake | Karman | 18 | Last Bible III | Mandrake
+Antares | Karman | 20 | Last Bible III | Antares (demon)
+Hellhound | Karman | 20 | Last Bible III | Hellhound
+Nosferatu | Karman | 23 | Last Bible III | Nosferatu
+Titan | Karman | 24 | Last Bible III | Titan
+Agni | Karman | 25 | Last Bible III | Agni
+Kirin | Karman | 27 | Last Bible III | Kirin
+Kyuuki | Karman | 28 | Last Bible III | Kyuuki
+Nikaron | Karman | 30 | Last Bible III | Nikaron
+Kumbhanda | Karman | 31 | Last Bible III | Kumbhanda
+Death Tail | Karman | 33 | Last Bible III | Death Tail
+Macha | Karman | 34 | Last Bible III | Macha
+Taraka | Karman | 35 | Last Bible III | Taraka
+Zagan | Karman | 36 | Last Bible III | Zagan
+Amon | Karman | 37 | Last Bible III | Amon
+Balrog | Karman | 40 | Last Bible III | Balrog
+Mora | Karman | 43 | Last Bible III | Mora
+Dakini | Karman | 43 | Last Bible III | Dakini
+Gigant | Karman | 45 | Last Bible III | Gigant
+Bander | Karman | 46 | Last Bible III | Bander
+Houou | Karman | 48 | Last Bible III | Houou
+Hinokagutsuchi | Karman | 48 | Last Bible III | Hinokagutsuchi (demon)
+Orthrus | Karman | 50 | Last Bible III | Orthrus (demon)
+North Wind | Karman | 50 | Last Bible III | North Wind
+Mokkurkalfe | Karman | 52 | Last Bible III | Mokkurkalfe
+Fuu-Ki | Karman | 54 | Last Bible III | Fuu-Ki
+Apollyon | Karman | 55 | Last Bible III | Apollyon
+Midgard | Karman | 60 | Last Bible III | Midgard
+Soldier | Knight | 6 | Last Bible III | Soldier
+Fighter | Knight | 6 | Last Bible III | Fighter
+Barbarion 1 | Knight | 15 | Last Bible III | Barbarion 1
+Barbarion 2 | Knight | 16 | Last Bible III | Barbarion 2
+Executor | Knight | 35 | Last Bible III | Executor
+Knight | Knight | 36 | Last Bible III | Knight
+Io | Knight | 33 | Last Bible III | Io
+Ganymede | Knight | 34 | Last Bible III | Ganymede
+General | Knight | 37 | Last Bible III | General
+Brownie | Magi | 1 | Last Bible III | Brownie
+Gaki | Magi | 3 | Last Bible III | Gaki
+Goblin | Magi | 5 | Last Bible III | Goblin
+Knocker | Magi | 7 | Last Bible III | Knocker
+Dwarf | Magi | 9 | Last Bible III | Dwarf
+Pisaca | Magi | 11 | Last Bible III | Pisaca
+Elf | Magi | 13 | Last Bible III | Elf
+Sawo Bhaku | Magi | 15 | Last Bible III | Sawo Bhaku
+Hobgoblin | Magi | 18 | Last Bible III | Hobgoblin
+Troll | Magi | 20 | Last Bible III | Troll
+Bogle | Magi | 23 | Last Bible III | Bogle
+Hakuma-Bhuta | Magi | 26 | Last Bible III | Hakuma-Bhuta
+Bucca-Boo | Magi | 29 | Last Bible III | Bucca-Boo
+Barbegazi | Magi | 32 | Last Bible III | Barbegazi
+Lakhe | Magi | 35 | Last Bible III | Lakhe
+Sanni Yaka | Magi | 38 | Last Bible III | Sanni Yaka
+Yaksa | Magi | 41 | Last Bible III | Yaksa
+Nataku | Magi | 44 | Last Bible III | Nataku
+Rakshasa | Magi | 47 | Last Bible III | Rakshasa
+Vetala | Magi | 52 | Last Bible III | Vetala
+Skeleton | Miral | 20 | Last Bible III | Skeleton
+Bones | Miral | 20 | Last Bible III | Bone Golem
+Kirin Zombie | Miral | 25 | Last Bible III | Kirin
+Kwancha | Miral | 30 | Last Bible III | Kwancha
+Amon Zombie | Miral | 33 | Last Bible III | Amon
+Lich | Miral | 36 | Last Bible III | Lich
+Death Gigant | Miral | 40 | Last Bible III | Death Gigant
+Tezcatlipoca | Miral | 45 | Last Bible III | Tezcatlipoca
+Unicorn | Mute | 7 | Last Bible III | Unicorn
+Alraune | Mute | 9 | Last Bible III | Alraune
+Spartoi | Mute | 11 | Last Bible III | Spartoi
+Orias | Mute | 13 | Last Bible III | Orias
+Kinnara | Mute | 15 | Last Bible III | Kinnara
+Sleipnir | Mute | 17 | Last Bible III | Sleipnir (demon)
+Nebiros | Mute | 19 | Last Bible III | Nebiros
+Audumbla | Mute | 21 | Last Bible III | Audumbla
+Girimehkala | Mute | 23 | Last Bible III | Girimehkala
+Surt | Mute | 25 | Last Bible III | Surt
+Gaap | Mute | 27 | Last Bible III | Gaap
+Raoh | Mute | 29 | Last Bible III | Raoh
+Mushiki | Mute | 31 | Last Bible III | Mushiki
+Haniel | Mute | 33 | Last Bible III | Haniel
+Loki | Mute | 35 | Last Bible III | Loki
+Set | Mute | 38 | Last Bible III | Set
+Dawon | Mute | 40 | Last Bible III | Dawon
+Rangda | Mute | 42 | Last Bible III | Rangda
+Zenon | Mute | 45 | Last Bible III | Zeus
+Krishna | Mute | 45 | Last Bible III | Krishna
+Sasori Otoko | Nereid | 2 | Last Bible III | Sasori Otoko
+Gyuki | Nereid | 4 | Last Bible III | Gyuki
+Lamia | Nereid | 7 | Last Bible III | Lamia
+Tsuchigumo | Nereid | 9 | Last Bible III | Tsuchigumo
+Coatlicue | Nereid | 12 | Last Bible III | Coatlicue
+Selket | Nereid | 14 | Last Bible III | Selket
+Centaur | Nereid | 17 | Last Bible III | Centaur
+Naga | Nereid | 19 | Last Bible III | Naga
+Furiae | Nereid | 22 | Last Bible III | Furiae
+Tammuz | Nereid | 25 | Last Bible III | Tammuz
+Gorgon | Nereid | 28 | Last Bible III | Gorgon
+Ganga | Nereid | 31 | Last Bible III | Ganga
+Medusa | Nereid | 34 | Last Bible III | Medusa (demon)
+Nasu | Nereid | 37 | Last Bible III | Nasu
+Kingu | Nereid | 39 | Last Bible III | Kingu
+Fugi | Nereid | 42 | Last Bible III | Fugi
+Raja Naga | Nereid | 45 | Last Bible III | Raja Naga
+Nuwa | Nereid | 48 | Last Bible III | Nuwa
+Kalki | Nereid | 52 | Last Bible III | Kalki
+Echidna | Nereid | 59 | Last Bible III | Echidna
+Kyme | Parsi | 1 | Last Bible III | Kyme
+Bennu | Parsi | 3 | Last Bible III | Bennu
+Stolas | Parsi | 5 | Last Bible III | Stolas
+Jyukuko | Parsi | 8 | Last Bible III | Jyukuko
+Cockatrice | Parsi | 11 | Last Bible III | Cockatrice
+Badb Catha | Parsi | 14 | Last Bible III | Badb Catha
+Basilisk | Parsi | 17 | Last Bible III | Basilisk
+Sytry | Parsi | 20 | Last Bible III | Sytry
+Jatayu | Parsi | 23 | Last Bible III | Jatayu
+Meshitori | Parsi | 26 | Last Bible III | Meshitori
+Sphinx | Parsi | 29 | Last Bible III | Sphinx
+Focalor | Parsi | 31 | Last Bible III | Focalor
+Horus | Parsi | 34 | Last Bible III | Horus
+Manticore | Parsi | 37 | Last Bible III | Manticore
+Gryphon | Parsi | 40 | Last Bible III | Gryphon
+Marchocias | Parsi | 43 | Last Bible III | Marchocias
+Hresvelgr | Parsi | 43 | Last Bible III | Hresvelgr
+Chimaera | Parsi | 49 | Last Bible III | Chimera
+Cherub | Parsi | 53 | Last Bible III | Cherub
+Garuda | Parsi | 59 | Last Bible III | Garuda
+Pitekanboss | Sarlam | 22 | Last Bible III | Pitekanboss
+Grostar | Sarlam | 31 | Last Bible III | Grostar
+Uriel | Sarlam | 50 | Last Bible III | Uriel
+Gabriel | Sarlam | 53 | Last Bible III | Gabriel
+Raphael | Sarlam | 55 | Last Bible III | Raphael
+Michael | Sarlam | 60 | Last Bible III | Michael
+Pixie | Vanessa | 2 | Last Bible III | Pixie
+Harpy | Vanessa | 4 | Last Bible III | Harpy
+Andras | Vanessa | 6 | Last Bible III | Andras
+Angel | Vanessa | 8 | Last Bible III | Angel
+Gu Huo Niao | Vanessa | 10 | Last Bible III | Gu Huo Niao
+Ocypete | Vanessa | 12 | Last Bible III | Ocypete
+Furiae | Vanessa | 15 | Last Bible III | Furiae
+Lilim | Vanessa | 18 | Last Bible III | Lilim
+Akhkaru | Vanessa | 21 | Last Bible III | Akhkaru
+Power | Vanessa | 24 | Last Bible III | Power
+Aello | Vanessa | 27 | Last Bible III | Aello
+Virtue | Vanessa | 29 | Last Bible III | Virtue
+Gurr | Vanessa | 32 | Last Bible III | Gurr
+Siren | Vanessa | 34 | Last Bible III | Siren
+Mammon | Vanessa | 36 | Last Bible III | Mammon
+Dominion | Vanessa | 39 | Last Bible III | Dominion
+Succubus | Vanessa | 42 | Last Bible III | Succubus
+Throne | Vanessa | 45 | Last Bible III | Throne
+Fleurety | Vanessa | 48 | Last Bible III | Fleurety
+Kazfiel | Vanessa | 54 | Last Bible III | Kazfiel
+Ogre | Zamdes | 3 | Last Bible III | Ogre
+Giant | Zamdes | 8 | Last Bible III | Giant
+Dullahan | Zamdes | 10 | Last Bible III | Dullahan (demon)
+Cyclops | Zamdes | 13 | Last Bible III | Cyclops
+Usas | Zamdes | 16 | Last Bible III | Usas
+Ares | Zamdes | 21 | Last Bible III | Ares
+Skuld | Zamdes | 24 | Last Bible III | Skuld
+Yaksini | Zamdes | 27 | Last Bible III | Yaksini
+Cu Chulainn | Zamdes | 30 | Last Bible III | Cu Chulainn
+Verdandi | Zamdes | 32 | Last Bible III | Verdandi
+Atlas | Zamdes | 35 | Last Bible III | Atlas
+Hecate | Zamdes | 37 | Last Bible III | Hecate
+Odin | Zamdes | 40 | Last Bible III | Odin
+Urd | Zamdes | 43 | Last Bible III | Urd
+Lakshmi | Zamdes | 46 | Last Bible III | Lakshmi
+Mahakala | Zamdes | 49 | Last Bible III | Mahakala
+Vishnu | Zamdes | 53 | Last Bible III | Vishnu
+Kali | Zamdes | 56 | Last Bible III | Kali
+Asura | Zamdes | 58 | Last Bible III | Asura
+Shiva | Zamdes | 60 | Last Bible III | Shiva
 Canine | A Group | 1 | Last Bible Special | Cu Sith
 Sanki | A Group | 3 | Last Bible Special | Sanki
 Kelp | A Group | 7 | Last Bible Special | Cherub

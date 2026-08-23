@@ -432,6 +432,64 @@ def parseCompendium():
                     )
 
             element = element.find_next_sibling()
+
+    def parseLastBibleIII(soup, gameName):
+        for heading in soup.find_all("h2"):
+            headline = heading.find("span", class_="mw-headline")
+
+            if headline is None:
+                continue
+
+            headingText = headline.get_text(" ", strip=True)
+
+            if headingText == "Bosses":
+                break
+
+            if "Species" not in headingText:
+                continue
+
+            race = headingText.split("(", 1)[0].strip()
+            race = race.replace("Species", "").strip()
+
+            demonList = heading.find_next_sibling("ul")
+
+            if demonList is None:
+                continue
+
+            for item in demonList.find_all("li", recursive=False):
+                link = item.find("a")
+
+                if link is not None:
+                    givenName = link.get_text(" ", strip=True)
+                    canonicalName = link.get("title", givenName)
+                else:
+                    # Some entries are redlinks / spans rather than <a>
+                    span = item.find("span", class_="new")
+
+                    if span is None:
+                        continue
+
+                    givenName = span.get_text(" ", strip=True)
+                    canonicalName = givenName
+
+                fullText = item.get_text(" ", strip=True)
+
+                # level is the final token
+                try:
+                    level = int(fullText.rsplit(" ", 1)[-1])
+                except ValueError:
+                    print("BAD LEVEL:", fullText)
+                    continue
+
+                Compendium.append(
+                    Demon_Instance(
+                        givenName,
+                        race,
+                        level,
+                        gameName,
+                        canonicalName
+                    )
+                )
     def parsePersona1Table():
         if "Demons" in file.stem:
             headings = soup.find_all("h3")
@@ -512,8 +570,10 @@ def parseCompendium():
         gameName = gameName.removeprefix("List of ")
         gameName = gameName.removesuffix(" Demons")
         gameName = gameName.removesuffix(" Personas")
-        print(gameName)
-        if gameName == "Devil Children Messiah Riser" or gameName == "Devil Children Fire/Ice Book":
+        if gameName == "Last Bible III":
+            parseLastBibleIII(soup, gameName)
+            continue
+        if gameName == "Devil Children Messiah Riser" or gameName == "Devil Children Fire/Ice Book" or gameName == "Devil Children White Book":
             parseNumberedList(soup, gameName)
             continue
         if gameName == "Devil Summoner  Soul Hackers":
